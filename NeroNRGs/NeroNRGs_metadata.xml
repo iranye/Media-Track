@@ -1,0 +1,1821 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="C:\Media-Tracked\NeroNRGs">
+  <FileItemList>
+    <FileItem name="3rdEyeBlind.nrg">
+      <Size>610192030</Size>
+      <MD5Hash>0x22C90B8E7B327BBB79E73EB27858BFD9</MD5Hash>
+    </FileItem>
+    <FileItem name="ACDC_BackinBlack.nrg">
+      <Size>444516918</Size>
+      <MD5Hash>0xED8C38452F999912F5B925CC2BFB0566</MD5Hash>
+    </FileItem>
+    <FileItem name="ACDC_HighwaytoHell.nrg">
+      <Size>439612998</Size>
+      <MD5Hash>0xB0F27B775F8776DBFA64B2FE19CDA1F9</MD5Hash>
+    </FileItem>
+    <FileItem name="Aerosmith_PermanentVacation.nrg">
+      <Size>547986218</Size>
+      <MD5Hash>0x9939221A97B78C4AAA7CE5122BA5DF49</MD5Hash>
+    </FileItem>
+    <FileItem name="AimeeMann_@#%&amp;-! Smilers.nrg">
+      <Size>485783534</Size>
+      <MD5Hash>0x764ABB7AE53895246E0EDDCEC808247C</MD5Hash>
+    </FileItem>
+    <FileItem name="AimeeMann_BachelorNo2.nrg">
+      <Size>523820114</Size>
+      <MD5Hash>0x16F2C2E5379DFABD4E39B967CD11B591</MD5Hash>
+    </FileItem>
+    <FileItem name="AlanisMorrisette_Pill.nrg">
+      <Size>609208836</Size>
+      <MD5Hash>0x3D03C0E9D83218C3D14D07BEDB6F7521</MD5Hash>
+    </FileItem>
+    <FileItem name="AlanParsonsProject_Bestof.nrg">
+      <Size>523802954</Size>
+      <MD5Hash>0x6FA95E93217C39BBE3E41F2441A9876B</MD5Hash>
+    </FileItem>
+    <FileItem name="AlDiMeolaAxe.nrg">
+      <Size>703213572</Size>
+      <MD5Hash>0x066B678179280D3E50E9ED785BD03B01</MD5Hash>
+    </FileItem>
+    <FileItem name="AliceInChains_AliceInChains.nrg">
+      <Size>687208154</Size>
+      <MD5Hash>0xEBF3192706DACA5A42D37C917F7DCDBC</MD5Hash>
+    </FileItem>
+    <FileItem name="AliceInChains_Dirt.nrg">
+      <Size>609827412</Size>
+      <MD5Hash>0x0B4B8BE6370974234A0AB10F0B5C5DD7</MD5Hash>
+    </FileItem>
+    <FileItem name="AllmanBrothers_DecadeofHits.nrg">
+      <Size>803408946</Size>
+      <MD5Hash>0x1DE7486C5B9F1D10C8DC842EACE0D7B2</MD5Hash>
+    </FileItem>
+    <FileItem name="ArtOfNoise_Whos.nrg">
+      <Size>436689404</Size>
+      <MD5Hash>0xD015B6F97A332DA003F69FA22DE92070</MD5Hash>
+    </FileItem>
+    <FileItem name="Audioslave.nrg">
+      <Size>693064750</Size>
+      <MD5Hash>0xBB012E2536AD66033C6F6718933E9967</MD5Hash>
+    </FileItem>
+    <FileItem name="AvrilLavigne_LetGo.nrg">
+      <Size>699136432</Size>
+      <MD5Hash>0x3BCD276375496A9C72C2EB1387EB2F74</MD5Hash>
+    </FileItem>
+    <FileItem name="AwolNation_MegalithicSymphony.nrg">
+      <Size>559692894</Size>
+      <MD5Hash>0xC30E28D2FF783DB23204666FB3452AE5</MD5Hash>
+    </FileItem>
+    <FileItem name="B52s_Cosmic.nrg">
+      <Size>500929638</Size>
+      <MD5Hash>0xBD5E81B8F177D7AE2DCA9A0D2C0E2AB1</MD5Hash>
+    </FileItem>
+    <FileItem name="Bach.nrg">
+      <Size>465238874</Size>
+      <MD5Hash>0x6F7381F7E1014A909A89A716DB0B5202</MD5Hash>
+    </FileItem>
+    <FileItem name="BBKing_80.nrg">
+      <Size>582212522</Size>
+      <MD5Hash>0x05BC19917E49958657647958F411C9FD</MD5Hash>
+    </FileItem>
+    <FileItem name="BeastieBoys_License.nrg">
+      <Size>471605076</Size>
+      <MD5Hash>0x7E65119A312225EEAB571F9BBD5E304D</MD5Hash>
+    </FileItem>
+    <FileItem name="Beatles_Abbey.nrg">
+      <Size>502117804</Size>
+      <MD5Hash>0x3BD4DC20904637D6A81F41896A976CA0</MD5Hash>
+    </FileItem>
+    <FileItem name="Beatles_MysteryTour.nrg">
+      <Size>390251632</Size>
+      <MD5Hash>0x13E9AA7499DE90BC44126CF917BBA24E</MD5Hash>
+    </FileItem>
+    <FileItem name="Beatles_PastMasters1.nrg">
+      <Size>491133964</Size>
+      <MD5Hash>0xDE014A533D2DE488FBE4F8C66B5FB105</MD5Hash>
+    </FileItem>
+    <FileItem name="Beatles_PastMasters2.nrg">
+      <Size>540391784</Size>
+      <MD5Hash>0x6C6458C44D26C6BD2FC137CADD6779DB</MD5Hash>
+    </FileItem>
+    <FileItem name="Beatles_Revolver.nrg">
+      <Size>370734910</Size>
+      <MD5Hash>0x2F5B3B02202C0114C7C4E4EF441B743C</MD5Hash>
+    </FileItem>
+    <FileItem name="Beatles_Rubbersoul.nrg">
+      <Size>379350286</Size>
+      <MD5Hash>0x7D4333181D0E5FAAB291F0397BEA40D5</MD5Hash>
+    </FileItem>
+    <FileItem name="Beatles_SgtPepper.nrg">
+      <Size>422109588</Size>
+      <MD5Hash>0x879E41B8C84A3AA9C4BCDDA01434D7CB</MD5Hash>
+    </FileItem>
+    <FileItem name="Beatles_White1.nrg">
+      <Size>491133964</Size>
+      <MD5Hash>0xC8FBE94F67FF880D48EDD2D3A7D53E07</MD5Hash>
+    </FileItem>
+    <FileItem name="Beatles_White2.nrg">
+      <Size>500341812</Size>
+      <MD5Hash>0x813E1A71B9E3513604614E955A86E00F</MD5Hash>
+    </FileItem>
+    <FileItem name="Beck_MellowGold.nrg">
+      <Size>504368436</Size>
+      <MD5Hash>0x43F07487121EDB9E6A92A45CA0883F72</MD5Hash>
+    </FileItem>
+    <FileItem name="Beck_Odelay.nrg">
+      <Size>574262820</Size>
+      <MD5Hash>0xE6EF3AD1092B2FED7FE37E84020E6A32</MD5Hash>
+    </FileItem>
+    <FileItem name="Belly_Star.nrg">
+      <Size>540043688</Size>
+      <MD5Hash>0x15EEFF335AD950F3DE311609B503D41A</MD5Hash>
+    </FileItem>
+    <FileItem name="BepkaZerduchka.nrg">
+      <Size>830781870</Size>
+      <MD5Hash>0x624A1B34EA8499DF453BB81B5CB5F27A</MD5Hash>
+    </FileItem>
+    <FileItem name="BeringStraitBeringStrait.nrg">
+      <Size>712829430</Size>
+      <MD5Hash>0xBAD1CB43212FB5A23DC4F0ABA7C84B6D</MD5Hash>
+    </FileItem>
+    <FileItem name="BillyIdol_VitalIdol.nrg">
+      <Size>518698882</Size>
+      <MD5Hash>0xEFE864A0EE201C6EFD78ED4848E68793</MD5Hash>
+    </FileItem>
+    <FileItem name="BillyJoel1.nrg">
+      <Size>565574416</Size>
+      <MD5Hash>0x1C7EA9380D472797C026679ED30A6EDC</MD5Hash>
+    </FileItem>
+    <FileItem name="BillyJoel2.nrg">
+      <Size>587154190</Size>
+      <MD5Hash>0x89AE306E296D7AC6642EF6B785419D45</MD5Hash>
+    </FileItem>
+    <FileItem name="Bjork_Post.nrg">
+      <Size>489945856</Size>
+      <MD5Hash>0x5F9A6DAC7CA50E33DBC1A4C0382E8A23</MD5Hash>
+    </FileItem>
+    <FileItem name="BlackCrows_Moneymaker.nrg">
+      <Size>478221136</Size>
+      <MD5Hash>0x27241CDA4DDC863DD059FA0C5978DA63</MD5Hash>
+    </FileItem>
+    <FileItem name="BlackKeys_AttackAndRelease.nrg">
+      <Size>415649310</Size>
+      <MD5Hash>0xD391FFE44027AF2867C7072F008EAA1B</MD5Hash>
+    </FileItem>
+    <FileItem name="BlackKeys_ElCamino.nrg">
+      <Size>407052624</Size>
+      <MD5Hash>0x2819B9D7D80984C286B158E1C4805798</MD5Hash>
+    </FileItem>
+    <FileItem name="BlackSabbath_Paranoid.nrg">
+      <Size>446885266</Size>
+      <MD5Hash>0x307CDC10E244EE57363BEFEDC472A949</MD5Hash>
+    </FileItem>
+    <FileItem name="BobMarley_Legend.nrg">
+      <Size>659882734</Size>
+      <MD5Hash>0x3F5557E6F8932E89DADF9D400D2CC080</MD5Hash>
+    </FileItem>
+    <FileItem name="BobSegar_GrtstHits.nrg">
+      <Size>663669454</Size>
+      <MD5Hash>0x3A9BB2211ECA4E3B049634562319C90F</MD5Hash>
+    </FileItem>
+    <FileItem name="BonJovi_Crossroads.nrg">
+      <Size>764459710</Size>
+      <MD5Hash>0x16556519719361BB15756CE92A8FE041</MD5Hash>
+    </FileItem>
+    <FileItem name="BordenaveFamilyMovies_1948.nrg">
+      <Size>3614867702</Size>
+      <MD5Hash>0x0E81E2AE0880CB70DD361735C9CB4C48</MD5Hash>
+    </FileItem>
+    <FileItem name="Breeders_LastSplash.nrg">
+      <Size>421091288</Size>
+      <MD5Hash>0x316C732EC206D8BFB6BDD238F1587619</MD5Hash>
+    </FileItem>
+    <FileItem name="BuddyGuy_BringEmIn.nrg">
+      <Size>667152708</Size>
+      <MD5Hash>0x4E43DF28F563549D1CE7F39583D03AC6</MD5Hash>
+    </FileItem>
+    <FileItem name="ButtholeSrf_ElectricLarryLand.nrg">
+      <Size>544183092</Size>
+      <MD5Hash>0xB139D0403EB75B436E06B30E4BC4030F</MD5Hash>
+    </FileItem>
+    <FileItem name="ButtholeSurfersPioughd.nrg">
+      <Size>546800868</Size>
+      <MD5Hash>0x7623EC14767A0A47B40EE4951923FFA5</MD5Hash>
+    </FileItem>
+    <FileItem name="ButtholeSurfersPsychic.nrg">
+      <Size>371581456</Size>
+      <MD5Hash>0x0122DF64A0FB97996A192145B9D034E7</MD5Hash>
+    </FileItem>
+    <FileItem name="ButtholeSurfers_BrownReasonsToLive.nrg">
+      <Size>576091738</Size>
+      <MD5Hash>0x5C73DE41CB7C4FA3A2174FB828D8CBF1</MD5Hash>
+    </FileItem>
+    <FileItem name="ButtholeSurfers_WeirdRevolution(FC).nrg">
+      <Size>683347084</Size>
+      <MD5Hash>0x18AC7F5E4DBA9F185035C6D5BE963788</MD5Hash>
+    </FileItem>
+    <FileItem name="CapitalCities_TidalWaveofMystery.nrg">
+      <Size>456846928</Size>
+      <MD5Hash>0x0E3DEBEF2840B8AD2252D2ECCF52BB13</MD5Hash>
+    </FileItem>
+    <FileItem name="Cars_CandyO.nrg">
+      <Size>386886414</Size>
+      <MD5Hash>0x38D5A43B07070D83A09D84EA8C774B27</MD5Hash>
+    </FileItem>
+    <FileItem name="Cars_Cars.nrg">
+      <Size>372816140</Size>
+      <MD5Hash>0x6C4CD109F1F6D920263D1B88EAA54A1E</MD5Hash>
+    </FileItem>
+    <FileItem name="Cars_GrtsHits.nrg">
+      <Size>532380756</Size>
+      <MD5Hash>0x71A08BEAE93D2477D3AA774BF05E6FD3</MD5Hash>
+    </FileItem>
+    <FileItem name="CCR_GrtstHits.nrg">
+      <Size>722018218</Size>
+      <MD5Hash>0x5128A9BDA1B10772E1DBC96A60778986</MD5Hash>
+    </FileItem>
+    <FileItem name="CheapTrick_GrtstHits.nrg">
+      <Size>556954452</Size>
+      <MD5Hash>0x96EFA185903D51277283280BCA73A621</MD5Hash>
+    </FileItem>
+    <FileItem name="Chevelle_WonderWhatsnext.nrg">
+      <Size>656177356</Size>
+      <MD5Hash>0x51817DA0857AC2F29A73FD0205F02400</MD5Hash>
+    </FileItem>
+    <FileItem name="CiboMatto_StereoTypeA.nrg">
+      <Size>605523310</Size>
+      <MD5Hash>0x927A3ECC419774A2B90E5805A4823C76</MD5Hash>
+    </FileItem>
+    <FileItem name="Coldplay_Rush.nrg">
+      <Size>574422640</Size>
+      <MD5Hash>0x3E86F2A0B5AC4A319AB679C9408BC103</MD5Hash>
+    </FileItem>
+    <FileItem name="ColePorter_BestOf.nrg">
+      <Size>709000906</Size>
+      <MD5Hash>0x322A9B715A5EB26ADCFC3E95F27E33F4</MD5Hash>
+    </FileItem>
+    <FileItem name="CollectiveSoul_CollectiveSoul.nrg">
+      <Size>490162298</Size>
+      <MD5Hash>0x68615CB890C39309AB676D27CA2F7B70</MD5Hash>
+    </FileItem>
+    <FileItem name="ConeadsSountrack.nrg">
+      <Size>460451776</Size>
+      <MD5Hash>0xA1BB54FE25D94FB41455FBD571B11041</MD5Hash>
+    </FileItem>
+    <FileItem name="CountingCrows.nrg">
+      <Size>547880320</Size>
+      <MD5Hash>0x35FF23965D0F03030CFE92890FB44F4D</MD5Hash>
+    </FileItem>
+    <FileItem name="Cranberries_EveryoneElseIsDoingIt.nrg">
+      <Size>434739770</Size>
+      <MD5Hash>0xAC7BF9099D469D30BF77F03AFCBE3684</MD5Hash>
+    </FileItem>
+    <FileItem name="Cranberries_FaithfulDeparted.nrg">
+      <Size>555065796</Size>
+      <MD5Hash>0x284F7888DEBD86F148E57CFE0054449F</MD5Hash>
+    </FileItem>
+    <FileItem name="Cranberries_NoNeedToArgue.nrg">
+      <Size>536080452</Size>
+      <MD5Hash>0xE0FBAE7FCBFACDE338387FCF78B500B4</MD5Hash>
+    </FileItem>
+    <FileItem name="CrashTestDummies_Godshuffledhisfeet.nrg">
+      <Size>474923690</Size>
+      <MD5Hash>0xCD2B58BC3C1FDFC082561B8D1F9514E8</MD5Hash>
+    </FileItem>
+    <FileItem name="CrashTestDummies_Godshuffledhisfeetnrg">
+      <Size>474923690</Size>
+      <MD5Hash>0xCD2B58BC3C1FDFC082561B8D1F9514E8</MD5Hash>
+    </FileItem>
+    <FileItem name="Cream_StrangeBrew.nrg">
+      <Size>464767754</Size>
+      <MD5Hash>0x9C01CA5A1E5A3F1FDAFA352F0C416109</MD5Hash>
+    </FileItem>
+    <FileItem name="Creed_MyOwnPrison.nrg">
+      <Size>520820502</Size>
+      <MD5Hash>0x338385F0086485508D9A828EF67778A4</MD5Hash>
+    </FileItem>
+    <FileItem name="Crucifux.nrg">
+      <Size>742097764</Size>
+      <MD5Hash>0x56D7932AEC37AFDBC1BE2FD1B4739CE4</MD5Hash>
+    </FileItem>
+    <FileItem name="CrystalMethod_DividedByNight.nrg">
+      <Size>708445414</Size>
+      <MD5Hash>0xAE65DC2DC772EDB5952B775A201D3F05</MD5Hash>
+    </FileItem>
+    <FileItem name="CrystalMethod_London.nrg">
+      <Size>577939054</Size>
+      <MD5Hash>0xFFFF2516639D4D5FC47834FBDB5D32F5</MD5Hash>
+    </FileItem>
+    <FileItem name="CrystalMethod_Tweekend.nrg">
+      <Size>674330896</Size>
+      <MD5Hash>0xBC6A8035B9419CEF6C5B4B4304053F1B</MD5Hash>
+    </FileItem>
+    <FileItem name="CrystalMethod_Vegas(FC).nrg">
+      <Size>650606564</Size>
+      <MD5Hash>0xD8AC25B18967FA48F68E930BF55EE720</MD5Hash>
+    </FileItem>
+    <FileItem name="CultureClub_BestOf.nrg">
+      <Size>796063824</Size>
+      <MD5Hash>0xEE22CD8DA45E0362AA4C4DE068C63250</MD5Hash>
+    </FileItem>
+    <FileItem name="Cure_MoodSwings.nrg">
+      <Size>653214814</Size>
+      <MD5Hash>0x87E6B5081B1D0C622C12AAF75F5C8F45</MD5Hash>
+    </FileItem>
+    <FileItem name="Cure_StaringAtSea.nrg">
+      <Size>656272588</Size>
+      <MD5Hash>0x1609CD7256F5A4DE6B52F14969C74DFD</MD5Hash>
+    </FileItem>
+    <FileItem name="CypressHill_BlackSunday.nrg">
+      <Size>462874510</Size>
+      <MD5Hash>0xD1BA3C536A9CA2FD65A0F07D6C476BDC</MD5Hash>
+    </FileItem>
+    <FileItem name="DaveMatthewsBand_Table.nrg">
+      <Size>669868134</Size>
+      <MD5Hash>0x47F54B49F09A2E7EE2C850E4C6580EC1</MD5Hash>
+    </FileItem>
+    <FileItem name="DaveMatthews_Crash.nrg">
+      <Size>729266618</Size>
+      <MD5Hash>0x2018E8D52C70BD59B0AAC499DCA535C9</MD5Hash>
+    </FileItem>
+    <FileItem name="DaveMatthews_Table.nrg">
+      <Size>669868134</Size>
+      <MD5Hash>0x06516690507A32E2639F2657696C0645</MD5Hash>
+    </FileItem>
+    <FileItem name="DavidBowie_Blackstar.nrg">
+      <Size>437359608</Size>
+      <MD5Hash>0x380B5B312108AD24104AA608B66CE4EA</MD5Hash>
+    </FileItem>
+    <FileItem name="DavidBowie_Changes.nrg">
+      <Size>789955622</Size>
+      <MD5Hash>0x0AE67F8FD9DC35E95DEE5A3CD4F5946B</MD5Hash>
+    </FileItem>
+    <FileItem name="DavidGray_WhiteLadder.nrg">
+      <Size>575203504</Size>
+      <MD5Hash>0x17F3201B52BB8889883D413E503C6605</MD5Hash>
+    </FileItem>
+    <FileItem name="DaysofTheNew.nrg">
+      <Size>763342394</Size>
+      <MD5Hash>0x5D3C7F67B480A913C77A0D80F19DFC82</MD5Hash>
+    </FileItem>
+    <FileItem name="DeathcabforCutiePlans.nrg">
+      <Size>470382810</Size>
+      <MD5Hash>0xFED2BCA83B84153D80E8B9667AC3D63B</MD5Hash>
+    </FileItem>
+    <FileItem name="DeathcabForCutie_NarrowStairs.nrg">
+      <Size>622829384</Size>
+      <MD5Hash>0x1E2C523DDAA6FAFC1F26BB0848EE3569</MD5Hash>
+    </FileItem>
+    <FileItem name="DeathCabForCutie_NumbersCodes.nrg">
+      <Size>478457154</Size>
+      <MD5Hash>0xF6372085BDF88F86726EAAF0A0E7BE25</MD5Hash>
+    </FileItem>
+    <FileItem name="DeeDeeBridgewater_KeepingTradition.nrg">
+      <Size>600889754</Size>
+      <MD5Hash>0xE1A807E3C91313914C4312054FDFA61A</MD5Hash>
+    </FileItem>
+    <FileItem name="DeepPurple_VeryBestOf.nrg">
+      <Size>838188604</Size>
+      <MD5Hash>0x5BF965629FB02F46DF919A308E37494E</MD5Hash>
+    </FileItem>
+    <FileItem name="DefLeppard_HighandDry.nrg">
+      <Size>447520422</Size>
+      <MD5Hash>0x7525616928D59A5350DB126D9160A57D</MD5Hash>
+    </FileItem>
+    <FileItem name="DefLeppard_Pyromania.nrg">
+      <Size>478750278</Size>
+      <MD5Hash>0x1CEE534DE083226C6E093E6A5E37F467</MD5Hash>
+    </FileItem>
+    <FileItem name="DemonNightSoundtrack.nrg">
+      <Size>435078342</Size>
+      <MD5Hash>0xB6D7A5BBBC801E3E680F28697A2B7919</MD5Hash>
+    </FileItem>
+    <FileItem name="DePecheMode_Ultra.nrg">
+      <Size>637364570</Size>
+      <MD5Hash>0x37AE2B3C8FB3D4AFB8562242044FD321</MD5Hash>
+    </FileItem>
+    <FileItem name="DepecheMode_Violator.nrg">
+      <Size>498307100</Size>
+      <MD5Hash>0x45C949BF3FA553E438624694A38D9A06</MD5Hash>
+    </FileItem>
+    <FileItem name="Descendants_Soundtrack.nrg">
+      <Size>696946798</Size>
+      <MD5Hash>0x23076FCE37B763CE0F816F61012F9AA3</MD5Hash>
+    </FileItem>
+    <FileItem name="DevoGrtstHits.nrg">
+      <Size>608621010</Size>
+      <MD5Hash>0x2277CF8EB7DE6895DB67C70D23FCE703</MD5Hash>
+    </FileItem>
+    <FileItem name="DireStraits_MoneyforNothing.nrg">
+      <Size>703107674</Size>
+      <MD5Hash>0x9D12A8C7688A544CBD1CFA7C4C37DC8C</MD5Hash>
+    </FileItem>
+    <FileItem name="Disturbed_Believe.nrg">
+      <Size>612664550</Size>
+      <MD5Hash>0xCD46FF43C8EE4AE4272F70B0F0D55921</MD5Hash>
+    </FileItem>
+    <FileItem name="DJC_Rarities.nrg">
+      <Size>533728510</Size>
+      <MD5Hash>0x14D15623C3885A79D294488BCFF33E9B</MD5Hash>
+    </FileItem>
+    <FileItem name="DonHenley_EndofInnocence.nrg">
+      <Size>565644918</Size>
+      <MD5Hash>0x5A88664D1BFDDB2446A14E7A22E5D7FC</MD5Hash>
+    </FileItem>
+    <FileItem name="DoniieIris_BestOf.nrg">
+      <Size>475916234</Size>
+      <MD5Hash>0x0A56BBC4695C61658B690242C467F14C</MD5Hash>
+    </FileItem>
+    <FileItem name="DoobieBrothers_Bestof.nrg">
+      <Size>478308160</Size>
+      <MD5Hash>0xBAB7A7A705C690B14613210F0058CCB6</MD5Hash>
+    </FileItem>
+    <FileItem name="Doors_BestOf1.nrg">
+      <Size>491180656</Size>
+      <MD5Hash>0xFC225D9380D96F4513CFD6E90110DB16</MD5Hash>
+    </FileItem>
+    <FileItem name="Doors_BestOf2.nrg">
+      <Size>454590418</Size>
+      <MD5Hash>0xA62D86454D8DC6300EE57FDA358485FD</MD5Hash>
+    </FileItem>
+    <FileItem name="Eagels_HotelCalfornia.nrg">
+      <Size>460863260</Size>
+      <MD5Hash>0x227A3F4430B4E271CCFEA41CB9BEB171</MD5Hash>
+    </FileItem>
+    <FileItem name="Eagles_GrtsHits.nrg">
+      <Size>458915862</Size>
+      <MD5Hash>0x1988CEB50F401B8C716967931358C2AE</MD5Hash>
+    </FileItem>
+    <FileItem name="EdieBrickell_PicturePerfectMorning.nrg">
+      <Size>435967456</Size>
+      <MD5Hash>0x0ED89E753262549B23B81D3169B75E6A</MD5Hash>
+    </FileItem>
+    <FileItem name="EltonJohn_GrtstHits.nrg">
+      <Size>507715216</Size>
+      <MD5Hash>0xEAAE585C704AC2223FC55E16A4FED95C</MD5Hash>
+    </FileItem>
+    <FileItem name="EltonJohn_GrtstHits2.nrg">
+      <Size>551485878</Size>
+      <MD5Hash>0x45B7CD8907949468010A3CFEBACBF522</MD5Hash>
+    </FileItem>
+    <FileItem name="EltonJohn_YellowBrickRoda.nrg">
+      <Size>808458748</Size>
+      <MD5Hash>0xA49D13A2A439DAAA563F9B64312BD0F8</MD5Hash>
+    </FileItem>
+    <FileItem name="ElvisCostello_BestOf.nrg">
+      <Size>827768958</Size>
+      <MD5Hash>0x1AEF21003F9541ABFDDC93E5B21CDFB9</MD5Hash>
+    </FileItem>
+    <FileItem name="EncoresFromVienna_HaydnTrioVienna.nrg">
+      <Size>667927600</Size>
+      <MD5Hash>0xA141CC02E330EED1E5E711C715F8184B</MD5Hash>
+    </FileItem>
+    <FileItem name="EricClapton_BestOf.nrg">
+      <Size>475986736</Size>
+      <MD5Hash>0x03CFA9F76F12E32195C3DAA497D0AB62</MD5Hash>
+    </FileItem>
+    <FileItem name="EricClapton_Slowhand.nrg">
+      <Size>415457900</Size>
+      <MD5Hash>0x221BBF19708BCC09FBBF836BB1DE3B7B</MD5Hash>
+    </FileItem>
+    <FileItem name="EssentialGuitarDisc1_VariousArtists.nrg">
+      <Size>815043862</Size>
+      <MD5Hash>0x5362934AFE19C0F5DCD6C8102ADEE925</MD5Hash>
+    </FileItem>
+    <FileItem name="EssentialGuitarDisc2_VariousArtists.nrg">
+      <Size>796625750</Size>
+      <MD5Hash>0xA2D34D9BB4D8ADEA062B7E03ADCAD038</MD5Hash>
+    </FileItem>
+    <FileItem name="Eurythmics.nrg">
+      <Size>678141310</Size>
+      <MD5Hash>0x7414E35519A89A42D30091695553C289</MD5Hash>
+    </FileItem>
+    <FileItem name="Everclear_Afterglow.nrg">
+      <Size>516899892</Size>
+      <MD5Hash>0xD03CF0FC3E52A095051A624560F2599C</MD5Hash>
+    </FileItem>
+    <FileItem name="Everclear_SparkleandFade.nrg">
+      <Size>452937310</Size>
+      <MD5Hash>0x316C2CEBE2E4EC00A3220A9B1D93CD81</MD5Hash>
+    </FileItem>
+    <FileItem name="FaithNoMore_RealThing.nrg">
+      <Size>587095216</Size>
+      <MD5Hash>0x9BA123F88647567A5C999851B6F8FAD5</MD5Hash>
+    </FileItem>
+    <FileItem name="Features_TheBeginning.nrg">
+      <Size>185385508</Size>
+      <MD5Hash>0xF345F49B80F805A2C08159ABEDE5D8BD</MD5Hash>
+    </FileItem>
+    <FileItem name="FineYoungCannibals_RawAndCoooked.nrg">
+      <Size>379660518</Size>
+      <MD5Hash>0x06690368C4EC5867CBBEE62E56A1C433</MD5Hash>
+    </FileItem>
+    <FileItem name="FionaApple_Tidal.nrg">
+      <Size>634822866</Size>
+      <MD5Hash>0xE128064BCB182A2204FB20F5F969FA2C</MD5Hash>
+    </FileItem>
+    <FileItem name="FitzAndTheTantrums_MoreThanJustADream.nrg">
+      <Size>458062966</Size>
+      <MD5Hash>0x849611B8CF2D239DE1B5C01D8F3BF7D4</MD5Hash>
+    </FileItem>
+    <FileItem name="Fixx_UltimateCollection.nrg">
+      <Size>769052012</Size>
+      <MD5Hash>0xF81DF21399C27B12DEA2DF15A6B6D69B</MD5Hash>
+    </FileItem>
+    <FileItem name="FleetwoodMac_GrtstHits.nrg">
+      <Size>682563186</Size>
+      <MD5Hash>0xB608B64D11EE59A19F1703B0BD82FB91</MD5Hash>
+    </FileItem>
+    <FileItem name="Floarter_StoneByStone.nrg">
+      <Size>610601718</Size>
+      <MD5Hash>0x9506E7095AA4CAF0882F7F6FFC580953</MD5Hash>
+    </FileItem>
+    <FileItem name="Floater_Acoustice.nrg">
+      <Size>423748874</Size>
+      <MD5Hash>0xAF48B7D62C5F74739B0693360D046F7F</MD5Hash>
+    </FileItem>
+    <FileItem name="Foghat_BestOf.nrg">
+      <Size>787263176</Size>
+      <MD5Hash>0xF0A8F283B82145982C6626939CE7DEB6</MD5Hash>
+    </FileItem>
+    <FileItem name="FooFighters_ColorandShape.nrg">
+      <Size>496413972</Size>
+      <MD5Hash>0x07DCE19177F5BC7CD8E77B25888A0240</MD5Hash>
+    </FileItem>
+    <FileItem name="FooFighters_Foo.nrg">
+      <Size>467253818</Size>
+      <MD5Hash>0xBEC6BF11B07CA73984A07D3D634C10B9</MD5Hash>
+    </FileItem>
+    <FileItem name="Foreigner_Records.nrg">
+      <Size>421196838</Size>
+      <MD5Hash>0x2EEFE97E806114B779809860606126A9</MD5Hash>
+    </FileItem>
+    <FileItem name="ForrestGumpSountrack1.nrg">
+      <Size>469965906</Size>
+      <MD5Hash>0x1C9059AE5A895524F6CB1FFAD8508AAD</MD5Hash>
+    </FileItem>
+    <FileItem name="ForrestGumpSountrack2.nrg">
+      <Size>752794022</Size>
+      <MD5Hash>0xA2E88B8867E697283CCCCAC07341519E</MD5Hash>
+    </FileItem>
+    <FileItem name="FosterThePeople_Torches.nrg">
+      <Size>408282626</Size>
+      <MD5Hash>0x2D0B3405B0F767AE4428988452BD19BB</MD5Hash>
+    </FileItem>
+    <FileItem name="FrankieValli&amp;4Seasons_VeryBestOf.nrg">
+      <Size>647182282</Size>
+      <MD5Hash>0xDCE3C4DF428175E577C6377DB5FE1DD7</MD5Hash>
+    </FileItem>
+    <FileItem name="Fugazi_Repeater.nrg">
+      <Size>450467710</Size>
+      <MD5Hash>0xDE79A8B3F56047C9704357C377F066F1</MD5Hash>
+    </FileItem>
+    <FileItem name="Fun_SomeNights.nrg">
+      <Size>487460268</Size>
+      <MD5Hash>0x90618903886A55F02856214CDB5962A8</MD5Hash>
+    </FileItem>
+    <FileItem name="GaryHoey_Animals.nrg">
+      <Size>429264198</Size>
+      <MD5Hash>0x76087FF7A5F592FD92CE57D74FDEDB13</MD5Hash>
+    </FileItem>
+    <FileItem name="Genesis_Genesis.nrg">
+      <Size>487175084</Size>
+      <MD5Hash>0x08BBF0FBB85031D7FAE3A9656DB473A3</MD5Hash>
+    </FileItem>
+    <FileItem name="Genesis_TheHits.nrg">
+      <Size>835930166</Size>
+      <MD5Hash>0x532B9790CF407D069DF2D948D1B4BEA0</MD5Hash>
+    </FileItem>
+    <FileItem name="GeorgeCarlin_ParentalAdvisory.nrg">
+      <Size>564304568</Size>
+      <MD5Hash>0xF9A0B916A4C42C15987B42AAD5E16684</MD5Hash>
+    </FileItem>
+    <FileItem name="GNR_Illusion1.nrg">
+      <Size>805608066</Size>
+      <MD5Hash>0xBD783392E8D71DC69B23E660AF22C759</MD5Hash>
+    </FileItem>
+    <FileItem name="GNR_Illusion2.nrg">
+      <Size>804267310</Size>
+      <MD5Hash>0x9EC8B946E890C024548BD025284C14AF</MD5Hash>
+    </FileItem>
+    <FileItem name="Godsmack_Godsmack.nrg">
+      <Size>585284234</Size>
+      <MD5Hash>0x60850E35E2C9A6925A462B14A83E7FBC</MD5Hash>
+    </FileItem>
+    <FileItem name="Gorillaz(FC).nrg">
+      <Size>770048236</Size>
+      <MD5Hash>0x4897F62FE4247C4F901F1F43C7094AFF</MD5Hash>
+    </FileItem>
+    <FileItem name="GratefulDead_Bestof.nrg">
+      <Size>475156480</Size>
+      <MD5Hash>0x1D8F10080D1842AB0BB6549BFD72167B</MD5Hash>
+    </FileItem>
+    <FileItem name="GreenDay_Dookie.nrg">
+      <Size>421349950</Size>
+      <MD5Hash>0x0C2F30A9B3246A26FFD35DFD280A1036</MD5Hash>
+    </FileItem>
+    <FileItem name="GreenDay_Insomniac.nrg">
+      <Size>348955390</Size>
+      <MD5Hash>0x14B2E2E5DCD60C1949ABE9DDC879754E</MD5Hash>
+    </FileItem>
+    <FileItem name="GreenJelly.nrg">
+      <Size>441210064</Size>
+      <MD5Hash>0xFFED9D4E06F69C4A54A118C288A941D9</MD5Hash>
+    </FileItem>
+    <FileItem name="GunsNRoses_AppetiteDestruction.nrg">
+      <Size>569972714</Size>
+      <MD5Hash>0xE4DC5C260C6F95701E751713111FE88D</MD5Hash>
+    </FileItem>
+    <FileItem name="GunsNRoses_Spaghetti.nrg">
+      <Size>488769914</Size>
+      <MD5Hash>0x221355EFBAB41826CC96EAE90862F4C7</MD5Hash>
+    </FileItem>
+    <FileItem name="Gwar_Ragnarok.nrg">
+      <Size>499735054</Size>
+      <MD5Hash>0xE2AAAD7DADFD835892C528DD0C150F92</MD5Hash>
+    </FileItem>
+    <FileItem name="HarveyDanger_WhereMerrymakers.nrg">
+      <Size>492796422</Size>
+      <MD5Hash>0x927DF5EA4A2C80A0D2B207C93ECD3718</MD5Hash>
+    </FileItem>
+    <FileItem name="Hazel_Bush(FC).nrg">
+      <Size>431200386</Size>
+      <MD5Hash>0xFB448C3211C88D21BE55CAF609B2D8B6</MD5Hash>
+    </FileItem>
+    <FileItem name="Helmet_Betty.nrg">
+      <Size>442000510</Size>
+      <MD5Hash>0x86FC05AF6CD5BA2FE7185471410BD95B</MD5Hash>
+    </FileItem>
+    <FileItem name="Helmet_Meantime.nrg">
+      <Size>393873654</Size>
+      <MD5Hash>0x94FB51A925059E2E3812C09CA8F23778</MD5Hash>
+    </FileItem>
+    <FileItem name="HowardSternSoundtrack.nrg">
+      <Size>676806244</Size>
+      <MD5Hash>0x06C3A361DFBB1FAEB86C35188BE4ADA5</MD5Hash>
+    </FileItem>
+    <FileItem name="HueyLewis_Bestof.nrg">
+      <Size>671285346</Size>
+      <MD5Hash>0x0E9D677C28154E3A5BD2178B899A5673</MD5Hash>
+    </FileItem>
+    <FileItem name="IggyPop-TheIdiot.nrg">
+      <Size>409582546</Size>
+      <MD5Hash>0xBB7C19A2005DD04BF0D5FA4FF1E4F55C</MD5Hash>
+    </FileItem>
+    <FileItem name="IggyPop_BrickByBrick.nrg">
+      <Size>575771018</Size>
+      <MD5Hash>0xE8AAD545B7B96A55849D7CA53EDB3933</MD5Hash>
+    </FileItem>
+    <FileItem name="INXS_GrtstHits.nrg">
+      <Size>636111186</Size>
+      <MD5Hash>0xC5C73FF4EE21FE1BD847FA2FFEED1D85</MD5Hash>
+    </FileItem>
+    <FileItem name="IronMaiden_Mind.nrg">
+      <Size>487429100</Size>
+      <MD5Hash>0x3D754955241C915533A313079630DD9F</MD5Hash>
+    </FileItem>
+    <FileItem name="JackJohnson_BrushfireFairytales.nrg">
+      <Size>497298980</Size>
+      <MD5Hash>0x3736B4228BF3D775E1138965B7AAC37C</MD5Hash>
+    </FileItem>
+    <FileItem name="JackJohnson_FromHereToNow.nrg">
+      <Size>438223522</Size>
+      <MD5Hash>0x9E81D1F0F67A5997A53798A49BBD811C</MD5Hash>
+    </FileItem>
+    <FileItem name="JackJohnson_In Between Dreams [Bonus Track].nrg">
+      <Size>471577768</Size>
+      <MD5Hash>0x8FAAB9AA52FF5FAACC2E5E8856BCBB66</MD5Hash>
+    </FileItem>
+    <FileItem name="JackJohnson_OnAndOn.nrg">
+      <Size>466685630</Size>
+      <MD5Hash>0x435785FE6EE26F44E60E4A940DD81744</MD5Hash>
+    </FileItem>
+    <FileItem name="JackJohnson_SingAlong.nrg">
+      <Size>467967426</Size>
+      <MD5Hash>0x33F93AB621CE3484C4013EDF2E6542C7</MD5Hash>
+    </FileItem>
+    <FileItem name="JackJohnson_ToTheSea.nrg">
+      <Size>440564108</Size>
+      <MD5Hash>0x141CBBCC0766108480034A9C25F1CEB8</MD5Hash>
+    </FileItem>
+    <FileItem name="Jackyl.nrg">
+      <Size>455444368</Size>
+      <MD5Hash>0xFEA547DD24F36C53348981F1ED0FE02D</MD5Hash>
+    </FileItem>
+    <FileItem name="JamesLaid_Fontana.nrg">
+      <Size>589400292</Size>
+      <MD5Hash>0x7EE53B3ECB23CABDEAE9ED82CA4A7596</MD5Hash>
+    </FileItem>
+    <FileItem name="James_Laid.nrg">
+      <Size>589400292</Size>
+      <MD5Hash>0x7EE53B3ECB23CABDEAE9ED82CA4A7596</MD5Hash>
+    </FileItem>
+    <FileItem name="JamieCullum.nrg">
+      <Size>665682824</Size>
+      <MD5Hash>0x89C9CEE1DA322010B6C9DA481464D200</MD5Hash>
+    </FileItem>
+    <FileItem name="JanesAddiction_RitualHabitulo.nrg">
+      <Size>546835916</Size>
+      <MD5Hash>0x16AE776FEF6B554B5F72AAF23F4E509A</MD5Hash>
+    </FileItem>
+    <FileItem name="JanesAddiction_Strays.nrg">
+      <Size>580318092</Size>
+      <MD5Hash>0x4EEEE455E4128DA6BC35B341C8F55824</MD5Hash>
+    </FileItem>
+    <FileItem name="JeffersonStarship_GrtstHits.nrg">
+      <Size>568185194</Size>
+      <MD5Hash>0x0F23F4716EF2101C6F65576903CF8720</MD5Hash>
+    </FileItem>
+    <FileItem name="JethroTull_OriginalMasters.nrg">
+      <Size>569302394</Size>
+      <MD5Hash>0xA40AD4595268C7278156D19997F361BB</MD5Hash>
+    </FileItem>
+    <FileItem name="JimCroce_GrtstHits.nrg">
+      <Size>436866094</Size>
+      <MD5Hash>0x3F394253A3BE17E30347FEF159D09DAE</MD5Hash>
+    </FileItem>
+    <FileItem name="JimiHendrix_BestOf.nrg">
+      <Size>778721232</Size>
+      <MD5Hash>0x007704C4708A872A276FF4B37A800AAE</MD5Hash>
+    </FileItem>
+    <FileItem name="JimiHendrix_Experienced.nrg">
+      <Size>650223244</Size>
+      <MD5Hash>0x1FDF773286F3D26EC3B7257F16DAE5E5</MD5Hash>
+    </FileItem>
+    <FileItem name="JoanOsbourne_Relish.nrg">
+      <Size>649035194</Size>
+      <MD5Hash>0x340A479BF76B538C3F8A2AFFFAFC86BD</MD5Hash>
+    </FileItem>
+    <FileItem name="JoeSatriana_Extremist.nrg">
+      <Size>507663414</Size>
+      <MD5Hash>0xD4C48CC1F69A39C7E707AEC92379CBC2</MD5Hash>
+    </FileItem>
+    <FileItem name="JohnColtrane_Artof.nrg">
+      <Size>650274466</Size>
+      <MD5Hash>0xF8DFFDEB1FC4F946067A8A6926AB9FA3</MD5Hash>
+    </FileItem>
+    <FileItem name="JohnCougarMellancamp_LonesomeJubilee.nrg">
+      <Size>442576576</Size>
+      <MD5Hash>0x5591F1EB51B1E4A9B9E8299C9717B742</MD5Hash>
+    </FileItem>
+    <FileItem name="JohnCougarMellancamp_UhHuh.nrg">
+      <Size>349232636</Size>
+      <MD5Hash>0x09F8D8EB866886D447F05836C0F89D59</MD5Hash>
+    </FileItem>
+    <FileItem name="JohnFogerty_Centerfield.nrg">
+      <Size>452467356</Size>
+      <MD5Hash>0x661A78859EFBF73998C695D187AF4F53</MD5Hash>
+    </FileItem>
+    <FileItem name="JohnLennon_Collection.nrg">
+      <Size>757074720</Size>
+      <MD5Hash>0x399541F5DFCCB1D577FFD653E22EF234</MD5Hash>
+    </FileItem>
+    <FileItem name="JoshuaBell_MendelssohnBeethoven.nrg">
+      <Size>741368020</Size>
+      <MD5Hash>0x6AC58FDFDB12AFD1104064476F05FF91</MD5Hash>
+    </FileItem>
+    <FileItem name="Journey_Frontiers.nrg">
+      <Size>467260758</Size>
+      <MD5Hash>0x89C994481132E7FCBD452161A02F72A5</MD5Hash>
+    </FileItem>
+    <FileItem name="JudasPriest_DefendersoftheFailth.nrg">
+      <Size>527688458</Size>
+      <MD5Hash>0x40E0C43F8D587CC7A8FC1B2176823E4F</MD5Hash>
+    </FileItem>
+    <FileItem name="JudasPriest_Painkilller.nrg">
+      <Size>583979566</Size>
+      <MD5Hash>0x80A4ACDD688E7E5FEBDBBC8E91A542ED</MD5Hash>
+    </FileItem>
+    <FileItem name="JudasPriest_Vengance.nrg">
+      <Size>411894678</Size>
+      <MD5Hash>0x9527337A000866DFA7C73377ADEDB22D</MD5Hash>
+    </FileItem>
+    <FileItem name="KidRock_Devil(FC).nrg">
+      <Size>756519358</Size>
+      <MD5Hash>0x3ADFCE3B36A9AB464B5F18D02EF2A93E</MD5Hash>
+    </FileItem>
+    <FileItem name="Killers_HotFuss.nrg">
+      <Size>483626032</Size>
+      <MD5Hash>0x6BDD91C288D46044815038B56212EA98</MD5Hash>
+    </FileItem>
+    <FileItem name="KingsOfLeon_MechanicalBull.nrg">
+      <Size>446008764</Size>
+      <MD5Hash>0x658BF007CCF0DB9CF8725FED878A61E2</MD5Hash>
+    </FileItem>
+    <FileItem name="KingsOfLeon_OnlyByTheNight.nrg">
+      <Size>451846302</Size>
+      <MD5Hash>0xA79351DA4597212FF7420135B071A32A</MD5Hash>
+    </FileItem>
+    <FileItem name="KingsOfLeon_YouthAndYoungManhood.nrg">
+      <Size>488351200</Size>
+      <MD5Hash>0xC4C91E4A4319FE388EFC38DA423085B0</MD5Hash>
+    </FileItem>
+    <FileItem name="KinkFm102_LiveEight.nrg">
+      <Size>839645128</Size>
+      <MD5Hash>0x884FBC3036B3A41D99C9791051C31DC8</MD5Hash>
+    </FileItem>
+    <FileItem name="Kiss_Platinum.nrg">
+      <Size>733754698</Size>
+      <MD5Hash>0x30652E712DCA37EA726D1562C4651439</MD5Hash>
+    </FileItem>
+    <FileItem name="Kiss_TributeCovers.nrg">
+      <Size>485764000</Size>
+      <MD5Hash>0x1E5336D58EDEA25CAA017CE37BE1FBF1</MD5Hash>
+    </FileItem>
+    <FileItem name="Kodo(FC).nrg">
+      <Size>652518274</Size>
+      <MD5Hash>0xAD15511FF26F8E193B6DB72CB4B864A5</MD5Hash>
+    </FileItem>
+    <FileItem name="Kooks_JunkOfTheHeart.nrg">
+      <Size>380669642</Size>
+      <MD5Hash>0xD2C067BE6667B54475DF1EEA1CC4230C</MD5Hash>
+    </FileItem>
+    <FileItem name="Korn_FollowtheLeader.nrg">
+      <Size>742445628</Size>
+      <MD5Hash>0x0EDE4019E2D2528D53F0C06276C617A7</MD5Hash>
+    </FileItem>
+    <FileItem name="Korn_Mirror.nrg">
+      <Size>601877652</Size>
+      <MD5Hash>0x35956F19CCBF99BB4B483E76020FD33B</MD5Hash>
+    </FileItem>
+    <FileItem name="LadyGaga_FameMonster1.nrg">
+      <Size>362900364</Size>
+      <MD5Hash>0x6C63AB84692BD5C5A312E77290C37C26</MD5Hash>
+    </FileItem>
+    <FileItem name="LadyGaga_FameMonster2.nrg">
+      <Size>537287598</Size>
+      <MD5Hash>0x796A02C30AE4BAF984D11095F93F16E0</MD5Hash>
+    </FileItem>
+    <FileItem name="LadyGaga_Monster1.nrg">
+      <Size>362900364</Size>
+      <MD5Hash>0x6C63AB84692BD5C5A312E77290C37C26</MD5Hash>
+    </FileItem>
+    <FileItem name="LadyGaga_Monster2.nrg">
+      <Size>537287598</Size>
+      <MD5Hash>0x796A02C30AE4BAF984D11095F93F16E0</MD5Hash>
+    </FileItem>
+    <FileItem name="LedZeppelin2.nrg">
+      <Size>441082940</Size>
+      <MD5Hash>0x59CE5A7DF1274910802EE09201754F4D</MD5Hash>
+    </FileItem>
+    <FileItem name="LedZeppelin4.nrg">
+      <Size>451466962</Size>
+      <MD5Hash>0xA16E47F421D7DCE5C26B672D9CCDCFC4</MD5Hash>
+    </FileItem>
+    <FileItem name="LedZeppelin_1.nrg">
+      <Size>475709084</Size>
+      <MD5Hash>0x670E64CC5134CCA4B4568700D484C958</MD5Hash>
+    </FileItem>
+    <FileItem name="LedZeppelin_3.nrg">
+      <Size>455411382</Size>
+      <MD5Hash>0x335E0089016EC2B28DBA9BD2E40BFA7A</MD5Hash>
+    </FileItem>
+    <FileItem name="LedZeppelin_Graffitti1.nrg">
+      <Size>415798766</Size>
+      <MD5Hash>0xF97108BE6394C2EB48E8047A9112C113</MD5Hash>
+    </FileItem>
+    <FileItem name="LedZeppelin_Graffitti2.nrg">
+      <Size>463478684</Size>
+      <MD5Hash>0x7EAB6DE8F5EE6D4048D4D8BB5F86AB28</MD5Hash>
+    </FileItem>
+    <FileItem name="LedZeppelin_HousesOfTheHoly.nrg">
+      <Size>434316178</Size>
+      <MD5Hash>0xAC52D5AA7C29AAE408B81A2D90E7A37E</MD5Hash>
+    </FileItem>
+    <FileItem name="LedZeppelin_InthroughtheOutDoor.nrg">
+      <Size>450843624</Size>
+      <MD5Hash>0x9CE3FA0C784D3679C5A0C6046AFE3E61</MD5Hash>
+    </FileItem>
+    <FileItem name="LimpBizkit_3dollarBill.nrg">
+      <Size>651175572</Size>
+      <MD5Hash>0x14B8EE282C9EAC61271F7F3FED56850D</MD5Hash>
+    </FileItem>
+    <FileItem name="LimpBizkit_SignificantOther.nrg">
+      <Size>739831644</Size>
+      <MD5Hash>0x5C83624F8818E86D3F79D8409D271D0D</MD5Hash>
+    </FileItem>
+    <FileItem name="LinkinPark_Hybrid.nrg">
+      <Size>401033258</Size>
+      <MD5Hash>0x3984FD2A73EF21DFD46A0E60E837B22B</MD5Hash>
+    </FileItem>
+    <FileItem name="Live.nrg">
+      <Size>630125230</Size>
+      <MD5Hash>0x9FEA655756E2D22FF761571BF5546A77</MD5Hash>
+    </FileItem>
+    <FileItem name="LizPhair_WhiteChocSpaceEgg.nrg">
+      <Size>543505890</Size>
+      <MD5Hash>0xA2169BB114F05B7782E24AA321038A4C</MD5Hash>
+    </FileItem>
+    <FileItem name="LocalH_BetterOffDead.nrg">
+      <Size>522902196</Size>
+      <MD5Hash>0x4F031FB5059DAA0B3A56AD58DDFA4081</MD5Hash>
+    </FileItem>
+    <FileItem name="LostHighwaySoundtrack.nrg">
+      <Size>763589992</Size>
+      <MD5Hash>0xADA2AD45391AF8DA5C225650F22772E3</MD5Hash>
+    </FileItem>
+    <FileItem name="LynardSkynard_SkynardsInnards.nrg">
+      <Size>663812868</Size>
+      <MD5Hash>0xB579BD55F1860C3C53E251A19F017E54</MD5Hash>
+    </FileItem>
+    <FileItem name="Madonna_Immaculate.nrg">
+      <Size>778447228</Size>
+      <MD5Hash>0x2FD0B8CEED2C0F6A7D54CD2F9A1FA8B8</MD5Hash>
+    </FileItem>
+    <FileItem name="MariahCarey.nrg">
+      <Size>494701600</Size>
+      <MD5Hash>0x14FB645DDEE331EE3AFE82EA92BA058E</MD5Hash>
+    </FileItem>
+    <FileItem name="MarilynManson_Antichrist.nrg">
+      <Size>820889010</Size>
+      <MD5Hash>0xEEB10BF602BE96EE172E3024CB9B899E</MD5Hash>
+    </FileItem>
+    <FileItem name="MarilynManson_MechanicalAnimals.nrg">
+      <Size>678914906</Size>
+      <MD5Hash>0x630220D1E38DBA63829F7562F156328D</MD5Hash>
+    </FileItem>
+    <FileItem name="MarilynManson_Portrait(FC).nrg">
+      <Size>603545104</Size>
+      <MD5Hash>0x2F5BB195C07D85153D6042F61A1404AE</MD5Hash>
+    </FileItem>
+    <FileItem name="Marsalis.nrg">
+      <Size>695593092</Size>
+      <MD5Hash>0xE93F0ABA60FF1B79974E2B614E9DFBF4</MD5Hash>
+    </FileItem>
+    <FileItem name="MeatmenAndTescoV.nrg">
+      <Size>806049224</Size>
+      <MD5Hash>0x0EC9B4AECA2E097C18B8E86FEAFE6179</MD5Hash>
+    </FileItem>
+    <FileItem name="MegadethCountdowntoExtinction.nrg">
+      <Size>503281696</Size>
+      <MD5Hash>0x63F087E74F394E33E927D73193DC5DB0</MD5Hash>
+    </FileItem>
+    <FileItem name="Megadeth_Cryptic.nrg">
+      <Size>496025834</Size>
+      <MD5Hash>0x302D4701B8605012CE8512702884D46F</MD5Hash>
+    </FileItem>
+    <FileItem name="Megadeth_RustinPeace.nrg">
+      <Size>432338204</Size>
+      <MD5Hash>0x786CE1B1EFE760D911F08F41817ACC10</MD5Hash>
+    </FileItem>
+    <FileItem name="Memorex_LabelMaker.nrg">
+      <Size>297167004</Size>
+      <MD5Hash>0xD7B65CA05E436D8A6B1748673FFFA5E1</MD5Hash>
+    </FileItem>
+    <FileItem name="Metallica_AndJustice.nrg">
+      <Size>693092684</Size>
+      <MD5Hash>0x6ECA1C1C57B8C6EB99335430D3D4E7B5</MD5Hash>
+    </FileItem>
+    <FileItem name="Metallica_EnterSandman.nrg">
+      <Size>663224810</Size>
+      <MD5Hash>0x109BF14D3BD4FD1282D850271A69527B</MD5Hash>
+    </FileItem>
+    <FileItem name="Metallica_KillemAll.nrg">
+      <Size>664828874</Size>
+      <MD5Hash>0xB10C69DAF95139B9CCDCACDDA1B21073</MD5Hash>
+    </FileItem>
+    <FileItem name="Metallica_Load.nrg">
+      <Size>836120446</Size>
+      <MD5Hash>0xE5A2E080551B84FC9FA4DB7585E70CAD</MD5Hash>
+    </FileItem>
+    <FileItem name="Metallica_MaterofPuppets.nrg">
+      <Size>580667026</Size>
+      <MD5Hash>0x91347806C2FB882F5461F8AFDFCE7177</MD5Hash>
+    </FileItem>
+    <FileItem name="Metallica_Reload(FC).nrg">
+      <Size>808496714</Size>
+      <MD5Hash>0xFDF46E774F93627FAE39AD2E735B5B27</MD5Hash>
+    </FileItem>
+    <FileItem name="Metallica_RidetheLightning.nrg">
+      <Size>502545346</Size>
+      <MD5Hash>0x5DF887B806EB4D4D8BF1F0998125CB6D</MD5Hash>
+    </FileItem>
+    <FileItem name="MichaelJackson_Thriller.nrg">
+      <Size>768078508</Size>
+      <MD5Hash>0x0B8191CE46DB985C5644F47C1E3D4472</MD5Hash>
+    </FileItem>
+    <FileItem name="MilesDavis_ClassicBallads.nrg">
+      <Size>509667202</Size>
+      <MD5Hash>0xA024847D5446754662E8DA99EB73BEB8</MD5Hash>
+    </FileItem>
+    <FileItem name="Ministry_MindIsATerribleThingToTaste.nrg">
+      <Size>533027324</Size>
+      <MD5Hash>0xC1D6DE000D1324ABC78DA62DDC6B17D4</MD5Hash>
+    </FileItem>
+    <FileItem name="MinorThreat_Discography.nrg">
+      <Size>511902646</Size>
+      <MD5Hash>0xBF74385FDECE7CC565432274CB56916C</MD5Hash>
+    </FileItem>
+    <FileItem name="MonsterMagnet_Powertrip.nrg">
+      <Size>642877716</Size>
+      <MD5Hash>0x0492092814EFD98CC0FC4A4F19B5E092</MD5Hash>
+    </FileItem>
+    <FileItem name="MonsterMagnet_Superjudge.nrg">
+      <Size>568808416</Size>
+      <MD5Hash>0xEC1312CD5685FCA666DB94A574D4D86F</MD5Hash>
+    </FileItem>
+    <FileItem name="MotleyCrue_GrtstHits.nrg">
+      <Size>782516188</Size>
+      <MD5Hash>0x7DA6998F26319B9D2FFC2A2A3640CB7A</MD5Hash>
+    </FileItem>
+    <FileItem name="MozartArias_CharlesMackerras.nrg">
+      <Size>716545998</Size>
+      <MD5Hash>0x448060CF1D8A70A35185CA50F31718B7</MD5Hash>
+    </FileItem>
+    <FileItem name="Mozart_40_41_Jupiter.nrg">
+      <Size>724315484</Size>
+      <MD5Hash>0x8E82D7F0018FCCCA85B060C1502B9BC4</MD5Hash>
+    </FileItem>
+    <FileItem name="MusicForDreaming_Disc1.nrg">
+      <Size>611462306</Size>
+      <MD5Hash>0x4D8D43A58E05996CF3A535E57DADD274</MD5Hash>
+    </FileItem>
+    <FileItem name="MusicForDreaming_Disc2.nrg">
+      <Size>662197594</Size>
+      <MD5Hash>0x9F7E1100D676132F0539C24BA172C762</MD5Hash>
+    </FileItem>
+    <FileItem name="MusicTogether_Maracas.nrg">
+      <Size>628109174</Size>
+      <MD5Hash>0x89BDCE47919EC776D01A16D5245CDB8A</MD5Hash>
+    </FileItem>
+    <FileItem name="MusicTogether_SticksTeacherEd.nrg">
+      <Size>776648816</Size>
+      <MD5Hash>0xC1B40381735842A4EEE84C9C8D5B4FE1</MD5Hash>
+    </FileItem>
+    <FileItem name="NanciGrifith_DustBowlSymphony.nrg">
+      <Size>576051402</Size>
+      <MD5Hash>0x36845B82CAFFB2B6609FC716A986CE31</MD5Hash>
+    </FileItem>
+    <FileItem name="NapalmBeach_FireAirWater.nrg">
+      <Size>369324070</Size>
+      <MD5Hash>0xBA95E716DB421C7928E76BFCECFA057B</MD5Hash>
+    </FileItem>
+    <FileItem name="NatalieMerchant_Ophelia.nrg">
+      <Size>600670960</Size>
+      <MD5Hash>0xFE07216C2EFE1280A67B72C3C1E64C3B</MD5Hash>
+    </FileItem>
+    <FileItem name="NatalieMerchant_Tigerlily.nrg">
+      <Size>553019440</Size>
+      <MD5Hash>0x14E7F69A8C7D5E800FF77853C1812E2A</MD5Hash>
+    </FileItem>
+    <FileItem name="Nazareth_HairoftheDog.nrg">
+      <Size>429809746</Size>
+      <MD5Hash>0xB5898107944515C2A90AB74C94E920B2</MD5Hash>
+    </FileItem>
+    <FileItem name="Neighbourhood_ILoveYou.nrg">
+      <Size>486489036</Size>
+      <MD5Hash>0x3390FB3B607511441AACA84E27AD25DE</MD5Hash>
+    </FileItem>
+    <FileItem name="NeilYoung_GreatestHits.nrg">
+      <Size>817250466</Size>
+      <MD5Hash>0x4425B76E6DD19AE40FD0E89476CD6C23</MD5Hash>
+    </FileItem>
+    <FileItem name="NeroChecksums.txt">
+      <Size>34664</Size>
+      <MD5Hash>0xC0E2FF9DEF8B60FB9927050745EBE1F1</MD5Hash>
+    </FileItem>
+    <FileItem name="NewOrder_Republic.nrg">
+      <Size>505363216</Size>
+      <MD5Hash>0x5919F7DC797014F2DF3D3FAB58F4145C</MD5Hash>
+    </FileItem>
+    <FileItem name="NewOrder_Substance.nrg">
+      <Size>770045594</Size>
+      <MD5Hash>0x6373E513AA8638D36CA0B8DE2B042D56</MD5Hash>
+    </FileItem>
+    <FileItem name="NickelCreek_ThisSide.nrg">
+      <Size>530501508</Size>
+      <MD5Hash>0xB19F73026DF8D463E0375F37CE97FDF0</MD5Hash>
+    </FileItem>
+    <FileItem name="NiN_DownwardSpiral.nrg">
+      <Size>689788414</Size>
+      <MD5Hash>0x944AA838865B4A44CD8B45309694A128</MD5Hash>
+    </FileItem>
+    <FileItem name="NIN_PrettyHateMachine.nrg">
+      <Size>516786822</Size>
+      <MD5Hash>0x00758ED8F730EA9190CD00558FAB7334</MD5Hash>
+    </FileItem>
+    <FileItem name="Nirvana_Bleach.nrg">
+      <Size>452683236</Size>
+      <MD5Hash>0x7E24FC278B62E63EF7DEC33BB369176C</MD5Hash>
+    </FileItem>
+    <FileItem name="Nirvana_HeartShapeBoxMiniCD.nrg">
+      <Size>118616336</Size>
+      <MD5Hash>0xE930FCBF3031CF6A443424EBC2F411E2</MD5Hash>
+    </FileItem>
+    <FileItem name="Nirvana_Incesticide.nrg">
+      <Size>473392712</Size>
+      <MD5Hash>0xF195FBE11C495AA322F89D9BF8014F51</MD5Hash>
+    </FileItem>
+    <FileItem name="Nirvana_Nevermind.nrg">
+      <Size>628836218</Size>
+      <MD5Hash>0x063062FD56E62B83DF7A386769764CF5</MD5Hash>
+    </FileItem>
+    <FileItem name="Nirvana_Outcesticide(FC).nrg">
+      <Size>748586584</Size>
+      <MD5Hash>0x0B5DDE1FF6928423A728BF86BE2CE848</MD5Hash>
+    </FileItem>
+    <FileItem name="Nirvana_SmellsLikeMiniSingle.nrg">
+      <Size>133005872</Size>
+      <MD5Hash>0xB0E2FF8109273B69AC69E4E6084CF0F5</MD5Hash>
+    </FileItem>
+    <FileItem name="Nirvana_UnpluggedInNewYork.nrg">
+      <Size>571153534</Size>
+      <MD5Hash>0x5BB6C7CB097E9B9AA6BFA4EEBDC364F1</MD5Hash>
+    </FileItem>
+    <FileItem name="Nirvana_Utero.nrg">
+      <Size>438025514</Size>
+      <MD5Hash>0x00B843F2A7408CD6181BD1FB8C3FD9FE</MD5Hash>
+    </FileItem>
+    <FileItem name="NoAlternative.nrg">
+      <Size>787544880</Size>
+      <MD5Hash>0x3A507ADF00908EC92BB66614DE8AE460</MD5Hash>
+    </FileItem>
+    <FileItem name="NorahJones_FeelsLikeHome.nrg">
+      <Size>597696536</Size>
+      <MD5Hash>0x4DB8D489BA3819C2CA673CE75898181F</MD5Hash>
+    </FileItem>
+    <FileItem name="NoraJones_LittleBrokemHearts.nrg">
+      <Size>476930512</Size>
+      <MD5Hash>0x770E97AF6CFDF651BED956B49BA3392D</MD5Hash>
+    </FileItem>
+    <FileItem name="OttmarLeibert_NouveauFlamenco.nrg">
+      <Size>534716292</Size>
+      <MD5Hash>0xBBE5DA16258A7425F6510C29F3ACF300</MD5Hash>
+    </FileItem>
+    <FileItem name="Ozzy_Blizzard.nrg">
+      <Size>418767164</Size>
+      <MD5Hash>0x66E59664509C0294D3F9A119712980AF</MD5Hash>
+    </FileItem>
+    <FileItem name="Ozzy_DiaryMadman.nrg">
+      <Size>460075282</Size>
+      <MD5Hash>0xF2FC793F3B58BD34CDEA36F8A5F2FD44</MD5Hash>
+    </FileItem>
+    <FileItem name="Ozzy_NoMoreTears.nrg">
+      <Size>604841056</Size>
+      <MD5Hash>0x86D33BC98380F409B1BEF720D6DBFC0A</MD5Hash>
+    </FileItem>
+    <FileItem name="Ozzy_Ozzmosis.nrg">
+      <Size>601505862</Size>
+      <MD5Hash>0x28D8701D3C7829DE1FB81FB5A8E186FC</MD5Hash>
+    </FileItem>
+    <FileItem name="Pantera_SouthernTrendKill.nrg">
+      <Size>563375296</Size>
+      <MD5Hash>0x0F2AEBC4D8CBE15DE4DC078C76C5BF0A</MD5Hash>
+    </FileItem>
+    <FileItem name="PaulMcCartney_AlltheBest.nrg">
+      <Size>769603708</Size>
+      <MD5Hash>0x21D74244CB3ECDB1CF15571AB03E2898</MD5Hash>
+    </FileItem>
+    <FileItem name="PaulSimon_Graceland.nrg">
+      <Size>456970816</Size>
+      <MD5Hash>0xE423A881343145A6666F4E49244110F3</MD5Hash>
+    </FileItem>
+    <FileItem name="Pavement_WoweeZowee.nrg">
+      <Size>595045382</Size>
+      <MD5Hash>0xFAA0221D729C30DA4AAD4E4B73A25A00</MD5Hash>
+    </FileItem>
+    <FileItem name="PealJam_IntotheWild.nrg">
+      <Size>351196672</Size>
+      <MD5Hash>0x54FEC55B3A3ADCFFC280F9B7EDE1F4E1</MD5Hash>
+    </FileItem>
+    <FileItem name="PealJam_ten.nrg">
+      <Size>565732000</Size>
+      <MD5Hash>0x34229A344ADF175B6F34FD9B3223B07F</MD5Hash>
+    </FileItem>
+    <FileItem name="PearlJam_Backspacer.nrg">
+      <Size>811539724</Size>
+      <MD5Hash>0x227C441050ED95D020070ECF838E7736</MD5Hash>
+    </FileItem>
+    <FileItem name="PearlJam_LightningBolt.nrg">
+      <Size>500013562</Size>
+      <MD5Hash>0x1DD19C7D6CD66D31C9255BCE7BF7C4D7</MD5Hash>
+    </FileItem>
+    <FileItem name="PearlJam_MerkinBall.nrg">
+      <Size>115530454</Size>
+      <MD5Hash>0x236AA86387409DF9E4DEB6920AAF559D</MD5Hash>
+    </FileItem>
+    <FileItem name="PearlJam_PearlJam.nrg">
+      <Size>530898996</Size>
+      <MD5Hash>0xE179E09629BBE2C7119A56C537004D9D</MD5Hash>
+    </FileItem>
+    <FileItem name="PearlJam_RearViewMirror1.nrg">
+      <Size>711839330</Size>
+      <MD5Hash>0xF01FD5A7C3F2656607FDCECBF191AFE0</MD5Hash>
+    </FileItem>
+    <FileItem name="PearlJam_RearViewMirror2.nrg">
+      <Size>805891272</Size>
+      <MD5Hash>0x3E11C6020BAFCDD907E1B5EAB5E194B9</MD5Hash>
+    </FileItem>
+    <FileItem name="PearlJam_Vitalogy.nrg">
+      <Size>587793934</Size>
+      <MD5Hash>0xF191A284C61032A4E8FE98194E25DE9C</MD5Hash>
+    </FileItem>
+    <FileItem name="PearlJam_VS.nrg">
+      <Size>490141130</Size>
+      <MD5Hash>0xE3E1312F49250F0DDB8BA47C433BF82B</MD5Hash>
+    </FileItem>
+    <FileItem name="PearlJam_Yield.nrg">
+      <Size>514598120</Size>
+      <MD5Hash>0x491CF7A3A3AA21118B47E3EA5EB2B03D</MD5Hash>
+    </FileItem>
+    <FileItem name="PenalColony.nrg">
+      <Size>804134208</Size>
+      <MD5Hash>0x86170203ADB74DB121E44DB983CE9B26</MD5Hash>
+    </FileItem>
+    <FileItem name="PerfectCircle_Mer de Noms(FC).nrg">
+      <Size>468516842</Size>
+      <MD5Hash>0x881F54B6120A790D2BCB83996D4600AB</MD5Hash>
+    </FileItem>
+    <FileItem name="PeterGabriel_ShakingtheTree.nrg">
+      <Size>818791026</Size>
+      <MD5Hash>0x05DFB3DE3460ECC5825C91426E815636</MD5Hash>
+    </FileItem>
+    <FileItem name="PeterGabriel_So.nrg">
+      <Size>491008844</Size>
+      <MD5Hash>0xB38128145A345D2C423C2AAD22D23648</MD5Hash>
+    </FileItem>
+    <FileItem name="PeteTownshend.nrg">
+      <Size>744931112</Size>
+      <MD5Hash>0x217251ABC9D54894C4525C00BB8DEC95</MD5Hash>
+    </FileItem>
+    <FileItem name="Phantogram_Voices.nrg">
+      <Size>464617168</Size>
+      <MD5Hash>0xE0658DD9588D31EB9CE3CEB2048B204D</MD5Hash>
+    </FileItem>
+    <FileItem name="PinkFloyd_Animals_Meddle.nrg">
+      <Size>815758892</Size>
+      <MD5Hash>0x881E5FEB16E6AA20120685D23D7F5D32</MD5Hash>
+    </FileItem>
+    <FileItem name="PinkFloyd_DivisionBell.nrg">
+      <Size>704365936</Size>
+      <MD5Hash>0xE70BAC569BBE16680C5538E353BCC94D</MD5Hash>
+    </FileItem>
+    <FileItem name="PinkFloyd_FinalCut.nrg">
+      <Size>490970072</Size>
+      <MD5Hash>0x579C60547B76B3D8EEB16840603389E9</MD5Hash>
+    </FileItem>
+    <FileItem name="PinkFloyd_WishYouWereHere.nrg">
+      <Size>468953908</Size>
+      <MD5Hash>0x24AF63C9ADC742B68DD3AB728E5C5D4A</MD5Hash>
+    </FileItem>
+    <FileItem name="PinkMartini_JoyTotheWorldXmas.nrg">
+      <Size>493049118</Size>
+      <MD5Hash>0xE12A691ACC196D451FC0E275AA29CB37</MD5Hash>
+    </FileItem>
+    <FileItem name="Pixies_Doolittle.nrg">
+      <Size>410272088</Size>
+      <MD5Hash>0xA24483B0E28B983D015AE599D1DB7614</MD5Hash>
+    </FileItem>
+    <FileItem name="Pixies_SurferRosa.nrg">
+      <Size>355482190</Size>
+      <MD5Hash>0x3E015FD8E687DDC47A5D772300A03704</MD5Hash>
+    </FileItem>
+    <FileItem name="PJHarveyLove.nrg">
+      <Size>452207958</Size>
+      <MD5Hash>0x15294B88B4023FDB12140605025FEB47</MD5Hash>
+    </FileItem>
+    <FileItem name="PJHarvey_WhiteChalk.nrg">
+      <Size>355634896</Size>
+      <MD5Hash>0x17CE5038DA5CD1936FF934E87452643F</MD5Hash>
+    </FileItem>
+    <FileItem name="POD_Satellite.nrg">
+      <Size>562039592</Size>
+      <MD5Hash>0x520C9A6490CB673E4FA6CE451A48102A</MD5Hash>
+    </FileItem>
+    <FileItem name="Police_Singles.nrg">
+      <Size>532328954</Size>
+      <MD5Hash>0x2C5D3D4C0CE57BB212C1E0C2A0FF8FA2</MD5Hash>
+    </FileItem>
+    <FileItem name="Police_Synchonicity.nrg">
+      <Size>471047536</Size>
+      <MD5Hash>0x5F39BE498FDFF87C55448FFD532EC8BF</MD5Hash>
+    </FileItem>
+    <FileItem name="PornoForPyros_.nrg">
+      <Size>419021296</Size>
+      <MD5Hash>0xF4601848DD59167B682EE7D40D653E7E</MD5Hash>
+    </FileItem>
+    <FileItem name="Pretenders_Singles.nrg">
+      <Size>610333266</Size>
+      <MD5Hash>0x25F5476A2AA31F0BE074417E682DD7F8</MD5Hash>
+    </FileItem>
+    <FileItem name="Primus_Frizzle.nrg">
+      <Size>547958052</Size>
+      <MD5Hash>0x93227D6989F40C52814791C6885C4C0C</MD5Hash>
+    </FileItem>
+    <FileItem name="Primus_PorkSoda.nrg">
+      <Size>610827128</Size>
+      <MD5Hash>0x64B6C3623B4E182E220E85C2135F2AA1</MD5Hash>
+    </FileItem>
+    <FileItem name="PulpFiction_Sndtrck.nrg">
+      <Size>440507106</Size>
+      <MD5Hash>0xA273E866DBD703B7743B820364516CD1</MD5Hash>
+    </FileItem>
+    <FileItem name="PUSA_PUSA.nrg">
+      <Size>402703236</Size>
+      <MD5Hash>0x2F873A07666C330B3770D2DF9D1BA142</MD5Hash>
+    </FileItem>
+    <FileItem name="Quadron_Avalanche.nrg">
+      <Size>389047880</Size>
+      <MD5Hash>0x65F86189FEFE5C35E40CDF73D068EBC7</MD5Hash>
+    </FileItem>
+    <FileItem name="Queen_GrtstHits.nrg">
+      <Size>628177948</Size>
+      <MD5Hash>0x67FCB9EB2CB21B9E03FF470F421B79E9</MD5Hash>
+    </FileItem>
+    <FileItem name="RaconteursBrokenBoySoldiers.nrg">
+      <Size>357203622</Size>
+      <MD5Hash>0xDF9B91A1002099EFB34ADB991D17B56F</MD5Hash>
+    </FileItem>
+    <FileItem name="RadioHead_OKComputer.nrg">
+      <Size>566096618</Size>
+      <MD5Hash>0x091204406F9BD32321C259A0E8F25F73</MD5Hash>
+    </FileItem>
+    <FileItem name="Raffi_BabyBeluga.nrg">
+      <Size>372465924</Size>
+      <MD5Hash>0x4457B695F46D83F3EA7578D97729BB04</MD5Hash>
+    </FileItem>
+    <FileItem name="Raffi_ChristmasAlbum.nrg">
+      <Size>379806986</Size>
+      <MD5Hash>0x950E2B61CE80118025F8387DA7816598</MD5Hash>
+    </FileItem>
+    <FileItem name="RagevsMachine_EvilEmpire.nrg">
+      <Size>493803136</Size>
+      <MD5Hash>0x7052EDEFE036FB7576FCB3CD555E421B</MD5Hash>
+    </FileItem>
+    <FileItem name="Rammstein_Herzeleid(FC).nrg">
+      <Size>528460134</Size>
+      <MD5Hash>0x3CB0AC66E7095CE59DAB3D97E530C732</MD5Hash>
+    </FileItem>
+    <FileItem name="Rammstein_ReiseReise.nrg">
+      <Size>513190672</Size>
+      <MD5Hash>0xB4AAC88A1C8BC2911E1322F2DAB7F347</MD5Hash>
+    </FileItem>
+    <FileItem name="Rammstein_Rosenrot.nrg">
+      <Size>509481568</Size>
+      <MD5Hash>0xA0F0285610E7598DA8510BA781E28B46</MD5Hash>
+    </FileItem>
+    <FileItem name="Rammstein_Sehnsucht.nrg">
+      <Size>554237892</Size>
+      <MD5Hash>0x2FBBE10DC53CB06144F602A242BB7FE4</MD5Hash>
+    </FileItem>
+    <FileItem name="Ratt_OutoftheCellar.nrg">
+      <Size>396771318</Size>
+      <MD5Hash>0x43806F5B93AA7D22B96BDF8E34AE7880</MD5Hash>
+    </FileItem>
+    <FileItem name="REM_AdventuresInHifi.nrg">
+      <Size>694029636</Size>
+      <MD5Hash>0x7AFF8948CD7EB9AF9A69EFDD047DADDD</MD5Hash>
+    </FileItem>
+    <FileItem name="REM_Automatic.nrg">
+      <Size>517652474</Size>
+      <MD5Hash>0xBF0138C738AA51C93F1F8AB083F118DE</MD5Hash>
+    </FileItem>
+    <FileItem name="REM_Document.nrg">
+      <Size>421973056</Size>
+      <MD5Hash>0x141C37DB97383A4EEB2DB3C10C7EB1C0</MD5Hash>
+    </FileItem>
+    <FileItem name="REM_Green.nrg">
+      <Size>434537440</Size>
+      <MD5Hash>0x0C35B3B529264999D22972164F196133</MD5Hash>
+    </FileItem>
+    <FileItem name="REM_Monster.nrg">
+      <Size>521874314</Size>
+      <MD5Hash>0x0620B0F28A7683999F1DECE3EF18B98A</MD5Hash>
+    </FileItem>
+    <FileItem name="REM_OutOfTime.nrg">
+      <Size>467731216</Size>
+      <MD5Hash>0x3523A9F05F9D9CCB534161196141CB15</MD5Hash>
+    </FileItem>
+    <FileItem name="RHCP_BloodSugarSexMagic.nrg">
+      <Size>782852524</Size>
+      <MD5Hash>0xF2023CF143077418449E5EEACD833CA0</MD5Hash>
+    </FileItem>
+    <FileItem name="RHCP_OneHotMinute.nrg">
+      <Size>650636964</Size>
+      <MD5Hash>0x7A1356E78452DC5EC3400FFB1CA80903</MD5Hash>
+    </FileItem>
+    <FileItem name="RobertPlant_PrincipleofMoments.nrg">
+      <Size>411311266</Size>
+      <MD5Hash>0xD1FD075CAF93E0BF6F45CBB28E1444F8</MD5Hash>
+    </FileItem>
+    <FileItem name="RobZombie_Hellbilly.nrg">
+      <Size>407771796</Size>
+      <MD5Hash>0xCB5283AC082BFD112EE7EEEEFA0A97AD</MD5Hash>
+    </FileItem>
+    <FileItem name="RollingStones-40LicksDisc1.nrg">
+      <Size>820978618</Size>
+      <MD5Hash>0xD72CDAC33DF41B52CA712CAE129E9789</MD5Hash>
+    </FileItem>
+    <FileItem name="RollingStones-40LicksDisc2.nrg">
+      <Size>829469338</Size>
+      <MD5Hash>0xB30C39EB7CD65EF7F280008D06CB6CF1</MD5Hash>
+    </FileItem>
+    <FileItem name="RollingStones_SomeGirls.nrg">
+      <Size>431533878</Size>
+      <MD5Hash>0xC1837A0D1F21EEE6355B5F7CCFA7FFEA</MD5Hash>
+    </FileItem>
+    <FileItem name="RollingStones_Tattoo.nrg">
+      <Size>455265616</Size>
+      <MD5Hash>0xAF37252B26F008FCAF0A8427B66CF888</MD5Hash>
+    </FileItem>
+    <FileItem name="RollingStones_Undercover.nrg">
+      <Size>476744022</Size>
+      <MD5Hash>0xC32323D10A3C44C9A94B51D34C23286D</MD5Hash>
+    </FileItem>
+    <FileItem name="RoxyMusic_Avalon.nrg">
+      <Size>395983398</Size>
+      <MD5Hash>0x57FBA74568FA81A4CBA039457D36DB84</MD5Hash>
+    </FileItem>
+    <FileItem name="Rush_2112.nrg">
+      <Size>412945790</Size>
+      <MD5Hash>0xDDB244F406C2933F24F80691841D0B5B</MD5Hash>
+    </FileItem>
+    <FileItem name="Rush_Chronicles1.nrg">
+      <Size>792582574</Size>
+      <MD5Hash>0xDC59B5DBDD8FB8339F56CA3463A20BFF</MD5Hash>
+    </FileItem>
+    <FileItem name="Rush_Chronicles2.nrg">
+      <Size>736793134</Size>
+      <MD5Hash>0xA17764E0FECFC2DA210BC0B90595D0FE</MD5Hash>
+    </FileItem>
+    <FileItem name="Rush_MovingPictures.nrg">
+      <Size>425282088</Size>
+      <MD5Hash>0xBA349FD72FE105BED60F2A01AC72D3DA</MD5Hash>
+    </FileItem>
+    <FileItem name="RussianMoonBehindtheTrees.nrg">
+      <Size>519897302</Size>
+      <MD5Hash>0xDC9C1630BCF8C1F53EA690CBCC5C9A1A</MD5Hash>
+    </FileItem>
+    <FileItem name="RussianVarioiusArtists.nrg">
+      <Size>782295274</Size>
+      <MD5Hash>0xA25A487A2AB3A6315624702837E1C119</MD5Hash>
+    </FileItem>
+    <FileItem name="Sade_Bestof.nrg">
+      <Size>784988082</Size>
+      <MD5Hash>0xDC2540616DD67943AC24F69197178F26</MD5Hash>
+    </FileItem>
+    <FileItem name="Santana_Supernatural.nrg">
+      <Size>794212452</Size>
+      <MD5Hash>0x6E92456D47339BD211DEF4F0EA20C7B7</MD5Hash>
+    </FileItem>
+    <FileItem name="Scorpions_Sting.nrg">
+      <Size>437801900</Size>
+      <MD5Hash>0xE1744E118D32809E7E68162F9C6419B2</MD5Hash>
+    </FileItem>
+    <FileItem name="ScreamingTrees_Anthology.nrg">
+      <Size>783786500</Size>
+      <MD5Hash>0x64CBEDBA5065A3672D4620D69D552FB2</MD5Hash>
+    </FileItem>
+    <FileItem name="SFW.nrg">
+      <Size>535986372</Size>
+      <MD5Hash>0xA8D9454E1D7908AC1E3A2F10E6FC9442</MD5Hash>
+    </FileItem>
+    <FileItem name="ShaniaTwain_Woman.nrg">
+      <Size>510396554</Size>
+      <MD5Hash>0xB5AB782D80360ABEDB785E78DCD50D42</MD5Hash>
+    </FileItem>
+    <FileItem name="SherylCrow_Detours.nrg">
+      <Size>561500926</Size>
+      <MD5Hash>0x845B33BC38155F8632AE61E7ECA0EC51</MD5Hash>
+    </FileItem>
+    <FileItem name="SherylCrow_SherylCrow.nrg">
+      <Size>600447636</Size>
+      <MD5Hash>0xBDC434AFAC940D838EB5643F9E73DD7C</MD5Hash>
+    </FileItem>
+    <FileItem name="SherylCrow_TuesdayMusicClub.nrg">
+      <Size>527519056</Size>
+      <MD5Hash>0x6FA4C4CF755E1950A54BF24AD1618B27</MD5Hash>
+    </FileItem>
+    <FileItem name="Silverchair_Frogstomp.nrg">
+      <Size>474462640</Size>
+      <MD5Hash>0x93839F66DF1570D31F6EC17976B874DA</MD5Hash>
+    </FileItem>
+    <FileItem name="SineadOConnor_Idonotwantwhatihaventgot.nrg">
+      <Size>542059062</Size>
+      <MD5Hash>0x6D9E6C909D8772BD621D122B2E341539</MD5Hash>
+    </FileItem>
+    <FileItem name="SleeplessSeattleSoundtrack.nrg">
+      <Size>385994570</Size>
+      <MD5Hash>0x7DBC7DD4479B97100D8C3C74045877DE</MD5Hash>
+    </FileItem>
+    <FileItem name="Slipknot_Slipknot.nrg">
+      <Size>616236670</Size>
+      <MD5Hash>0x35C3437EA8BDE94266320F2A6FC2CB14</MD5Hash>
+    </FileItem>
+    <FileItem name="SmashingPumpkins_MelanCollie(FC).nrg">
+      <Size>613313134</Size>
+      <MD5Hash>0x1BB574257084306C3499C7F091373F53</MD5Hash>
+    </FileItem>
+    <FileItem name="SmashingPumpkins_MellonCollie1(FC).nrg">
+      <Size>613314132</Size>
+      <MD5Hash>0x64A9D38BA791DB7C7072EBA8C3038FFC</MD5Hash>
+    </FileItem>
+    <FileItem name="SmashingPumpkins_MellonCollie2(FC).nrg">
+      <Size>677122894</Size>
+      <MD5Hash>0x9935B7D81E74FBCEA6FDE09CB208A962</MD5Hash>
+    </FileItem>
+    <FileItem name="SmashingPumpkins_Oceana.nrg">
+      <Size>637555598</Size>
+      <MD5Hash>0xB5635137B738FB3589438BB42EBF7346</MD5Hash>
+    </FileItem>
+    <FileItem name="SmashingPumpkins_Siamese.nrg">
+      <Size>659348772</Size>
+      <MD5Hash>0x0583ABAA79519DD6F5020D8F449AFF80</MD5Hash>
+    </FileItem>
+    <FileItem name="SnowPatrol_UpToNowDisc1.nrg">
+      <Size>611415128</Size>
+      <MD5Hash>0x3843A741C9692B3CF7F766E4C402DF56</MD5Hash>
+    </FileItem>
+    <FileItem name="SnowPatrol_UpToNowDisc2.nrg">
+      <Size>665972120</Size>
+      <MD5Hash>0x78A5470A260B9E18C334F6FE51E24ECA</MD5Hash>
+    </FileItem>
+    <FileItem name="SoundGarden_DownUpside.nrg">
+      <Size>697997010</Size>
+      <MD5Hash>0x7D0F1B32DD7E58EB8D2EFF52EF4D88D4</MD5Hash>
+    </FileItem>
+    <FileItem name="SoundofMusicSoundtrack.nrg">
+      <Size>659798700</Size>
+      <MD5Hash>0x1C000CC376CFA3D8B2CF847D1A0A2004</MD5Hash>
+    </FileItem>
+    <FileItem name="Sounds_SomethingToDieFor.nrg">
+      <Size>438028154</Size>
+      <MD5Hash>0xE4EEEFAF8EEA0DA301BF0921F5C7B1AC</MD5Hash>
+    </FileItem>
+    <FileItem name="Spawn.nrg">
+      <Size>659425488</Size>
+      <MD5Hash>0x55C1CE0942301C70E094F9A18F8B3C09</MD5Hash>
+    </FileItem>
+    <FileItem name="SpinDoctors_Cryptonite.nrg">
+      <Size>537566742</Size>
+      <MD5Hash>0xAD2FE61CFDDFCB03E0E08A893292B5ED</MD5Hash>
+    </FileItem>
+    <FileItem name="Spiritof60s.nrg">
+      <Size>554360370</Size>
+      <MD5Hash>0xDC74AC6DD55F7666469A0E2194718D41</MD5Hash>
+    </FileItem>
+    <FileItem name="StarTracks.nrg">
+      <Size>518616736</Size>
+      <MD5Hash>0xE0CDC74C90882E9FE98E91921FE709BD</MD5Hash>
+    </FileItem>
+    <FileItem name="StaticX_WiscDeathTrip.nrg">
+      <Size>465313418</Size>
+      <MD5Hash>0x1B7E9BF296E27C34BA58134C26E128DD</MD5Hash>
+    </FileItem>
+    <FileItem name="SteelyDan_DecadeOF.nrg">
+      <Size>721566286</Size>
+      <MD5Hash>0x54347D503AD694A96B469236718F6701</MD5Hash>
+    </FileItem>
+    <FileItem name="SteveMiller.nrg">
+      <Size>470146894</Size>
+      <MD5Hash>0x89C149B0DAD17A9CB052AE177ED90D88</MD5Hash>
+    </FileItem>
+    <FileItem name="SteveWinwood_BackintheHighLife.nrg">
+      <Size>482630962</Size>
+      <MD5Hash>0x681292CDAC2427A549C414BFC1446CFD</MD5Hash>
+    </FileItem>
+    <FileItem name="StevieRayVaugn_GrtstHits.nrg">
+      <Size>504250720</Size>
+      <MD5Hash>0x200472511528A2447C13F28EF2732ACE</MD5Hash>
+    </FileItem>
+    <FileItem name="StevieWonder_Musiquarium1.nrg">
+      <Size>442247122</Size>
+      <MD5Hash>0x63015FED91CC8DACAE7F63A1BD7C6210</MD5Hash>
+    </FileItem>
+    <FileItem name="StevieWonder_Musiquarium2.nrg">
+      <Size>467954482</Size>
+      <MD5Hash>0x3E939833138611F0AC7DE1D772DC6917</MD5Hash>
+    </FileItem>
+    <FileItem name="Sting_BrandNewDay.nrg">
+      <Size>518033382</Size>
+      <MD5Hash>0xB2D955CB52F01B79FC44A13406CB1547</MD5Hash>
+    </FileItem>
+    <FileItem name="StoneTemplePilots_12GraciousMelodies.nrg">
+      <Size>497860336</Size>
+      <MD5Hash>0x03AD33B87DD55382E6CB7E34771E321B</MD5Hash>
+    </FileItem>
+    <FileItem name="StoneTemplePilots_Core.nrg">
+      <Size>568001738</Size>
+      <MD5Hash>0xE7E3E3E2D7BDB1773A7E23F90D844301</MD5Hash>
+    </FileItem>
+    <FileItem name="StoneTemplePilots_TinyMusic.nrg">
+      <Size>443733818</Size>
+      <MD5Hash>0x8CA82260AACFA7244903911158D9252F</MD5Hash>
+    </FileItem>
+    <FileItem name="Sublime_Sublime.nrg">
+      <Size>620816188</Size>
+      <MD5Hash>0x3A904EFDB4256E92CAAE0F68754B1CAD</MD5Hash>
+    </FileItem>
+    <FileItem name="SummerJammin_1.nrg">
+      <Size>327227498</Size>
+      <MD5Hash>0xE46A82F643664B08E086760279FC019D</MD5Hash>
+    </FileItem>
+    <FileItem name="SummerJammin_2.nrg">
+      <Size>300656954</Size>
+      <MD5Hash>0x2BE66F629EEE9E739E69DBEF4D656654</MD5Hash>
+    </FileItem>
+    <FileItem name="SummerJammin_3.nrg">
+      <Size>343903178</Size>
+      <MD5Hash>0xBD67661AEC33666B46FEDF8CAE56E76B</MD5Hash>
+    </FileItem>
+    <FileItem name="SystemofaDown_Toxicity.nrg">
+      <Size>467132646</Size>
+      <MD5Hash>0xD2EA327E96C9BCF9D0E2BD7B8D7E860F</MD5Hash>
+    </FileItem>
+    <FileItem name="TalkingHeads_Vaseline1.nrg">
+      <Size>764746886</Size>
+      <MD5Hash>0xA756F2ACFB61A2396238B2983E6800E3</MD5Hash>
+    </FileItem>
+    <FileItem name="TalkingHeads_Vaseline2.nrg">
+      <Size>718360568</Size>
+      <MD5Hash>0xE2FC419361575515A9FCFD13BD809805</MD5Hash>
+    </FileItem>
+    <FileItem name="TempleofTheDog.nrg">
+      <Size>585461156</Size>
+      <MD5Hash>0x7C8971863D6CBA741E545214B6DD45BC</MD5Hash>
+    </FileItem>
+    <FileItem name="TenaciousD.nrg">
+      <Size>537481750</Size>
+      <MD5Hash>0x0338FB7AA47C21F89ECF4FD3BB44EBCB</MD5Hash>
+    </FileItem>
+    <FileItem name="Tesla_TimesMakinChanges.nrg">
+      <Size>794447768</Size>
+      <MD5Hash>0xAA040D55C8E304BE87F51F76E31C2DBA</MD5Hash>
+    </FileItem>
+    <FileItem name="TinaTurner_SimplytheBest.nrg">
+      <Size>730438204</Size>
+      <MD5Hash>0x5ED5B3433B8A550056F200258641081F</MD5Hash>
+    </FileItem>
+    <FileItem name="TomPettyHeartbreakers_GrtstHits.nrg">
+      <Size>695821526</Size>
+      <MD5Hash>0xF27445A6C528A99351BC86F19B5FD065</MD5Hash>
+    </FileItem>
+    <FileItem name="TomPetty_Wildflowers.nrg">
+      <Size>665163032</Size>
+      <MD5Hash>0x01D700D2B315F79225AB9FA5BAB1A3A6</MD5Hash>
+    </FileItem>
+    <FileItem name="Tool_10000Days.nrg">
+      <Size>803145366</Size>
+      <MD5Hash>0x4CDC9BC9ED55A1580BF53DA7475F2B39</MD5Hash>
+    </FileItem>
+    <FileItem name="Tool_Aenima.nrg">
+      <Size>819501272</Size>
+      <MD5Hash>0xA8BBF5154C634B0A8F757E7223F792B7</MD5Hash>
+    </FileItem>
+    <FileItem name="Tool_Lateralus.nrg">
+      <Size>835889892</Size>
+      <MD5Hash>0xBD5096A8B22F824ACBC1CC7BFFA9DB53</MD5Hash>
+    </FileItem>
+    <FileItem name="Tool_Undertow.nrg">
+      <Size>732692084</Size>
+      <MD5Hash>0xA806915C5D8A9E751AF1471BED9478C6</MD5Hash>
+    </FileItem>
+    <FileItem name="ToriAmosUnderthePink.nrg">
+      <Size>601990490</Size>
+      <MD5Hash>0x94F68AF4219BF2E0D0410BD3B29539A3</MD5Hash>
+    </FileItem>
+    <FileItem name="TroutFishingInAmerica_BigTrouble.nrg">
+      <Size>375733702</Size>
+      <MD5Hash>0x47CA670D86A620DB6CF181BF5C680A9D</MD5Hash>
+    </FileItem>
+    <FileItem name="TroutFishingInAmerica_FamilyMusicParty.nrg">
+      <Size>574440554</Size>
+      <MD5Hash>0xE8DBA2C98F44D2DADB8C5D37781CE544</MD5Hash>
+    </FileItem>
+    <FileItem name="TwisterSoundtrack.nrg">
+      <Size>628220110</Size>
+      <MD5Hash>0xC2EF3CB77879181CC69A382457E7B19A</MD5Hash>
+    </FileItem>
+    <FileItem name="U2_JoshuaTree.nrg">
+      <Size>532117216</Size>
+      <MD5Hash>0xA6FCD99F48BBFDC29712AD602D138820</MD5Hash>
+    </FileItem>
+    <FileItem name="U2_RattlenHum.nrg">
+      <Size>767211724</Size>
+      <MD5Hash>0xCFCC6A496868DD7F644897085CAFE1C4</MD5Hash>
+    </FileItem>
+    <FileItem name="U2_War.nrg">
+      <Size>446532582</Size>
+      <MD5Hash>0x79A344EECB426BC36E31D3C9E9F5E6D0</MD5Hash>
+    </FileItem>
+    <FileItem name="UglyKidJoe_Wanted.nrg">
+      <Size>629102052</Size>
+      <MD5Hash>0x2A35F999AB468DFF88F71A6CFC1BB5DA</MD5Hash>
+    </FileItem>
+    <FileItem name="UltraHits.nrg">
+      <Size>652087152</Size>
+      <MD5Hash>0x1EC07B8A89CFD86DB518CBCCE91A55E6</MD5Hash>
+    </FileItem>
+    <FileItem name="VampireWeekend_Contra.nrg">
+      <Size>388692198</Size>
+      <MD5Hash>0xE075A4B6FB8DA17FA327B3D600E8E083</MD5Hash>
+    </FileItem>
+    <FileItem name="VampireWeekend_VampireWeekend.nrg">
+      <Size>363495280</Size>
+      <MD5Hash>0x91E4166621042C311819C9A32A8CC787</MD5Hash>
+    </FileItem>
+    <FileItem name="VanHalen_1.nrg">
+      <Size>376626496</Size>
+      <MD5Hash>0xFBFEC8B4E25867E2D7399F715CB2208E</MD5Hash>
+    </FileItem>
+    <FileItem name="VanHalen_Balance.nrg">
+      <Size>564556058</Size>
+      <MD5Hash>0x14613604B535C32954934F2ED80DD7F5</MD5Hash>
+    </FileItem>
+    <FileItem name="Various_70sPop.nrg">
+      <Size>617640988</Size>
+      <MD5Hash>0x608236309FF6375582EE8C43D04C239A</MD5Hash>
+    </FileItem>
+    <FileItem name="Various_HardandHeavy.nrg">
+      <Size>462780198</Size>
+      <MD5Hash>0x59C6A9CCE0E33BF2CD6BC575872502CD</MD5Hash>
+    </FileItem>
+    <FileItem name="Various_OnlyClassicCDyoullEverNeed.nrg">
+      <Size>818861412</Size>
+      <MD5Hash>0xAFB8CD0C7ADCC472059EBD9DC25080F7</MD5Hash>
+    </FileItem>
+    <FileItem name="VeronicaMaggio_Och.nrg">
+      <Size>347064266</Size>
+      <MD5Hash>0xB4484AAF6EE1232B99D4CC9EBB32321F</MD5Hash>
+    </FileItem>
+    <FileItem name="Vivaldi_FourSeasons.nrg">
+      <Size>530160584</Size>
+      <MD5Hash>0xB9EB86AB3E87FBA94FA04901D7471401</MD5Hash>
+    </FileItem>
+    <FileItem name="Weezer_Weezer.nrg">
+      <Size>437618502</Size>
+      <MD5Hash>0xD89EEA160B7B7DB9E3DACE502D0E51DE</MD5Hash>
+    </FileItem>
+    <FileItem name="WeirdAl_Scissors.nrg">
+      <Size>741550886</Size>
+      <MD5Hash>0xDC72F0805F99CDCF2A2F63D4D7EFAC64</MD5Hash>
+    </FileItem>
+    <FileItem name="Whitesnake_Whitesnake.nrg">
+      <Size>451107164</Size>
+      <MD5Hash>0x14C10E379732C9B8A44C5731CEF552F1</MD5Hash>
+    </FileItem>
+    <FileItem name="WhiteStripes_Elephant.nrg">
+      <Size>528524658</Size>
+      <MD5Hash>0x7FF36EEFB3063A86BE232E7C16AA1CFC</MD5Hash>
+    </FileItem>
+    <FileItem name="WhiteStripes_GetBehindMeSatan.nrg">
+      <Size>468661334</Size>
+      <MD5Hash>0x32E751B698F5688DF5B9EBBBF7B22394</MD5Hash>
+    </FileItem>
+    <FileItem name="WhiteStripes_IckyThump.nrg">
+      <Size>512131124</Size>
+      <MD5Hash>0x5AA8107A5801D13ABCDC156C67545043</MD5Hash>
+    </FileItem>
+    <FileItem name="WhiteStripes_WhiteBloodCells.nrg">
+      <Size>429101066</Size>
+      <MD5Hash>0x70211091664AB4BB6EB964A6E3986FE0</MD5Hash>
+    </FileItem>
+    <FileItem name="Who_QuadropheniaDisc1.nrg">
+      <Size>426576338</Size>
+      <MD5Hash>0x088C7F24C644E7A590856245105CB0F5</MD5Hash>
+    </FileItem>
+    <FileItem name="Who_QuadropheniaDisc2.nrg">
+      <Size>438684116</Size>
+      <MD5Hash>0xB091EA51BFE642254908B128D79CD77B</MD5Hash>
+    </FileItem>
+    <FileItem name="Who_WhosNext.nrg">
+      <Size>457852700</Size>
+      <MD5Hash>0xFE0C372229B02B5A62E60AA70ED8911B</MD5Hash>
+    </FileItem>
+    <FileItem name="WorldCafeLive_Various.nrg">
+      <Size>821438230</Size>
+      <MD5Hash>0x01309E7CA1AC36A7F24495B6F46B0A77</MD5Hash>
+    </FileItem>
+    <FileItem name="Yes_90125.nrg">
+      <Size>817597042</Size>
+      <MD5Hash>0xEC55D03E154F44D6BA75C1F4E9E32320</MD5Hash>
+    </FileItem>
+    <FileItem name="Yes_Bestof.nrg">
+      <Size>702108074</Size>
+      <MD5Hash>0x486C977C679E976891DD5FE0DA81A7DF</MD5Hash>
+    </FileItem>
+    <FileItem name="Yes_TheYesAlbum.nrg">
+      <Size>552290716</Size>
+      <MD5Hash>0x594214FF30CCC11A01D725E58EB69F86</MD5Hash>
+    </FileItem>
+    <FileItem name="ZZTop_Afterburner.nrg">
+      <Size>398083734</Size>
+      <MD5Hash>0xE420750B6A325ADEA99223D0E0875329</MD5Hash>
+    </FileItem>
+    <FileItem name="ZZTOP_GrtstHits.nrg">
+      <Size>771638246</Size>
+      <MD5Hash>0x470D3FE16346E6D917D48077F823918D</MD5Hash>
+    </FileItem>
+    <FileItem name="ZZTop_RanchoTexicano1.nrg">
+      <Size>832550516</Size>
+      <MD5Hash>0x2EC59C3D279BA69355F655CBC99E5C4D</MD5Hash>
+    </FileItem>
+    <FileItem name="ZZTop_RanchoTexicano2.nrg">
+      <Size>800563084</Size>
+      <MD5Hash>0xCD9E89E26A0A8EC4B59A86F83CC9BD6A</MD5Hash>
+    </FileItem>
+    <FileItem name="_NeroNRGs.md5">
+      <Size>36510</Size>
+      <MD5Hash>0x56FEB310CF76975B3E658DC4FAE7E818</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

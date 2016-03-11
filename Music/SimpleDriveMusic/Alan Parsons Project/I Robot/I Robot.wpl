@@ -1,0 +1,21 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 10.0.0.3646"/>
+        <title>I Robot</title>
+    </head>
+    <body>
+        <seq>
+            <media src="\\Gland-xx\My Music\Alan Parsons Project\I Robot\Alan Parsons Project - (01) I Robot [instrumental].mp3"/>
+            <media src="\\Gland-xx\My Music\Alan Parsons Project\I Robot\Alan Parsons Project - (02) I Wouldn&apos;t Want To Be Like You.mp3"/>
+            <media src="\\Gland-xx\My Music\Alan Parsons Project\I Robot\Alan Parsons Project - (03) Some other time.mp3"/>
+            <media src="\\Gland-xx\My Music\Alan Parsons Project\I Robot\Alan Parsons Project - (04) Breakdown.mp3"/>
+            <media src="\\Gland-xx\My Music\Alan Parsons Project\I Robot\Alan Parsons Project - (05) Don&apos;t let it show.mp3"/>
+            <media src="\\Gland-xx\My Music\Alan Parsons Project\I Robot\Alan Parsons Project - (06) The Voice.mp3"/>
+            <media src="\\Gland-xx\My Music\Alan Parsons Project\I Robot\Alan Parsons Project - (07) Nucleus.mp3"/>
+            <media src="\\Gland-xx\My Music\Alan Parsons Project\I Robot\Alan Parsons Project - (08) Day after day (the show must go on).mp3"/>
+            <media src="\\Gland-xx\My Music\Alan Parsons Project\I Robot\Alan Parsons Project - (09) Total eclipse.mp3"/>
+            <media src="\\Gland-xx\My Music\Alan Parsons Project\I Robot\Alan Parsons Project - (10) Genesis CH. 1v. 32 [instrumental].mp3"/>
+        </seq>
+    </body>
+</smil>
