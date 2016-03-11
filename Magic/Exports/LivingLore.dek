@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="56048" Quantity="2" Sideboard="false" Name="Dragonlord Ojutai" />
+  <Cards CatID="54252" Quantity="2" Sideboard="false" Name="Narset, Enlightened Master" />
+  <Cards CatID="50230" Quantity="2" Sideboard="false" Name="Magma Jet" />
+  <Cards CatID="54162" Quantity="4" Sideboard="false" Name="Mystic Monastery" />
+  <Cards CatID="51966" Quantity="4" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="51561" Quantity="3" Sideboard="false" Name="Temple of Enlightenment" />
+  <Cards CatID="50270" Quantity="4" Sideboard="false" Name="Temple of Triumph" />
+  <Cards CatID="56026" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="55532" Quantity="4" Sideboard="false" Name="Swiftwater Cliffs" />
+  <Cards CatID="55550" Quantity="3" Sideboard="false" Name="Tranquil Cove" />
+  <Cards CatID="54216" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="54206" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="53744" Quantity="1" Sideboard="false" Name="Devouring Light" />
+  <Cards CatID="50478" Quantity="1" Sideboard="false" Name="Gods Willing" />
+  <Cards CatID="54022" Quantity="1" Sideboard="false" Name="Tormenting Voice" />
+  <Cards CatID="53482" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="50479" Quantity="1" Sideboard="false" Name="Gods Willing" />
+  <Cards CatID="50398" Quantity="1" Sideboard="false" Name="Unknown Shores" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="56212" Quantity="3" Sideboard="false" Name="Myth Realized" />
+  <Cards CatID="50376" Quantity="1" Sideboard="false" Name="Prognostic Sphinx" />
+  <Cards CatID="54114" Quantity="2" Sideboard="false" Name="Arc Lightning" />
+  <Cards CatID="56022" Quantity="1" Sideboard="false" Name="Draconic Roar" />
+  <Cards CatID="55600" Quantity="1" Sideboard="false" Name="Valorous Stance" />
+  <Cards CatID="51663" Quantity="2" Sideboard="false" Name="Revoke Existence" />
+  <Cards CatID="54108" Quantity="2" Sideboard="false" Name="Monastery Swiftspear" />
+  <Cards CatID="52136" Quantity="1" Sideboard="false" Name="Godsend" />
+  <Cards CatID="50410" Quantity="1" Sideboard="false" Name="Hammer of Purphoros" />
+  <Cards CatID="50302" Quantity="2" Sideboard="false" Name="Heliod, God of the Sun" />
+  <Cards CatID="56388" Quantity="1" Sideboard="false" Name="Anticipate" />
+  <Cards CatID="53504" Quantity="1" Sideboard="false" Name="Ajani Steadfast" />
+  <Cards CatID="52214" Quantity="1" Sideboard="false" Name="Banishing Light" />
+  <Cards CatID="53745" Quantity="1" Sideboard="false" Name="Devouring Light" />
+  <Cards CatID="55646" Quantity="1" Sideboard="false" Name="Lightform" />
+  <Cards CatID="50360" Quantity="1" Sideboard="false" Name="Dissolve" />
+  <Cards CatID="50374" Quantity="1" Sideboard="false" Name="Gift of Immortality" />
+  <Cards CatID="56264" Quantity="1" Sideboard="false" Name="Rending Volley" />
+  <Cards CatID="50248" Quantity="1" Sideboard="false" Name="Burnished Hart" />
+  <Cards CatID="50614" Quantity="1" Sideboard="false" Name="Gainsay" />
+  <Cards CatID="53964" Quantity="1" Sideboard="false" Name="Defiant Strike" />
+  <Cards CatID="54270" Quantity="1" Sideboard="false" Name="Seeker of the Way" />
+  <Cards CatID="51599" Quantity="1" Sideboard="false" Name="Divination" />
+  <Cards CatID="49133" Quantity="2" Sideboard="false" Name="Negate" />
+  <Cards CatID="56264" Quantity="2" Sideboard="true" Name="Rending Volley" />
+  <Cards CatID="55682" Quantity="1" Sideboard="true" Name="Neutralizing Blast" />
+  <Cards CatID="55988" Quantity="1" Sideboard="true" Name="Dragon Hunter" />
+  <Cards CatID="55786" Quantity="1" Sideboard="true" Name="Disdainful Stroke" />
+  <Cards CatID="53982" Quantity="1" Sideboard="true" Name="Disdainful Stroke" />
+  <Cards CatID="53382" Quantity="1" Sideboard="true" Name="Dissipate" />
+  <Cards CatID="54456" Quantity="1" Sideboard="true" Name="Cranial Archive" />
+  <Cards CatID="50230" Quantity="2" Sideboard="true" Name="Magma Jet" />
+  <Cards CatID="51663" Quantity="1" Sideboard="true" Name="Revoke Existence" />
+  <Cards CatID="55600" Quantity="1" Sideboard="true" Name="Valorous Stance" />
+  <Cards CatID="54308" Quantity="1" Sideboard="true" Name="Stubborn Denial" />
+  <Cards CatID="53470" Quantity="1" Sideboard="true" Name="Lightning Strike" />
+  <Cards CatID="50614" Quantity="1" Sideboard="true" Name="Gainsay" />
+</Deck>

@@ -1,0 +1,1105 @@
+<AllDecks>
+<General>
+Amulet of Vigor
+Detention Spere
+Gift of Estates
+Mosswort Bridge
+
+Mana:
+Dreadship Reef
+Rupture Spire
+
+Card Adv:
+Serum Visions
+
+Removal:
+Path to Exile
+
+Control:
+Clash of Wills
+Statis Snare
+</General>
+<AbzanBounce>
+Strategy (Blk, Wht, Grn, Blu):
+- Bounce Azban Ascendancy to add +1/+1 counters over and over and aura cards w/ enters bf bonus
+- Bounce Doomwake Giant to make opponents' creatures -1/-1 over and over (e.g. w/ Suspension Field)
+
+<SORT_ME>
+  DRAGONS TARKIR:
+  Anafenza, Kin-Tree Spirit
+  
+  BOUNCE BONUS:
+  Abhorrent Overlord
+  Aegis Angel
+  Armament Corp
+  Ashen Rider
+  Eidolon of Blossoms (+Card)
+  Gift of Immortality
+  Gray Merchant
+  Grim Guardian
+  Hornet Queen
+  Invasive Species
+  Lagonna-Band Elder (+Life)
+  Nessian Demolok (+Removal)
+  Resolute Archangel
+  Skybind
+  Sidisi
+  Siege Rhino (+Life)
+  Spirit Bonds (+Token)(+Indestructible)
+  Triad of the Fates (let's you remove a creature, then have it come back) (this can be used to counter removal spells)
+  Wingmate Roc
+  
+  ENCHANTMENTS:
+  Brain Maggot
+  Courser of Kruphix (+Life)(+Card)
+  Divine Favor
+  Doomwake Giant
+  Eidolon of Countless Battles
+  Eidolon of Rhetoric
+  Erebos
+  Spectra Ward
+  Suspension Field
+  Underworld Coinsmith
+  Whip of Erebos
+  
+  ARTIFACTS:
+  
+  USE THE GRAVEYARD:
+  Dig Through Time
+  Griffin Dreamfinder
+  Ordunos River Trawler
+  Restock
+  Satyr Wayfinder
+  Strength from the Fallen
+    
+  CREATURES:
+  Wall of Mulch
+  
+  REMOVAL:
+  Erase
+  Hero's Downfall
+  Naturalize
+  Reclamation Sage
+  Ulcerate
+  
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="54242" Quantity="3" Sideboard="false" Name="Forest" />
+  <Cards CatID="53478" Quantity="2" Sideboard="false" Name="Forest" />
+  <Cards CatID="54218" Quantity="4" Sideboard="false" Name="Island" />
+  <Cards CatID="53482" Quantity="3" Sideboard="false" Name="Island" />
+  <Cards CatID="54164" Quantity="1" Sideboard="false" Name="Opulent Palace" />
+  <Cards CatID="53484" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="53396" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="50272" Quantity="4" Sideboard="false" Name="Temple of Mystery" />
+  <Cards CatID="54074" Quantity="2" Sideboard="false" Name="Thornwood Falls" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="53352" Quantity="3" Sideboard="false" Name="Yavimaya Coast" />
+  <Cards CatID="50260" Quantity="4" Sideboard="false" Name="Sylvan Caryatid" />
+
+  <Cards CatID="50390" Quantity="3" Sideboard="false" Name="Akroan Horse" />
+  <Cards CatID="51851" Quantity="1" Sideboard="false" Name="Courser of Kruphix" />
+  <Cards CatID="52228" Quantity="4" Sideboard="false" Name="Daring Thief" />
+  <Cards CatID="54302" Quantity="2" Sideboard="false" Name="Dragon's Eye Savants" />
+  <Cards CatID="51549" Quantity="1" Sideboard="false" Name="Ephara, God of the Polis" />
+  <Cards CatID="52186" Quantity="2" Sideboard="false" Name="Hypnotic Siren" />
+  <Cards CatID="51709" Quantity="2" Sideboard="false" Name="Kiora's Follower" />
+  <Cards CatID="50152" Quantity="2" Sideboard="false" Name="Omenspeaker" />
+  <Cards CatID="51573" Quantity="1" Sideboard="false" Name="Oreskos Sun Guide" />
+  <Cards CatID="51813" Quantity="1" Sideboard="false" Name="Pain Seer" />
+  <Cards CatID="51643" Quantity="2" Sideboard="false" Name="Satyr Wayfinder" />
+  <Cards CatID="50306" Quantity="2" Sideboard="false" Name="Thassa, God of the Sea" />
+  <Cards CatID="51665" Quantity="2" Sideboard="false" Name="Vortex Elemental" />
+  <Cards CatID="53652" Quantity="2" Sideboard="false" Name="Yisan, the Wanderer Bard" />
+
+  <Cards CatID="53570" Quantity="2" Sideboard="false" Name="Jace, the Living Guildpact" />
+
+  <Cards CatID="50456" Quantity="1" Sideboard="false" Name="Aqueous Form" />
+  <Cards CatID="50412" Quantity="1" Sideboard="false" Name="Bow of Nylea" />
+  <Cards CatID="54158" Quantity="2" Sideboard="false" Name="Briber's Purse" />
+  <Cards CatID="51871" Quantity="2" Sideboard="false" Name="Springleaf Drum" />
+  <Cards CatID="53742" Quantity="1" Sideboard="false" Name="Chord of Calling" />
+  <Cards CatID="53982" Quantity="1" Sideboard="false" Name="Disdainful Stroke" />
+  <Cards CatID="50360" Quantity="1" Sideboard="false" Name="Dissolve" />
+  <Cards CatID="52008" Quantity="1" Sideboard="false" Name="Font of Fortunes" />
+  <Cards CatID="51857" Quantity="1" Sideboard="false" Name="Hunter's Prowess" />
+  <Cards CatID="51597" Quantity="1" Sideboard="false" Name="Nullify" />
+  <Cards CatID="53412" Quantity="1" Sideboard="false" Name="Peel from Reality" />
+  <Cards CatID="53398" Quantity="2" Sideboard="false" Name="Ranger's Guile" />
+  <Cards CatID="54134" Quantity="1" Sideboard="false" Name="Sultai Charm" />
+  <Cards CatID="50160" Quantity="1" Sideboard="false" Name="Voyage's End" />
+  <Cards CatID="53986" Quantity="1" Sideboard="false" Name="Weave Fate" />
+
+  <Cards CatID="50614" Quantity="3" Sideboard="true" Name="Gainsay" />
+  <Cards CatID="53588" Quantity="1" Sideboard="true" Name="Jalira, Master Polymorphist" />
+  <Cards CatID="53606" Quantity="1" Sideboard="true" Name="Reclamation Sage" />
+  <Cards CatID="50622" Quantity="3" Sideboard="true" Name="Dark Betrayal" />
+  <Cards CatID="52174" Quantity="2" Sideboard="true" Name="Feast of Dreams" />
+  <Cards CatID="53960" Quantity="1" Sideboard="true" Name="Erase" />
+  <Cards CatID="53332" Quantity="2" Sideboard="true" Name="Plummet" />
+  <Cards CatID="54446" Quantity="1" Sideboard="true" Name="Sultai Ascendancy" />
+</SORT_ME>
+
+GRAVEYARD:
+- Endless Obedience
+- Foul Renewal
+- Kruphix's Insight
+- Marang River Prowler
+- Mardu Woe Reaper
+- Murderous Cut
+- Odunos River Trawler
+- Palace Siege
+- Pharika, God of Affliction
+- Satyr Wayfinder
+- Shambling Attendants
+- Soulflayer
+- Stain the Mind
+- Strength from the Fallen
+- Whip of Erebos
+
+MANA/LANDS:
+- Frontier Siege
+- Nykthos, Shrine to Nyx
+- Shaman of Forgotten Ways
+- Sheltered Aerie
+- Sylvan Caryatid
+- Verdant Haven
+
+- Blossoming Sands [GR,WH]
+- Dismal Backwather [BU,BK]
+- Polluted Delta [BU,BK]
+- Flooded Strand [WH,BU]
+- Jungle Hollow [BK,GR]
+- Opulent Palace [BU,GR,BK]
+- Sandsteppe Citadel [WH,GR,BK]
+- Scoured Barrens [WH,BK]
+- Temple of Deceit [BK,BU]
+- Temple of Enlightenment [BK,WH]
+- Temple of Mystery [GR,BU]
+- Temple of Plenty [WH,GR]
+- Temple of Malady [BK,GR]
+- Temple of Silence [WH, BK]
+- Thornwood Falls [BU,GR]
+- Tranquil Cove [WH,BU]
+- Windswept Heath [GR,WH]
+
+Other Creatures:
+- Aven Sunstriker
+- Bloodsoaked Champion
+- Boon Satyr
+- Courser of Kruphix
+- Dragonlord Silumgar
+- Dromoka, the Eternal
+- Fabled Hero
+- Fate Unraveler
+- Mardu Strike Leader
+- Necromaster Dragon
+- Spirit of the Labyrinth
+- Spiteful Returned
+- Wingmate Roc
+
+Other Spells:
+- Dromoka's Command
+- Retribution of the Ancients
+- Suspension Field
+
+MAKE RE-GET/CREATURES:
+- CorpseWeft
+- Font of Return
+- Heliod, God of the Sun
+- Palace Siege
+- Spirit Bonds
+
+MASTER OF WAVES:
+- Clever Impersonator
+- Vortex elemental
+
+AURAs:
+- Armament of Nyx
+- Divine Favor
+- Ephara's Enlightenment
+- Ephara's Radiance
+- Glaring Aegis
+- Gleam of Authority
+- Karametra's Favor
+- Mirror Mockery
+- Pacifism
+- Stab Wound
+
+Counters:
+- Ajani's Chosen
+- Alesha, Who Smiles at Death
+- Anafenza, Kin-Tree Spirit
+- Bow of Nylea
+- Citadel Siege
+- Feat of Resistance
+- Hardened Scales
+- High Sentinels of Arashin
+- Phalanx Leader
+- Solidarity of Heroes
+- Sunscorch Regent
+
+GET BACK AND RE-CAST (e.g., Azban Ascendancy):
+- Ancestral Statue
+- Azban Ascendancy
+- Banishing Light
+- Eidolon of Blossoms
+- Ephara, God of the Polis
+- Grim Guardian
+- Hypnotic Siren
+- Monastery Loremaster
+- Quickling
+- Riptide Chimera
+- Sandsteppe Outcast
+- Scroll of the Masters
+- Temur Sabertooth
+
+MORPH:
+- Ainok Survivalist
+- Cloudform
+- Courser of Kruphix
+- Deathmist Raptor
+- Den Protector
+- Dragon's Eye Savants 
+- Icefeather Aven
+- Mastery of the Unseen
+- Mistfire Weaver
+- Reality Shift
+- Secret Plans
+- Stratus Dancer
+- Trail of Mystery
+
+MILL:
+- Altar of the Brood
+</AbzanBounce>
+<CountersForCreatures>
+Deck: Use Inspired and other tactics to build counters on creatures
+
+Mana:
+  Karametra's Favor (tap enchanted creature for 1 mana any color)
+  Market Festival
+  Verdant Haven
+
+Gain Life bonus:
+  Ajani Pridemate
+  Oresko Sun Guide
+  Servant of Tymaret
+  Siege Rhino
+  Soul of Theros
+
+Tap/Untap:
+  Akroan Mastiff
+  Breaching Hippocamp
+  Black Oak of Odunos
+  Chord of Calling
+  Covenant of Blood (also get 4 life)
+  Crypsis
+  Dazzling Ramparts
+  Disciple of Kruphix
+  Glimpse the Sun God
+  Icy Blast
+  Ivorytusk Fortress
+  Jeskai Ascendancy
+  Kiora's Follower
+  Kruphix
+  Living Totem (also add Counters)
+  Prophet of Kruphix
+  Siren Song Lyre
+  Triton Tactics
+  Unmake the Graves
+  Winterflame
+  
+Counters:
+  Anafenza, the Foremost
+  Abzan Charm
+  Feat of Resistance
+  Pheres-Band Tromper (Inspired->Add A Counter)
+  Hardened Scales
+
+Removal/Anti-Removal:
+  Devouring Light (also has Convoke)
+  End Hostilities
+  Erase
+  Excoriate
+  Hero's Downfall
+  King Maccar
+  Last Breath (controller also gets 4 life)
+  Mistfire Weaver
+  Necrobite
+  Retribution of the Ancients
+  Triad of Fates (let's you remove a creature, then have it come back)
+  Utter End
+
+Other:
+  Clever Impersonator
+  Gurmag Swiftwing
+  Heir of the Wilds
+  Restock
+  Soul of Ravinica
+  Underworld Cerberus
+  
+USE THE GRAVEYARD:
+  Avalanche Tusker
+  Bear's Companion
+  Bitter Revelation
+  Dig Through Time
+  Empty the Pits
+  Griffin Dreamfinder
+  Ordunos River Trawler
+  Rakshasa Vizier
+  Restock
+  Satyr Wayfinder
+  Sidisi
+  Siege Rhino
+  Strength from the Fallen
+  Sultai Ascendancy
+  
+Multi-Color Spells:
+  Anafenza
+  Armament Corps
+  Butcher of the Horde
+  Chromanticore
+  Crackling Doom
+  Jeskai Charm
+  Mantis Rider
+  Narset
+  Sagu Mauler
+  Savage Knuckleblade
+  Sultai Charm
+  Surrak Dragonclaw
+  Trap Essense
+  Villainous Wealth
+  
+    <Cards CatID="54242" Quantity="2" Sideboard="false" Name="Forest" />
+  <Cards CatID="53482" Quantity="2" Sideboard="false" Name="Island" />
+  <Cards CatID="54164" Quantity="2" Sideboard="false" Name="Opulent Palace" />
+  <Cards CatID="53484" Quantity="3" Sideboard="false" Name="Plains" />
+  <Cards CatID="50272" Quantity="1" Sideboard="false" Name="Temple of Mystery" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="54472" Quantity="4" Sideboard="false" Name="Blossoming Sands" />
+  <Cards CatID="54160" Quantity="4" Sideboard="false" Name="Sandsteppe Citadel" />
+  <Cards CatID="50260" Quantity="4" Sideboard="false" Name="Sylvan Caryatid" />
+
+  DRAGONS OF TARKIR:
+  Anafenza, Kin-Tree Spirit
+  Avatar of the Resolute
+  Ojutai's Command
+  Sunscorch Regent
+
+  COUNTERS:
+  Citadel Siege
+  Dragon Throne of Tarkir
+  Feat of Resistance
+  Feast on the Fallen
+  Solidarity of Heroes
+  <Cards CatID="54426" Quantity="1" Sideboard="false" Name="Abzan Ascendancy" />
+  <Cards CatID="54126" Quantity="4" Sideboard="false" Name="Abzan Charm" />
+  <Cards CatID="50412" Quantity="1" Sideboard="false" Name="Bow of Nylea" />
+  <Cards CatID="54406" Quantity="2" Sideboard="false" Name="Hardened Scales" />
+
+  FLICKER:
+  Abhorrent Overlord
+  Armament Corps
+  Ashen Rider
+  Gift of Immortality
+  Hornet Queen
+  Living Totem
+  Triad of the Fates
+  Wall of Mulch
+  
+  CREATURES:
+  Aegis Angel -0
+  Agent of the Fates -2
+  Akroan Skygard
+  Arbor Colossus
+  Ancient Silverback -1
+  Archers' Parapet
+  Bassara Tower Archers
+  Battlewise Hoplite
+  Fabled Hero
+  Favored Hoplite
+  Fleecemane Lion -2
+  Genesis Hydra
+  Heliod, God
+  Heroes' Bane
+  Hundred-Handed One
+  Hyrda Broodmaster
+  Indulgent Tormentor
+  Ivorytusk Fortress -0
+  Keepsake Gorgon
+  Nemesis of Mortals
+  Ob Nixilis
+  Phalanx Leader
+  Polukranos
+  Rakshasha Deathdealer
+  Sentry of the Underworld
+  Servant of Tymaret
+  Wingsteed Rider
+  <Cards CatID="54276" Quantity="1" Sideboard="false" Name="Abzan Battle Priest" />
+  <Cards CatID="53334" Quantity="3" Sideboard="false" Name="Ajani's Pridemate" />
+  <Cards CatID="54248" Quantity="1" Sideboard="false" Name="Anafenza, the Foremost" />
+  
+  PLANESWALKERS:
+  Ajani, Mentor of Heroes
+  Sorin, Solemn Visitor
+  <Cards CatID="53504" Quantity="1" Sideboard="false" Name="Ajani Steadfast" />
+  
+  TARGET CREATURE(S):
+  Ajani's Presence
+  Boon of Erebos
+  Cutthroat Maneuver
+  Dauntless Onslaught
+  Ephemeral Shields
+  Feat of Resistance
+  Gather Courage
+  Glimpse the Sun God
+  Launch the Fleet
+  Molting Snakeskin
+  Mortal Obstinacy
+  Necrobite
+  Reap what is Sown
+  Warriors' Lesson
+  <Cards CatID="50479" Quantity="1" Sideboard="false" Name="Gods Willing" />
+  <Cards CatID="50478" Quantity="1" Sideboard="false" Name="Gods Willing" />
+  <Cards CatID="53398" Quantity="2" Sideboard="false" Name="Ranger's Guile" />
+  
+  MITIGATION:
+  Bile Blight
+  Crackling Doom
+  Death Frenzy
+  Drown in Sorrow
+  End Hostilities
+  Retribution of the Ancients
+  Silence the Believers
+  Spirit Bonds
+  Utter End
+  <Cards CatID="53745" Quantity="1" Sideboard="false" Name="Devouring Light" />
+  <Cards CatID="53744" Quantity="2" Sideboard="false" Name="Devouring Light" />
+  <Cards CatID="50360" Quantity="1" Sideboard="false" Name="Dissolve" />
+  <Cards CatID="51679" Quantity="1" Sideboard="false" Name="Drown in Sorrow" />  
+  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="54384" Quantity="2" Sideboard="false" Name="Naturalize" />
+  <Cards CatID="49133" Quantity="2" Sideboard="false" Name="Negate" />
+  <Cards CatID="54134" Quantity="1" Sideboard="false" Name="Sultai Charm" />
+  <Cards CatID="53514" Quantity="1" Sideboard="false" Name="Ulcerate" />
+
+  <Cards CatID="53606" Quantity="1" Sideboard="true" Name="Reclamation Sage" />
+  <Cards CatID="50622" Quantity="2" Sideboard="true" Name="Dark Betrayal" />
+  <Cards CatID="52174" Quantity="1" Sideboard="true" Name="Feast of Dreams" />
+  <Cards CatID="53332" Quantity="2" Sideboard="true" Name="Plummet" />
+  <Cards CatID="51845" Quantity="1" Sideboard="true" Name="Archetype of Endurance" />
+  <Cards CatID="54456" Quantity="1" Sideboard="true" Name="Cranial Archive" />
+  <Cards CatID="53338" Quantity="1" Sideboard="true" Name="Back to Nature" />
+  <Cards CatID="53396" Quantity="1" Sideboard="true" Name="Swamp" />
+  <Cards CatID="51805" Quantity="2" Sideboard="true" Name="Black Oak of Odunos" />
+  <Cards CatID="54384" Quantity="1" Sideboard="true" Name="Naturalize" />
+  <Cards CatID="53276" Quantity="1" Sideboard="true" Name="Negate" />
+  <Cards CatID="49133" Quantity="1" Sideboard="true" Name="Negate" />
+  
+</CountersForCreatures>
+<Discards>
++++:
+Ayli, Eternal Pilgrim
+Blightning
+Brutal Hordechief
+Bloodsoaked Champion
+Crater Elemental
+Crux of Fate
+Dragonlord Kolaghan
+Dragonskull Summit
+Deathbringer Regent
+Fruit of the First Tree
+Goblin Rabblemaster
+Horribly Awry
+Kheru Bloodsucker
+Kolaghan's Command
+Mob Rule
+Palace Siege
+Ravenous Rats
+Sandstepp outcast
+Secure the Wastes
+Valorous Stance
+Vampiric Rites
+Vulturous Aven
+</Discards>
+<EidolonSac>
+Acidic Slime
+Angelic Gift
+Dark Confidant
+Fertile Ground
+Shambling Vent
+</EidolonSac>
+<Enchants>
+Angelic Gift
+Herald of the Pantheon
+Mesa Enchantress
+Shadows of the Past
+Shaman of Spring
+</Enchantments>
+<FourPowerMobs>
+  STRATEGY:
+  Cast 4-powered creatures to draw more cards (w/ Temur Ascendancy)
+  
+  +++:
+  Collected Company
+  Elemental Bond
+  Flameshadow Conjuring
+  Frost Walker
+  Sabertooth Outrider
+  Scout the Borders
+  Stormrider Rig
+    Silkwrap
+  Wooded Foothills
+
+  Arcbond  
+  Anticipate
+  Fanatic of Mogis
+  Fanatic of Xenagos
+  Genesis Hydra
+  Impact Tremors
+  Shape the Sands
+  Sight of the Scalelords
+  Stormrider Rig
+  Winds of Qal Sisma
+  Xenagos, God of Revels
+  Yasova Dragonclaw
+  
+  ---:
+  Qal Sisma Behemoth
+  
+  +++:
+  SIDEBOARD:
+  Atarka's Command
+  Mistcutter Hydra
+  Neutralizing Blast
+  
+  Arcbond
+  Barrage of Boulders
+  Bear's Companion
+  Berzerkers' Onslaught
+  Bident of Thassa
+  Chord of Calling
+  Crater's Claws
+  Dragonlord Atarka
+  Dragon Whisperer
+  Fanatic of Xenagos
+  Genesis Hydra
+  Hour of Need
+  Hungering Yeti (+Flash)
+  Hydra Broodmaster
+  Icefall Regent
+  Illusory Angel
+  Mirror Mockery
+  Monastery Siege
+  Polukranos
+  Polymorphist's Jest
+  Profaner of the Dead
+  Sagu Mauler
+  Searing Blood
+  Sedge Scorpion
+  Surrak, the Hunt Caller
+  Thunderbreak Regent
+  
+  DRAGONS OF TARKIR:
+  Archwing Dragon
+  
+  
+  Comnmune with the Gods
+  
+  MANA:
+  Rattleclaw Mystic
+  Sylvan Caryatid
+  Verdant Haven
+  
+  ADD 4-POWER CREATURES:
+  Alpine Grizzly
+  Ashcloud Phoenix
+  Bear's Companion
+  Benthic Giant
+  Bloodfire Enforcers
+  Boon Satyr (+Flash)  
+  Crystalline Nautilus
+  Destructor Dragon
+  Fanatic of Mogis
+  Garruk's Packleader
+  Kruphix, God
+  Meandering Towershell
+  Mercurial Pretender
+  Oracle of Bones
+  Pearl Lake Ancient (+Flash)
+  Phytotitan
+  Polis Crusher
+  Spellheart Chimer (Power=# instants and sorceries in graveyard)
+  Spirespine
+  Shaman of the Great Hunt
+  Stormbreath Dragon (1)
+  Surrak Dragonclaw (+Flash) (1)
+  Temur Sabertooth +++ (0)
+  Twinflame
+  Vaultbreaker +++ (1)
+  Whirlwind Adept
+  Xenagos, God
+  Yasova Dragonclaw
+  
+  OTHER:
+  Clever Impersonator
+  Dragon Throne of Tarkir
+  Flamewake Phoenix
+  Hall of Triumph
+  Hammer of Purphoros
+  Heir of the Wilds
+  Howl of the Horde
+  Paragon of Fierce Defiance
+  Purphoros, God
+  Restock
+  Roar of Challenge
+  Sultai Flayer
+  
+  PLANESWALKERS:  
+  Ajani, Mentor of Heroes
+  Kiora, the Crashing Wave
+  Nissa, Worldwaker
+  Xenagos, the Reveler
+  
+  CORE:
+  Temur Ascendancy
+  Temur Charm
+  
+  FLICKER/FLASH:
+  Felhide Spiritbinder
+  Flame-Wreathed Phoenix
+  Gift of Immortality (Combine with Mardu Blazebringer)
+  Icefeather Aven
+  Invasive Species
+  Peel from Reality
+  Prophet of Kruphix
+  Quickling
+  Roaring Primadox +++
+  Voyage's End
+  
+  GAIN LIFE:
+  Feed the Clan
+  
+  DRAW CARDS:
+  Life's Legacy
+  Military Intelligence
+  
+  REMOVAL:
+  Aetherspouts
+  Anger of the Gods (1)
+  Arc Lightning
+  Destructive Revelry
+  Fade into Antiquity
+  Fated Conflagration
+  Reclamation Sage
+  Magma Jet (+Scry 2)
+  Naturalize
+  Whelming Wave
+  
+  COUNTERSPELLS:
+  Dissolve
+  Mindswipe
+  Negate
+  Stymied Hopes
+  Trap Essence (0)
+</FourPowerMobs>
+<LandDestruct>
+Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
+
+Lightform (2 WHT devotion) (also works w/ Jeskai charm: "put creature on top of library")
+Heliod
+</LandDestruct>
+<LivingLore>
+LivingLore (White Blue Red):
+- Use graveyard-fill cards and Living Lore to get big threat and big spells
+- Use Eidolon of Great Revel and only 4+ casting cost cards and include lots of lands that can become 3/3 creatures w/ Hammer of Purphoros
+- Put in lots and lots of Planewalkers and Chain Veils
+- Need more Ojutai Monuments and other similar non-creatures-that-can-become-creatures
+
++++:
+Fall of the Hammer
+Flamespeaker's Will
+Godsend
+Haunted Plate Mail
+Profound Journey
+Sword of the Animist
+Stormrider Rig
+
+---:
+Fate Forgotten
+
+INDESTRUCTIBLE:
+- Aegis Angel
+- Ajani's Presence
+- Soul of New Phyrexia
+- Spirit Bonds
+
+BIG SPELLS:
+- Chronostutter (6)
+- Clone Legion (9)
+- Dead Drop (10) [BLK]
+- Descent of the Dragons (6)
+- Feral Incarnation (9) [GRN]
+- Ojutai's Command (4)
+- Psychic Intrusion (5) [BLK]
+- Silumgar's Command (5) [BLK]
+- Supplant Form (6)
+- Temporal Trespass (11)
+- Volcanic Vision (7)
+
+DIRECT DAMAGE:
+Arc Lightning
+Bathe in Dragonfire
+Bolt of Keranos
+Burn Away
+Draconic Roar
+Lightning Bolt
+
+USE THE TOP DECK:
+Chandra Pyromancer
+Cloudform
+Collected Company
+Commune with Lava
+Coursair of Kruphix
+Ethereal Ambush
+Ire Shaman
+Lens of Clarity
+Lightform
+Mastery of the Unseen
+Outpost Siege
+
+ADD MORE ARTIFACTS:
+Briber's Purse
+The Chain Veil
+Cranial Archive
+Ensoul Artifact
+Ghostfire Blade
+Gorgon's Head
+Jeskai Banner
+Lens of Clarity
+Profane Memento
+Ornithopter
+Scroll of the Masters
+Shrapnel Blast
+Tormod's Crypt
+Traveler's Amulet
+Ugin's Nexus
+
+ADD GREEN:
+Mana Confluence
+Bow of Nylea
+Shaman of Forgotten Ways
+Springleaf Drum
+Sylvan Caryatid
+Verdant Haven
+Windswept Heath
+
+NEED TO BETTER DEFEND AGAINST WEENIE DECKS:
+- 1/3 first strikers in sideboard
+
+NON-CREATURES:
+- Cunning Strike (5)
+- Divine Favor
+- Epiphany Storm
+- Friendly Fire
+- Hammer of Purphoros (use extra lands to create 3/3 colorless)
+- In Garruk's Wake (9) [BLK]
+- Jeskai Ascendancy
+- Military Intelligence
+- Monastery Siege
+- Myth Realized
+- Raise the Alarm
+- Riddle of Lightning (5)
+- Searing Blood
+- Shifting Loyalties
+- Steam Augury
+- Whims of the Fates (6)
+- Worst Fears (8) [BLK]
+
+CREATURES:
+- Jeskai Elder
+- Lotus-Eye Mystics
+- Ojutai Exemplars
+- Orator of Ojutai
+- Prognostic Sphinx
+- Student of Ojutai
+- Whirlwind Adept
+
+Mitigation:
+- Gods Willing
+
+LEGENDARY:
+- Alesha, Who Smiles at Death (get 2-power or less creatures from Graveyard)
+- Dragonlord Ojutai
+- Heliod, God
+- Hero's Blade
+- Iroas, God of Victory
+- Jalira, Master Polymorphist
+- Narset, Enlightened Master
+
+Regenerate Creatures:
+- Marang River Skeleton
+- Rakshasha DeathDealer
+
+Creatures:
+- Archetype of Courage (All creatures get First Strike) [2-power or less]
+- Chromanticore
+- Dromoka, the Eternal
+- Enduring Scalelord
+- Living Lore
+- Mantis Rider
+- Monastery Loremaster
+- Observant Alseid
+- Ojutai Exemplars
+- Paragon of New Dawns
+- Pilgrim of the Fires
+- Sandsteppe Outcast
+- Soulfire Grand Master [2-power or less]
+- Wall of Essence [2-power or less]
+- Warden of the First Tree
+
+Re-Use:
+- Gift Of Immortality
+- Howl of the Horde
+- Spirit Bonds
+
+Draw Cards:
+- Tapestry of the Ages
+
+Deathtouch (use w/ creatures w/ First Strike):
+- Aspect of Gorgon [BLK]
+- Bow of Nylea
+- Coat w/ Venom [BLK]
+- Deadly Wanderings [BLK]
+- Gorgon's Head
+- Hornet Nest
+- Necrobite [BLK]
+
+Planeswalkers:
+- Ajani Steadfast
+- Jace, the Living Guildpact
+- Narset Transcendent
+
+Put into Graveyard:
+- Commune with the Gods
+- Nyx Weaver [2-power or less]
+- Rakshasha's Secret
+- Satyr Wayfinder
+- Scout the Borders
+- See the Unwritten
+- Steam Augury
+- Taigam's Scheming
+
+Return From Graveyard:
+- Dutiful Return (4) [BLK]
+- Endless Obediance (6) [BLK]
+- Foul Renewal (4) [BLK]
+- Ghastly Conscription (7) [BLK] +++
+- Marange Riverprowler
+- March of the Returned (4) [BLK]
+- Profound Journey (7)
+- Rescue from the Underworld (5) [BLK]
+- Unmake the Graves (5) [BLK]
+
+Wipe:
+- Crux of Fate (5) [BLK]
+- End Hostilities (5)
+- Fated Retribution (7)
+
+Direct Dmg/Removal:
+- Boulderfall (8)
+- Cone of Flame (5) +++
+- Excoriate (4) [WHT]
+- Murderous Cut (5) [BLK]
+
+Draw Cards:
+- Dig Through Time (8)
+- Dragonlord's Prerogative (6)
+- Interpret the Signs (6)
+- Jace's Ingenuity (5)
+- Master the Way (5)
+- Mystic Mediation (4) (cards to graveyard)
+- Treasure Cruise (8)
+
+Get More Lands:
+- Explosive Vegetation (4) [GRN]
+- Nissa's Expedition(5) [GRN]
+- Seek the Horizon(4) [GRN]
+
+Destroy Land:
+- Demolish (4)
+- Desecration Plague (4)
+- Spiteful Blow (6) [BLK]
+- Vandalize (5)
+</LivingLore>
+<MorphAndCounters>
+Strategy (Wht, Grn, Blu):
+- Use morphing and +1/+1 counters bonuses
+
+(use aura cards w/ enters bf bonus)
+Ajani's Chosen
+Bird that gives counters
+Vortex elemental
+
+MANA/LANDS:
+- Ordeal of Nylea
+- Shaman of Forgotten Ways
+- Springleaf Drum
+- Sylvan Caryatid
+- Verdant Haven
+- Windswept Heath
+
+MORPH:
+- Ainok Survivalist
+- Cloudform
+- Courser of Kruphix
+- Deathmist Raptor
+- Den Protector
+- Dragon's Eye Savants 
+- Icefeather Aven
+- Mastery of the Unseen
+- Mistfire Weaver
+- Obscuring Ether
+- Reality Shift
+- Secret Plans
+- Stratus Dancer
+- Trail of Mystery
+
+ARTIFACTS:
+- Ghostfire Blade
+
+ENCHANTS:
+- Oppresive Rays
+- Spirit Bonds
+
+GET BACK AND RE-CAST (e.g., Azban Ascendancy):
+- Ancestral Statue
+- Armament of Nyx
+- Banishing Light
+- Divine Favor
+- Ephara, God of the Polis
+- Frontier Siege
+- Hypnotic Siren
+- Karametra's Favor
+- Monastery Loremaster
+- Pacifism
+- Riptide Chimera
+- Scroll of the Masters
+- Temur Sabertooth
+
+CREATURES:
+- Eidolon of Blossoms
+- Eidolon or Rhetoric
+- Heir of the Wilds
+- Nylea, God of the Hunt
+- Nyx Fleece Ram
+
+Counters:
+- Ajani's Chosen
+- Alesha, Who Smiles at Death
+- Anafenza, Kin-Tree Spirit
+- Hardened Scales
+- Sunscorch Regent
+Bird that gives counters
+Vortex elemental
+
+Creature Enter BF Bonus:
+- Ephara, God of the Polis
+- Ephara's Enlightenment
+
+Other Creatures:
+- Boon Satyr
+- Clever Impersonator
+- Courser of Kruphix
+- Quickling
+- Shaman of Forgotten Ways
+
+MAKE CREATURES:
+- CorpseWeft
+- Master of the Waves
+- Mirror Mockery
+
+MILL:
+- Altar of the Brood
+</MorphAndCounters>
+<N-MarduMidrange>
++++:
+Mage-Ring Network
+
+
+http://www.mtgdecks.net/decks/view/331822
+
+<Mana>
+2	Mountain
+2	Plains
+1	Swamp
+2	Haven of the Spirit Dragon [1]
+2	Caves of Koilos OK
+3	Battlefield Forge [2]
+4	Nomad Outpost OK
+2	Shambling Vent [0]
+4	Bloodstained Mire [0]
+4	Smoldering Marsh [0]
+</Mana> 26
+
+<Creatures>
+4	Thunderbreak Regent [1]
+2	Soulfire Grand Master [1]
+4	Seeker of the Way OK
+2	Kolaghan, the Storm's Fury [1]
+</Creatures>
+
+<Non-Creatures>
+1	Murderous Cut OK
+2	Wild Slash OK
+1	Utter End OK
+3	Draconic Roar OK
+1	Valorous Stance OK
+1	Kolaghan's Command OK
+4	Crackling Doom OK
+2	Radiant Flames [0]
+2	Outpost Siege [1]
+</Non-Creatures>
+
+<Planeswalker>
+2	Gideon, Ally of Zendikar [0]
+1	Ob Nixilis Reignited [0]
+2	Sarkhan, the Dragonspeaker [0]
+</Planeswalker>
+
+<Sideboard>
+2 Hidden Dragonslayer [0]
+1 Virulent Plague OK
+1 Foul-Tongue Invocation OK
+1 Valorous Stance OK
+2 Surge of Righteousness OK
+1 Kolaghan's Command OK
+1 Sorin, Solemn Visitor OK
+1 Ruinous Path [0]
+3 Duress OK
+2 Transgress the Mind [0]
+15 Cards total 
+</Sideboard>
+</N-MarduMidrange>
+<RedBlueIzzet>
+Izzet Boilerworks
+
+Reclusive Artificer
+Royal Assasin
+Sunbeam Spellbomb
+</RedBlueIzzet>
+<Tokens>
+Creakwood Liege
+Elspeth, Knight-Errant
+Mentor of the Meek
+Parallel Lives
+Sundering Growth
+Unruly Mob
+</Tokens>
+<WasteNot>
+Inquisition of Kozilek
+Liliana's Caress
+Lore Broker
+</WasteNot>
+
+
+</AllDecks>

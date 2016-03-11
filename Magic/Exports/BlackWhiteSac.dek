@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="50570" Quantity="2" Sideboard="false" Name="Ashen Rider" />
+  <Cards CatID="46281" Quantity="1" Sideboard="false" Name="Azorius Arrester" />
+  <Cards CatID="49553" Quantity="1" Sideboard="false" Name="Blood Bairn" />
+  <Cards CatID="50248" Quantity="2" Sideboard="false" Name="Burnished Hart" />
+  <Cards CatID="51821" Quantity="1" Sideboard="false" Name="Champion of Stray Souls" />
+  <Cards CatID="49407" Quantity="1" Sideboard="false" Name="Corpse Hauler" />
+  <Cards CatID="50466" Quantity="1" Sideboard="false" Name="Disciple of Phenax" />
+  <Cards CatID="46315" Quantity="3" Sideboard="false" Name="Drainpipe Vermin" />
+  <Cards CatID="51727" Quantity="1" Sideboard="false" Name="Eater of Hope" />
+  <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
+  <Cards CatID="52260" Quantity="1" Sideboard="false" Name="Dictate of Erebos" />
+  <Cards CatID="50408" Quantity="1" Sideboard="false" Name="Whip of Erebos" />
+  <Cards CatID="50224" Quantity="2" Sideboard="false" Name="Ordeal of Erebos" />
+  <Cards CatID="49537" Quantity="1" Sideboard="false" Name="Gnawing Zombie" />
+  <Cards CatID="50562" Quantity="1" Sideboard="false" Name="Gray Merchant of Asphodel" />
+  <Cards CatID="52062" Quantity="1" Sideboard="false" Name="Tethmos High Priest" />
+  <Cards CatID="52188" Quantity="1" Sideboard="false" Name="Master of the Feast" />
+  <Cards CatID="49379" Quantity="1" Sideboard="false" Name="Master of Diversion" />
+  <Cards CatID="47751" Quantity="2" Sideboard="false" Name="Nightveil Specter" />
+  <Cards CatID="48257" Quantity="1" Sideboard="false" Name="Obzedat's Aid" />
+  <Cards CatID="49461" Quantity="1" Sideboard="false" Name="Shadowborn Apostle" />
+  <Cards CatID="50113" Quantity="1" Sideboard="false" Name="Sin Collector" />
+  <Cards CatID="46681" Quantity="1" Sideboard="false" Name="Slum Reaper" />
+  <Cards CatID="52108" Quantity="1" Sideboard="false" Name="Underworld Coinsmith" />
+  <Cards CatID="47701" Quantity="1" Sideboard="false" Name="Vizkopa Confessor" />
+  <Cards CatID="49381" Quantity="4" Sideboard="false" Name="Celestial Flare" />
+  <Cards CatID="47837" Quantity="3" Sideboard="false" Name="Devour Flesh" />
+  <Cards CatID="49159" Quantity="2" Sideboard="false" Name="Doom Blade" />
+  <Cards CatID="49181" Quantity="2" Sideboard="false" Name="Duress" />
+  <Cards CatID="50374" Quantity="3" Sideboard="false" Name="Gift of Immortality" />
+  <Cards CatID="50479" Quantity="1" Sideboard="false" Name="Gods Willing" />
+  <Cards CatID="50596" Quantity="2" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="47825" Quantity="1" Sideboard="false" Name="Mental Vapors" />
+  <Cards CatID="49109" Quantity="2" Sideboard="false" Name="Pacifism" />
+  <Cards CatID="50256" Quantity="3" Sideboard="false" Name="Thoughtseize" />
+  <Cards CatID="52054" Quantity="1" Sideboard="false" Name="Tormented Thoughts" />
+  <Cards CatID="49339" Quantity="2" Sideboard="false" Name="Trading Post" />
+  <Cards CatID="47913" Quantity="1" Sideboard="false" Name="Undercity Plague" />
+  <Cards CatID="46603" Quantity="1" Sideboard="false" Name="Ultimate Price" />
+  <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" />
+  <Cards CatID="52182" Quantity="1" Sideboard="true" Name="Agent of Erebos" />
+  <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
+</Deck>

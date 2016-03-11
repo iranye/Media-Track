@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="54242" Quantity="2" Sideboard="false" Name="Forest" />
+  <Cards CatID="54168" Quantity="2" Sideboard="false" Name="Frontier Bivouac" />
+  <Cards CatID="53482" Quantity="3" Sideboard="false" Name="Island" />
+  <Cards CatID="54072" Quantity="1" Sideboard="false" Name="Jungle Hollow" />
+  <Cards CatID="53480" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="54162" Quantity="1" Sideboard="false" Name="Mystic Monastery" />
+  <Cards CatID="54164" Quantity="2" Sideboard="false" Name="Opulent Palace" />
+  <Cards CatID="53484" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="53396" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="50272" Quantity="4" Sideboard="false" Name="Temple of Mystery" />
+  <Cards CatID="54074" Quantity="1" Sideboard="false" Name="Thornwood Falls" />
+  <Cards CatID="53316" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="53460" Quantity="3" Sideboard="false" Name="Elvish Mystic" />
+  <Cards CatID="50260" Quantity="4" Sideboard="false" Name="Sylvan Caryatid" />28
+  
+  <Cards CatID="50390" Quantity="3" Sideboard="false" Name="Akroan Horse" />
+  <Cards CatID="51982" Quantity="1" Sideboard="false" Name="Akroan Mastiff" />
+  <Cards CatID="51805" Quantity="1" Sideboard="false" Name="Black Oak of Odunos" />
+  <Cards CatID="51869" Quantity="1" Sideboard="false" Name="Chromanticore" />
+  <Cards CatID="53596" Quantity="1" Sideboard="false" Name="Cruel Sadist" />
+  <Cards CatID="52228" Quantity="4" Sideboard="false" Name="Daring Thief" />
+  <Cards CatID="51731" Quantity="1" Sideboard="false" Name="Felhide Spiritbinder" />
+  <Cards CatID="53698" Quantity="1" Sideboard="false" Name="Hornet Nest" />
+  <Cards CatID="52114" Quantity="1" Sideboard="false" Name="King Macar, the Gold-Cursed" />
+  <Cards CatID="51709" Quantity="3" Sideboard="false" Name="Kiora's Follower" />
+  <Cards CatID="51573" Quantity="1" Sideboard="false" Name="Oreskos Sun Guide" />
+  <Cards CatID="50618" Quantity="2" Sideboard="false" Name="Prophet of Kruphix" />
+  <Cards CatID="51587" Quantity="1" Sideboard="false" Name="Sphinx's Disciple" />
+  <Cards CatID="50514" Quantity="1" Sideboard="false" Name="Triad of Fates" />
+  <Cards CatID="53652" Quantity="1" Sideboard="false" Name="Yisan, the Wanderer Bard" />23
+  
+  <Cards CatID="53570" Quantity="1" Sideboard="false" Name="Jace, the Living Guildpact" />
+  <Cards CatID="50316" Quantity="1" Sideboard="false" Name="Xenagos, the Reveler" />2
+  
+  <Cards CatID="53542" Quantity="1" Sideboard="false" Name="Ætherspouts" />
+  <Cards CatID="53742" Quantity="1" Sideboard="false" Name="Chord of Calling" />
+  <Cards CatID="53686" Quantity="1" Sideboard="false" Name="Covenant of Blood" />
+  <Cards CatID="50360" Quantity="1" Sideboard="false" Name="Dissolve" />
+  <Cards CatID="52008" Quantity="1" Sideboard="false" Name="Font of Fortunes" />
+  <Cards CatID="54436" Quantity="2" Sideboard="false" Name="Jeskai Ascendancy" />
+  <Cards CatID="51767" Quantity="1" Sideboard="false" Name="Glimpse the Sun God" />
+  <Cards CatID="51657" Quantity="1" Sideboard="false" Name="Karametra's Favor" />
+  <Cards CatID="53412" Quantity="1" Sideboard="false" Name="Peel from Reality" />
+  <Cards CatID="53398" Quantity="2" Sideboard="false" Name="Ranger's Guile" />
+  <Cards CatID="51593" Quantity="3" Sideboard="false" Name="Retraction Helix" />
+  <Cards CatID="51871" Quantity="3" Sideboard="false" Name="Springleaf Drum" />
+  <Cards CatID="54134" Quantity="2" Sideboard="false" Name="Sultai Charm" />
+  <Cards CatID="54132" Quantity="2" Sideboard="false" Name="Temur Charm" />
+  <Cards CatID="50358" Quantity="1" Sideboard="false" Name="Triton Tactics" />
+  <Cards CatID="53514" Quantity="1" Sideboard="false" Name="Ulcerate" />
+  <Cards CatID="53434" Quantity="1" Sideboard="false" Name="Verdant Haven" />25
+  
+  <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
+  <Cards CatID="53606" Quantity="1" Sideboard="true" Name="Reclamation Sage" />
+  <Cards CatID="50622" Quantity="2" Sideboard="true" Name="Dark Betrayal" />
+  <Cards CatID="52174" Quantity="1" Sideboard="true" Name="Feast of Dreams" />
+  <Cards CatID="54384" Quantity="2" Sideboard="true" Name="Naturalize" />
+  <Cards CatID="53332" Quantity="2" Sideboard="true" Name="Plummet" />
+  <Cards CatID="51845" Quantity="1" Sideboard="true" Name="Archetype of Endurance" />
+  <Cards CatID="54456" Quantity="1" Sideboard="true" Name="Cranial Archive" />
+  <Cards CatID="53276" Quantity="2" Sideboard="true" Name="Negate" />
+  <Cards CatID="51805" Quantity="1" Sideboard="true" Name="Black Oak of Odunos" />
+</Deck>

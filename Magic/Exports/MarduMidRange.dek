@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53346" Quantity="2" Sideboard="false" Name="Battlefield Forge" />
+  <Cards CatID="54166" Quantity="4" Sideboard="false" Name="Nomad Outpost" />
+  <Cards CatID="55914" Quantity="2" Sideboard="false" Name="Haven of the Spirit Dragon" />
+  <Cards CatID="54246" Quantity="2" Sideboard="false" Name="Sarkhan, the Dragonspeaker" />
+  <Cards CatID="57756" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="57626" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="58154" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="58144" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="55526" Quantity="1" Sideboard="false" Name="Scoured Barrens" />
+  <Cards CatID="58835" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="55536" Quantity="2" Sideboard="false" Name="Wind-Scarred Crag" />
+  <Cards CatID="56296" Quantity="4" Sideboard="false" Name="Thunderbreak Regent" />
+  <Cards CatID="55614" Quantity="2" Sideboard="false" Name="Soulfire Grand Master" />
+  <Cards CatID="54270" Quantity="4" Sideboard="false" Name="Seeker of the Way" />
+  <Cards CatID="56128" Quantity="1" Sideboard="false" Name="Dragonlord Kolaghan" />
+  <Cards CatID="55354" Quantity="2" Sideboard="false" Name="Kolaghan, the Storm's Fury" />
+  <Cards CatID="56082" Quantity="1" Sideboard="false" Name="Kolaghan's Command" />
+  <Cards CatID="54104" Quantity="1" Sideboard="false" Name="Murderous Cut" />
+  <Cards CatID="58317" Quantity="1" Sideboard="false" Name="Gideon, Ally of Zendikar" />
+  <Cards CatID="54188" Quantity="1" Sideboard="false" Name="Utter End" />
+  <Cards CatID="56022" Quantity="4" Sideboard="false" Name="Draconic Roar" />
+  <Cards CatID="55600" Quantity="1" Sideboard="false" Name="Valorous Stance" />
+  <Cards CatID="54432" Quantity="4" Sideboard="false" Name="Crackling Doom" />
+  <Cards CatID="55440" Quantity="2" Sideboard="false" Name="Outpost Siege" />
+  <Cards CatID="54258" Quantity="2" Sideboard="false" Name="Sorin, Solemn Visitor" />
+  <Cards CatID="55904" Quantity="1" Sideboard="false" Name="Foul-Tongue Invocation" />
+  <Cards CatID="58399" Quantity="1" Sideboard="false" Name="Ob Nixilis Reignited" />
+  <Cards CatID="58042" Quantity="1" Sideboard="false" Name="Abbot of Keral Keep" />
+  <Cards CatID="58531" Quantity="2" Sideboard="false" Name="Shambling Vent" />
+  <Cards CatID="54198" Quantity="3" Sideboard="false" Name="Bloodstained Mire" />
+  <Cards CatID="58697" Quantity="4" Sideboard="false" Name="Smoldering Marsh" />
+  <Cards CatID="55630" Quantity="1" Sideboard="true" Name="Shockmaw Dragon" />
+  <Cards CatID="55324" Quantity="1" Sideboard="true" Name="Wardscale Dragon" />
+  <Cards CatID="55600" Quantity="2" Sideboard="true" Name="Valorous Stance" />
+  <Cards CatID="56082" Quantity="1" Sideboard="true" Name="Kolaghan's Command" />
+  <Cards CatID="55930" Quantity="4" Sideboard="true" Name="Duress" />
+  <Cards CatID="56108" Quantity="1" Sideboard="true" Name="Virulent Plague" />
+  <Cards CatID="55904" Quantity="1" Sideboard="true" Name="Foul-Tongue Invocation" />
+  <Cards CatID="56410" Quantity="1" Sideboard="true" Name="Surge of Righteousness" />
+  <Cards CatID="55944" Quantity="3" Sideboard="true" Name="Hidden Dragonslayer" />
+</Deck>

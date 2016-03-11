@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="51561" Quantity="4" Sideboard="false" Name="Temple of Enlightenment" />
+  <Cards CatID="50550" Quantity="3" Sideboard="false" Name="Master of Waves" />
+  <Cards CatID="50306" Quantity="1" Sideboard="false" Name="Thassa, God of the Sea" />
+  <Cards CatID="46503" Quantity="4" Sideboard="false" Name="Hallowed Fountain" />
+  <Cards CatID="49357" Quantity="1" Sideboard="false" Name="Path of Bravery" />
+  <Cards CatID="50404" Quantity="1" Sideboard="false" Name="Spear of Heliod" />
+  <Cards CatID="49153" Quantity="1" Sideboard="false" Name="Wall of Frost" />
+  <Cards CatID="49291" Quantity="1" Sideboard="false" Name="Claustrophobia" />
+  <Cards CatID="49137" Quantity="1" Sideboard="false" Name="Disperse" />
+  <Cards CatID="50208" Quantity="1" Sideboard="false" Name="Traveler's Amulet" />
+  <Cards CatID="50418" Quantity="4" Sideboard="false" Name="Island" />
+  <Cards CatID="50416" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="46423" Quantity="4" Sideboard="false" Name="Detention Sphere" />
+  <Cards CatID="49133" Quantity="2" Sideboard="false" Name="Negate" />
+  <Cards CatID="50420" Quantity="2" Sideboard="false" Name="Island" />
+  <Cards CatID="49199" Quantity="2" Sideboard="false" Name="Domestication" />
+  <Cards CatID="49591" Quantity="1" Sideboard="false" Name="Clone" />
+  <Cards CatID="51663" Quantity="1" Sideboard="false" Name="Revoke Existence" />
+  <Cards CatID="52074" Quantity="1" Sideboard="false" Name="Nyx-Fleece Ram" />
+  <Cards CatID="49109" Quantity="1" Sideboard="false" Name="Pacifism" />
+  <Cards CatID="51998" Quantity="4" Sideboard="false" Name="Riptide Chimera" />
+  <Cards CatID="52222" Quantity="1" Sideboard="false" Name="Skybind" />
+  <Cards CatID="50414" Quantity="5" Sideboard="false" Name="Plains" />
+  <Cards CatID="50282" Quantity="2" Sideboard="false" Name="Island" />
+  <Cards CatID="49381" Quantity="2" Sideboard="false" Name="Celestial Flare" />
+  <Cards CatID="52256" Quantity="1" Sideboard="false" Name="Aegis of the Gods" />
+  <Cards CatID="51549" Quantity="2" Sideboard="false" Name="Ephara, God of the Polis" />
+  <Cards CatID="46483" Quantity="1" Sideboard="false" Name="Supreme Verdict" />
+  <Cards CatID="50140" Quantity="2" Sideboard="false" Name="Hopeful Eidolon" />
+  <Cards CatID="52186" Quantity="1" Sideboard="false" Name="Hypnotic Siren" />
+  <Cards CatID="51567" Quantity="1" Sideboard="false" Name="Nyxborn Shieldmate" />
+  <Cards CatID="46455" Quantity="1" Sideboard="false" Name="Tablet of the Guilds" />
+  <Cards CatID="51723" Quantity="2" Sideboard="false" Name="Arbiter of the Ideal" />
+  <Cards CatID="51859" Quantity="1" Sideboard="false" Name="Ephara's Enlightenment" />
+  <Cards CatID="51665" Quantity="1" Sideboard="false" Name="Vortex Elemental" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="52118" Quantity="1" Sideboard="false" Name="Dictate of Kruphix" />
+  <Cards CatID="50560" Quantity="1" Sideboard="false" Name="Fate Foretold" />
+  <Cards CatID="50440" Quantity="1" Sideboard="false" Name="Swan Song" />
+  <Cards CatID="49121" Quantity="1" Sideboard="true" Name="Wall of Swords" />
+  <Cards CatID="49493" Quantity="1" Sideboard="true" Name="Tidebinder Mage" />
+  <Cards CatID="52206" Quantity="1" Sideboard="true" Name="Launch the Fleet" />
+  <Cards CatID="51974" Quantity="2" Sideboard="true" Name="Battlefield Thaumaturge" />
+  <Cards CatID="50302" Quantity="1" Sideboard="true" Name="Heliod, God of the Sun" />
+  <Cards CatID="49139" Quantity="1" Sideboard="true" Name="Door of Destinies" />
+  <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
+  <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
+  <Cards CatID="46669" Quantity="1" Sideboard="true" Name="Faerie Impostor" />
+  <Cards CatID="50608" Quantity="1" Sideboard="true" Name="Soldier of the Pantheon" />
+  <Cards CatID="47897" Quantity="1" Sideboard="true" Name="Blind Obedience" />
+  <Cards CatID="47739" Quantity="1" Sideboard="true" Name="Frontline Medic" />
+</Deck>

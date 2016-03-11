@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53460" Quantity="1" Sideboard="false" Name="Elvish Mystic" />
+  <Cards CatID="49499" Quantity="3" Sideboard="false" Name="Elvish Mystic" />
+  <Cards CatID="50402" Quantity="1" Sideboard="false" Name="Arbor Colossus" />
+  <Cards CatID="50261" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
+  <Cards CatID="50260" Quantity="3" Sideboard="false" Name="Sylvan Caryatid" />
+  <Cards CatID="53576" Quantity="2" Sideboard="false" Name="Genesis Hydra" />
+  <Cards CatID="50178" Quantity="3" Sideboard="false" Name="Voyaging Satyr" />
+  <Cards CatID="51851" Quantity="2" Sideboard="false" Name="Courser of Kruphix" />
+  <Cards CatID="50628" Quantity="4" Sideboard="false" Name="Polukranos, World Eater" />
+  <Cards CatID="51745" Quantity="2" Sideboard="false" Name="Xenagos, God of Revels" />
+  <Cards CatID="50314" Quantity="2" Sideboard="false" Name="Nylea, God of the Hunt" />
+  <Cards CatID="50316" Quantity="2" Sideboard="false" Name="Xenagos, the Reveler" />
+  <Cards CatID="53478" Quantity="10" Sideboard="false" Name="Forest" />
+  <Cards CatID="53302" Quantity="1" Sideboard="false" Name="Forest" />
+  <Cards CatID="53480" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53370" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="50274" Quantity="4" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="49363" Quantity="1" Sideboard="false" Name="Chandra, Pyromaster" />
+  <Cards CatID="50412" Quantity="1" Sideboard="false" Name="Bow of Nylea" />
+  <Cards CatID="53568" Quantity="1" Sideboard="false" Name="Nissa, Worldwaker" />
+  <Cards CatID="50266" Quantity="4" Sideboard="false" Name="Temple of Abandon" />
+  <Cards CatID="51687" Quantity="1" Sideboard="false" Name="Everflame Eidolon" />
+  <Cards CatID="53712" Quantity="2" Sideboard="false" Name="Generator Servant" />
+  <Cards CatID="53472" Quantity="1" Sideboard="false" Name="Satyr Wayfinder" />
+  <Cards CatID="53652" Quantity="1" Sideboard="false" Name="Yisan, the Wanderer Bard" />
+  <Cards CatID="53742" Quantity="1" Sideboard="false" Name="Chord of Calling" />
+  <Cards CatID="51970" Quantity="2" Sideboard="false" Name="Bassara Tower Archer" />
+  <Cards CatID="50196" Quantity="4" Sideboard="true" Name="Nylea's Disciple" />
+  <Cards CatID="50386" Quantity="3" Sideboard="true" Name="Mistcutter Hydra" />
+  <Cards CatID="49363" Quantity="1" Sideboard="true" Name="Chandra, Pyromaster" />
+  <Cards CatID="53322" Quantity="1" Sideboard="true" Name="Ancient Silverback" />
+  <Cards CatID="51845" Quantity="2" Sideboard="true" Name="Archetype of Endurance" />
+  <Cards CatID="52284" Quantity="1" Sideboard="true" Name="Consign to Dust" />
+  <Cards CatID="50230" Quantity="1" Sideboard="true" Name="Magma Jet" />
+  <Cards CatID="53470" Quantity="1" Sideboard="true" Name="Lightning Strike" />
+  <Cards CatID="53362" Quantity="1" Sideboard="true" Name="Titanic Growth" />
+</Deck>

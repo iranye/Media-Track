@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="47475" Quantity="4" Sideboard="false" Name="Breeding Pool" />
+  <Cards CatID="50136" Quantity="4" Sideboard="false" Name="Boon Satyr" />
+  <Cards CatID="49317" Quantity="4" Sideboard="false" Name="Briarpack Alpha" />
+  <Cards CatID="50360" Quantity="3" Sideboard="false" Name="Dissolve" />
+  <Cards CatID="46733" Quantity="2" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="49561" Quantity="2" Sideboard="false" Name="Opportunity" />
+  <Cards CatID="47809" Quantity="2" Sideboard="false" Name="Rapid Hybridization" />
+  <Cards CatID="47607" Quantity="4" Sideboard="false" Name="Shambleshark" />
+  <Cards CatID="50418" Quantity="5" Sideboard="false" Name="Island" />
+  <Cards CatID="50282" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="50300" Quantity="5" Sideboard="false" Name="Forest" />
+  <Cards CatID="50272" Quantity="4" Sideboard="false" Name="Temple of Mystery" />
+  <Cards CatID="48304" Quantity="4" Sideboard="false" Name="Skylasher" />
+  <Cards CatID="48378" Quantity="4" Sideboard="false" Name="Simic Guildgate" />
+  <Cards CatID="50368" Quantity="4" Sideboard="false" Name="Horizon Chimera" />
+  <Cards CatID="46391" Quantity="2" Sideboard="false" Name="Syncopate" />
+  <Cards CatID="47485" Quantity="4" Sideboard="false" Name="Simic Charm" />
+  <Cards CatID="46587" Quantity="1" Sideboard="false" Name="Dispel" />
+  <Cards CatID="49157" Quantity="1" Sideboard="false" Name="Divination" />
+  <Cards CatID="50406" Quantity="2" Sideboard="true" Name="Bident of Thassa" />
+  <Cards CatID="50614" Quantity="3" Sideboard="true" Name="Gainsay" />
+  <Cards CatID="49283" Quantity="4" Sideboard="true" Name="Sensory Deprivation" />
+  <Cards CatID="50358" Quantity="2" Sideboard="true" Name="Triton Tactics" />
+  <Cards CatID="49219" Quantity="2" Sideboard="true" Name="Plummet" />
+  <Cards CatID="50360" Quantity="1" Sideboard="true" Name="Dissolve" />
+  <Cards CatID="46587" Quantity="1" Sideboard="true" Name="Dispel" />
+</Deck>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53564" Quantity="2" Sideboard="false" Name="Garruk, Apex Predator" />
+  <Cards CatID="53460" Quantity="1" Sideboard="false" Name="Elvish Mystic" />
+  <Cards CatID="49499" Quantity="1" Sideboard="false" Name="Elvish Mystic" />
+  <Cards CatID="50261" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
+  <Cards CatID="50260" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
+  <Cards CatID="53698" Quantity="3" Sideboard="false" Name="Hornet Nest" />
+  <Cards CatID="53652" Quantity="1" Sideboard="false" Name="Yisan, the Wanderer Bard" />
+  <Cards CatID="51851" Quantity="2" Sideboard="false" Name="Courser of Kruphix" />
+  <Cards CatID="52132" Quantity="2" Sideboard="false" Name="Squelching Leeches" />
+  <Cards CatID="53250" Quantity="4" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="54240" Quantity="1" Sideboard="false" Name="Forest" />
+  <Cards CatID="53478" Quantity="3" Sideboard="false" Name="Forest" />
+  <Cards CatID="54220" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53486" Quantity="2" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53396" Quantity="3" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53348" Quantity="2" Sideboard="false" Name="Llanowar Wastes" />
+  <Cards CatID="51968" Quantity="1" Sideboard="false" Name="Temple of Malady" />
+  <Cards CatID="50256" Quantity="2" Sideboard="false" Name="Thoughtseize" />
+  <Cards CatID="45302" Quantity="1" Sideboard="false" Name="Sign in Blood" />
+  <Cards CatID="53596" Quantity="4" Sideboard="false" Name="Cruel Sadist" />
+  <Cards CatID="53568" Quantity="1" Sideboard="false" Name="Nissa, Worldwaker" />
+  <Cards CatID="50596" Quantity="3" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="53332" Quantity="1" Sideboard="false" Name="Plummet" />
+  <Cards CatID="51619" Quantity="1" Sideboard="false" Name="Asphyxiate" />
+  <Cards CatID="53678" Quantity="1" Sideboard="false" Name="Eternal Thirst" />
+  <Cards CatID="54390" Quantity="1" Sideboard="false" Name="Feed the Clan" />
+  <Cards CatID="50170" Quantity="1" Sideboard="false" Name="Read the Bones" />
+  <Cards CatID="54426" Quantity="1" Sideboard="false" Name="Abzan Ascendancy" />
+  <Cards CatID="54060" Quantity="2" Sideboard="false" Name="Abzan Banner" />
+  <Cards CatID="54126" Quantity="3" Sideboard="false" Name="Abzan Charm" />
+  <Cards CatID="53484" Quantity="3" Sideboard="false" Name="Plains" />
+  <Cards CatID="51565" Quantity="3" Sideboard="false" Name="Temple of Plenty" />
+  <Cards CatID="54180" Quantity="1" Sideboard="false" Name="Siege Rhino" />
+  <Cards CatID="52116" Quantity="1" Sideboard="false" Name="Pharika, God of Affliction" />
+  <Cards CatID="50268" Quantity="2" Sideboard="false" Name="Temple of Silence" />
+  <Cards CatID="52074" Quantity="1" Sideboard="false" Name="Nyx-Fleece Ram" />
+  <Cards CatID="53838" Quantity="1" Sideboard="false" Name="Bile Blight" />
+  <Cards CatID="51821" Quantity="1" Sideboard="false" Name="Champion of Stray Souls" />
+  <Cards CatID="53960" Quantity="1" Sideboard="false" Name="Erase" />
+  <Cards CatID="51559" Quantity="2" Sideboard="false" Name="Gorgon's Head" />
+  <Cards CatID="53456" Quantity="1" Sideboard="false" Name="Hunt the Weak" />
+  <Cards CatID="52130" Quantity="1" Sideboard="false" Name="Setessan Tactics" />
+  <Cards CatID="54046" Quantity="1" Sideboard="false" Name="Savage Punch" />
+  <Cards CatID="53418" Quantity="1" Sideboard="false" Name="Wall of Mulch" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="53726" Quantity="1" Sideboard="false" Name="First Response" />
+  <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
+  <Cards CatID="50234" Quantity="3" Sideboard="false" Name="Ordeal of Nylea" />
+  <Cards CatID="52134" Quantity="1" Sideboard="false" Name="Ajani, Mentor of Heroes" />
+  <Cards CatID="51817" Quantity="1" Sideboard="false" Name="Bile Blight" />
+  <Cards CatID="45388" Quantity="1" Sideboard="false" Name="Garruk's Packleader" />
+  <Cards CatID="53606" Quantity="1" Sideboard="true" Name="Reclamation Sage" />
+  <Cards CatID="50622" Quantity="4" Sideboard="true" Name="Dark Betrayal" />
+  <Cards CatID="53338" Quantity="1" Sideboard="true" Name="Back to Nature" />
+  <Cards CatID="50386" Quantity="4" Sideboard="true" Name="Mistcutter Hydra" />
+  <Cards CatID="52174" Quantity="2" Sideboard="true" Name="Feast of Dreams" />
+  <Cards CatID="50602" Quantity="1" Sideboard="true" Name="Hunt the Hunter" />
+  <Cards CatID="53960" Quantity="1" Sideboard="true" Name="Erase" />
+  <Cards CatID="45606" Quantity="1" Sideboard="true" Name="Erase" />
+</Deck>

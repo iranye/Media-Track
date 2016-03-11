@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <!--
+  +++++++++++++++++++++++++++++:
+  Dictate of Erebos
+  Noble Quarry
+  Scuttling Doom Engine
+  -----------------------------:
+  Strategy that uses Feast on the Fallen: Grim Guardian, Hardened Shields
+  Skybind + Siege Rhino
+  Pharika
+  -->
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53478" Quantity="1" Sideboard="false" Name="Forest" />
+  <Cards CatID="53484" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="53396" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53348" Quantity="2" Sideboard="false" Name="Llanowar Wastes" />
+  <Cards CatID="51968" Quantity="1" Sideboard="false" Name="Temple of Malady" />
+  <Cards CatID="51565" Quantity="3" Sideboard="false" Name="Temple of Plenty" />
+  <Cards CatID="54472" Quantity="1" Sideboard="false" Name="Blossoming Sands" />
+  <Cards CatID="53344" Quantity="2" Sideboard="false" Name="Caves of Koilos" />
+  <Cards CatID="54072" Quantity="4" Sideboard="false" Name="Jungle Hollow" />
+  <Cards CatID="54160" Quantity="4" Sideboard="false" Name="Sandsteppe Citadel" />
+  <Cards CatID="50261" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
+  <Cards CatID="50260" Quantity="3" Sideboard="false" Name="Sylvan Caryatid" />
+  
+  <Cards CatID="51970" Quantity="4" Sideboard="false" Name="Bassara Tower Archer" />
+  <Cards CatID="51851" Quantity="2" Sideboard="false" Name="Courser of Kruphix" />
+  <Cards CatID="52138" Quantity="3" Sideboard="false" Name="Eidolon of Blossoms" />
+  <Cards CatID="51717" Quantity="1" Sideboard="false" Name="Eidolon of Countless Battles" />
+  <Cards CatID="51577" Quantity="1" Sideboard="false" Name="Griffin Dreamfinder" />
+  <Cards CatID="50302" Quantity="2" Sideboard="false" Name="Heliod, God of the Sun" />
+  <Cards CatID="53688" Quantity="1" Sideboard="false" Name="Heliod's Pilgrim" />
+  <Cards CatID="50190" Quantity="2" Sideboard="false" Name="Sedge Scorpion" />
+  <Cards CatID="54180" Quantity="2" Sideboard="false" Name="Siege Rhino" />
+  <Cards CatID="53574" Quantity="1" Sideboard="false" Name="Sunblade Elf" />
+  <Cards CatID="53710" Quantity="1" Sideboard="false" Name="Warden of the Beyond" />
+  <Cards CatID="53418" Quantity="1" Sideboard="false" Name="Wall of Mulch" />
+
+  <Cards CatID="54426" Quantity="1" Sideboard="false" Name="Abzan Ascendancy" />
+  <Cards CatID="54126" Quantity="4" Sideboard="false" Name="Abzan Charm" />
+  <Cards CatID="54428" Quantity="1" Sideboard="false" Name="Duneblast" />
+  <Cards CatID="52214" Quantity="2" Sideboard="false" Name="Banishing Light" />
+  <Cards CatID="53840" Quantity="1" Sideboard="false" Name="Banishing Light" />
+  <Cards CatID="54170" Quantity="2" Sideboard="false" Name="End Hostilities" />
+  <Cards CatID="50374" Quantity="4" Sideboard="false" Name="Gift of Immortality" />
+  <Cards CatID="51559" Quantity="1" Sideboard="false" Name="Gorgon's Head" />
+  <Cards CatID="50596" Quantity="2" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="51847" Quantity="1" Sideboard="false" Name="Peregrination" />
+  <Cards CatID="51771" Quantity="1" Sideboard="false" Name="Plea for Guidance" />
+  <Cards CatID="52222" Quantity="1" Sideboard="false" Name="Skybind" />
+  <Cards CatID="53502" Quantity="2" Sideboard="false" Name="Spectra Ward" />
+  <Cards CatID="53522" Quantity="4" Sideboard="false" Name="Spirit Bonds" />
+  <Cards CatID="46399" Quantity="4" Sideboard="false" Name="Stab Wound" />
+  <Cards CatID="54084" Quantity="2" Sideboard="false" Name="Suspension Field" />
+  
+  <Cards CatID="52256" Quantity="2" Sideboard="true" Name="Aegis of the Gods" />
+  <Cards CatID="50164" Quantity="1" Sideboard="true" Name="Baleful Eidolon" />
+  <Cards CatID="50622" Quantity="3" Sideboard="true" Name="Dark Betrayal" />
+  <Cards CatID="54428" Quantity="1" Sideboard="true" Name="Duneblast" />
+  <Cards CatID="53960" Quantity="1" Sideboard="true" Name="Erase" />
+  <Cards CatID="52174" Quantity="2" Sideboard="true" Name="Feast of Dreams" />
+  <Cards CatID="50386" Quantity="2" Sideboard="true" Name="Mistcutter Hydra" />
+  <Cards CatID="50314" Quantity="1" Sideboard="true" Name="Nylea, God of the Hunt" />
+  <Cards CatID="53332" Quantity="1" Sideboard="true" Name="Plummet" />
+  <Cards CatID="53606" Quantity="1" Sideboard="true" Name="Reclamation Sage" />
+</Deck>

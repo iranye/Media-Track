@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="50260" Quantity="3" Sideboard="false" Name="Sylvan Caryatid" />
+  <Cards CatID="51851" Quantity="2" Sideboard="false" Name="Courser of Kruphix" />
+  <Cards CatID="53478" Quantity="1" Sideboard="false" Name="Forest" />
+  <Cards CatID="53396" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53348" Quantity="2" Sideboard="false" Name="Llanowar Wastes" />
+  <Cards CatID="51968" Quantity="1" Sideboard="false" Name="Temple of Malady" />
+  <Cards CatID="54426" Quantity="1" Sideboard="false" Name="Abzan Ascendancy" />
+  <Cards CatID="54126" Quantity="2" Sideboard="false" Name="Abzan Charm" />
+  <Cards CatID="53484" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="51565" Quantity="3" Sideboard="false" Name="Temple of Plenty" />
+  <Cards CatID="50268" Quantity="2" Sideboard="false" Name="Temple of Silence" />
+  <Cards CatID="52074" Quantity="1" Sideboard="false" Name="Nyx-Fleece Ram" />
+  <Cards CatID="53960" Quantity="1" Sideboard="false" Name="Erase" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="54266" Quantity="2" Sideboard="false" Name="Feat of Resistance" />
+  <Cards CatID="50412" Quantity="2" Sideboard="false" Name="Bow of Nylea" />
+  <Cards CatID="54472" Quantity="2" Sideboard="false" Name="Blossoming Sands" />
+  <Cards CatID="53344" Quantity="2" Sideboard="false" Name="Caves of Koilos" />
+  <Cards CatID="54072" Quantity="4" Sideboard="false" Name="Jungle Hollow" />
+  <Cards CatID="54160" Quantity="4" Sideboard="false" Name="Sandsteppe Citadel" />
+  <Cards CatID="50374" Quantity="4" Sideboard="false" Name="Gift of Immortality" />
+  <Cards CatID="53688" Quantity="1" Sideboard="false" Name="Heliod's Pilgrim" />
+  <Cards CatID="54406" Quantity="3" Sideboard="false" Name="Hardened Scales" />
+  <Cards CatID="53418" Quantity="2" Sideboard="false" Name="Wall of Mulch" />
+  <Cards CatID="50402" Quantity="1" Sideboard="false" Name="Arbor Colossus" />
+  <Cards CatID="53334" Quantity="2" Sideboard="false" Name="Ajani's Pridemate" />
+  <Cards CatID="52082" Quantity="2" Sideboard="false" Name="Swarmborn Giant" />
+  <Cards CatID="54084" Quantity="2" Sideboard="false" Name="Suspension Field" />
+  <Cards CatID="51970" Quantity="2" Sideboard="false" Name="Bassara Tower Archer" />
+  <Cards CatID="51679" Quantity="2" Sideboard="false" Name="Drown in Sorrow" />
+  <Cards CatID="54180" Quantity="1" Sideboard="false" Name="Siege Rhino" />
+  <Cards CatID="54248" Quantity="1" Sideboard="false" Name="Anafenza, the Foremost" />
+  <Cards CatID="54288" Quantity="1" Sideboard="false" Name="Wingmate Roc" />
+  <Cards CatID="50350" Quantity="2" Sideboard="false" Name="Phalanx Leader" />
+  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="52214" Quantity="1" Sideboard="false" Name="Banishing Light" />
+  <Cards CatID="51847" Quantity="1" Sideboard="false" Name="Peregrination" />
+  <Cards CatID="53504" Quantity="1" Sideboard="false" Name="Ajani Steadfast" />
+  <Cards CatID="52134" Quantity="1" Sideboard="false" Name="Ajani, Mentor of Heroes" />
+  <Cards CatID="51771" Quantity="1" Sideboard="false" Name="Plea for Guidance" />
+  <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
+  <Cards CatID="54004" Quantity="1" Sideboard="false" Name="Debilitating Injury" />
+  <Cards CatID="53606" Quantity="1" Sideboard="true" Name="Reclamation Sage" />
+  <Cards CatID="50622" Quantity="2" Sideboard="true" Name="Dark Betrayal" />
+  <Cards CatID="50386" Quantity="3" Sideboard="true" Name="Mistcutter Hydra" />
+  <Cards CatID="50602" Quantity="1" Sideboard="true" Name="Hunt the Hunter" />
+  <Cards CatID="53960" Quantity="1" Sideboard="true" Name="Erase" />
+  <Cards CatID="53332" Quantity="1" Sideboard="true" Name="Plummet" />
+  <Cards CatID="54084" Quantity="2" Sideboard="true" Name="Suspension Field" />
+  <Cards CatID="52256" Quantity="2" Sideboard="true" Name="Aegis of the Gods" />
+  <Cards CatID="51817" Quantity="1" Sideboard="true" Name="Bile Blight" />
+  <Cards CatID="53688" Quantity="1" Sideboard="true" Name="Heliod's Pilgrim" />
+</Deck>
