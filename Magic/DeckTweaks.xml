@@ -517,6 +517,7 @@ Palace Siege
 Ravenous Rats
 Sandstepp outcast
 Secure the Wastes
+Twilight Drover
 Valorous Stance
 Vampiric Rites
 Vulturous Aven
@@ -526,7 +527,10 @@ Acidic Slime
 Angelic Gift
 Dark Confidant
 Fertile Ground
+Rancor
 Shambling Vent
+Twilight Drover
+Utopia Sprawl
 </EidolonSac>
 <Enchants>
 Angelic Gift
@@ -1090,13 +1094,16 @@ Sunbeam Spellbomb
 <Tokens>
 Creakwood Liege
 Elspeth, Knight-Errant
+Essence Warden
 Mentor of the Meek
 Parallel Lives
+Rancor
 Sundering Growth
 Unruly Mob
 </Tokens>
 <WasteNot>
 Inquisition of Kozilek
+Jace Beleren
 Liliana's Caress
 Lore Broker
 </WasteNot>
