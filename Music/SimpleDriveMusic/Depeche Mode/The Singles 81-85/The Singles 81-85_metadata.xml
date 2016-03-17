@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="C:\Media-Tracker\Music\SimpleDriveMusic\Depeche Mode\The Singles 81-85">
+  <FileItemList>
+    <FileItem name="01 - Dreaming Of Me.mp3">
+      <Size>6144441</Size>
+      <MD5Hash>0x02F07461AED80CCB90854CA63D468674</MD5Hash>
+    </FileItem>
+    <FileItem name="02 - New Life.mp3">
+      <Size>6092782</Size>
+      <MD5Hash>0x22F31552808784327EA354E6E8F4A67E</MD5Hash>
+    </FileItem>
+    <FileItem name="03 - Just Can't Get Enough.mp3">
+      <Size>5867172</Size>
+      <MD5Hash>0xDAC6293B01C51AC21F1ABED4A37AB1E5</MD5Hash>
+    </FileItem>
+    <FileItem name="04 - See You.mp3">
+      <Size>6040314</Size>
+      <MD5Hash>0xB3032D7C8D29131FE6BB68A6622562B7</MD5Hash>
+    </FileItem>
+    <FileItem name="05 - The Meaning Of Love.mp3">
+      <Size>4929878</Size>
+      <MD5Hash>0xFD024712A7D0A758B791E28351445BE5</MD5Hash>
+    </FileItem>
+    <FileItem name="06 - Leave In Silence.mp3">
+      <Size>5929425</Size>
+      <MD5Hash>0x9D24CA66F4A4720BD952F43889364C56</MD5Hash>
+    </FileItem>
+    <FileItem name="07 - Get The Balance Right.mp3">
+      <Size>4889847</Size>
+      <MD5Hash>0x6718710CF24057D80AC23A19D5D17121</MD5Hash>
+    </FileItem>
+    <FileItem name="08 - Everything Counts.mp3">
+      <Size>7178751</Size>
+      <MD5Hash>0x7DBF8536C2FC3E7CCDFEB4FC03B3411F</MD5Hash>
+    </FileItem>
+    <FileItem name="09 - Love In Itself.mp3">
+      <Size>6571337</Size>
+      <MD5Hash>0x0FF80DD26FFA140100E80EC972C92F9D</MD5Hash>
+    </FileItem>
+    <FileItem name="10 - People Are People.mp3">
+      <Size>5931583</Size>
+      <MD5Hash>0x84B8A40376C326E06298906A0FC2A8D4</MD5Hash>
+    </FileItem>
+    <FileItem name="11 - Master And Servant.mp3">
+      <Size>6132208</Size>
+      <MD5Hash>0x314A699A0C842F60FDAFF54E9B12FC36</MD5Hash>
+    </FileItem>
+    <FileItem name="12 - Blasphemous Rumours.mp3">
+      <Size>7786674</Size>
+      <MD5Hash>0x3341ABD1146C4B1F78522FB0DF8D82B8</MD5Hash>
+    </FileItem>
+    <FileItem name="13 - Somebody.mp3">
+      <Size>6407376</Size>
+      <MD5Hash>0x5DCD10C9F6BC8BB4AEAA8EC3460CE2DB</MD5Hash>
+    </FileItem>
+    <FileItem name="14 - Shake The Disease.mp3">
+      <Size>7927798</Size>
+      <MD5Hash>0x83D754DFDFAB96B17470E1D2C33200CE</MD5Hash>
+    </FileItem>
+    <FileItem name="15 - It's Called A Heart.mp3">
+      <Size>6344218</Size>
+      <MD5Hash>0xF4095170A18082681D9DD07A2AC38C10</MD5Hash>
+    </FileItem>
+    <FileItem name="16 - Photographic (Some Bizzare Version).mp3">
+      <Size>4798283</Size>
+      <MD5Hash>0x73FF95EC88976C74D92EED392AC8496A</MD5Hash>
+    </FileItem>
+    <FileItem name="17 - Just Can't Get Enough (Schizo Mix).mp3">
+      <Size>10543598</Size>
+      <MD5Hash>0x17EFADC55DFA98ADD98066B1B739D910</MD5Hash>
+    </FileItem>
+    <FileItem name="The Singles 81-85.m3u">
+      <Size>491</Size>
+      <MD5Hash>0x93D24F135AF807B6373DC3CFA639047D</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

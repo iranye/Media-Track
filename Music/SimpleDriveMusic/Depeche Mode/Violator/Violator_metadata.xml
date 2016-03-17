@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="C:\Media-Tracker\Music\SimpleDriveMusic\Depeche Mode\Violator">
+  <FileItemList>
+    <FileItem name="01 - World In My Eyes.mp3">
+      <Size>4266022</Size>
+      <MD5Hash>0x2CA6408B437FAA7A5E5B004D346D97FF</MD5Hash>
+    </FileItem>
+    <FileItem name="01. World In My Eyes.mp3">
+      <Size>4260076</Size>
+      <MD5Hash>0x4EADFCCF2DF561C7DBBFCD88BDB1DEFC</MD5Hash>
+    </FileItem>
+    <FileItem name="02 - Sweetest Perfection.mp3">
+      <Size>4545225</Size>
+      <MD5Hash>0x728820241A0B7B6F36B68412EF922C6D</MD5Hash>
+    </FileItem>
+    <FileItem name="02. Sweetest Perfection.mp3">
+      <Size>4541365</Size>
+      <MD5Hash>0xAFE2F9B29CB14917BC643A4AB066F15A</MD5Hash>
+    </FileItem>
+    <FileItem name="03 - Personal Jesus.mp3">
+      <Size>4741656</Size>
+      <MD5Hash>0x3773572D5E44B79DC318050B4BE495CC</MD5Hash>
+    </FileItem>
+    <FileItem name="03. Personal Jesus.mp3">
+      <Size>4736547</Size>
+      <MD5Hash>0xAD87BB1260DB164874BFC8CDDED549F3</MD5Hash>
+    </FileItem>
+    <FileItem name="04 - Halo.mp3">
+      <Size>4328274</Size>
+      <MD5Hash>0xAA346E9446016045F40838E47FE474B3</MD5Hash>
+    </FileItem>
+    <FileItem name="04. Halo.mp3">
+      <Size>4322757</Size>
+      <MD5Hash>0x1315926B51E042BB5701154D980FCC15</MD5Hash>
+    </FileItem>
+    <FileItem name="05 - Waiting For The Night.mp3">
+      <Size>5882698</Size>
+      <MD5Hash>0xF3D7ACFFADD1E9D4E2090E1B8689B9BB</MD5Hash>
+    </FileItem>
+    <FileItem name="05. Waiting for the Night.mp3">
+      <Size>5879254</Size>
+      <MD5Hash>0xBB4F8B088C7AF3E4D4851BABE90261FE</MD5Hash>
+    </FileItem>
+    <FileItem name="06 - Enjoy The Silence.mp3">
+      <Size>5972134</Size>
+      <MD5Hash>0x9FC3737C0D391A31D48C0FB988B45201</MD5Hash>
+    </FileItem>
+    <FileItem name="06. Enjoy the Silence.mp3">
+      <Size>5967022</Size>
+      <MD5Hash>0x62D7F973ADCE4FC53249D5B90E5F2B08</MD5Hash>
+    </FileItem>
+    <FileItem name="07 - Policy Of Truth.mp3">
+      <Size>4726611</Size>
+      <MD5Hash>0x91CA2A7FB5648969F447ED9C4CC66649</MD5Hash>
+    </FileItem>
+    <FileItem name="07. Policy of Truth.mp3">
+      <Size>4723591</Size>
+      <MD5Hash>0x92F424F3F72C595A071478ABD627971B</MD5Hash>
+    </FileItem>
+    <FileItem name="08 - Blue Dress.mp3">
+      <Size>5475584</Size>
+      <MD5Hash>0xA0EC9F76E1B9CADD7AB57B65DF1172FC</MD5Hash>
+    </FileItem>
+    <FileItem name="08. Blue Dress.mp3">
+      <Size>5472151</Size>
+      <MD5Hash>0xE943ABA04B0587136E5ECF2AE96B7601</MD5Hash>
+    </FileItem>
+    <FileItem name="09 - Clean.mp3">
+      <Size>5267430</Size>
+      <MD5Hash>0x5413E70DE26375AB72E3E7DCF091068B</MD5Hash>
+    </FileItem>
+    <FileItem name="09. Clean.mp3">
+      <Size>5262331</Size>
+      <MD5Hash>0xA88DE268B47BE53331B6AC665F1B79E5</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

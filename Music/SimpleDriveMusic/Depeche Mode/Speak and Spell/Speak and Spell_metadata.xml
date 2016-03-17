@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="C:\Media-Tracker\Music\SimpleDriveMusic\Depeche Mode\Speak and Spell">
+  <FileItemList>
+    <FileItem name="Depeche Mode - Any Second Now.mp3">
+      <Size>4902329</Size>
+      <MD5Hash>0x8BBCBBECBF8AD66BE85674E5E2F86F30</MD5Hash>
+    </FileItem>
+    <FileItem name="Depeche Mode - Big Muff.mp3">
+      <Size>8467521</Size>
+      <MD5Hash>0x4760A522E9CD5A4EA80846F51008EF32</MD5Hash>
+    </FileItem>
+    <FileItem name="Depeche Mode - Boys Say Go.mp3">
+      <Size>6035835</Size>
+      <MD5Hash>0xD2CBEACFACB00361D2A538E8291E932D</MD5Hash>
+    </FileItem>
+    <FileItem name="Depeche Mode - I Sometimes Wish I Were Dead.mp3">
+      <Size>7679250</Size>
+      <MD5Hash>0x3EB9C7F04FAC206A0504365B1C2ABF25</MD5Hash>
+    </FileItem>
+    <FileItem name="Depeche Mode - Just Can't Get Enough.mp3">
+      <Size>12943028</Size>
+      <MD5Hash>0x10654CE9E610CF7D54A6006ED514549C</MD5Hash>
+    </FileItem>
+    <FileItem name="Depeche Mode - New Life.mp3">
+      <Size>7651665</Size>
+      <MD5Hash>0x3BD1F1191220A1881409ADDF22DF6FC5</MD5Hash>
+    </FileItem>
+    <FileItem name="Depeche Mode - Nodisco.mp3">
+      <Size>8164083</Size>
+      <MD5Hash>0xF46B6958D68B37507B68D3C97144CFA7</MD5Hash>
+    </FileItem>
+    <FileItem name="Depeche Mode - Photographic.mp3">
+      <Size>9533317</Size>
+      <MD5Hash>0x032146B2D833F52FAEF24BDD5CBE1FFA</MD5Hash>
+    </FileItem>
+    <FileItem name="Depeche Mode - Puppets.mp3">
+      <Size>7191074</Size>
+      <MD5Hash>0x2145F82129A711CC49326323A88C262E</MD5Hash>
+    </FileItem>
+    <FileItem name="Depeche Mode - Tora! Tora! Tora!.mp3">
+      <Size>8588729</Size>
+      <MD5Hash>0x83A1CE1CE99AE154988716E584113E99</MD5Hash>
+    </FileItem>
+    <FileItem name="Depeche Mode - What's Your Name-.mp3">
+      <Size>5282672</Size>
+      <MD5Hash>0xDE9A636C3F6C7DBA24352A520D3164BA</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

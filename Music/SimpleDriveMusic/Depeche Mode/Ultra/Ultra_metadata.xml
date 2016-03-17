@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="C:\Media-Tracker\Music\SimpleDriveMusic\Depeche Mode\Ultra">
+  <FileItemList>
+    <FileItem name="01 - Barrel Of A Gun.mp3">
+      <Size>5374502</Size>
+      <MD5Hash>0x517B60514E53553EDB701628836916C2</MD5Hash>
+    </FileItem>
+    <FileItem name="02 - The Love Thieves.mp3">
+      <Size>6313658</Size>
+      <MD5Hash>0x2D7160D76D870A1C318DAA99B8FB8AB6</MD5Hash>
+    </FileItem>
+    <FileItem name="03 - Home.mp3">
+      <Size>5490673</Size>
+      <MD5Hash>0x30C16DB38E1F65126EDFF3E5345A902D</MD5Hash>
+    </FileItem>
+    <FileItem name="04 - It's No Good.mp3">
+      <Size>5743136</Size>
+      <MD5Hash>0x1E95DFB117C59337E23D3511D5CC7405</MD5Hash>
+    </FileItem>
+    <FileItem name="05 - Uselink.mp3">
+      <Size>2265706</Size>
+      <MD5Hash>0x1C2E7C6BA40C096BE14727E153254365</MD5Hash>
+    </FileItem>
+    <FileItem name="06 - Useless.mp3">
+      <Size>5002920</Size>
+      <MD5Hash>0xDC7D8C41674EC04C134ADB07149EB89A</MD5Hash>
+    </FileItem>
+    <FileItem name="07 - Sister Of Night.mp3">
+      <Size>5835511</Size>
+      <MD5Hash>0x945279B3E4CC5E97767B2E5CDC603A1A</MD5Hash>
+    </FileItem>
+    <FileItem name="08 - Jazz Thieves.mp3">
+      <Size>2803629</Size>
+      <MD5Hash>0x0EB3A2991B16594E214CB26AD72CEA58</MD5Hash>
+    </FileItem>
+    <FileItem name="09 - Freestate.mp3">
+      <Size>6468289</Size>
+      <MD5Hash>0x1E12E3F0A25CE8AB27C29DB92F282114</MD5Hash>
+    </FileItem>
+    <FileItem name="10 - The Bottom Line.mp3">
+      <Size>4274851</Size>
+      <MD5Hash>0x8B0E83B076B8F2EEC0E103D5723E95A0</MD5Hash>
+    </FileItem>
+    <FileItem name="11 - Insight.mp3">
+      <Size>6192014</Size>
+      <MD5Hash>0xFE9E83A4E645F5CDE21D018C39B1B448</MD5Hash>
+    </FileItem>
+    <FileItem name="12 - Jr. Painkiller.mp3">
+      <Size>2081400</Size>
+      <MD5Hash>0x740F81A9F1637A7D8A68A23501745F76</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

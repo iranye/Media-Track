@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="C:\Media-Tracker\Music\SimpleDriveMusic\Depeche Mode\Black Celebration">
+  <FileItemList>
+    <FileItem name="01 - Depeche Mode - Black Celebration - Black Celebration.mp3">
+      <Size>4709625</Size>
+      <MD5Hash>0x34DAE4742A0EE28326FC2BFAF04C443F</MD5Hash>
+    </FileItem>
+    <FileItem name="02 - Depeche Mode - Black Celebration - Fly on the Windscreen-Final.mp3">
+      <Size>5139307</Size>
+      <MD5Hash>0xF9D09A59D2E452E4965C7F65FC235D5A</MD5Hash>
+    </FileItem>
+    <FileItem name="03 - Depeche Mode - Black Celebration - A Question of Lust.mp3">
+      <Size>4203034</Size>
+      <MD5Hash>0x0F5850C4F8D82CE9E0BDE46005250069</MD5Hash>
+    </FileItem>
+    <FileItem name="04 - Depeche Mode - Black Celebration - Sometimes.mp3">
+      <Size>1826982</Size>
+      <MD5Hash>0xD1F62D53B74FAC1D7043609EFDE0EE96</MD5Hash>
+    </FileItem>
+    <FileItem name="05 - Depeche Mode - Black Celebration - If Doesn't Matter Two.mp3">
+      <Size>2759821</Size>
+      <MD5Hash>0x97BC718FE6C43655221CD25636167823</MD5Hash>
+    </FileItem>
+    <FileItem name="06 - Depeche Mode - Black Celebration - A Question of Time.mp3">
+      <Size>4040910</Size>
+      <MD5Hash>0xD6A7DCABBDE5D662B973478AE2F7F392</MD5Hash>
+    </FileItem>
+    <FileItem name="07 - Depeche Mode - Black Celebration - Stripped.mp3">
+      <Size>4053449</Size>
+      <MD5Hash>0xCC0D3629AFCDCF5C6E82C20FE0F42368</MD5Hash>
+    </FileItem>
+    <FileItem name="08 - Depeche Mode - Black Celebration - Here is the House.mp3">
+      <Size>4160445</Size>
+      <MD5Hash>0x4CBC95F1CEAFD25BFD6C2C29C26B3698</MD5Hash>
+    </FileItem>
+    <FileItem name="09 - Depeche Mode - Black Celebration - World Full of Nothing.mp3">
+      <Size>2697127</Size>
+      <MD5Hash>0x9BF98E006AFC142BF963098E3F9FF4EC</MD5Hash>
+    </FileItem>
+    <FileItem name="10 - Depeche Mode - Black Celebration - Dressed in Black.mp3">
+      <Size>2470593</Size>
+      <MD5Hash>0xE31FEBC5E9BD7F5D6DA76FAE5E41A5DA</MD5Hash>
+    </FileItem>
+    <FileItem name="11 - Depeche Mode - Black Celebration - New Dress.mp3">
+      <Size>3581947</Size>
+      <MD5Hash>0x4FD899CED7DC5EB750D8B11A1340047B</MD5Hash>
+    </FileItem>
+    <FileItem name="12 - Depeche Mode - Black Celebration - But Not Tonight.mp3">
+      <Size>4077646</Size>
+      <MD5Hash>0xA0B6325342FC42357350FAD3F2EF88D4</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

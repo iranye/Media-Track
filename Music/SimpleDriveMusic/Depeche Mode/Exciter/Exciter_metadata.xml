@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="C:\Media-Tracker\Music\SimpleDriveMusic\Depeche Mode\Exciter">
+  <FileItemList>
+    <FileItem name="01 Dream On.mp3">
+      <Size>4179981</Size>
+      <MD5Hash>0x4F8A9CA46BF8AACF80F42DDF5A17303B</MD5Hash>
+    </FileItem>
+    <FileItem name="02 Shine.mp3">
+      <Size>4916843</Size>
+      <MD5Hash>0xFDDAC3F840C7949B8A765D9FBD43F838</MD5Hash>
+    </FileItem>
+    <FileItem name="03 The Sweetest Condition.mp3">
+      <Size>3564745</Size>
+      <MD5Hash>0x328EBD5C216EAF3145E54EB5706EC760</MD5Hash>
+    </FileItem>
+    <FileItem name="04 When The Body Speaks.mp3">
+      <Size>5782018</Size>
+      <MD5Hash>0x4D7C83A173F4A0D4D3D1E7B24FF64BD8</MD5Hash>
+    </FileItem>
+    <FileItem name="05 The Dead of Night.mp3">
+      <Size>4592924</Size>
+      <MD5Hash>0xA604A04BEC743D02C998B12B6512C117</MD5Hash>
+    </FileItem>
+    <FileItem name="06 Lovetheme.mp3">
+      <Size>1965633</Size>
+      <MD5Hash>0x4704B6D02FA2CABC2E268CDBA35F585A</MD5Hash>
+    </FileItem>
+    <FileItem name="07 Freelove.mp3">
+      <Size>5936245</Size>
+      <MD5Hash>0x83B906508475799ADAB028F67FA124E0</MD5Hash>
+    </FileItem>
+    <FileItem name="08 Comatose.mp3">
+      <Size>3270501</Size>
+      <MD5Hash>0x57A6E0CDE9D528AE9268F61B94F120B6</MD5Hash>
+    </FileItem>
+    <FileItem name="09 I Feel Loved.mp3">
+      <Size>4177055</Size>
+      <MD5Hash>0x6B0ABDA4CC9D3B590F3CEC2F9E8687F4</MD5Hash>
+    </FileItem>
+    <FileItem name="10 Breathe.mp3">
+      <Size>5089462</Size>
+      <MD5Hash>0x34BF23564E25D9F7AFD352E282CB78A3</MD5Hash>
+    </FileItem>
+    <FileItem name="11 Easy Tiger.mp3">
+      <Size>2010357</Size>
+      <MD5Hash>0x055DEB9D8893B33B0B1C44C6C8BA9A4F</MD5Hash>
+    </FileItem>
+    <FileItem name="12 I Am You.mp3">
+      <Size>4973269</Size>
+      <MD5Hash>0xF3EAFCC443B23D954416CCFD026E0666</MD5Hash>
+    </FileItem>
+    <FileItem name="13 Goodnight Lovers.mp3">
+      <Size>3680521</Size>
+      <MD5Hash>0xC5FEBE6CC17CDA463602E88A9F79A14A</MD5Hash>
+    </FileItem>
+    <FileItem name="14 Bonus Track.mp3">
+      <Size>4346330</Size>
+      <MD5Hash>0x74BCE234560178EC720DAFBCB73063F5</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>
