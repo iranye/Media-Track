@@ -499,6 +499,7 @@ Multi-Color Spells:
 <Discards>
 +++:
 Ayli, Eternal Pilgrim
+Big Game Hunter
 Blightning
 Brutal Hordechief
 Bloodsoaked Champion
@@ -517,6 +518,7 @@ Palace Siege
 Ravenous Rats
 Sandstepp outcast
 Secure the Wastes
+Sin Collector
 Twilight Drover
 Valorous Stance
 Vampiric Rites
@@ -536,6 +538,7 @@ Utopia Sprawl
 Angelic Gift
 Glacial Fortress
 Herald of the Pantheon
+Hindering Light
 Mesa Enchantress
 Shadows of the Past
 Shaman of Spring
@@ -549,10 +552,12 @@ Shaman of Spring
   Elemental Bond
   Flameshadow Conjuring
   Frost Walker
+  Phantasmal Image
   Sabertooth Outrider
   Scout the Borders
   Stormrider Rig
-    Silkwrap
+  Silkwrap
+  Vedalken Mastermind
   Wooded Foothills
 
   Arcbond  
@@ -1092,11 +1097,17 @@ Reclusive Artificer
 Royal Assasin
 Sunbeam Spellbomb
 </RedBlueIzzet>
+<RedGrDevotion-0>
+Khalni Hydra
+Regal Force
+Vigor
+</RedGrDevotion-0>
 <Tokens>
 Creakwood Liege
 Elspeth, Knight-Errant
 Essence Warden
 Mentor of the Meek
+Ichor Wellspring
 Parallel Lives
 Rancor
 Sundering Growth
@@ -1104,12 +1115,21 @@ Unruly Mob
 Wall of Omens
 </Tokens>
 <WasteNot>
+Abyssal Nocturnus
+Castigate
 Cemetery Reaper
+Crypt Incursion
 Dimir Doppelganger
+Howling Mine
 Inquisition of Kozilek
 Jace Beleren
 Liliana's Caress
+Lord of the Undead
 Lore Broker
+Stromgald Crusader
+Thieving Magpie
+Undead Warchief
+Vexing Sphinx
 </WasteNot>
 
 
