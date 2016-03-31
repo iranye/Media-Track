@@ -513,8 +513,10 @@ Goblin Rabblemaster
 Horribly Awry
 Kheru Bloodsucker
 Kolaghan's Command
+Massacre Wurm
 Mob Rule
 Palace Siege
+Rakdos, Lord of Riots
 Ravenous Rats
 Sandstepp outcast
 Secure the Wastes
@@ -522,6 +524,7 @@ Sin Collector
 Twilight Drover
 Valorous Stance
 Vampiric Rites
+Vengeful Pharaoh
 Vulturous Aven
 </Discards>
 <EidolonSac>
@@ -529,6 +532,7 @@ Acidic Slime
 Angelic Gift
 Dark Confidant
 Fertile Ground
+Nether Traitor
 Rancor
 Shambling Vent
 Twilight Drover
@@ -536,13 +540,15 @@ Utopia Sprawl
 </EidolonSac>
 <Enchants>
 Angelic Gift
+Dust Elemental
 Glacial Fortress
+Grand Arbiter Augustin IV
 Herald of the Pantheon
 Hindering Light
 Mesa Enchantress
 Shadows of the Past
 Shaman of Spring
-</Enchantments>
+</Enchants>
 <FourPowerMobs>
   STRATEGY:
   Cast 4-powered creatures to draw more cards (w/ Temur Ascendancy)
@@ -568,7 +574,8 @@ Shaman of Spring
   Impact Tremors
   Shape the Sands
   Sight of the Scalelords
-  Stormrider Rig
+  Stormrider Rig  
+  Talara's Battalion
   Winds of Qal Sisma
   Xenagos, God of Revels
   Yasova Dragonclaw
@@ -1091,13 +1098,15 @@ http://www.mtgdecks.net/decks/view/331822
 </Sideboard>
 </N-MarduMidrange>
 <RedBlueIzzet>
+Chandra's Spitfire
 Izzet Boilerworks
-
 Reclusive Artificer
 Royal Assasin
 Sunbeam Spellbomb
 </RedBlueIzzet>
 <RedGrDevotion-0>
+Furyborn Hellkite
+Kalonian Behemoth
 Khalni Hydra
 Regal Force
 Vigor
@@ -1110,26 +1119,33 @@ Mentor of the Meek
 Ichor Wellspring
 Parallel Lives
 Rancor
+Ronom Unicorn
+Sublime Archangel
 Sundering Growth
 Unruly Mob
 Wall of Omens
+Wingmate Roc
 </Tokens>
 <WasteNot>
 Abyssal Nocturnus
+Blizzard Specter
 Castigate
 Cemetery Reaper
 Crypt Incursion
+Death Baron
 Dimir Doppelganger
 Howling Mine
 Inquisition of Kozilek
 Jace Beleren
 Liliana's Caress
+Liliana's Specter
 Lord of the Undead
 Lore Broker
 Stromgald Crusader
 Thieving Magpie
 Undead Warchief
 Vexing Sphinx
+Western Paladin
 </WasteNot>
 
 
