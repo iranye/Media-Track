@@ -1,4 +1,34 @@
 <AllDecks>
+<TradersList>
+Accursed Witch  3Black (4) 
+Archangel Avacyn  3WhiteWhite (5) 
+Asylum Visitor
+Augur of Skulls
+Brain in a Jar  2 (2) 
+Briarbridge Patrol  3Green (4) 
+Compelling Deterrence  1Blue (2) 
+Eerie Interlude  2White (3) 
+Elusive Tormentor  2BlackBlack (4) 
+Declaration in Stone  1White (2) 
+Diregraf Colossus  2Black (3) 
+From Under the Floorboards  3BlackBlack (5) 
+Hanweir Militia Captain  1White (2) 
+Inexorable Blob  2Green (3) 
+Intet, the Dreamer
+Kor Spiritdancer
+Morkrut Necropod  5Black (6) 
+Obsidian Fireheart  1RedRedRed (4) 
+Odric, Lunarch Marshal  3White (4) 
+Ongoing Investigation  1Blue (2) 
+Rattlechains  1Blue (2) 
+Reckless Scholar  2Blue (3) 
+Reckless Wurm
+Relentless Dead  BlackBlack (2) 
+Rottenheart Ghoul  3Black (4) 
+Second Harvest  2GreenGreen (4) 
+Tamiyo's Journal  5 (5) 
+Triskaidekaphobia  3Black (4) 
+</TradersList>
 <General>
 Amulet of Vigor
 Detention Spere
@@ -274,6 +304,8 @@ MILL:
 <CountersForCreatures>
 Deck: Use Inspired and other tactics to build counters on creatures
 
+Thalia's Lieutenant  1White (2) 
+
 Mana:
   Karametra's Favor (tap enchanted creature for 1 mana any color)
   Market Festival
@@ -496,6 +528,9 @@ Multi-Color Spells:
   <Cards CatID="49133" Quantity="1" Sideboard="true" Name="Negate" />
   
 </CountersForCreatures>
+<DaringIceFeather>
+Loam Dryad  Green (1) 
+</DaringIceFeather>
 <Discards>
 +++:
 Ayli, Eternal Pilgrim
@@ -514,6 +549,7 @@ Horribly Awry
 Kheru Bloodsucker
 Kolaghan's Command
 Massacre Wurm
+Merciless Resolve  2Black (3) 
 Mob Rule
 Palace Siege
 Rakdos, Lord of Riots
@@ -531,10 +567,12 @@ Vulturous Aven
 Acidic Slime
 Angelic Gift
 Dark Confidant
+Dead Weight  Black (1) 
 Fertile Ground
 Nether Traitor
 Rancor
 Shambling Vent
+Spectral Shepherd  2White (3) 
 Twilight Drover
 Utopia Sprawl
 </EidolonSac>
@@ -545,6 +583,7 @@ Glacial Fortress
 Grand Arbiter Augustin IV
 Herald of the Pantheon
 Hindering Light
+Kor Spiritdancer
 Mesa Enchantress
 Shadows of the Past
 Shaman of Spring
@@ -558,6 +597,9 @@ Shaman of Spring
   Elemental Bond
   Flameshadow Conjuring
   Frost Walker
+  Goldnight Castigator  2RedRed (4) 
+  Incorrigible Youths  3RedRed (5) 
+  Obsidian Fireheart  1RedRedRed (4) 
   Phantasmal Image
   Sabertooth Outrider
   Scout the Borders
@@ -572,6 +614,8 @@ Shaman of Spring
   Fanatic of Xenagos
   Genesis Hydra
   Impact Tremors
+  Intet, the Dreamer
+  Reckless Wurm
   Shape the Sands
   Sight of the Scalelords
   Stormrider Rig  
@@ -1115,11 +1159,15 @@ Vigor
 Creakwood Liege
 Elspeth, Knight-Errant
 Essence Warden
+Hanweir Militia Captain  1White (2) 
 Mentor of the Meek
 Ichor Wellspring
+Inexorable Blob  2Green (3) 
 Parallel Lives
 Rancor
+Rhys the Redeemed
 Ronom Unicorn
+Second Harvest  2GreenGreen (4) 
 Sublime Archangel
 Sundering Growth
 Unruly Mob
@@ -1128,20 +1176,37 @@ Wingmate Roc
 </Tokens>
 <WasteNot>
 Abyssal Nocturnus
+Asylum Visitor
 Blizzard Specter
 Castigate
 Cemetery Reaper
+Compelling Deterrence  1Blue (2) 
+Creeping Dread  3Black (4) 
 Crypt Incursion
 Death Baron
+Dimir Cutpurse
 Dimir Doppelganger
+Diregraf Colossus  2Black (3) 
+Drunau Corpse Trawler  3Blue (4) 
+Empty the Pits
+From Under the Floorboards  3BlackBlack (5) 
 Howling Mine
 Inquisition of Kozilek
 Jace Beleren
 Liliana's Caress
 Liliana's Specter
+Lord of Extinction  3BlackGreen (5) 
 Lord of the Undead
 Lore Broker
+Oona's Prowler
+Prized Amalgam  1BlueBlack (3) 
+Reckless Scholar  2Blue (3) 
+Relentless Dead  BlackBlack (2) 
+Rottenheart Ghoul  3Black (4) 
+Sedraxis Specter  BlueBlackRed (3) 
+Shamble Back  Black (1) 
 Stromgald Crusader
+Sunken Hollow
 Thieving Magpie
 Undead Warchief
 Vexing Sphinx
