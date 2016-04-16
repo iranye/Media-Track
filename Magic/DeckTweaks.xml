@@ -32,7 +32,9 @@ Second Harvest  2GreenGreen (4)
 Solemn Simulacrum
 Spawning Pit
 Tamiyo's Journal  5 (5) 
+Thing in the Ice  1Blue (2) 
 Triskaidekaphobia  3Black (4) 
+Wild-Field Scarecrow  3 (3) 
 </TradersList>
 <General>
 Amulet of Vigor
@@ -567,6 +569,7 @@ Valorous Stance
 Vampiric Rites
 Vengeful Pharaoh
 Vulturous Aven
+Wild-Field Scarecrow  3 (3) 
 </Discards>
 <EidolonSac>
 Acidic Slime
@@ -1178,14 +1181,15 @@ Sublime Archangel
 Sundering Growth
 Thragtusk
 Unruly Mob
+Vessel of Malignity  1Black (2) 
 Wall of Omens
 Wingmate Roc
 </Tokens>
 <WasteNot>
+Abhorrent Overlord  5BlackBlack (7) 
 Abyssal Nocturnus
 Asylum Visitor
 Blizzard Specter
-Castigate
 Cemetery Reaper
 Compelling Deterrence  1Blue (2) 
 Creeping Dread  3Black (4) 
@@ -1194,11 +1198,15 @@ Death Baron
 Dimir Cutpurse
 Dimir Doppelganger
 Diregraf Colossus  2Black (3) 
+Diregraf Captain
+Disciple of Phenax  2BlackBlack (4) 
 Drunau Corpse Trawler  3Blue (4) 
 Empty the Pits
+Erebos, God of the Dead  3Black (4) 
 From Under the Floorboards  3BlackBlack (5) 
-Graveyard Crawler
+Gray Merchant of Asphodel  3BlackBlack (5) 
 Howling Mine
+Idyllic Tutor  2White (3) 
 Inquisition of Kozilek
 Jace Beleren
 Liliana's Caress
@@ -1206,6 +1214,8 @@ Liliana's Specter
 Lord of Extinction  3BlackGreen (5) 
 Lord of the Undead
 Lore Broker
+Marshmist Titan  6Black (7) 
+Nykthos, Shrine to Nyx (0) 
 Oona's Prowler
 Prized Amalgam  1BlueBlack (3) 
 Reckless Scholar  2Blue (3) 
@@ -1216,9 +1226,11 @@ Shamble Back  Black (1)
 Stromgald Crusader
 Sunken Hollow
 Thieving Magpie
+Thoughtseize
 Undead Warchief
 Vexing Sphinx
 Western Paladin
+Zur the Enchanter  1WhiteBlueBlack (4) 
 </WasteNot>
 
 
