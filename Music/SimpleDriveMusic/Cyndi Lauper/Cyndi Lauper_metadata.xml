@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="C:\Media-Tracker\Music\SimpleDriveMusic\Cyndi Lauper">
+  <FileItemList>
+    <FileItem name="$Cyndi Lauper.m3u">
+      <Size>790</Size>
+      <MD5Hash>0xA48E1FC75FF7A53F91E403E5752396EF</MD5Hash>
+    </FileItem>
+    <FileItem name="01-Cyndi Lauper - She's So Unusual - 01 - Money Changes Everything.mp3">
+      <Size>7329887</Size>
+      <MD5Hash>0x265F5F5F136671B0D80E5C4FE0814D31</MD5Hash>
+    </FileItem>
+    <FileItem name="01-Cyndi Lauper - She's So Unusual - 02 - Girls Just Want To Have Fun.mp3">
+      <Size>5714403</Size>
+      <MD5Hash>0x79A60E063306896147311B3FDF633AA4</MD5Hash>
+    </FileItem>
+    <FileItem name="01-Cyndi Lauper - She's So Unusual - 03 - When You Were Mine.mp3">
+      <Size>7362488</Size>
+      <MD5Hash>0xF114D318C5D0DB228BBC93DDC3FC0D88</MD5Hash>
+    </FileItem>
+    <FileItem name="01-Cyndi Lauper - She's So Unusual - 04 - Time After Time.mp3">
+      <Size>5847302</Size>
+      <MD5Hash>0x40D56ADD1783E4528D44B987B138B403</MD5Hash>
+    </FileItem>
+    <FileItem name="01-Cyndi Lauper - She's So Unusual - 05 - She Bop.mp3">
+      <Size>5569560</Size>
+      <MD5Hash>0x7D72746C598E21E8F13EDD42A7AE1C56</MD5Hash>
+    </FileItem>
+    <FileItem name="01-Cyndi Lauper - She's So Unusual - 06 - All Through The Night.mp3">
+      <Size>6538821</Size>
+      <MD5Hash>0xFB381745825A93E8BF8C861B7D9FEEFE</MD5Hash>
+    </FileItem>
+    <FileItem name="01-Cyndi Lauper - She's So Unusual - 07 - Witness.mp3">
+      <Size>5304248</Size>
+      <MD5Hash>0x5423960D0E708BE165990850F5174851</MD5Hash>
+    </FileItem>
+    <FileItem name="01-Cyndi Lauper - She's So Unusual - 08 - I'll Kiss You.mp3">
+      <Size>6060963</Size>
+      <MD5Hash>0x89A21F48E22B57D35989C6CC135397BF</MD5Hash>
+    </FileItem>
+    <FileItem name="01-Cyndi Lauper - She's So Unusual - 09 - He's So Unusual-Yeah Yeah.mp3">
+      <Size>5889809</Size>
+      <MD5Hash>0x08A0097114F602D032B8B2755D3407E5</MD5Hash>
+    </FileItem>
+    <FileItem name="Cyndi Lauper - All Through The Night.mp3">
+      <Size>3586176</Size>
+      <MD5Hash>0x10743E14BA0D374E61637526D7CF5623</MD5Hash>
+    </FileItem>
+    <FileItem name="Cyndi Lauper - Girls Just Wanna Have Fun.mp3">
+      <Size>3685128</Size>
+      <MD5Hash>0xCDC4EC25E9AA13656000CA62E3ED96DA</MD5Hash>
+    </FileItem>
+    <FileItem name="Cyndi Lauper - She Bop.MP3">
+      <Size>4634624</Size>
+      <MD5Hash>0x2D265083DFB7E4CE1460462ACF7C4407</MD5Hash>
+    </FileItem>
+    <FileItem name="Cyndi Lauper - The Goonies 'R' Good Enough.mp3">
+      <Size>3334002</Size>
+      <MD5Hash>0x4306CF0F425DF3817FFBB10E24C5F896</MD5Hash>
+    </FileItem>
+    <FileItem name="Cyndi Lauper -- Time After Time.mp3">
+      <Size>3897344</Size>
+      <MD5Hash>0x96D99F75ED7A16941C0C1E75225A1BFA</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>
