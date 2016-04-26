@@ -11,6 +11,7 @@ Thumbs.db
 *.cache
 .hgignore
 *.ilk
+*.ini
 *.log
 *.ncb
 *.pch

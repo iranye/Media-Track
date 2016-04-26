@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="C:\Media-Tracker\Music\SimpleDriveMusic\Clash">
+  <FileItemList>
+    <FileItem name="0X-Clash - I Fought The Law.mp3">
+      <Size>3207964</Size>
+      <MD5Hash>0x0221BDF29912A1C8CDAE962122375B04</MD5Hash>
+    </FileItem>
+    <FileItem name="0X-Clash - London Calling.mp3">
+      <Size>3208800</Size>
+      <MD5Hash>0x28C9FF2911F75219B7448D1804C22B39</MD5Hash>
+    </FileItem>
+    <FileItem name="0X-Clash - Rock the Casbah.mp3">
+      <Size>3522560</Size>
+      <MD5Hash>0xF87FECDB79BF5D7AF3656E40189EA076</MD5Hash>
+    </FileItem>
+    <FileItem name="0X-Clash - Rock the Cashbah.mp3">
+      <Size>3544628</Size>
+      <MD5Hash>0xAA55D5FCD64414CB5020CA4A0AE00847</MD5Hash>
+    </FileItem>
+    <FileItem name="0X-Clash - Should I Stay Or Should I Go.mp3">
+      <Size>3000529</Size>
+      <MD5Hash>0x07F9BEE7308C1F34E36EBFEADAA5D3C2</MD5Hash>
+    </FileItem>
+    <FileItem name="0X-Clash - Train In Vain.mp3">
+      <Size>3035136</Size>
+      <MD5Hash>0x9EDA0A8054B4E16938D5D2DA80DBB347</MD5Hash>
+    </FileItem>
+    <FileItem name="0X-Clash, The - I Fought the Law.mp3">
+      <Size>3147611</Size>
+      <MD5Hash>0x2C1ED58E58DA971E5D0F6295DA5AE5A4</MD5Hash>
+    </FileItem>
+    <FileItem name="0X-Clash, The - The Clash - 12 Hate And War.mp3">
+      <Size>3042533</Size>
+      <MD5Hash>0x208CF190F7A59356E8B55F8AA1FBBBA2</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 01 - White Riot.mp3">
+      <Size>2862616</Size>
+      <MD5Hash>0xE046B02B679C6367EC48237E5D3A8272</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 02 - Remote Control.mp3">
+      <Size>4378558</Size>
+      <MD5Hash>0x00B1783D5C175D065AC5D8277EFFF716</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 03 - Complete Control.mp3">
+      <Size>4671968</Size>
+      <MD5Hash>0x3365BB8EFC78024A955AFC327AB4AABC</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 04 - Clash City Rockers.mp3">
+      <Size>5512695</Size>
+      <MD5Hash>0x28415BE1BDE70A3D4744E2685C683C5F</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 05 - White Man In Hammersmith Palais.mp3">
+      <Size>5801726</Size>
+      <MD5Hash>0x7939ACB4CB1B6FFD094889A1F15F91B9</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 06 - Tommy Gun.mp3">
+      <Size>4730893</Size>
+      <MD5Hash>0x322330B95FAE4B5B905D0399E51DA39A</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 07 - English Civil War.mp3">
+      <Size>3796762</Size>
+      <MD5Hash>0x7626DBBA8E322F889EBCCB8ADFCC509A</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 08 - I Fought The Law.mp3">
+      <Size>3873248</Size>
+      <MD5Hash>0x87B6530519CD73D08406053E6B352A45</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 09 - London Calling.mp3">
+      <Size>4831208</Size>
+      <MD5Hash>0x73E115B50043921895D7DB1509F5F874</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 10 - Train In Vain.mp3">
+      <Size>4594851</Size>
+      <MD5Hash>0x6B3FCA81908F23EFF170E50278874275</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 11 - Bankrobber.mp3">
+      <Size>6613591</Size>
+      <MD5Hash>0xE02165E38F53AF3749A6A122F349D86F</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 12 - The Call Up.mp3">
+      <Size>7851169</Size>
+      <MD5Hash>0xD222149FCCE431B72ADE71D43F5F5BC8</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 13 - Hitsville UK.mp3">
+      <Size>6323321</Size>
+      <MD5Hash>0xCAC48A072ED79252EDDCA9E99867F75E</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 14 - Magnificient Seven.mp3">
+      <Size>6472538</Size>
+      <MD5Hash>0xB361A29C18D5E852FD0B09EACFB02380</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 15 - This Is Radio Clash.mp3">
+      <Size>6031801</Size>
+      <MD5Hash>0x8D66F640C688AF6E490A2C714E3FF668</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 16 - Know Your Rights.mp3">
+      <Size>5330880</Size>
+      <MD5Hash>0xF5CFF15419CB01BD19101CE1D4848FB2</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 17 - Rock the Casbah.mp3">
+      <Size>5369750</Size>
+      <MD5Hash>0xDE07BC48AC84DB8CBC16D291F653AEA7</MD5Hash>
+    </FileItem>
+    <FileItem name="40-The Clash - The Singles - 18 - Should I Stay Or Should I Go.mp3">
+      <Size>4504587</Size>
+      <MD5Hash>0x745A4CCE1A6F448486E9B6B4FDCEE19E</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>
