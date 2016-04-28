@@ -1,45 +1,6 @@
 <AllDecks>
 <TradersList>
-  Accursed Witch  3Black (4) 
-  Archangel Avacyn  3WhiteWhite (5) 
-  Asylum Visitor
-  Brain in a Jar  2 (2) 
-  Briarbridge Patrol  3Green (4) 
-  Burst Lightning
-  Cryptic Command
-  Eerie Interlude  2White (3) 
-  Elusive Tormentor  2BlackBlack (4) 
-  Declaration in Stone  1White (2) 
-  Diregraf Colossus  2Black (3) 
-  Flameshadow Conjuring
-  From Under the Floorboards  3BlackBlack (5) 
-  Hanweir Militia Captain  1White (2) 
-  Hellkite Charger
-  Hellkite Igniter
-  Imperious Perfect
-  Inexorable Blob  2Green (3) 
-  Intet, the Dreamer
-  Invocation of Saint Traft
-  Jace Beleren
-  Kor Spiritdancer
-  Morkrut Necropod  5Black (6) 
-  Obsidian Fireheart  1RedRedRed (4) 
-  Odric, Lunarch Marshal  3White (4) 
-  Ongoing Investigation  1Blue (2) 
-  Punishing Fire
-  Rattlechains  1Blue (2) 
-  Reckless Scholar  2Blue (3) 
-  Reckless Wurm
-  Relentless Dead  BlackBlack (2) 
-  Rottenheart Ghoul  3Black (4) 
-  Second Harvest  2GreenGreen (4) 
-  Solemn Simulacrum [2]
-  Tamiyo's Journal  5 (5) 
-  Thing in the Ice  1Blue (2) 
-  Triskaidekaphobia  3Black (4) 
-  Venser, the Sojourner *Foil*
-  Wild-Field Scarecrow  3 (3) 
-  Wurmcoil Engine
+  
 </TradersList>
 <General>
 	<Fetch>
@@ -52,6 +13,7 @@
   <CounterSpell>
     Clash of Wills
     Dissolve
+    Horribly Awry
     Mindswipe
     Negate
     Stymied Hopes
@@ -77,7 +39,7 @@
     Military Intelligence
     Serum Visions
   </DrawCards>
-   <GainLife>
+  <GainLife>
     Feed the Clan
   </GainLife>
   <Mana>
@@ -584,7 +546,6 @@ Multi-Color Spells:
 Loam Dryad  Green (1) 
 </DaringIceFeather>
 <Discards>
-+++:
 Ayli, Eternal Pilgrim
 Big Game Hunter
 Blightning
@@ -605,6 +566,7 @@ Kolaghan's Command
 Massacre Wurm
 Merciless Resolve  2Black (3) 
 Mob Rule
+Morkrut Necropod
 Palace Siege
 Rakdos, Lord of Riots
 Ravenous Rats
@@ -628,12 +590,18 @@ Wild-Field Scarecrow  3 (3)
   Herald of the Panteon
   Nether Traitor
   Rancor
+  Rattlechains
   Shambling Vent
   Spectral Shepherd  2White (3) 
   Twilight Drover
   Utopia Sprawl
 </EidolonSac>
 <EliteArcanist>
+  Accursed Witch
+  Brain in a Jar
+  Declaration in Stone
+  Eerie Interlude
+  Horribly Awry
   Nivmagus Elemental
   Squelch
 </EliteArcanist>
@@ -651,7 +619,9 @@ Wild-Field Scarecrow  3 (3)
   Shaman of Spring
 </Enchants>
 <FourPowerMobs>
+  Briarbridge Patrol
   Collected Company
+  Eerie Interlude
   Elemental Bond
   Felhide Spiritbinder
   Flameshadow Conjuring
@@ -659,9 +629,10 @@ Wild-Field Scarecrow  3 (3)
   Goldnight Castigator  2RedRed (4) 
   Hellkite Charger
   Incorrigible Youths  3RedRed (5) 
+  Intet, the Dreamer
   Mosswort Bridge
   Obsidian Fireheart  1RedRedRed (4) 
-  Phantasmal Image
+  Reckless Wurm
   Sabertooth Outrider
   Scout the Borders
   Stormrider Rig
@@ -677,8 +648,6 @@ Wild-Field Scarecrow  3 (3)
   Fanatic of Xenagos
   Genesis Hydra
   Impact Tremors
-  Intet, the Dreamer
-  Reckless Wurm
   Shape the Sands
   Sight of the Scalelords
   Talara's Battalion
@@ -1238,8 +1207,7 @@ Nykthos, Shrine to Nyx (0)
 Oona's Prowler
 Prized Amalgam  1BlueBlack (3) 
 Reckless Scholar  2Blue (3) 
-Relentless Dead  BlackBlack (2) 
- 
+Relentless Dead  BlackBlack (2)  
 Rottenheart Ghoul  3Black (4) 
 Sedraxis Specter  BlueBlackRed (3) 
 Shamble Back  Black (1) 
