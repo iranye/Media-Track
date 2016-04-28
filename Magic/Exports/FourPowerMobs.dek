@@ -10,7 +10,7 @@
   <Cards CatID="54168" Quantity="4" Sideboard="false" Name="Frontier Bivouac" />
   <Cards CatID="54470" Quantity="3" Sideboard="false" Name="Rugged Highlands" />
   <Cards CatID="55532" Quantity="2" Sideboard="false" Name="Swiftwater Cliffs" />
-  <Cards CatID="53460" Quantity="1" Sideboard="false" Name="Elvish Mystic" />
+  <Cards CatID="56122" Quantity="1" Sideboard="false" Name="Dragon Whisperer" />
   <Cards CatID="50260" Quantity="2" Sideboard="false" Name="Sylvan Caryatid" />
   <Cards CatID="50266" Quantity="3" Sideboard="false" Name="Temple of Abandon" />
   <Cards CatID="51966" Quantity="2" Sideboard="false" Name="Temple of Epiphany" />
@@ -19,16 +19,13 @@
   <Cards CatID="50398" Quantity="1" Sideboard="false" Name="Unknown Shores" />
   <Cards CatID="50136" Quantity="1" Sideboard="false" Name="Boon Satyr" />
   <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
-  <Cards CatID="51741" Quantity="1" Sideboard="false" Name="Flame-Wreathed Phoenix" />
-  <Cards CatID="54118" Quantity="3" Sideboard="false" Name="Heir of the Wilds" />
-  <Cards CatID="50312" Quantity="1" Sideboard="false" Name="Purphoros, God of the Forge" />
+  <Cards CatID="55414" Quantity="1" Sideboard="false" Name="Humble Defector" />
   <Cards CatID="53642" Quantity="2" Sideboard="false" Name="Quickling" />
   <Cards CatID="54186" Quantity="3" Sideboard="false" Name="Savage Knuckleblade" />
   <Cards CatID="56360" Quantity="1" Sideboard="false" Name="Shaman of Forgotten Ways" />
   <Cards CatID="50522" Quantity="1" Sideboard="false" Name="Stormbreath Dragon" />
-  <Cards CatID="55632" Quantity="1" Sideboard="false" Name="Temur Sabertooth" />
   <Cards CatID="56192" Quantity="1" Sideboard="false" Name="Sarkhan Unbroken" />
-  <Cards CatID="50578" Quantity="1" Sideboard="false" Name="Anger of the Gods" />
+  <Cards CatID="50578" Quantity="2" Sideboard="false" Name="Anger of the Gods" />
   <Cards CatID="50428" Quantity="1" Sideboard="false" Name="Destructive Revelry" />
   <Cards CatID="54390" Quantity="1" Sideboard="false" Name="Feed the Clan" />
   <Cards CatID="53412" Quantity="1" Sideboard="false" Name="Peel from Reality" />
@@ -36,26 +33,23 @@
   <Cards CatID="54440" Quantity="3" Sideboard="false" Name="Temur Ascendancy" />
   <Cards CatID="54132" Quantity="2" Sideboard="false" Name="Temur Charm" />
   <Cards CatID="55918" Quantity="1" Sideboard="false" Name="Tormenting Voice" />
-  <Cards CatID="55602" Quantity="1" Sideboard="false" Name="Arcbond" />
-  <Cards CatID="55652" Quantity="1" Sideboard="false" Name="Supplant Form" />
-  <Cards CatID="51797" Quantity="1" Sideboard="false" Name="Whelming Wave" />
-  <Cards CatID="55416" Quantity="2" Sideboard="false" Name="Frontier Siege" />
-  <Cards CatID="54108" Quantity="1" Sideboard="false" Name="Monastery Swiftspear" />
-  <Cards CatID="52186" Quantity="1" Sideboard="false" Name="Hypnotic Siren" />
+  <Cards CatID="57814" Quantity="1" Sideboard="false" Name="Elemental Bond" />
+  <Cards CatID="51731" Quantity="1" Sideboard="false" Name="Felhide Spiritbinder" />
+  <Cards CatID="57630" Quantity="1" Sideboard="false" Name="Elvish Visionary" />
   <Cards CatID="55440" Quantity="1" Sideboard="false" Name="Outpost Siege" />
-  <Cards CatID="55496" Quantity="1" Sideboard="false" Name="Winds of Qal Sisma" />
-  <Cards CatID="56118" Quantity="2" Sideboard="false" Name="Stormrider Rig" />
+  <Cards CatID="20469" Quantity="1" Sideboard="false" Name="Spawning Pit" />
   <Cards CatID="49133" Quantity="1" Sideboard="false" Name="Negate" />
   <Cards CatID="51639" Quantity="1" Sideboard="false" Name="Fall of the Hammer" />
   <Cards CatID="53434" Quantity="1" Sideboard="false" Name="Verdant Haven" />
   <Cards CatID="55372" Quantity="3" Sideboard="false" Name="Frost Walker" />
+  <Cards CatID="55430" Quantity="3" Sideboard="false" Name="Yasova Dragonclaw" />
   <Cards CatID="50428" Quantity="1" Sideboard="true" Name="Destructive Revelry" />
   <Cards CatID="50230" Quantity="1" Sideboard="true" Name="Magma Jet" />
   <Cards CatID="53398" Quantity="1" Sideboard="true" Name="Ranger's Guile" />
   <Cards CatID="49133" Quantity="1" Sideboard="true" Name="Negate" />
   <Cards CatID="50360" Quantity="1" Sideboard="true" Name="Dissolve" />
   <Cards CatID="49219" Quantity="1" Sideboard="true" Name="Plummet" />
-  <Cards CatID="52220" Quantity="1" Sideboard="true" Name="Fleetfeather Cockatrice" />
+  <Cards CatID="46411" Quantity="1" Sideboard="true" Name="Dryad Militant" />
   <Cards CatID="50470" Quantity="1" Sideboard="true" Name="Polis Crusher" />
   <Cards CatID="54254" Quantity="1" Sideboard="true" Name="Surrak Dragonclaw" />
   <Cards CatID="54456" Quantity="2" Sideboard="true" Name="Cranial Archive" />

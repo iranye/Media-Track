@@ -1,5 +1,45 @@
 <AllDecks>
 <TradersList>
+  Accursed Witch  3Black (4) 
+  Archangel Avacyn  3WhiteWhite (5) 
+  Asylum Visitor
+  Brain in a Jar  2 (2) 
+  Briarbridge Patrol  3Green (4) 
+  Burst Lightning
+  Cryptic Command
+  Eerie Interlude  2White (3) 
+  Elusive Tormentor  2BlackBlack (4) 
+  Declaration in Stone  1White (2) 
+  Diregraf Colossus  2Black (3) 
+  Flameshadow Conjuring
+  From Under the Floorboards  3BlackBlack (5) 
+  Hanweir Militia Captain  1White (2) 
+  Hellkite Charger
+  Hellkite Igniter
+  Imperious Perfect
+  Inexorable Blob  2Green (3) 
+  Intet, the Dreamer
+  Invocation of Saint Traft
+  Jace Beleren
+  Kor Spiritdancer
+  Morkrut Necropod  5Black (6) 
+  Obsidian Fireheart  1RedRedRed (4) 
+  Odric, Lunarch Marshal  3White (4) 
+  Ongoing Investigation  1Blue (2) 
+  Punishing Fire
+  Rattlechains  1Blue (2) 
+  Reckless Scholar  2Blue (3) 
+  Reckless Wurm
+  Relentless Dead  BlackBlack (2) 
+  Rottenheart Ghoul  3Black (4) 
+  Second Harvest  2GreenGreen (4) 
+  Solemn Simulacrum [2]
+  Tamiyo's Journal  5 (5) 
+  Thing in the Ice  1Blue (2) 
+  Triskaidekaphobia  3Black (4) 
+  Venser, the Sojourner *Foil*
+  Wild-Field Scarecrow  3 (3) 
+  Wurmcoil Engine
 Accursed Witch  3Black (4) 
 Archangel Avacyn  3WhiteWhite (5) 
 Asylum Visitor
@@ -36,24 +76,64 @@ Wild-Field Scarecrow  3 (3)
 Wurmcoil Engine
 </TradersList>
 <General>
-Amulet of Vigor
-Detention Spere
-Gift of Estates
-Mosswort Bridge
+	<Fetch>
+		Commune with the Gods
+	</Fetch>
+  <Control>
+    Detention Spere
+    Statis Snare
+  </Control>
+  <CounterSpell>
+    Clash of Wills
+    Dissolve
+    Mindswipe
+    Negate
+    Stymied Hopes
+    Trap Essence
+  </CounterSpell>
+	<CreatureFlash>
+	  Felhide Spiritbinder
+	  Flame-Wreathed Phoenix
+	  Prophet of Kruphix
+	  Quickling
+	  Roaring Primadox +++
+	</CreatureFlash>
+	<CreatureSplash>
+	  Gift of Immortality (Combine with Mardu Blazebringer)
+	</CreatureSplash>  
+  <CreatureReturn>
+	  Icefeather Aven
+	  Invasive Species
+	  Peel from Reality
+  </CreatureReturn>
+  <DrawCards>
+    Life's Legacy
+    Military Intelligence
+    Serum Visions
+  </DrawCards>
+   <GainLife>
+    Feed the Clan
+  </GainLife>
+  <Mana>
+    Amulet of Vigor
+    Dreadship Reef
+    Gift of Estates
+    Rupture Spire
+  </Mana>
+  <Removal>
+    Aetherspouts
+    Anger of the Gods (1)
+    Arc Lightning
+    Destructive Revelry
+    Fade into Antiquity
+    Fated Conflagration  
+    Path to Exile
+    Reclamation Sage
+    Magma Jet (+Scry 2)
+    Naturalize
+    Whelming Wave
+  </Removal>
 
-Mana:
-Dreadship Reef
-Rupture Spire
-
-Card Adv:
-Serum Visions
-
-Removal:
-Path to Exile
-
-Control:
-Clash of Wills
-Statis Snare
 </General>
 <AbzanBounce>
 Strategy (Blk, Wht, Grn, Blu):
@@ -549,7 +629,9 @@ Crux of Fate
 Dragonlord Kolaghan
 Dragonskull Summit
 Deathbringer Regent
+Elspeth Tirel
 Fruit of the First Tree
+Gideon, Champion of Justice  2WhiteWhite (4) 
 Goblin Rabblemaster
 Horribly Awry
 Kheru Bloodsucker
@@ -571,41 +653,45 @@ Vulturous Aven
 Wild-Field Scarecrow  3 (3) 
 </Discards>
 <EidolonSac>
-Acidic Slime
-Angelic Gift
-Dark Confidant
-Dead Weight  Black (1) 
-Fertile Ground
-Nether Traitor
-Rancor
-Shambling Vent
-Spectral Shepherd  2White (3) 
-Twilight Drover
-Utopia Sprawl
+  Acidic Slime
+  Angelic Gift
+  Cloudshift
+  Dark Confidant
+  Dead Weight  Black (1) 
+  Fertile Ground
+  Herald of the Panteon
+  Nether Traitor
+  Rancor
+  Shambling Vent
+  Spectral Shepherd  2White (3) 
+  Twilight Drover
+  Utopia Sprawl
 </EidolonSac>
+<EliteArcanist>
+  Nivmagus Elemental
+  Squelch
+</EliteArcanist>
 <Enchants>
-Angelic Gift
-Dust Elemental
-Glacial Fortress
-Grand Arbiter Augustin IV
-Herald of the Pantheon
-Hindering Light
-Invocation of Saint Traft
-Kor Spiritdancer
-Mesa Enchantress
-Shadows of the Past
-Shaman of Spring
+  Angelic Gift
+  Dust Elemental
+  Glacial Fortress
+  Grand Arbiter Augustin IV
+  Herald of the Pantheon
+  Hindering Light
+  Invocation of Saint Traft
+  Kor Spiritdancer
+  Mesa Enchantress
+  Shadows of the Past
+  Shaman of Spring
 </Enchants>
 <FourPowerMobs>
-  STRATEGY:
-  Cast 4-powered creatures to draw more cards (w/ Temur Ascendancy)
-  
-  +++:
   Collected Company
   Felhide Spiritbinder
   Flameshadow Conjuring
   Goldnight Castigator  2RedRed (4) 
+  Hellkite Charger
   Incorrigible Youths  3RedRed (5) 
+  Mosswort Bridge
   Obsidian Fireheart  1RedRedRed (4) 
   Phantasmal Image
   Sabertooth Outrider
@@ -613,8 +699,10 @@ Shaman of Spring
   Stormrider Rig
   Silkwrap
   Vedalken Mastermind
+  Voyage's End
   Wooded Foothills
 
+  -- Alternate Strategy(s)
   Arcbond  
   Anticipate
   Fanatic of Mogis
@@ -625,14 +713,10 @@ Shaman of Spring
   Reckless Wurm
   Shape the Sands
   Sight of the Scalelords
-  Stormrider Rig  
   Talara's Battalion
   Winds of Qal Sisma
   Xenagos, God of Revels
   Yasova Dragonclaw
-  
-  ---:
-  Qal Sisma Behemoth
   
   +++:
   SIDEBOARD:
@@ -672,11 +756,6 @@ Shaman of Spring
   
   
   Comnmune with the Gods
-  
-  MANA:
-  Rattleclaw Mystic
-  Sylvan Caryatid
-  Verdant Haven
   
   ADD 4-POWER CREATURES:
   Alpine Grizzly
@@ -731,44 +810,6 @@ Shaman of Spring
   CORE:
   Temur Ascendancy
   Temur Charm
-  
-  FLICKER/FLASH:
-  Felhide Spiritbinder
-  Flame-Wreathed Phoenix
-  Gift of Immortality (Combine with Mardu Blazebringer)
-  Icefeather Aven
-  Invasive Species
-  Peel from Reality
-  Prophet of Kruphix
-  Quickling
-  Roaring Primadox +++
-  Voyage's End
-  
-  GAIN LIFE:
-  Feed the Clan
-  
-  DRAW CARDS:
-  Life's Legacy
-  Military Intelligence
-  
-  REMOVAL:
-  Aetherspouts
-  Anger of the Gods (1)
-  Arc Lightning
-  Destructive Revelry
-  Fade into Antiquity
-  Fated Conflagration
-  Reclamation Sage
-  Magma Jet (+Scry 2)
-  Naturalize
-  Whelming Wave
-  
-  COUNTERSPELLS:
-  Dissolve
-  Mindswipe
-  Negate
-  Stymied Hopes
-  Trap Essence (0)
 </FourPowerMobs>
 <LandDestruct>
 Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
@@ -1165,11 +1206,17 @@ Vigor
 <Tokens>
 Creakwood Liege
 Elspeth, Knight-Errant
+Elspeth Tirel
 Essence Warden
+Garruk, Primal Hunter  2GreenGreenGreen (5) 
+Garruk Wildspeaker  2GreenGreen (4) 
+Gideon, Ally of Zendikar  2WhiteWhite (4) 
+Gideon, Champion of Justice  2WhiteWhite (4) 
 Hanweir Militia Captain  1White (2) 
 Mentor of the Meek
 Ichor Wellspring
 Inexorable Blob  2Green (3) 
+Nissa, Voice of Zendikar  1GreenGreen (3) 
 Parallel Lives
 Rancor
 Rhys the Redeemed
@@ -1186,6 +1233,8 @@ Wingmate Roc
 <WasteNot>
 Abhorrent Overlord  5BlackBlack (7) 
 Abyssal Nocturnus
+Arcane Denial
+Archmage Ascension
 Asylum Visitor
 Blizzard Specter
 Cemetery Reaper
@@ -1198,15 +1247,19 @@ Dimir Doppelganger
 Diregraf Colossus  2Black (3) 
 Diregraf Captain
 Disciple of Phenax  2BlackBlack (4) 
+Dream Fracture  1BlueBlue (3) 
 Drunau Corpse Trawler  3Blue (4) 
 Empty the Pits
 Erebos, God of the Dead  3Black (4) 
 From Under the Floorboards  3BlackBlack (5) 
 Gray Merchant of Asphodel  3BlackBlack (5) 
+Gwafa Hazid, Profiteer  1WhiteBlue (3) 
 Howling Mine
 Idyllic Tutor  2White (3) 
 Inquisition of Kozilek
 Jace Beleren
+Liliana, Heretical Healer
+Liliana of the Veil
 Liliana's Caress
 Liliana's Specter
 Lord of Extinction  3BlackGreen (5) 
@@ -1218,11 +1271,13 @@ Oona's Prowler
 Prized Amalgam  1BlueBlack (3) 
 Reckless Scholar  2Blue (3) 
 Relentless Dead  BlackBlack (2) 
+ 
 Rottenheart Ghoul  3Black (4) 
 Sedraxis Specter  BlueBlackRed (3) 
 Shamble Back  Black (1) 
 Stromgald Crusader
 Sunken Hollow
+Tamiyo, the Moon Sage  3BlueBlue (5) 
 Thieving Magpie
 Thoughtseize
 Undead Warchief
