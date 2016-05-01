@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53494" Quantity="4" Sideboard="false" Name="Waste Not" />
+  <Cards CatID="48404" Quantity="4" Sideboard="false" Name="Crypt Incursion" />
+  <Cards CatID="47753" Quantity="1" Sideboard="false" Name="Crypt Ghast" />
+  <Cards CatID="49571" Quantity="1" Sideboard="false" Name="Liliana's Reaver" />
+  <Cards CatID="47579" Quantity="1" Sideboard="false" Name="Corpse Blockade" />
+  <Cards CatID="54346" Quantity="1" Sideboard="false" Name="Empty the Pits" />
+</Deck>
+
+<WasteNot>
+Abhorrent Overlord  5BlackBlack (7) 
+Abyssal Nocturnus
+Arcane Denial
+Archmage Ascension
+Asylum Visitor
+Blizzard Specter
+Burning Inquiry
+Cemetery Reaper
+Compelling Deterrence  1Blue (2) 
+Creeping Dread  3Black (4) 
+Crypt Incursion
+Death Baron
+Dimir Cutpurse
+Dimir Doppelganger
+Diregraf Colossus  2Black (3) 
+Diregraf Captain
+Disciple of Phenax  2BlackBlack (4) 
+Dream Fracture  1BlueBlue (3) 
+Drunau Corpse Trawler  3Blue (4) 
+Empty the Pits
+Erebos, God of the Dead  3Black (4) 
+From Under the Floorboards  3BlackBlack (5) 
+Funeral Charm
+Gray Merchant of Asphodel  3BlackBlack (5) 
+Gwafa Hazid, Profiteer  1WhiteBlue (3) 
+Howling Mine
+Hypnotic Specter
+Idyllic Tutor  2White (3) 
+Inquisition of Kozilek
+Jace Beleren
+Liliana, Heretical Healer
+Liliana of the Veil
+Liliana's Caress
+Liliana's Specter
+Lord of Extinction  3BlackGreen (5) 
+Lord of the Undead
+Lore Broker
+Marshmist Titan  6Black (7) 
+Nykthos, Shrine to Nyx (0) 
+Oona's Prowler
+Prized Amalgam  1BlueBlack (3) 
+Reckless Scholar  2Blue (3) 
+Relentless Dead  BlackBlack (2)  
+Rottenheart Ghoul  3Black (4) 
+Sedraxis Specter  BlueBlackRed (3) 
+Shamble Back  Black (1) 
+Stromgald Crusader
+Sunken Hollow
+Tamiyo, the Moon Sage  3BlueBlue (5) 
+Thieving Magpie
+Thoughtseize
+Undead Warchief
+Vexing Sphinx
+Western Paladin
+Wrench Mind
+Zur the Enchanter  1WhiteBlueBlack (4) 
+</WasteNot>

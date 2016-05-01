@@ -572,6 +572,7 @@ Rakdos, Lord of Riots
 Ravenous Rats
 Sandstepp outcast
 Secure the Wastes
+Shambling Vent
 Sin Collector
 Twilight Drover
 Valorous Stance
@@ -601,6 +602,7 @@ Wild-Field Scarecrow  3 (3)
   Brain in a Jar
   Declaration in Stone
   Eerie Interlude
+  Explore
   Horribly Awry
   Nivmagus Elemental
   Squelch
@@ -755,6 +757,7 @@ Lightform (2 WHT devotion) (also works w/ Jeskai charm: "put creature on top of 
 Heliod
 </LandDestruct>
 <LivingLore>
+Crack the Earth
 LivingLore (White Blue Red):
 - Use graveyard-fill cards and Living Lore to get big threat and big spells
 - Use Eidolon of Great Revel and only 4+ casting cost cards and include lots of lands that can become 3/3 creatures w/ Hammer of Purphoros
@@ -1137,6 +1140,7 @@ Sunbeam Spellbomb
 Furyborn Hellkite
 Kalonian Behemoth
 Khalni Hydra
+Predator Ooze
 Regal Force
 Vigor
 </RedGrDevotion-0>
@@ -1149,6 +1153,7 @@ Garruk, Primal Hunter  2GreenGreenGreen (5)
 Garruk Wildspeaker  2GreenGreen (4) 
 Gideon, Ally of Zendikar  2WhiteWhite (4) 
 Gideon, Champion of Justice  2WhiteWhite (4) 
+Godsire
 Hanweir Militia Captain  1White (2) 
 Mentor of the Meek
 Ichor Wellspring
@@ -1158,6 +1163,7 @@ Parallel Lives
 Rancor
 Rhys the Redeemed
 Ronom Unicorn
+Rhys the Redeemed
 Second Harvest  [1]
 Sublime Archangel
 Sundering Growth
@@ -1174,6 +1180,7 @@ Arcane Denial
 Archmage Ascension
 Asylum Visitor
 Blizzard Specter
+Burning Inquiry
 Cemetery Reaper
 Compelling Deterrence  1Blue (2) 
 Creeping Dread  3Black (4) 
@@ -1189,9 +1196,11 @@ Drunau Corpse Trawler  3Blue (4)
 Empty the Pits
 Erebos, God of the Dead  3Black (4) 
 From Under the Floorboards  3BlackBlack (5) 
+Funeral Charm
 Gray Merchant of Asphodel  3BlackBlack (5) 
 Gwafa Hazid, Profiteer  1WhiteBlue (3) 
 Howling Mine
+Hypnotic Specter
 Idyllic Tutor  2White (3) 
 Inquisition of Kozilek
 Jace Beleren
@@ -1206,6 +1215,7 @@ Marshmist Titan  6Black (7)
 Nykthos, Shrine to Nyx (0) 
 Oona's Prowler
 Prized Amalgam  1BlueBlack (3) 
+Raven's Crime
 Reckless Scholar  2Blue (3) 
 Relentless Dead  BlackBlack (2)  
 Rottenheart Ghoul  3Black (4) 
@@ -1219,6 +1229,7 @@ Thoughtseize
 Undead Warchief
 Vexing Sphinx
 Western Paladin
+Wrench Mind
 Zur the Enchanter  1WhiteBlueBlack (4) 
 </WasteNot>
 
