@@ -2,69 +2,94 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="53494" Quantity="4" Sideboard="false" Name="Waste Not" />
-  <Cards CatID="48404" Quantity="4" Sideboard="false" Name="Crypt Incursion" />
+  
+  MANA
+  <Cards CatID="50274" Quantity="7" Sideboard="false" Name="Nykthos, Shrine to Nyx" />  
+  <Cards CatID="58659" Quantity="2" Sideboard="false" Name="Sunken Hollow" />
+  
+  CMC=2
+  <Cards CatID="60324" Quantity="4" Sideboard="false" Name="Asylum Visitor" />
+  <Cards CatID="23210" Quantity="4" Sideboard="false" Name="Lore Broker" />
+  
+  CMC=3
+  <Cards CatID="23667" Quantity="4" Sideboard="false" Name="Abyssal Nocturnus" />
+  <Cards CatID="41183" Quantity="4" Sideboard="false" Name="Cemetery Reaper" />
+  <Cards CatID="47579" Quantity="4" Sideboard="false" Name="Corpse Blockade" />
+  <Cards CatID="31345" Quantity="1" Sideboard="false" Name="Death Baron" />
+  <Cards CatID="23150" Quantity="4" Sideboard="false" Name="Dimir Cutpurse" />
+  <Cards CatID="23108" Quantity="4" Sideboard="false" Name="Dimir Doppelganger" />
+  <Cards CatID="60034" Quantity="4" Sideboard="false" Name="Diregraf Colossus" />
+  <Cards CatID="31889" Quantity="1" Sideboard="false" Name="Gwafa Hazid, Profiteer" />
+  <Cards CatID="37352" Quantity="4" Sideboard="false" Name="Liliana's Specter" />
+  <Cards CatID="60162" Quantity="2" Sideboard="false" Name="Reckless Scholar" />
+  
+  CMC=4
+  <Cards CatID="24575" Quantity="4" Sideboard="false" Name="Blizzard Specter" />
   <Cards CatID="47753" Quantity="1" Sideboard="false" Name="Crypt Ghast" />
+  <Cards CatID="50466" Quantity="1" Sideboard="false" Name="Disciple of Phenax" />
   <Cards CatID="49571" Quantity="1" Sideboard="false" Name="Liliana's Reaver" />
-  <Cards CatID="47579" Quantity="1" Sideboard="false" Name="Corpse Blockade" />
+  <Cards CatID="60262" Quantity="2" Sideboard="false" Name="Rottenheart Ghoul" />
+  <Cards CatID="18714" Quantity="2" Sideboard="false" Name="Undead Warchief" />
+  
+  CMC=5
+  <Cards CatID="50562" Quantity="1" Sideboard="false" Name="Gray Merchant of Asphodel" />
+  
+  CMC=HIGH
+  <Cards CatID="47665" Quantity="2" Sideboard="false" Name="Dinrova Horror" />
+  <Cards CatID="51609" Quantity="1" Sideboard="false" Name="Marshmist Titan" />
+  
+  Permanents
+  <Cards CatID="34825" Quantity="4" Sideboard="false" Name="Archmage Ascension" /> 
+  <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" /> 
+  <Cards CatID="40477" Quantity="1" Sideboard="false" Name="Howling Mine" />
+  <Cards CatID="28469" Quantity="2" Sideboard="false" Name="Jace Beleren" />
+  <Cards CatID="53494" Quantity="4" Sideboard="false" Name="Waste Not" />
+  
+  Spells
+  <Cards CatID="60118" Quantity="4" Sideboard="false" Name="Compelling Deterrence" />
+  <Cards CatID="48404" Quantity="4" Sideboard="false" Name="Crypt Incursion" />
+  <Cards CatID="55522" Quantity="3" Sideboard="false" Name="Dark Deal" />
+  <Cards CatID="54102" Quantity="3" Sideboard="false" Name="Despise" />
   <Cards CatID="54346" Quantity="1" Sideboard="false" Name="Empty the Pits" />
+  <Cards CatID="60092" Quantity="1" Sideboard="false" Name="From Under the Floorboards" />
+  <Cards CatID="46601" Quantity="4" Sideboard="false" Name="Mind Rot" />
+  <Cards CatID="60090" Quantity="2" Sideboard="false" Name="Shamble Back" />
+  <Cards CatID="50256" Quantity="3" Sideboard="false" Name="Thoughtseize" />
 </Deck>
 
 <WasteNot>
-Abhorrent Overlord  5BlackBlack (7) 
-Abyssal Nocturnus
+<DONTHAVE>
 Arcane Denial
-Archmage Ascension
-Asylum Visitor
-Blizzard Specter
+Augur of Skulls
+Barbed Shocker
 Burning Inquiry
-Cemetery Reaper
-Compelling Deterrence  1Blue (2) 
+Consult the Necrosages
 Creeping Dread  3Black (4) 
-Crypt Incursion
-Death Baron
-Dimir Cutpurse
-Dimir Doppelganger
-Diregraf Colossus  2Black (3) 
+Death Cloud
 Diregraf Captain
-Disciple of Phenax  2BlackBlack (4) 
 Dream Fracture  1BlueBlue (3) 
 Drunau Corpse Trawler  3Blue (4) 
-Empty the Pits
-Erebos, God of the Dead  3Black (4) 
-From Under the Floorboards  3BlackBlack (5) 
 Funeral Charm
-Gray Merchant of Asphodel  3BlackBlack (5) 
-Gwafa Hazid, Profiteer  1WhiteBlue (3) 
-Howling Mine
+Havengul Lich
 Hypnotic Specter
+Gitaxian Probe
 Idyllic Tutor  2White (3) 
 Inquisition of Kozilek
-Jace Beleren
 Liliana, Heretical Healer
 Liliana of the Veil
 Liliana's Caress
-Liliana's Specter
 Lord of Extinction  3BlackGreen (5) 
 Lord of the Undead
-Lore Broker
-Marshmist Titan  6Black (7) 
-Nykthos, Shrine to Nyx (0) 
 Oona's Prowler
 Prized Amalgam  1BlueBlack (3) 
-Reckless Scholar  2Blue (3) 
+Raven's Crime
 Relentless Dead  BlackBlack (2)  
-Rottenheart Ghoul  3Black (4) 
 Sedraxis Specter  BlueBlackRed (3) 
-Shamble Back  Black (1) 
 Stromgald Crusader
-Sunken Hollow
 Tamiyo, the Moon Sage  3BlueBlue (5) 
 Thieving Magpie
-Thoughtseize
-Undead Warchief
 Vexing Sphinx
-Western Paladin
-Wrench Mind
 Zur the Enchanter  1WhiteBlueBlack (4) 
+</DONTHAVE>
+
 </WasteNot>

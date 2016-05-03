@@ -315,6 +315,10 @@ MORPH:
 MILL:
 - Altar of the Brood
 </AbzanBounce>
+<ColorKill>
+Painters Servant
+Western Paladin
+</ColorKill>
 <CountersForCreatures>
 Deck: Use Inspired and other tactics to build counters on creatures
 
@@ -609,6 +613,7 @@ Wild-Field Scarecrow  3 (3)
 </EliteArcanist>
 <Enchants>
   Angelic Gift
+  Azorius Æthermage
   Dust Elemental
   Glacial Fortress
   Grand Arbiter Augustin IV
