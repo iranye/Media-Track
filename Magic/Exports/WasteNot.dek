@@ -9,6 +9,7 @@
   
   CMC=2
   <Cards CatID="60324" Quantity="4" Sideboard="false" Name="Asylum Visitor" />
+  <Cards CatID="52278" Quantity="2" Sideboard="false" Name="Brain Maggot" />
   <Cards CatID="23210" Quantity="4" Sideboard="false" Name="Lore Broker" />
   
   CMC=3
@@ -43,7 +44,10 @@
   <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" /> 
   <Cards CatID="40477" Quantity="1" Sideboard="false" Name="Howling Mine" />
   <Cards CatID="28469" Quantity="2" Sideboard="false" Name="Jace Beleren" />
+  <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
+  <Cards CatID="55970" Quantity="1" Sideboard="false" Name="Tapestry of the Ages" />
   <Cards CatID="53494" Quantity="4" Sideboard="false" Name="Waste Not" />
+  <Cards CatID="50408" Quantity="2" Sideboard="false" Name="Whip of Erebos" />
   
   Spells
   <Cards CatID="60118" Quantity="4" Sideboard="false" Name="Compelling Deterrence" />
@@ -56,40 +60,3 @@
   <Cards CatID="60090" Quantity="2" Sideboard="false" Name="Shamble Back" />
   <Cards CatID="50256" Quantity="3" Sideboard="false" Name="Thoughtseize" />
 </Deck>
-
-<WasteNot>
-<DONTHAVE>
-Arcane Denial
-Augur of Skulls
-Barbed Shocker
-Burning Inquiry
-Consult the Necrosages
-Creeping Dread  3Black (4) 
-Death Cloud
-Diregraf Captain
-Dream Fracture  1BlueBlue (3) 
-Drunau Corpse Trawler  3Blue (4) 
-Funeral Charm
-Havengul Lich
-Hypnotic Specter
-Gitaxian Probe
-Idyllic Tutor  2White (3) 
-Inquisition of Kozilek
-Liliana, Heretical Healer
-Liliana of the Veil
-Liliana's Caress
-Lord of Extinction  3BlackGreen (5) 
-Lord of the Undead
-Oona's Prowler
-Prized Amalgam  1BlueBlack (3) 
-Raven's Crime
-Relentless Dead  BlackBlack (2)  
-Sedraxis Specter  BlueBlackRed (3) 
-Stromgald Crusader
-Tamiyo, the Moon Sage  3BlueBlue (5) 
-Thieving Magpie
-Vexing Sphinx
-Zur the Enchanter  1WhiteBlueBlack (4) 
-</DONTHAVE>
-
-</WasteNot>
