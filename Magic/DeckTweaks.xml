@@ -562,6 +562,7 @@ Destroy Land:
   Aura of Dominion
   Bear Umbra
   Canopy Cover
+  Curse of Chains
   Loam Dryad  Green (1) 
 </DaringIceFeather>
 <Discards>
@@ -643,7 +644,8 @@ Destroy Land:
   Shaman of Spring
 </Enchants>
 <ForceAttacks>
-  * Aura that forces creature to attack each turn
+  Bloodshed Fever
+  Contaminated Bond
   Hornet Nest
 </ForceAttacks>
 <FourPowerMobs>
@@ -893,6 +895,7 @@ NON-CREATURES:
   Call to the Kindred
   Consult the Necrosages
   CorpseWeft
+  Cowed by Wisdom
   Creeping Dread  3Black (4) 
   Death Cloud
   Diregraf Captain
