@@ -10,7 +10,10 @@
   CMC=2
   <Cards CatID="60324" Quantity="4" Sideboard="false" Name="Asylum Visitor" />
   <Cards CatID="52278" Quantity="2" Sideboard="false" Name="Brain Maggot" />
+  <Cards CatID="55944" Quantity="2" Sideboard="false" Name="Hidden Dragonslayer" />
   <Cards CatID="23210" Quantity="4" Sideboard="false" Name="Lore Broker" />
+  <Cards CatID="45398" Quantity="1" Sideboard="false" Name="War Priest of Thune" />
+  <Cards CatID="36262" Quantity="1" Sideboard="false" Name="Withered Wretch" />
   
   CMC=3
   <Cards CatID="23667" Quantity="4" Sideboard="false" Name="Abyssal Nocturnus" />
@@ -39,11 +42,15 @@
   <Cards CatID="47665" Quantity="2" Sideboard="false" Name="Dinrova Horror" />
   <Cards CatID="51609" Quantity="1" Sideboard="false" Name="Marshmist Titan" />
   
+  Planewswalkers
+  <Cards CatID="50310" Quantity="1" Sideboard="false" Name="Ashiok, Nightmare Weaver" />
+  <Cards CatID="53262" Quantity="2" Sideboard="false" Name="Liliana Vess" />
+  <Cards CatID="28469" Quantity="2" Sideboard="false" Name="Jace Beleren" />
+
   Permanents
   <Cards CatID="34825" Quantity="4" Sideboard="false" Name="Archmage Ascension" /> 
   <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" /> 
   <Cards CatID="40477" Quantity="1" Sideboard="false" Name="Howling Mine" />
-  <Cards CatID="28469" Quantity="2" Sideboard="false" Name="Jace Beleren" />
   <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
   <Cards CatID="55970" Quantity="1" Sideboard="false" Name="Tapestry of the Ages" />
   <Cards CatID="53494" Quantity="4" Sideboard="false" Name="Waste Not" />

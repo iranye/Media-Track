@@ -93,6 +93,7 @@
     Aetherspouts
     Anger of the Gods (1)
     Arc Lightning
+    Crstallization
     Destructive Revelry
     Fade into Antiquity
     Fated Conflagration  
@@ -100,6 +101,7 @@
     Reclamation Sage
     Magma Jet (+Scry 2)
     Naturalize
+    War Priest of Thune  1White (2) 
     Whelming Wave
   </Removal>
 </General>
@@ -421,6 +423,8 @@ Destroy Land:
 </SORT_ME>
 
 <ColorKill>
+  Eight-and-a-Half-Tails  WhiteWhite (2) 
+  Hunted Horror (Plus Ratchet Bomb)
   Painters Servant
   Western Paladin
 </ColorKill>
@@ -433,6 +437,7 @@ Destroy Land:
   Bow of Nylea
   Citadel Siege
   Feat of Resistance
+  Forced Adaptation
   Hardened Scales
   High Sentinels of Arashin
   Phalanx Leader
@@ -563,7 +568,10 @@ Destroy Land:
   Bear Umbra
   Canopy Cover
   Curse of Chains
+  Freed from the Real
+  Grimoire Thief  BlueBlue (2) 
   Loam Dryad  Green (1) 
+  Ral Zarek
 </DaringIceFeather>
 <Discards>
   Ayli, Eternal Pilgrim
@@ -608,8 +616,10 @@ Destroy Land:
   Chosen by Heliod
   Cloudshift
   Dark Confidant
+  Daybreak Coronet
   Dead Weight  Black (1) 
   Fertile Ground
+  Flickerform
   Herald of the Panteon
   Nether Traitor
   Rancor
@@ -623,6 +633,8 @@ Destroy Land:
   Accursed Witch
   Brain in a Jar
   Declaration in Stone
+  Delver of Secrets
+  Dual Casting
   Eerie Interlude
   Explore
   Horribly Awry
@@ -644,13 +656,19 @@ Destroy Land:
   Shaman of Spring
 </Enchants>
 <ForceAttacks>
+  Bident of Thassa
   Bloodshed Fever
   Contaminated Bond
+  Curse of the Nightly Hunt
+  Favor of the Woods
+  Furor of the Bitten
   Hornet Nest
 </ForceAttacks>
 <FourPowerMobs>
   Briarbridge Patrol
   Collected Company
+  Dragon Grip
+  Eel Umbra
   Eerie Interlude
   Elemental Bond
   Felhide Spiritbinder
@@ -844,6 +862,9 @@ NON-CREATURES:
 <RedBlueIzzet>
   Arcane Teachings
   Chandra's Spitfire
+  Curiosity
+  Curse of Stalked Prey
+  Fire Whip
   Izzet Boilerworks
   Reclusive Artificer
   Royal Assasin
@@ -871,12 +892,14 @@ NON-CREATURES:
   Mentor of the Meek
   Ichor Wellspring
   Inexorable Blob  2Green (3) 
+  Nissa, Vastwood Seer
   Nissa, Voice of Zendikar  1GreenGreen (3) 
   Parallel Lives
   Rancor
   Rhys the Redeemed
   Ronom Unicorn
   Rhys the Redeemed
+  Saffi Eriksdotter
   Second Harvest  [1]
   Sublime Archangel
   Sundering Growth
@@ -889,7 +912,9 @@ NON-CREATURES:
 <WasteNot>
   <DONTHAVE>
   Arcane Denial
+  Arcanum Wings
   Augur of Skulls
+  Ashiok, Nightmare Weaver
   Barbed Shocker
   Burning Inquiry
   Call to the Kindred
@@ -901,6 +926,7 @@ NON-CREATURES:
   Diregraf Captain
   Dream Fracture  1BlueBlue (3) 
   Drunau Corpse Trawler  3Blue (4) 
+  Elder Mastery
   Funeral Charm
   Havengul Lich
   Hypnotic Specter
@@ -913,16 +939,22 @@ NON-CREATURES:
   Lord of Extinction  3BlackGreen (5) 
   Lord of the Undead
   Mikokoro, Center of the Sea
+  Mistmeadow Skulk  1White (2) 
+  Nip Gwyllion  White or Black (1)
   Oona's Prowler
   Panoptic Mirror
+  Phantasmal Bear  Blue (1) 
   Prized Amalgam  1BlueBlack (3) 
   Raven's Crime
   Relentless Dead  BlackBlack (2)  
   Sedraxis Specter  BlueBlackRed (3) 
+  Soul's Attendant  White (1) 
   Stromgald Crusader
   Tamiyo, the Moon Sage  3BlueBlue (5) 
   Thieving Magpie
+  Vault Skirge  1Phyrexian Black (2) 
   Vexing Sphinx
+  Weathered Wayfarer
   Zur the Enchanter  1WhiteBlueBlack (4) 
   </DONTHAVE>
 </WasteNot>
