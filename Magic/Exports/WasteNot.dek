@@ -2,68 +2,65 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  
-  MANA
-  <Cards CatID="50274" Quantity="7" Sideboard="false" Name="Nykthos, Shrine to Nyx" />  
   <Cards CatID="58659" Quantity="2" Sideboard="false" Name="Sunken Hollow" />
-  
-  CMC=2
-  <Cards CatID="60324" Quantity="4" Sideboard="false" Name="Asylum Visitor" />
-  <Cards CatID="52278" Quantity="2" Sideboard="false" Name="Brain Maggot" />
-  <Cards CatID="55944" Quantity="2" Sideboard="false" Name="Hidden Dragonslayer" />
-  <Cards CatID="23210" Quantity="4" Sideboard="false" Name="Lore Broker" />
-  <Cards CatID="45398" Quantity="1" Sideboard="false" Name="War Priest of Thune" />
-  <Cards CatID="36262" Quantity="1" Sideboard="false" Name="Withered Wretch" />
-  
-  CMC=3
-  <Cards CatID="23667" Quantity="4" Sideboard="false" Name="Abyssal Nocturnus" />
-  <Cards CatID="41183" Quantity="4" Sideboard="false" Name="Cemetery Reaper" />
-  <Cards CatID="47579" Quantity="4" Sideboard="false" Name="Corpse Blockade" />
-  <Cards CatID="31345" Quantity="1" Sideboard="false" Name="Death Baron" />
-  <Cards CatID="23150" Quantity="4" Sideboard="false" Name="Dimir Cutpurse" />
-  <Cards CatID="23108" Quantity="4" Sideboard="false" Name="Dimir Doppelganger" />
-  <Cards CatID="60034" Quantity="4" Sideboard="false" Name="Diregraf Colossus" />
-  <Cards CatID="31889" Quantity="1" Sideboard="false" Name="Gwafa Hazid, Profiteer" />
-  <Cards CatID="37352" Quantity="4" Sideboard="false" Name="Liliana's Specter" />
-  <Cards CatID="60162" Quantity="2" Sideboard="false" Name="Reckless Scholar" />
-  
-  CMC=4
-  <Cards CatID="24575" Quantity="4" Sideboard="false" Name="Blizzard Specter" />
-  <Cards CatID="47753" Quantity="1" Sideboard="false" Name="Crypt Ghast" />
-  <Cards CatID="50466" Quantity="1" Sideboard="false" Name="Disciple of Phenax" />
+  <Cards CatID="52278" Quantity="1" Sideboard="false" Name="Brain Maggot" />
+  <Cards CatID="23210" Quantity="1" Sideboard="false" Name="Lore Broker" />
+  <Cards CatID="58527" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="51861" Quantity="1" Sideboard="false" Name="Siren of the Silent Song" />
+  <Cards CatID="23667" Quantity="1" Sideboard="false" Name="Abyssal Nocturnus" />
+  <Cards CatID="41183" Quantity="3" Sideboard="false" Name="Cemetery Reaper" />
+  <Cards CatID="23150" Quantity="2" Sideboard="false" Name="Dimir Cutpurse" />
+  <Cards CatID="23108" Quantity="2" Sideboard="false" Name="Dimir Doppelganger" />
+  <Cards CatID="23174" Quantity="2" Sideboard="false" Name="Remand" />
+  <Cards CatID="37352" Quantity="1" Sideboard="false" Name="Liliana's Specter" />
+  <Cards CatID="52188" Quantity="1" Sideboard="false" Name="Master of the Feast" />
+  <Cards CatID="53296" Quantity="1" Sideboard="false" Name="Sign in Blood" />
   <Cards CatID="49571" Quantity="1" Sideboard="false" Name="Liliana's Reaver" />
-  <Cards CatID="60262" Quantity="2" Sideboard="false" Name="Rottenheart Ghoul" />
-  <Cards CatID="18714" Quantity="2" Sideboard="false" Name="Undead Warchief" />
-  
-  CMC=5
+  <Cards CatID="53378" Quantity="1" Sideboard="false" Name="Black Cat" />
   <Cards CatID="50562" Quantity="1" Sideboard="false" Name="Gray Merchant of Asphodel" />
-  
-  CMC=HIGH
-  <Cards CatID="47665" Quantity="2" Sideboard="false" Name="Dinrova Horror" />
+  <Cards CatID="47665" Quantity="1" Sideboard="false" Name="Dinrova Horror" />
   <Cards CatID="51609" Quantity="1" Sideboard="false" Name="Marshmist Titan" />
-  
-  Planewswalkers
   <Cards CatID="50310" Quantity="1" Sideboard="false" Name="Ashiok, Nightmare Weaver" />
-  <Cards CatID="53262" Quantity="2" Sideboard="false" Name="Liliana Vess" />
-  <Cards CatID="28469" Quantity="2" Sideboard="false" Name="Jace Beleren" />
-
-  Permanents
-  <Cards CatID="34825" Quantity="4" Sideboard="false" Name="Archmage Ascension" /> 
-  <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" /> 
+  <Cards CatID="53262" Quantity="1" Sideboard="false" Name="Liliana Vess" />
+  <Cards CatID="28469" Quantity="1" Sideboard="false" Name="Jace Beleren" />
+  <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
   <Cards CatID="40477" Quantity="1" Sideboard="false" Name="Howling Mine" />
-  <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
-  <Cards CatID="55970" Quantity="1" Sideboard="false" Name="Tapestry of the Ages" />
   <Cards CatID="53494" Quantity="4" Sideboard="false" Name="Waste Not" />
-  <Cards CatID="50408" Quantity="2" Sideboard="false" Name="Whip of Erebos" />
-  
-  Spells
+  <Cards CatID="50408" Quantity="1" Sideboard="false" Name="Whip of Erebos" />
   <Cards CatID="60118" Quantity="4" Sideboard="false" Name="Compelling Deterrence" />
-  <Cards CatID="48404" Quantity="4" Sideboard="false" Name="Crypt Incursion" />
-  <Cards CatID="55522" Quantity="3" Sideboard="false" Name="Dark Deal" />
-  <Cards CatID="54102" Quantity="3" Sideboard="false" Name="Despise" />
-  <Cards CatID="54346" Quantity="1" Sideboard="false" Name="Empty the Pits" />
-  <Cards CatID="60092" Quantity="1" Sideboard="false" Name="From Under the Floorboards" />
-  <Cards CatID="46601" Quantity="4" Sideboard="false" Name="Mind Rot" />
-  <Cards CatID="60090" Quantity="2" Sideboard="false" Name="Shamble Back" />
-  <Cards CatID="50256" Quantity="3" Sideboard="false" Name="Thoughtseize" />
+  <Cards CatID="48404" Quantity="1" Sideboard="false" Name="Crypt Incursion" />
+  <Cards CatID="55522" Quantity="2" Sideboard="false" Name="Dark Deal" />
+  <Cards CatID="54102" Quantity="2" Sideboard="false" Name="Despise" />
+  <Cards CatID="58513" Quantity="1" Sideboard="false" Name="Mortuary Mire" />
+  <Cards CatID="55520" Quantity="4" Sideboard="false" Name="Dismal Backwater" />
+  <Cards CatID="46601" Quantity="2" Sideboard="false" Name="Mind Rot" />
+  <Cards CatID="50256" Quantity="2" Sideboard="false" Name="Thoughtseize" />
+  <Cards CatID="55450" Quantity="1" Sideboard="false" Name="Crux of Fate" />
+  <Cards CatID="58809" Quantity="2" Sideboard="false" Name="Island" />
+  <Cards CatID="58807" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="57696" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
+  <Cards CatID="49159" Quantity="1" Sideboard="false" Name="Doom Blade" />
+  <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
+  <Cards CatID="57692" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="60072" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="58835" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="58833" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="58796" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="50264" Quantity="3" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="58403" Quantity="1" Sideboard="false" Name="Altar's Reap" />
+  <Cards CatID="51817" Quantity="2" Sideboard="false" Name="Bile Blight" />
+  <Cards CatID="50596" Quantity="3" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="23210" Quantity="2" Sideboard="true" Name="Lore Broker" />
+  <Cards CatID="54102" Quantity="2" Sideboard="true" Name="Despise" />
+  <Cards CatID="50622" Quantity="3" Sideboard="true" Name="Dark Betrayal" />
+  <Cards CatID="34825" Quantity="1" Sideboard="true" Name="Archmage Ascension" />
+  <Cards CatID="47579" Quantity="2" Sideboard="true" Name="Corpse Blockade" />
+  <Cards CatID="48404" Quantity="1" Sideboard="true" Name="Crypt Incursion" />
+  <Cards CatID="60090" Quantity="3" Sideboard="true" Name="Shamble Back" />
+  <Cards CatID="36262" Quantity="1" Sideboard="true" Name="Withered Wretch" />
 </Deck>

@@ -642,7 +642,6 @@ Destroy Land:
   Squelch
 </EliteArcanist>
 <Enchants>
-  Angelic Gift
   Azorius Æthermage
   Dust Elemental
   Glacial Fortress
@@ -918,15 +917,22 @@ NON-CREATURES:
   Barbed Shocker
   Burning Inquiry
   Call to the Kindred
+  Cavern of Souls
   Consult the Necrosages
   CorpseWeft
   Cowed by Wisdom
   Creeping Dread  3Black (4) 
   Death Cloud
+  Dimir Guildmage
   Diregraf Captain
+  Disrupting Scepter
+  Distress
   Dream Fracture  1BlueBlue (3) 
   Drunau Corpse Trawler  3Blue (4) 
+  Duress
   Elder Mastery
+  Elixir of Immortality
+  Extirpate
   Funeral Charm
   Havengul Lich
   Hypnotic Specter
@@ -942,12 +948,14 @@ NON-CREATURES:
   Mistmeadow Skulk  1White (2) 
   Nip Gwyllion  White or Black (1)
   Oona's Prowler
+  Ordeal of Erebos
   Panoptic Mirror
   Phantasmal Bear  Blue (1) 
   Prized Amalgam  1BlueBlack (3) 
   Raven's Crime
   Relentless Dead  BlackBlack (2)  
   Sedraxis Specter  BlueBlackRed (3) 
+  Sign in Blood
   Soul's Attendant  White (1) 
   Stromgald Crusader
   Tamiyo, the Moon Sage  3BlueBlue (5) 
