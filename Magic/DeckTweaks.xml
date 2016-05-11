@@ -426,6 +426,8 @@ Destroy Land:
   Eight-and-a-Half-Tails  WhiteWhite (2) 
   Hunted Horror (Plus Ratchet Bomb)
   Painters Servant
+  Prismwake Merrow  2Blue (3) 
+  Reaper King
   Western Paladin
 </ColorKill>
 <CountersForCreatures>
@@ -568,9 +570,11 @@ Destroy Land:
   Bear Umbra
   Canopy Cover
   Curse of Chains
+  Deceiver Exarch  2Blue (3)  
   Freed from the Real
   Grimoire Thief  BlueBlue (2) 
   Loam Dryad  Green (1) 
+  Merieke Ri Berit  WhiteBlueBlack (3) 
   Ral Zarek
 </DaringIceFeather>
 <Discards>
@@ -870,6 +874,7 @@ NON-CREATURES:
   Sunbeam Spellbomb
 </RedBlueIzzet>
 <RedGrDevotion-0>
+  Borborygmos Enraged  4RedRedGreenGreen (8) 
   Furyborn Hellkite
   Kalonian Behemoth
   Khalni Hydra
@@ -878,6 +883,7 @@ NON-CREATURES:
   Vigor
 </RedGrDevotion-0>
 <Tokens>
+  Baru, Fist of Krosa
   Creakwood Liege
   Elspeth, Knight-Errant
   Elspeth Tirel
@@ -909,12 +915,47 @@ NON-CREATURES:
   Wingmate Roc
 </Tokens>
 <WasteNot>
+  <Green>
+    Horizon Chimera
+    Kheru Lich Lord  3BlackGreenBlue (6) 
+    Prophet of Kruphix  3GreenBlue (5) 
+    Sidisi, Brood Tyrant  1BlackGreenBlue (4) 
+    Sultai Ascendancy  BlackGreenBlue (3) 
+    Sultai Charm  BlackGreenBlue (3) 
+    Villainous Wealth  Variable ColorlessBlackGreenBlue (3) 
+  </Green>
+  <White>
+    Esper Charm
+    Zur the Enchanter  1WhiteBlueBlack (4) 
+  </White>
+  <Red>
+    Barbed Shocker
+    Blightning
+    Elder Mastery  3BlueBlackRed (6) 
+    Grixis Charm
+    Grixis Grimblade
+    Grixis Sojourners  1BlueBlackRed (4) 
+    Hypersonic Dragon
+    Nicol Bolas  2BlueBlueBlackBlackRedRed (8) 
+    Nicol Bolas, Planeswalker  4BlueBlackBlackRed (8) 
+    Sedraxis Specter  BlueBlackRed (3) 
+    Sewn-Eye Drake  2Blue or RedBlack (4)
+  </Red>
+  <Madness>
+    Artificer's Epiphany  2Blue (3
+  </Madness>
   <DONTHAVE>
+  Appetite for Brains  Black (1) 
   Arcane Denial
   Arcanum Wings
+  Army of the Damned
   Augur of Skulls
   Ashiok, Nightmare Weaver
-  Barbed Shocker
+  Blackmail
+  Bloodhusk Ritualist
+  Bojuka Bog
+  Brain in a Jar
+  Brain Pry
   Burning Inquiry
   Call to the Kindred
   Cavern of Souls
@@ -933,12 +974,16 @@ NON-CREATURES:
   Elder Mastery
   Elixir of Immortality
   Extirpate
+  Forbidden Alchemy
   Funeral Charm
   Havengul Lich
   Hypnotic Specter
+  Gibbering Descent
   Gitaxian Probe
   Idyllic Tutor  2White (3) 
   Inquisition of Kozilek
+  Lantern of Insight
+  Leyline of Anticipation  2BlueBlue (4) 
   Liliana, Heretical Healer
   Liliana of the Veil
   Liliana's Caress
@@ -946,24 +991,35 @@ NON-CREATURES:
   Lord of the Undead
   Mikokoro, Center of the Sea
   Mistmeadow Skulk  1White (2) 
+  Mystical Teachings
   Nip Gwyllion  White or Black (1)
+  Notion Thief
+  Oblivion Crown
   Oona's Prowler
+  Ophidian Eye
   Ordeal of Erebos
   Panoptic Mirror
+  Pestermite
   Phantasmal Bear  Blue (1) 
+  Pick the Brain
   Prized Amalgam  1BlueBlack (3) 
+  Quicken
+  Ragged Veins  1Black (2) 
   Raven's Crime
   Relentless Dead  BlackBlack (2)  
   Sedraxis Specter  BlueBlackRed (3) 
+  Sever the Bloodline  3Black (4) 
   Sign in Blood
   Soul's Attendant  White (1) 
   Stromgald Crusader
   Tamiyo, the Moon Sage  3BlueBlue (5) 
+  Teferi, Mage of Zhalfir  2BlueBlueBlue (5) 
   Thieving Magpie
   Vault Skirge  1Phyrexian Black (2) 
+  Venser, Shaper Savant
   Vexing Sphinx
   Weathered Wayfarer
-  Zur the Enchanter  1WhiteBlueBlack (4) 
+  Wistful Thinking
   </DONTHAVE>
 </WasteNot>
 
