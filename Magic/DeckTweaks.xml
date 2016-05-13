@@ -945,6 +945,8 @@ NON-CREATURES:
     Artificer's Epiphany  2Blue (3
   </Madness>
   <DONTHAVE>
+  Ætherize
+  Akuta, Born of Ash  2BlackBlack (4) 
   Appetite for Brains  Black (1) 
   Arcane Denial
   Arcanum Wings
@@ -963,6 +965,7 @@ NON-CREATURES:
   CorpseWeft
   Cowed by Wisdom
   Creeping Dread  3Black (4) 
+  Curse of Oblivion  3Black (4) 
   Death Cloud
   Dimir Guildmage
   Diregraf Captain
@@ -974,6 +977,7 @@ NON-CREATURES:
   Elder Mastery
   Elixir of Immortality
   Extirpate
+  Far/Away
   Forbidden Alchemy
   Funeral Charm
   Havengul Lich
@@ -1019,6 +1023,7 @@ NON-CREATURES:
   Venser, Shaper Savant
   Vexing Sphinx
   Weathered Wayfarer
+  Whelming Wave
   Wistful Thinking
   </DONTHAVE>
 </WasteNot>
