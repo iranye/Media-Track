@@ -1,6 +1,8 @@
 <AllDecks>
 <TradersList>
-
+  Crystal Shard
+  Stromgald Crusader
+  Sword of Feast and Famine
 </TradersList>
 <General>
 	<Fetch>
@@ -668,6 +670,10 @@ Destroy Land:
   Hornet Nest
 </ForceAttacks>
 <FourPowerMobs>
+  <Madness>
+    Avacyn's Judgment  1Red (2) 
+    Reckless Wurm
+  </Madness>
   Briarbridge Patrol
   Collected Company
   Dragon Grip
@@ -685,7 +691,6 @@ Destroy Land:
   Mirror Mockery
   Mosswort Bridge
   Obsidian Fireheart  1RedRedRed (4) 
-  Reckless Wurm
   Sabertooth Outrider
   Scout the Borders
   Stormrider Rig
@@ -915,6 +920,7 @@ NON-CREATURES:
   Wingmate Roc
 </Tokens>
 <WasteNot>
+  Far // Away
   <Green>
     Horizon Chimera
     Kheru Lich Lord  3BlackGreenBlue (6) 
@@ -931,6 +937,7 @@ NON-CREATURES:
   <Red>
     Barbed Shocker
     Blightning
+    Cruel Ultimatum
     Elder Mastery  3BlueBlackRed (6) 
     Grixis Charm
     Grixis Grimblade
@@ -942,7 +949,23 @@ NON-CREATURES:
     Sewn-Eye Drake  2Blue or RedBlack (4)
   </Red>
   <Madness>
+    Alms of the Vein  2Black (3) 
     Artificer's Epiphany  2Blue (3
+    Asylum Visitor
+    Big Game Hunter
+    Call to the Netherworld  Black (1) 
+    Dark Withering  4BlackBlack (6) 
+    From Under the Floorboards  3BlackBlack (5) 
+    Gibbering Descent  4BlackBlack (6) 
+    Gorgon Recluse  3BlackBlack (5) 
+    Grave Scrabbler  3Black (4) 
+    Ichor Slick  2Black (3)
+    Just the Wind  1Blue (2) 
+    Muck Drubb  3BlackBlack (5) 
+    Murderous Compulsion  1Black (2) 
+    Nagging Thoughts  1Blue (2) 
+    Psychotic Episode  1BlackBlack (3) 
+    Welcome to the Fold  2BlueBlue (4) 
   </Madness>
   <DONTHAVE>
   Ætherize
@@ -960,11 +983,13 @@ NON-CREATURES:
   Brain Pry
   Burning Inquiry
   Call to the Kindred
+  Call to the Netherworld
   Cavern of Souls
   Consult the Necrosages
   CorpseWeft
   Cowed by Wisdom
   Creeping Dread  3Black (4) 
+  Crystal Shard
   Curse of Oblivion  3Black (4) 
   Death Cloud
   Dimir Guildmage
@@ -1016,15 +1041,18 @@ NON-CREATURES:
   Sign in Blood
   Soul's Attendant  White (1) 
   Stromgald Crusader
+  Sword of Feast and Famine  3 (3) 
   Tamiyo, the Moon Sage  3BlueBlue (5) 
   Teferi, Mage of Zhalfir  2BlueBlueBlue (5) 
   Thieving Magpie
+  Thing in the Ice
   Vault Skirge  1Phyrexian Black (2) 
   Venser, Shaper Savant
   Vexing Sphinx
   Weathered Wayfarer
   Whelming Wave
   Wistful Thinking
+  Zombie Outlander
   </DONTHAVE>
 </WasteNot>
 
