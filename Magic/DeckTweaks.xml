@@ -1,6 +1,6 @@
 <AllDecks>
 <TradersList>
-	Appetite for Brains
+  Appetite for Brains
   Arcanum Wings
   Blackmail
   Crystal Shard
@@ -16,9 +16,9 @@
   Wall of Omens
 </TradersList>
 <General>
-	<Fetch>
-		Commune with the Gods
-	</Fetch>
+  <Fetch>
+    Commune with the Gods
+  </Fetch>
   <Control>
     Detention Spere
     Statis Snare
@@ -683,7 +683,8 @@ Destroy Land:
 </ForceAttacks>
 <FourPowerMobs>
   <Madness>
-    Avacyn's Judgment  1Red (2) 
+    Avacyn's Judgment  1Red (2)
+    Avatar of Discord  Black or RedBlack or RedBlack or Red (3)     
     Reckless Wurm
   </Madness>
   Briarbridge Patrol
@@ -711,6 +712,7 @@ Destroy Land:
   Voyage's End
   Wooded Foothills
 
+  <TOSORT>
   -- Alternate Strategy(s)
   Arcbond  
   Anticipate
@@ -811,12 +813,8 @@ Destroy Land:
   PLANESWALKERS:  
   Ajani, Mentor of Heroes
   Kiora, the Crashing Wave
-  Nissa, Worldwaker
   Xenagos, the Reveler
-  
-  CORE:
-  Temur Ascendancy
-  Temur Charm
+  </TOSORT>
 </FourPowerMobs>
 <LandDestruct>
 Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
@@ -934,6 +932,7 @@ NON-CREATURES:
 <WasteNot>
   <Green>
     Abrupt Decay
+    Ana Battlemage
     Horizon Chimera
     Kheru Lich Lord  3BlackGreenBlue (6) 
     Prophet of Kruphix  3GreenBlue (5) 
@@ -962,6 +961,10 @@ NON-CREATURES:
     Sewn-Eye Drake  2Blue or RedBlack (4)
   </Red>
   <Madness>
+    <CauseDiscard>
+      Artificer's Epiphany  2Blue (3) 
+      Avatar of Discord  Black or RedBlack or RedBlack or Red (3) 
+    </CauseDiscard>
     Alms of the Vein  2Black (3) 
     Artificer's Epiphany  2Blue (3
     Asylum Visitor
