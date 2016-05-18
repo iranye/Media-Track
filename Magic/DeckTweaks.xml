@@ -1,8 +1,19 @@
 <AllDecks>
 <TradersList>
+	Appetite for Brains
+  Arcanum Wings
+  Blackmail
   Crystal Shard
+  Dust Elemental
+  Glacial Fortress
+  Grand Arbiter Augustin IV
+  Herald of the Pantheon
+  Reckless Wurm
+  Split Decision
   Stromgald Crusader
   Sword of Feast and Famine
+  Thing in the Ice
+  Wall of Omens
 </TradersList>
 <General>
 	<Fetch>
@@ -648,6 +659,7 @@ Destroy Land:
   Squelch
 </EliteArcanist>
 <Enchants>
+  Arcanum Wings
   Azorius Æthermage
   Dust Elemental
   Glacial Fortress
@@ -920,8 +932,8 @@ NON-CREATURES:
   Wingmate Roc
 </Tokens>
 <WasteNot>
-  Far // Away
   <Green>
+    Abrupt Decay
     Horizon Chimera
     Kheru Lich Lord  3BlackGreenBlue (6) 
     Prophet of Kruphix  3GreenBlue (5) 
@@ -932,6 +944,7 @@ NON-CREATURES:
   </Green>
   <White>
     Esper Charm
+    Merciless Eviction
     Zur the Enchanter  1WhiteBlueBlack (4) 
   </White>
   <Red>
@@ -967,15 +980,21 @@ NON-CREATURES:
     Psychotic Episode  1BlackBlack (3) 
     Welcome to the Fold  2BlueBlue (4) 
   </Madness>
+  Ã†therize
+  Augur of Skulls
+  Cyclonic Rift
+  Distress
+  Far // Away
+  Nivmagus Elemental
+  Sign in Blood
+  Swan Song
+  Whelming Wave
   <DONTHAVE>
-  Ætherize
   Akuta, Born of Ash  2BlackBlack (4) 
   Appetite for Brains  Black (1) 
   Arcane Denial
   Arcanum Wings
   Army of the Damned
-  Augur of Skulls
-  Ashiok, Nightmare Weaver
   Blackmail
   Bloodhusk Ritualist
   Bojuka Bog
@@ -995,7 +1014,6 @@ NON-CREATURES:
   Dimir Guildmage
   Diregraf Captain
   Disrupting Scepter
-  Distress
   Dream Fracture  1BlueBlue (3) 
   Drunau Corpse Trawler  3Blue (4) 
   Duress
@@ -1037,9 +1055,9 @@ NON-CREATURES:
   Raven's Crime
   Relentless Dead  BlackBlack (2)  
   Sedraxis Specter  BlueBlackRed (3) 
-  Sever the Bloodline  3Black (4) 
-  Sign in Blood
+  Sever the Bloodline  3Black (4)
   Soul's Attendant  White (1) 
+  Split Decision
   Stromgald Crusader
   Sword of Feast and Famine  3 (3) 
   Tamiyo, the Moon Sage  3BlueBlue (5) 
@@ -1050,7 +1068,6 @@ NON-CREATURES:
   Venser, Shaper Savant
   Vexing Sphinx
   Weathered Wayfarer
-  Whelming Wave
   Wistful Thinking
   Zombie Outlander
   </DONTHAVE>
