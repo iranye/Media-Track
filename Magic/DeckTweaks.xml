@@ -3,11 +3,40 @@
   Appetite for Brains
   Arcanum Wings
   Blackmail
+  Bojuka Bog
+  Consult the Necrosages
+  Cry of Contrition
   Crystal Shard
+  Deepcavern Imp  2Black (3) 
+  Dream Salvage
+  Drekavac
+  Drowned Rusalka
   Dust Elemental
+  Erebos's Titan
+  Forgotten Creation
+  Frightful Delusion
+  Funeral Charm
+  Geralf's Masterpiece
+  Geth's Grimoire
+  Ghastly Discovery
+  Ghostly Wings
+  Gibbering Descent
   Glacial Fortress
+  Gorgon Recluse
   Grand Arbiter Augustin IV
+  Grave Scrabbler
+  Grimoire of the Dead  4 (4) 
+  Guul Draz Specter
+  Haunting Hymn
+  Heir of Falkenrath
   Herald of the Pantheon
+  Hidden Horror
+  Horrifying Revelation
+  Hypnotic Specter
+  Inquisition of Kozilek
+  Jace, Vryn's Prodigy
+  Leyline of Anticipation
+  Leyline of the Meek
   Reckless Wurm
   Split Decision
   Stromgald Crusader
@@ -437,6 +466,7 @@ Destroy Land:
 
 <ColorKill>
   Eight-and-a-Half-Tails  WhiteWhite (2) 
+  Glamerdye
   Hunted Horror (Plus Ratchet Bomb)
   Painters Servant
   Prismwake Merrow  2Blue (3) 
@@ -685,6 +715,15 @@ Destroy Land:
   <Madness>
     Avacyn's Judgment  1Red (2)
     Avatar of Discord  Black or RedBlack or RedBlack or Red (3)     
+    Chandra Ablaze  4RedRed (6) 
+    Chandra, Flamecaller  4RedRed (6) 
+    Force Away  1Blue (2) 
+    Forgotten Creation
+    Gathan Raiders  3RedRed (5) 
+    Geralf's Masterpiece
+    Ghastly Discovery
+    Ghostly Wings
+    Grimoire of the Dead
     Reckless Wurm
   </Madness>
   Briarbridge Patrol
@@ -909,6 +948,7 @@ NON-CREATURES:
   Gideon, Champion of Justice  2WhiteWhite (4) 
   Godsire
   Hanweir Militia Captain  1White (2) 
+  Leyline of the Meek
   Mentor of the Meek
   Ichor Wellspring
   Inexorable Blob  2Green (3) 
@@ -957,6 +997,7 @@ NON-CREATURES:
     Hypersonic Dragon
     Nicol Bolas  2BlueBlueBlackBlackRedRed (8) 
     Nicol Bolas, Planeswalker  4BlueBlackBlackRed (8) 
+    Rise // Fall
     Sedraxis Specter  BlueBlackRed (3) 
     Sewn-Eye Drake  2Blue or RedBlack (4)
   </Red>
@@ -964,23 +1005,51 @@ NON-CREATURES:
     <CauseDiscard>
       Artificer's Epiphany  2Blue (3) 
       Avatar of Discord  Black or RedBlack or RedBlack or Red (3) 
+      Bonded Fetch
+      Call the Bloodline
+      Catalog
+      Civilized Scholar  2Blue (3) 
+      Compulsive Research  2Blue (3) 
+      Deepcavern Imp  2Black (3) 
+      Demonic Collusion  3BlackBlack (5) 
+      Disciple of Deceit
+      Dreamscape Artist  1Blue (2) 
+      Drekavac  1Black (2) 
+      Elusive Tormentor
+      Enclave Cryptologist
+      Enhanced Awareness  4Blue (5) 
+      Erebos's Titan  1BlackBlackBlack (4) 
+      Forgotten Creation
+      Geralf's Masterpiece
+      Ghastly Discovery
+      Ghostly Wings
+      Gibbering Descent
+      Heir of Falkenrath
+      Hidden Horror  1BlackBlack (3) 
+      Jace, Vryn's Prodigy
+      Jace's Archivist  1BlueBlue (3) 
+      Jeskai Elder  1Blue (2) 
+      Macabre Waltz  1Black (2) 
     </CauseDiscard>
     Alms of the Vein  2Black (3) 
     Artificer's Epiphany  2Blue (3
     Asylum Visitor
     Big Game Hunter
     Call to the Netherworld  Black (1) 
+    Consult the Necrosages  1BlueBlack (3)
     Dark Withering  4BlackBlack (6) 
+    Dream Salvage
     From Under the Floorboards  3BlackBlack (5) 
-    Gibbering Descent  4BlackBlack (6) 
     Gorgon Recluse  3BlackBlack (5) 
     Grave Scrabbler  3Black (4) 
+    Guul Draz Specter
     Ichor Slick  2Black (3)
     Just the Wind  1Blue (2) 
     Muck Drubb  3BlackBlack (5) 
     Murderous Compulsion  1Black (2) 
     Nagging Thoughts  1Blue (2) 
     Psychotic Episode  1BlackBlack (3) 
+    Shred Memory (Transmute 2)
     Welcome to the Fold  2BlueBlue (4) 
   </Madness>
   Ã†therize
@@ -993,86 +1062,94 @@ NON-CREATURES:
   Swan Song
   Whelming Wave
   <DONTHAVE>
-  Akuta, Born of Ash  2BlackBlack (4) 
-  Appetite for Brains  Black (1) 
-  Arcane Denial
-  Arcanum Wings
-  Army of the Damned
-  Blackmail
-  Bloodhusk Ritualist
-  Bojuka Bog
-  Brain in a Jar
-  Brain Pry
-  Burning Inquiry
-  Call to the Kindred
-  Call to the Netherworld
-  Cavern of Souls
-  Consult the Necrosages
-  CorpseWeft
-  Cowed by Wisdom
-  Creeping Dread  3Black (4) 
-  Crystal Shard
-  Curse of Oblivion  3Black (4) 
-  Death Cloud
-  Dimir Guildmage
-  Diregraf Captain
-  Disrupting Scepter
-  Dream Fracture  1BlueBlue (3) 
-  Drunau Corpse Trawler  3Blue (4) 
-  Duress
-  Elder Mastery
-  Elixir of Immortality
-  Extirpate
-  Far/Away
-  Forbidden Alchemy
-  Funeral Charm
-  Havengul Lich
-  Hypnotic Specter
-  Gibbering Descent
-  Gitaxian Probe
-  Idyllic Tutor  2White (3) 
-  Inquisition of Kozilek
-  Lantern of Insight
-  Leyline of Anticipation  2BlueBlue (4) 
-  Liliana, Heretical Healer
-  Liliana of the Veil
-  Liliana's Caress
-  Lord of Extinction  3BlackGreen (5) 
-  Lord of the Undead
-  Mikokoro, Center of the Sea
-  Mistmeadow Skulk  1White (2) 
-  Mystical Teachings
-  Nip Gwyllion  White or Black (1)
-  Notion Thief
-  Oblivion Crown
-  Oona's Prowler
-  Ophidian Eye
-  Ordeal of Erebos
-  Panoptic Mirror
-  Pestermite
-  Phantasmal Bear  Blue (1) 
-  Pick the Brain
-  Prized Amalgam  1BlueBlack (3) 
-  Quicken
-  Ragged Veins  1Black (2) 
-  Raven's Crime
-  Relentless Dead  BlackBlack (2)  
-  Sedraxis Specter  BlueBlackRed (3) 
-  Sever the Bloodline  3Black (4)
-  Soul's Attendant  White (1) 
-  Split Decision
-  Stromgald Crusader
-  Sword of Feast and Famine  3 (3) 
-  Tamiyo, the Moon Sage  3BlueBlue (5) 
-  Teferi, Mage of Zhalfir  2BlueBlueBlue (5) 
-  Thieving Magpie
-  Thing in the Ice
-  Vault Skirge  1Phyrexian Black (2) 
-  Venser, Shaper Savant
-  Vexing Sphinx
-  Weathered Wayfarer
-  Wistful Thinking
-  Zombie Outlander
+    Akuta, Born of Ash  2BlackBlack (4) 
+    Appetite for Brains  Black (1) 
+    Arcane Denial
+    Arcanum Wings
+    Army of the Damned
+    Blackmail
+    Bloodhusk Ritualist
+    Bojuka Bog
+    Brain in a Jar
+    Brain Pry
+    Burning Inquiry
+    Call to the Kindred
+    Call to the Netherworld
+    Cavern of Souls
+    Consult the Necrosages
+    CorpseWeft
+    Cowed by Wisdom
+    Creeping Dread  3Black (4) 
+    Cry of Contrition
+    Crystal Shard
+    Curse of Oblivion  3Black (4) 
+    Death Cloud
+    Desecrated Earth
+    Dimir Guildmage
+    Diregraf Captain
+    Dimir Infiltrator (Transmute 2)
+    Disrupting Scepter
+    Dream Fracture  1BlueBlue (3) 
+    Drunau Corpse Trawler  3Blue (4) 
+    Duress
+    Elder Mastery
+    Elixir of Immortality
+    Extirpate
+    Far/Away
+    Forbidden Alchemy
+    Frightful Delusion  2Blue (3) 
+    Funeral Charm
+    Havengul Lich
+    Hypnotic Specter
+    Geth's Grimoire
+    Gibbering Descent
+    Gitaxian Probe
+    Haunting Hymn
+    Horrifying Revelation
+    Idyllic Tutor  2White (3) 
+    Inquisition of Kozilek
+    Lantern of Insight
+    Leyline of Anticipation  2BlueBlue (4) 
+    Liliana, Heretical Healer
+    Liliana of the Veil
+    Liliana's Caress
+    Lord of Extinction  3BlackGreen (5) 
+    Lord of the Undead
+    Mikokoro, Center of the Sea
+    Mistmeadow Skulk  1White (2) 
+    Muddle the Mixture (Transmute 2)
+    Mystical Teachings
+    Nip Gwyllion  White or Black (1)
+    Notion Thief
+    Oblivion Crown
+    Oona's Prowler
+    Ophidian Eye
+    Ordeal of Erebos
+    Panoptic Mirror
+    Pestermite
+    Phantasmal Bear  Blue (1) 
+    Pick the Brain
+    Prized Amalgam  1BlueBlack (3) 
+    Quicken
+    Ragged Veins  1Black (2) 
+    Raven's Crime
+    Relentless Dead  BlackBlack (2)  
+    Sedraxis Specter  BlueBlackRed (3) 
+    Sever the Bloodline  3Black (4)
+    Soul's Attendant  White (1) 
+    Split Decision
+    Stromgald Crusader
+    Sword of Feast and Famine  3 (3) 
+    Tamiyo, the Moon Sage  3BlueBlue (5) 
+    Teferi, Mage of Zhalfir  2BlueBlueBlue (5) 
+    Thieving Magpie
+    Thing in the Ice
+    Vault Skirge  1Phyrexian Black (2) 
+    Venser, Shaper Savant
+    Vexing Sphinx
+    Weathered Wayfarer
+    Wistful Thinking
+    Zombie Outlander
   </DONTHAVE>
 </WasteNot>
 
