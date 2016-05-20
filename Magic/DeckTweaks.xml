@@ -8,6 +8,7 @@
   Cry of Contrition
   Crystal Shard
   Deepcavern Imp  2Black (3) 
+  Doubling Season
   Dream Salvage
   Drekavac
   Drowned Rusalka
@@ -37,11 +38,38 @@
   Jace, Vryn's Prodigy
   Leyline of Anticipation
   Leyline of the Meek
+  Magus of the Jar
+  Mask of Memory
+  Merfolk Looter
+  Mind Slash
+  Mire's Toll
+  Muck Drubb
+  Muddle the Mixture   
+  Necrogen Mists
+  Needle Specter
+  Nezumi Shortfang
+  Oblivion Crown
+  Obstinate Baloth
+  Okiba-Gang Shinobi  3BlackBlack (5) 
+  Painful Quandary
+  Pale Rider of Trostad  1Black (2) 
+  Pestermite
+  Piracy Charm
+  Psychic Miasma  1Black (2) 
+  Pulse of the Dross  1BlackBlack (3) 
+  Pulse of the Grid
+  Quest for the Nihil Stone
+  Raven's Crime
   Reckless Wurm
+  Ridged Kusite  Black (1) 
+  Riptide Pilferer
+  River's Grasp
+  Scepter of Fugue
   Split Decision
   Stromgald Crusader
   Sword of Feast and Famine
   Thing in the Ice
+  Voice of Resurgence
   Wall of Omens
 </TradersList>
 <General>
@@ -683,6 +711,7 @@ Destroy Land:
   Delver of Secrets
   Dual Casting
   Eerie Interlude
+  Elgaud Shieldmate  3Blue (4) 
   Explore
   Horribly Awry
   Nivmagus Elemental
@@ -743,6 +772,8 @@ Destroy Land:
   Mirror Mockery
   Mosswort Bridge
   Obsidian Fireheart  1RedRedRed (4) 
+  Obstinate Baloth  2GreenGreen (4) 
+  Pyrewild Shaman
   Sabertooth Outrider
   Scout the Borders
   Stormrider Rig
@@ -916,6 +947,12 @@ NON-CREATURES:
 - Worst Fears (8) [BLK]
 
 </LivingLore>
+<PackRats>
+  Doubling Season
+  Pack Rat
+  Parallel Lives
+  *for 2+1BLACK, discard a card and put a Pack Rat token into play
+</PackRats>
 <RedBlueIzzet>
   Arcane Teachings
   Chandra's Spitfire
@@ -933,6 +970,7 @@ NON-CREATURES:
   Kalonian Behemoth
   Khalni Hydra
   Predator Ooze
+  Pyrewild Shaman
   Regal Force
   Vigor
 </RedGrDevotion-0>
@@ -996,8 +1034,11 @@ NON-CREATURES:
     Grixis Sojourners  1BlueBlackRed (4) 
     Hypersonic Dragon
     Nicol Bolas  2BlueBlueBlackBlackRedRed (8) 
-    Nicol Bolas, Planeswalker  4BlueBlackBlackRed (8) 
+    Nicol Bolas, Planeswalker  4BlueBlackBlackRed (8)
+    Rakdos Augermage  BlackBlackRed (3)     
+    Resounding Scream  2Black (3) 
     Rise // Fall
+    Sanity Gnawers  1BlackRed (3) 
     Sedraxis Specter  BlueBlackRed (3) 
     Sewn-Eye Drake  2Blue or RedBlack (4)
   </Red>
@@ -1029,7 +1070,22 @@ NON-CREATURES:
       Jace, Vryn's Prodigy
       Jace's Archivist  1BlueBlue (3) 
       Jeskai Elder  1Blue (2) 
-      Macabre Waltz  1Black (2) 
+      Magus of the Jar  3BlueBlue (5) 
+      Mask of Memory
+      Mercurial Chemister (RED)
+      Merfolk Looter  1Blue (2) 
+      Mindslicer  2BlackBlack (4) 
+      Monastery Siege      
+      Murderer's Axe
+      Necrogen Mists
+      Necromancer's Stockpile
+      Oblivion Crown  1Black (2) 
+      Pale Rider of Trostad  1Black (2) 
+      Persecute  2BlackBlack (4) 
+      Prognostic Sphinx
+      Pulse of the Grid  1BlueBlue (3) 
+      Ridged Kusite  Black (1) 
+      Rix Maadi, Dungeon Palace (0) (RED)
     </CauseDiscard>
     Alms of the Vein  2Black (3) 
     Artificer's Epiphany  2Blue (3
@@ -1049,6 +1105,7 @@ NON-CREATURES:
     Murderous Compulsion  1Black (2) 
     Nagging Thoughts  1Blue (2) 
     Psychotic Episode  1BlackBlack (3) 
+    Scepter of Fugue
     Shred Memory (Transmute 2)
     Welcome to the Fold  2BlueBlue (4) 
   </Madness>
@@ -1057,7 +1114,11 @@ NON-CREATURES:
   Cyclonic Rift
   Distress
   Far // Away
-  Nivmagus Elemental
+  Lazav, Dimir Mastermind  BlueBlueBlackBlack (4) 
+  Mental Vapors
+  Nivmagus Elemental  
+  Ordeal of Erebos
+  River's Grasp
   Sign in Blood
   Swan Song
   Whelming Wave
@@ -1116,24 +1177,34 @@ NON-CREATURES:
     Lord of Extinction  3BlackGreen (5) 
     Lord of the Undead
     Mikokoro, Center of the Sea
+    Mind Slash
+    Mindstab
+    Mire's Toll    
     Mistmeadow Skulk  1White (2) 
     Muddle the Mixture (Transmute 2)
     Mystical Teachings
+    Needle Specter  1BlackBlack (3) 
+    Nezumi Shortfang
     Nip Gwyllion  White or Black (1)
     Notion Thief
     Oblivion Crown
     Oona's Prowler
     Ophidian Eye
-    Ordeal of Erebos
+    Okiba-Gang Shinobi
+    Painful Quandary  3BlackBlack (5) 
     Panoptic Mirror
-    Pestermite
+    Persecute
     Phantasmal Bear  Blue (1) 
     Pick the Brain
     Prized Amalgam  1BlueBlack (3) 
-    Quicken
+    Psychic Miasma
+    Pulse of the Dross
+    Quest for the Nihil Stone  Black (1) 
     Ragged Veins  1Black (2) 
     Raven's Crime
+    Reality Smasher  4Colorless (5) 
     Relentless Dead  BlackBlack (2)  
+    Riptide Pilferer
     Sedraxis Specter  BlueBlackRed (3) 
     Sever the Bloodline  3Black (4)
     Soul's Attendant  White (1) 
