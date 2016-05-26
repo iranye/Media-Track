@@ -65,10 +65,18 @@
   Riptide Pilferer
   River's Grasp
   Scepter of Fugue
+  Sigil of the Nayan Gods
+  Skeleton Key
+  Skullmead Cauldron
+  Soratami Cloudskater  
   Split Decision
   Stromgald Crusader
+  Sundial of the Infinite
   Sword of Feast and Famine
   Thing in the Ice
+  Thought Courier
+  Tolaria West
+  Tolarian Sentinel  3Blue (4) 
   Voice of Resurgence
   Wall of Omens
 </TradersList>
@@ -761,6 +769,7 @@ Destroy Land:
   Eel Umbra
   Eerie Interlude
   Elemental Bond
+  Fanatic of Mogis  3Red (4) 
   Felhide Spiritbinder
   Flameshadow Conjuring
   Frost Walker
@@ -778,6 +787,7 @@ Destroy Land:
   Scout the Borders
   Stormrider Rig
   Silkwrap
+  Tarox Bladewing
   Vedalken Mastermind
   Voyage's End
   Wooded Foothills
@@ -999,6 +1009,7 @@ NON-CREATURES:
   Rhys the Redeemed
   Saffi Eriksdotter
   Second Harvest  [1]
+  Sigil of the Nayan Gods  1GreenWhite (3) 
   Sublime Archangel
   Sundering Growth
   Thragtusk
@@ -1041,6 +1052,8 @@ NON-CREATURES:
     Sanity Gnawers  1BlackRed (3) 
     Sedraxis Specter  BlueBlackRed (3) 
     Sewn-Eye Drake  2Blue or RedBlack (4)
+    Skull Rend
+    Slavering Nulls  1Red (2) 
   </Red>
   <Madness>
     <CauseDiscard>
@@ -1065,6 +1078,7 @@ NON-CREATURES:
       Ghastly Discovery
       Ghostly Wings
       Gibbering Descent
+      Grixis Battlemage
       Heir of Falkenrath
       Hidden Horror  1BlackBlack (3) 
       Jace, Vryn's Prodigy
@@ -1086,6 +1100,18 @@ NON-CREATURES:
       Pulse of the Grid  1BlueBlue (3) 
       Ridged Kusite  Black (1) 
       Rix Maadi, Dungeon Palace (0) (RED)
+      Sibsig Icebreakers
+      Skeleton Key
+      Skirk Ridge Exhumer  1Black (2) 
+      Skullmead Cauldron
+      Smallpox  BlackBlack (2) 
+      Soratami Cloudskater  1Blue (2) 
+      Stitchwing Skaab  3Blue (4) 
+      Thought Courier
+      Tolarian Sentinel
+      Tormenting Voice (RED)
+      Trading Post
+      Undertaker  1Black (2) 
     </CauseDiscard>
     Alms of the Vein  2Black (3) 
     Artificer's Epiphany  2Blue (3
@@ -1113,6 +1139,8 @@ NON-CREATURES:
   Augur of Skulls
   Cyclonic Rift
   Distress
+  Duress
+  Elixir of Immortality
   Far // Away
   Lazav, Dimir Mastermind  BlueBlueBlackBlack (4) 
   Mental Vapors
@@ -1120,6 +1148,7 @@ NON-CREATURES:
   Ordeal of Erebos
   River's Grasp
   Sign in Blood
+  Soul Ransom
   Swan Song
   Whelming Wave
   <DONTHAVE>
@@ -1152,9 +1181,7 @@ NON-CREATURES:
     Disrupting Scepter
     Dream Fracture  1BlueBlue (3) 
     Drunau Corpse Trawler  3Blue (4) 
-    Duress
     Elder Mastery
-    Elixir of Immortality
     Extirpate
     Far/Away
     Forbidden Alchemy
@@ -1207,14 +1234,18 @@ NON-CREATURES:
     Riptide Pilferer
     Sedraxis Specter  BlueBlackRed (3) 
     Sever the Bloodline  3Black (4)
+    Sink into Takenuma  3Black (4) 
     Soul's Attendant  White (1) 
     Split Decision
     Stromgald Crusader
+    Stupor
     Sword of Feast and Famine  3 (3) 
+    Talara's Bane
     Tamiyo, the Moon Sage  3BlueBlue (5) 
     Teferi, Mage of Zhalfir  2BlueBlueBlue (5) 
     Thieving Magpie
     Thing in the Ice
+    Twisted Abomination
     Vault Skirge  1Phyrexian Black (2) 
     Venser, Shaper Savant
     Vexing Sphinx
