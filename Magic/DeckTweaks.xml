@@ -7,6 +7,7 @@
   Consult the Necrosages
   Cry of Contrition
   Crystal Shard
+  Deadeye Navigator
   Deepcavern Imp  2Black (3) 
   Doubling Season
   Dream Salvage
@@ -65,9 +66,14 @@
   Riptide Pilferer
   River's Grasp
   Scepter of Fugue
+  Sibsig Icebreakers
+  Sift
   Sigil of the Nayan Gods
   Skeleton Key
+  Skirk Ridge Exhumer
   Skullmead Cauldron
+  Slate of Ancestry
+  Smallpox
   Soratami Cloudskater  
   Split Decision
   Stromgald Crusader
@@ -77,8 +83,14 @@
   Thought Courier
   Tolaria West
   Tolarian Sentinel  3Blue (4) 
+  Tragic Slip
+  Undertaker
   Voice of Resurgence
+  Venarian Glimmer
+  Warped Devotion
   Wall of Omens
+  Wheel of Fate
+  Zephyr Scribe
 </TradersList>
 <General>
   <Fetch>
@@ -762,6 +774,7 @@ Destroy Land:
     Ghostly Wings
     Grimoire of the Dead
     Reckless Wurm
+    Vexing Sphinx  1BlueBlue (3) 
   </Madness>
   Briarbridge Patrol
   Collected Company
@@ -1010,6 +1023,7 @@ NON-CREATURES:
   Saffi Eriksdotter
   Second Harvest  [1]
   Sigil of the Nayan Gods  1GreenWhite (3) 
+  Slate of Ancestry
   Sublime Archangel
   Sundering Growth
   Thragtusk
@@ -1134,6 +1148,7 @@ NON-CREATURES:
     Scepter of Fugue
     Shred Memory (Transmute 2)
     Welcome to the Fold  2BlueBlue (4) 
+    Zephyr Scribe
   </Madness>
   Ã†therize
   Augur of Skulls
@@ -1249,7 +1264,10 @@ NON-CREATURES:
     Vault Skirge  1Phyrexian Black (2) 
     Venser, Shaper Savant
     Vexing Sphinx
+    Venarian Glimmer
+    Warped Devotion
     Weathered Wayfarer
+    Wheel of Fate
     Wistful Thinking
     Zombie Outlander
   </DONTHAVE>
