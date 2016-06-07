@@ -8,11 +8,9 @@
   Cry of Contrition
   Crystal Shard
   Deadeye Navigator
-  Deepcavern Imp  2Black (3) 
   Doubling Season
   Dream Salvage
   Drekavac
-  Drowned Rusalka
   Dust Elemental
   Erebos's Titan
   Forgotten Creation
@@ -21,13 +19,13 @@
   Geralf's Masterpiece
   Geth's Grimoire
   Ghastly Discovery
-  Ghostly Wings
+  Ghostly Wings SOI
   Gibbering Descent
   Glacial Fortress
   Gorgon Recluse
   Grand Arbiter Augustin IV
   Grave Scrabbler
-  Grimoire of the Dead  4 (4) 
+  Grimoire of the Dead
   Guul Draz Specter
   Haunting Hymn
   Heir of Falkenrath
@@ -51,18 +49,18 @@
   Nezumi Shortfang
   Oblivion Crown
   Obstinate Baloth
-  Okiba-Gang Shinobi  3BlackBlack (5) 
+  Okiba-Gang Shinobi
   Painful Quandary
-  Pale Rider of Trostad  1Black (2) 
+  Pale Rider of Trostad
   Pestermite
   Piracy Charm
-  Psychic Miasma  1Black (2) 
-  Pulse of the Dross  1BlackBlack (3) 
+  Psychic Miasma
+  Pulse of the Dross
   Pulse of the Grid
   Quest for the Nihil Stone
   Raven's Crime
   Reckless Wurm
-  Ridged Kusite  Black (1) 
+  Ridged Kusite
   Riptide Pilferer
   River's Grasp
   Scepter of Fugue
@@ -82,7 +80,7 @@
   Thing in the Ice
   Thought Courier
   Tolaria West
-  Tolarian Sentinel  3Blue (4) 
+  Tolarian Sentinel
   Tragic Slip
   Undertaker
   Voice of Resurgence
@@ -1095,9 +1093,11 @@ NON-CREATURES:
       Grixis Battlemage
       Heir of Falkenrath
       Hidden Horror  1BlackBlack (3) 
+      Ideas Unbound
       Jace, Vryn's Prodigy
       Jace's Archivist  1BlueBlue (3) 
       Jeskai Elder  1Blue (2) 
+      Lightning Axe
       Magus of the Jar  3BlueBlue (5) 
       Mask of Memory
       Mercurial Chemister (RED)
@@ -1207,6 +1207,7 @@ NON-CREATURES:
     Geth's Grimoire
     Gibbering Descent
     Gitaxian Probe
+    Gnat Miser
     Haunting Hymn
     Horrifying Revelation
     Idyllic Tutor  2White (3) 
