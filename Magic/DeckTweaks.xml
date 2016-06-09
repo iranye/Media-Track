@@ -1,96 +1,28 @@
 <AllDecks>
 <TradersList>
-  Appetite for Brains
-  Arcanum Wings
-  Blackmail
-  Bojuka Bog
-  Consult the Necrosages
-  Cry of Contrition
-  Crystal Shard
-  Deadeye Navigator
-  Doubling Season
-  Dream Salvage
-  Drekavac
-  Dust Elemental
-  Erebos's Titan
-  Forgotten Creation
-  Frightful Delusion
-  Funeral Charm
-  Geralf's Masterpiece
-  Geth's Grimoire
-  Ghastly Discovery
-  Ghostly Wings SOI
-  Gibbering Descent
-  Glacial Fortress
-  Gorgon Recluse
-  Grand Arbiter Augustin IV
-  Grave Scrabbler
-  Grimoire of the Dead
-  Guul Draz Specter
-  Haunting Hymn
-  Heir of Falkenrath
-  Hidden Horror
-  Horrifying Revelation
-  Hypnotic Specter
-  Inquisition of Kozilek
-  Intangible Virtue
-  Jace, Vryn's Prodigy
-  Leyline of Anticipation
-  Leyline of the Meek
-  Magus of the Jar
-  Mask of Memory
-  Merfolk Looter
-  Mind Slash
-  Mire's Toll
-  Muck Drubb
-  Muddle the Mixture   
-  Necrogen Mists
+  <HaveAtLeastOne>
+    Doubling Season
+    Erebos's Titan
+    Glacial Fortress
+    Grimoire of the Dead
+    Leyline of the Meek
+    Necrogen Mists
+    Sword of Feast and Famine ($4+)
+    Thing in the Ice
+  </HaveAtLeastOne>
+  Jace, Vryn's Prodigy ($30+)
+  Leyline of the Void ($5+)
   Needle Specter
-  Nezumi Shortfang
-  Oblivion Crown
-  Obstinate Baloth
-  Okiba-Gang Shinobi
-  Painful Quandary
-  Pale Rider of Trostad
-  Pestermite
-  Piracy Charm
-  Psychic Miasma
-  Pulse of the Dross
-  Pulse of the Grid
-  Quest for the Nihil Stone
-  Raven's Crime
-  Reckless Wurm
-  Ridged Kusite
-  Riptide Pilferer
-  River's Grasp
-  Scepter of Fugue
-  Sibsig Icebreakers
-  Sift
-  Sigil of the Nayan Gods
-  Skeleton Key
-  Skirk Ridge Exhumer
-  Skullmead Cauldron
-  Slate of Ancestry
-  Smallpox
-  Soratami Cloudskater  
-  Split Decision
-  Stromgald Crusader
-  Sundial of the Infinite
-  Sword of Feast and Famine
-  Thing in the Ice
-  Thought Courier
-  Tolaria West
-  Tolarian Sentinel
-  Tragic Slip
-  Undertaker
-  Voice of Resurgence
-  Venarian Glimmer
-  Warped Devotion
-  Wall of Omens
-  Wheel of Fate
-  Zephyr Scribe
+  Obstinate Baloth ($4+)
+  Pact of Negation ($6+)
+  Snapcaster Mage ($15+)
+  Voice of Resurgence ($38+)
 </TradersList>
 <General>
+  <Bounce>
+    Gift of Immortality (Combine with Mardu Blazebringer)
+    Triad of the Fates (let's you remove a creature, then have it come back) (this can be used to counter removal spells)
+  </Bounce>
   <Fetch>
     Commune with the Gods
   </Fetch>
@@ -114,14 +46,12 @@
 	  Quickling
 	  Roaring Primadox +++
 	</CreatureFlash>
-	<CreatureSplash>
-	  Gift of Immortality (Combine with Mardu Blazebringer)
-	</CreatureSplash>  
-  <CreatureReturn>
+  <CreatureReturnToHand>
 	  Icefeather Aven
 	  Invasive Species
+    Narrow Escape
 	  Peel from Reality
-  </CreatureReturn>
+  </CreatureReturnToHand>
   <DrawCards>
     Life's Legacy
     Military Intelligence
@@ -208,9 +138,6 @@
   Resolute Archangel
   Skybind
   Sidisi
-  Siege Rhino (+Life)
-  Spirit Bonds (+Token)(+Indestructible)
-  Triad of the Fates (let's you remove a creature, then have it come back) (this can be used to counter removal spells)
   Wingmate Roc
   
   USE THE GRAVEYARD
@@ -535,13 +462,7 @@ Destroy Land:
   Pheres-Band Tromper (Inspired->Add A Counter)
   Solidarity of Heroes
   Sunscorch Regent
-  Thalia's Lieutenant  1White (2) 
-
-
-
-  DRAGONS OF TARKIR:
-  Anafenza, Kin-Tree Spirit
-  Sunscorch Regent
+  Thalia's Lieutenant
 
   COUNTERS:
   Citadel Siege
@@ -670,6 +591,7 @@ Destroy Land:
   Ayli, Eternal Pilgrim
   Big Game Hunter
   Blightning
+  Battle Brawler
   Brutal Hordechief
   Bloodsoaked Champion
   Crater Elemental
@@ -772,27 +694,31 @@ Destroy Land:
     Ghostly Wings
     Grimoire of the Dead
     Reckless Wurm
-    Vexing Sphinx  1BlueBlue (3) 
+    Vexing Sphinx
   </Madness>
+  Baloth Cage Trap (Sideboard)
   Briarbridge Patrol
   Collected Company
   Dragon Grip
   Eel Umbra
   Eerie Interlude
   Elemental Bond
-  Fanatic of Mogis  3Red (4) 
+  Fanatic of Mogis
   Felhide Spiritbinder
   Flameshadow Conjuring
   Frost Walker
-  Goldnight Castigator  2RedRed (4) 
+  Goldnight Castigator
   Hellkite Charger
-  Incorrigible Youths  3RedRed (5) 
+  Incorrigible Youths
   Intet, the Dreamer
+  Living Tsunami
   Mimic Vat
+  Mind Sludge
   Mirror Mockery
+  Mold Shambler
   Mosswort Bridge
-  Obsidian Fireheart  1RedRedRed (4) 
-  Obstinate Baloth  2GreenGreen (4) 
+  Obsidian Fireheart
+  Obstinate Baloth
   Pyrewild Shaman
   Sabertooth Outrider
   Scout the Borders
@@ -988,6 +914,7 @@ NON-CREATURES:
 <RedGrDevotion-0>
   Borborygmos Enraged  4RedRedGreenGreen (8) 
   Furyborn Hellkite
+  Gravity Well (Sideboard)
   Kalonian Behemoth
   Khalni Hydra
   Predator Ooze
@@ -996,7 +923,9 @@ NON-CREATURES:
   Vigor
 </RedGrDevotion-0>
 <Tokens>
+  Baloth Cage Trap (Sideboard)
   Baru, Fist of Krosa
+  Cobra Trap
   Creakwood Liege
   Elspeth, Knight-Errant
   Elspeth Tirel
@@ -1037,6 +966,7 @@ NON-CREATURES:
     Ana Battlemage
     Horizon Chimera
     Kheru Lich Lord  3BlackGreenBlue (6) 
+    Kruphix, God of Horizons
     Prophet of Kruphix  3GreenBlue (5) 
     Sidisi, Brood Tyrant  1BlackGreenBlue (4) 
     Sultai Ascendancy  BlackGreenBlue (3) 
@@ -1063,7 +993,7 @@ NON-CREATURES:
     Resounding Scream  2Black (3) 
     Rise // Fall
     Sanity Gnawers  1BlackRed (3) 
-    Sedraxis Specter  BlueBlackRed (3) 
+    Sedraxis Specter
     Sewn-Eye Drake  2Blue or RedBlack (4)
     Skull Rend
     Slavering Nulls  1Red (2) 
@@ -1158,7 +1088,9 @@ NON-CREATURES:
   Duress
   Elixir of Immortality
   Far // Away
-  Lazav, Dimir Mastermind  BlueBlueBlackBlack (4) 
+  Into the Roil
+  Lazav, Dimir Mastermind
+  Lifebane Zombie
   Mental Vapors
   Nivmagus Elemental  
   Ordeal of Erebos
@@ -1166,6 +1098,8 @@ NON-CREATURES:
   Sign in Blood
   Soul Ransom
   Swan Song
+  Thing in the Ice
+  Tolaria West
   Whelming Wave
   <DONTHAVE>
     Akuta, Born of Ash  2BlackBlack (4) 
@@ -1249,11 +1183,9 @@ NON-CREATURES:
     Reality Smasher  4Colorless (5) 
     Relentless Dead  BlackBlack (2)  
     Riptide Pilferer
-    Sedraxis Specter  BlueBlackRed (3) 
     Sever the Bloodline  3Black (4)
     Sink into Takenuma  3Black (4) 
     Soul's Attendant  White (1) 
-    Split Decision
     Stromgald Crusader
     Stupor
     Sword of Feast and Famine  3 (3) 
@@ -1261,7 +1193,6 @@ NON-CREATURES:
     Tamiyo, the Moon Sage  3BlueBlue (5) 
     Teferi, Mage of Zhalfir  2BlueBlueBlue (5) 
     Thieving Magpie
-    Thing in the Ice
     Twisted Abomination
     Vault Skirge  1Phyrexian Black (2) 
     Venser, Shaper Savant
