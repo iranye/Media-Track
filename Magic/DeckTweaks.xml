@@ -63,6 +63,7 @@
   </CountersForCreatures>
   <CounterSpell>
     Clash of Wills
+    Dispel
     Dissolve
     Horribly Awry
     Mindswipe
@@ -78,10 +79,12 @@
     Roaring Primadox +++
   </CreatureFlash>
   <CreatureReturnToHand>
+    Cyclonic Rift
     Icefeather Aven
     Invasive Species
     Narrow Escape
     Peel from Reality
+    Vedalken Mastermind
   </CreatureReturnToHand>
   <DirectDamage>
     Anger of the Gods
@@ -103,6 +106,7 @@
   </GiantGrowth>
   <Graveyard>
     <Bonus>
+      Disciple of the Vault
       Strength from the Fallen
     </Bonus>
     <PutInto>
@@ -119,8 +123,11 @@
       Taigam's Scheming
     </PutInto>
     <Removal>
+      Beckon Apparition
+      Bioshift
+      Blessed Breath
       Bojuka Bog
-      Draconic Roar
+      Boon of Erebos
       Cranial Archive
       Mardu Woe Reaper
       Tormod's Crypt
@@ -128,6 +135,7 @@
     <ReturnFrom>
       Alesha, Who Smiles at Death
       CorpseWeft
+      Doomed Necromancer
       Dutiful Return
       Endless Obedience
       Font of Return
@@ -149,6 +157,7 @@
   <LifeGain>
     Divine Favor
     Feed the Clan
+    Pulse of the Fields
   </LifeGain>
   <Mana>
     Amulet of Vigor
@@ -192,11 +201,15 @@
       Ainok Survivalist
       Back to Nature
       Destructive Revelry
+      Erase
       Fade into Antiquity
       Feast of Dreams
       Mortal Obstinacy
       Naturalize
       Reclamation Sage
+      Ronom Unicorn
+      Vithian Renegades
+      Wispmare
     </ArtifactEnchantmentRemoval>
     Aetherspouts
     Banishing Light
@@ -236,6 +249,7 @@
     Chord of Calling
     Covenant of Blood (also get 4 life)
     Crypsis
+    Cryptolith Rite
     Dazzling Ramparts
     Disciple of Kruphix
     Glaring Aegis
@@ -255,9 +269,11 @@
   </Twiddle>
 </General>
 <ColorKill>
+  Devout Lightcaster
   Eight-and-a-Half-Tails  WhiteWhite (2) 
   Glamerdye
   Hunted Horror (Plus Ratchet Bomb)
+  Mind Bend
   Painters Servant
   Prismwake Merrow  2Blue (3) 
   Reaper King
@@ -283,7 +299,6 @@
   Solidarity of Heroes
   Sunscorch Regent
   Thalia's Lieutenant
-
 </CountersForCreatures>
 <DaringIceFeather>
   Aura of Dominion
@@ -292,9 +307,10 @@
   Curse of Chains
   Deceiver Exarch  2Blue (3)  
   Freed from the Real
-  Grimoire Thief  BlueBlue (2) 
+  Grimoire Thief
   Loam Dryad  Green (1) 
-  Merieke Ri Berit  WhiteBlueBlack (3) 
+  Master of Waves
+  Merieke Ri Berit
   Ral Zarek
 </DaringIceFeather>
 <Discards>
@@ -306,6 +322,7 @@
   Battle Brawler
   Brutal Hordechief
   Crux of Fate
+  Doomed Necromancer
   Dragonlord Kolaghan
   Dragonskull Summit
   Deathbringer Regent
@@ -357,17 +374,92 @@
   Utopia Sprawl
 </EidolonSac>
 <EliteArcanist>
+  WHITE ENCHANT CARD ADD COUNTER WHEN NON-CREATURE SPELLS ARE CAST
+  <Instants>
+    Abzan Advantage
+    Azorius Charm
+    Awe Strike
+    Bandage
+    Beckon Apparition
+    Bile Blight
+    Boros Charm
+    Faith's Shieldmate
+    Far // Away
+    Gods Willing
+    Holy Day
+    Midnight Charm
+    Mizzium Skin
+    Mystical Teachings
+    Outwit
+    Path to Exile
+    Piracy Charm
+    Quicken
+    Retraction Helix
+    Scout's Warning
+    Shadowfeed
+    Silence
+    Squelch
+    Spell Pierce
+    Stubborn Denial
+    Swan Song
+    Triton Tactics
+    Twiddle
+    Undying Evil
+    Unsummon
+    Valorous Stance
+  </Instants>
   Accursed Witch
+  Augury Adept
+  Blinding Angel
+  Blizzard Specter
   Brain in a Jar
+  Chronozoa
+  Cyclonic Rift
+  Deathbringer Liege
+  Deathless Angel
   Declaration in Stone
   Delver of Secrets
   Dual Casting
   Eerie Interlude
-  Elgaud Shieldmate  3Blue (4) 
+  Elgaud Shieldmate
+  Erayo, Soratami Ascendant
+  Esper Charm
+  Esper Sojourners
+  Etherwrought Page
   Explore
+  Extirpate
+  Fatespinner
+  Fatestitcher
+  Ghastlord of Fugue
+  Hidden Strings
   Horribly Awry
+  Intervention Pact
+  Isochron Scepter
+  Kira, Great Glass-Spinner
+  Lighthouse Chronologist
+  Loyal Sentry
+  Magus of the Disk
+  Magus of the Future
+  Make a Stand
+  Meddling Mage
+  Merieke Ri Berit
   Nivmagus Elemental
-  Squelch
+  Phantasmal Image
+  Pestermite
+  Rogue's Passage
+  Royal Assassin
+  Sen Triplets
+  Sky Hussar
+  Sphinx of the Steel Wind
+  Sublime Archangel
+  Teferi, Mage of Zhalfir
+  Thada Adel, Acquisitor
+  Thassa, God of the Sea
+  Thing in the Ice
+  Tolaria West
+  Vedalken Mastermind
+  Wall of Air
+  Zur the Enchanter
 </EliteArcanist>
 <Enchants>
   Arcanum Wings
@@ -408,6 +500,7 @@
     Ghastly Discovery
     Ghostly Wings
     Grimoire of the Dead
+    Razormane Masticore
     Reckless Wurm
     Vexing Sphinx
   </Madness>
