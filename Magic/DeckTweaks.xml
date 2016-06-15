@@ -364,6 +364,7 @@
   Grim Guardian
   Herald of the Panteon
   Nether Traitor
+  Lotus-Eye Mystics
   Pharika, God of Affliction
   Rancor
   Rattlechains
@@ -374,7 +375,69 @@
   Utopia Sprawl
 </EidolonSac>
 <EliteArcanist>
-  WHITE ENCHANT CARD ADD COUNTER WHEN NON-CREATURE SPELLS ARE CAST
+  <Creatures>
+    Accursed Witch
+    Ashling, the Extinguisher
+    Augury Adept
+    Blinding Angel
+    Blizzard Specter
+    Brine Elemental
+    Cathar's Companion
+    Chronozoa
+    Cinderbones
+    Cinderhaze Wretch
+    Deathbringer Liege
+    Deathless Angel
+    Delver of Secrets
+    Desecration Elemental
+    Elgaud Shieldmate
+    Erayo, Soratami Ascendant
+    Esper Sojourners
+    Fatespinner
+    Fatestitcher
+    Frost Walker
+    Ghastlord of Fugue
+    Jhessian Thief
+    Kira, Great Glass-Spinner
+    Lighthouse Chronologist
+    Living Tsunami
+    Loyal Sentry
+    Magus of the Disk
+    Magus of the Future
+    Make a Stand
+    Meddling Mage
+    Merieke Ri Berit
+    Necroskitter
+    Nivmagus Elemental
+    Nyxathid
+    Pain Seer
+    Pearl Lake Ancient
+    Pestermite
+    Plumeveil
+    Pristine Skywise
+    Prognostic Sphinx
+    Primal Plasma
+    Quicksilver Elemental
+    Roil Elemental
+    Rotted Hulk
+    Royal Assassin
+    Sage-Eye Avengers
+    Seeker of the Way
+    Sen Triplets
+    Shorecrasher Elemental
+    Shu Yun, the Silent Tempest
+    Sky Hussar
+    Sphinx of the Steel Wind
+    Spitemare
+    Sublime Archangel
+    Teferi, Mage of Zhalfir
+    Thada Adel, Acquisitor
+    Thassa, God of the Sea
+    Thing in the Ice
+    Vedalken Mastermind
+    Wall of Air
+    Zur the Enchanter
+  </Creatures>
   <Instants>
     Abzan Advantage
     Azorius Charm
@@ -383,8 +446,12 @@
     Beckon Apparition
     Bile Blight
     Boros Charm
-    Faith's Shieldmate
+    Cyclonic Rift
+    Extirpate
+    Faith's Shield
     Far // Away
+    Eerie Interlude --
+    Esper Charm
     Gods Willing
     Holy Day
     Midnight Charm
@@ -398,7 +465,6 @@
     Scout's Warning
     Shadowfeed
     Silence
-    Squelch
     Spell Pierce
     Stubborn Denial
     Swan Song
@@ -408,58 +474,22 @@
     Unsummon
     Valorous Stance
   </Instants>
-  Accursed Witch
-  Augury Adept
-  Blinding Angel
-  Blizzard Specter
+  <Planeswalkers>
+    Narset Transcendent
+  </Planeswalkers>
   Brain in a Jar
-  Chronozoa
-  Cyclonic Rift
-  Deathbringer Liege
-  Deathless Angel
   Declaration in Stone
-  Delver of Secrets
-  Dual Casting
-  Eerie Interlude
-  Elgaud Shieldmate
-  Erayo, Soratami Ascendant
-  Esper Charm
-  Esper Sojourners
+  Dovescape
   Etherwrought Page
-  Explore
-  Extirpate
-  Fatespinner
-  Fatestitcher
-  Ghastlord of Fugue
+  
   Hidden Strings
   Horribly Awry
   Intervention Pact
   Isochron Scepter
-  Kira, Great Glass-Spinner
-  Lighthouse Chronologist
-  Loyal Sentry
-  Magus of the Disk
-  Magus of the Future
-  Make a Stand
-  Meddling Mage
-  Merieke Ri Berit
-  Nivmagus Elemental
+  Myth Realized
   Phantasmal Image
-  Pestermite
   Rogue's Passage
-  Royal Assassin
-  Sen Triplets
-  Sky Hussar
-  Sphinx of the Steel Wind
-  Sublime Archangel
-  Teferi, Mage of Zhalfir
-  Thada Adel, Acquisitor
-  Thassa, God of the Sea
-  Thing in the Ice
   Tolaria West
-  Vedalken Mastermind
-  Wall of Air
-  Zur the Enchanter
 </EliteArcanist>
 <Enchants>
   Arcanum Wings
@@ -852,16 +882,16 @@ NON-CREATURES:
       Pale Rider of Trostad  1Black (2) 
       Persecute  2BlackBlack (4) 
       Prognostic Sphinx
-      Pulse of the Grid  1BlueBlue (3) 
-      Ridged Kusite  Black (1) 
-      Rix Maadi, Dungeon Palace (0) (RED)
+      Pulse of the Grid
+      Ridged Kusite
+      Rix Maadi, Dungeon Palace
       Sibsig Icebreakers
       Skeleton Key
-      Skirk Ridge Exhumer  1Black (2) 
+      Skirk Ridge Exhumer
       Skullmead Cauldron
-      Smallpox  BlackBlack (2) 
-      Soratami Cloudskater  1Blue (2) 
-      Stitchwing Skaab  3Blue (4) 
+      Smallpox
+      Soratami Cloudskater
+      Stitchwing Skaab
       Thought Courier
       Tolarian Sentinel
       Tormenting Voice (RED)
