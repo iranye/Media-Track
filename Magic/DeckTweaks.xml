@@ -326,6 +326,7 @@
   Dragonlord Kolaghan
   Dragonskull Summit
   Deathbringer Regent
+  Doomed Traveler
   Elspeth Tirel
   Fruit of the First Tree
   Gideon, Champion of Justice  2WhiteWhite (4) 
@@ -358,7 +359,8 @@
   Cloudshift
   Dark Confidant
   Daybreak Coronet
-  Dead Weight  Black (1) 
+  Dead Weight
+  Doomed Traveler
   Fertile Ground
   Flickerform
   Grim Guardian
@@ -486,6 +488,7 @@
   Horribly Awry
   Intervention Pact
   Isochron Scepter
+  Mirrorpool
   Myth Realized
   Phantasmal Image
   Rogue's Passage
@@ -548,6 +551,7 @@
   Flameshadow Conjuring
   Frost Walker
   Goldnight Castigator
+  Hellion Crucible
   Hellkite Charger
   Incorrigible Youths
   Intet, the Dreamer
@@ -560,6 +564,7 @@
   Mosswort Bridge
   Obsidian Fireheart
   Obstinate Baloth
+  Pact of the Titan
   Pyrewild Shaman
   Sabertooth Outrider
   Sagu Mauler
@@ -759,6 +764,9 @@ NON-CREATURES:
   Vigor
 </RedGrDevotion-0>
 <Tokens>
+	<Madness>
+    Llanowar Mentor
+	</Madness>
   Aether Vial
   Baloth Cage Trap (Sideboard)
   Baru, Fist of Krosa
@@ -773,7 +781,10 @@ NON-CREATURES:
   Gideon, Ally of Zendikar  2WhiteWhite (4) 
   Gideon, Champion of Justice  2WhiteWhite (4) 
   Godsire
-  Hanweir Militia Captain  1White (2) 
+  Hanweir Militia Captain
+  Herald of Anafenza
+  Khalni Garden
+  Launch the Fleet
   Leyline of the Meek
   Mentor of the Meek
   Ichor Wellspring
@@ -790,6 +801,7 @@ NON-CREATURES:
   Second Harvest  [1]
   Sigil of the Nayan Gods  1GreenWhite (3) 
   Slate of Ancestry
+  Springjack Pasture
   Sublime Archangel
   Sundering Growth
   Thragtusk
