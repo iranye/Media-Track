@@ -329,12 +329,13 @@
   Doomed Traveler
   Elspeth Tirel
   Fruit of the First Tree
-  Gideon, Champion of Justice  2WhiteWhite (4) 
+  Fulminator Mage
+  Gideon, Champion of Justice
   Goblin Rabblemaster
   Kheru Bloodsucker
   Kolaghan's Command
   Massacre Wurm
-  Merciless Resolve  2Black (3) 
+  Merciless Resolve
   Mob Rule
   Morkrut Necropod
   Palace Siege
@@ -399,6 +400,7 @@
     Fatestitcher
     Frost Walker
     Ghastlord of Fugue
+    Guile
     Jhessian Thief
     Kira, Great Glass-Spinner
     Lighthouse Chronologist
@@ -436,8 +438,11 @@
     Thada Adel, Acquisitor
     Thassa, God of the Sea
     Thing in the Ice
+    Tideforce Elemental
+    Updraft Elemental
     Vedalken Mastermind
     Wall of Air
+    Wispmare
     Zur the Enchanter
   </Creatures>
   <Instants>
@@ -456,6 +461,7 @@
     Esper Charm
     Gods Willing
     Holy Day
+    Intervention Pact
     Midnight Charm
     Mizzium Skin
     Mystical Teachings
@@ -482,11 +488,9 @@
   Brain in a Jar
   Declaration in Stone
   Dovescape
-  Etherwrought Page
-  
+  Etherwrought Page  
   Hidden Strings
-  Horribly Awry
-  Intervention Pact
+  Horribly Awry  
   Isochron Scepter
   Mirrorpool
   Myth Realized
@@ -507,6 +511,7 @@
   Invocation of Saint Traft
   Kor Spiritdancer
   Mesa Enchantress
+  Repel Intruders
   Shadows of the Past
   Shaman of Spring
 </Enchants>
@@ -553,7 +558,9 @@
   Goldnight Castigator
   Hellion Crucible
   Hellkite Charger
+  Hunted Troll
   Incorrigible Youths
+  Inexorable Blob
   Intet, the Dreamer
   Living Tsunami
   Mantis Rider
@@ -564,8 +571,13 @@
   Mosswort Bridge
   Obsidian Fireheart
   Obstinate Baloth
+  Pack Guardian
   Pact of the Titan
+  Penumbra Spider
+  Precinct Captain
+  Primeval Bounty
   Pyrewild Shaman
+  Raise the Alarm
   Sabertooth Outrider
   Sagu Mauler
   Scout the Borders
@@ -753,7 +765,8 @@ NON-CREATURES:
   Sunbeam Spellbomb
 </RedBlueIzzet>
 <RedGrDevotion-0>
-  Borborygmos Enraged  4RedRedGreenGreen (8) 
+  Arlinn Kord
+  Borborygmos Enraged
   Furyborn Hellkite
   Gravity Well (Sideboard)
   Kalonian Behemoth
@@ -768,39 +781,56 @@ NON-CREATURES:
     Llanowar Mentor
 	</Madness>
   Aether Vial
+  Awakening Zone
   Baloth Cage Trap (Sideboard)
   Baru, Fist of Krosa
+  Beckon Apparition
   Cobra Trap
   Creakwood Liege
   Dromoka's Command
+  Doubling Season
   Elspeth, Knight-Errant
   Elspeth Tirel
   Essence Warden
-  Garruk, Primal Hunter  2GreenGreenGreen (5) 
-  Garruk Wildspeaker  2GreenGreen (4) 
-  Gideon, Ally of Zendikar  2WhiteWhite (4) 
-  Gideon, Champion of Justice  2WhiteWhite (4) 
+  Feral Incarnation
+  Garruk, Primal Hunter
+  Garruk Relentless
+  Garruk Wildspeaker
+  Gideon, Ally of Zendikar
+  Gideon, Champion of Justice
   Godsire
   Hanweir Militia Captain
   Herald of Anafenza
+  Hooded Hydra
+  Hornet Nest
+  Ichor Wellspring
+  Inexorable Blob
+  Intangible Virtue
+  Kazandu Tuskcaller
   Khalni Garden
   Launch the Fleet
   Leyline of the Meek
+  Luminarch Ascension
+  Miming Slime  
   Mentor of the Meek
-  Ichor Wellspring
-  Inexorable Blob  2Green (3) 
-  Intangible Virtue
+  Mycoloth
   Nissa, Vastwood Seer
-  Nissa, Voice of Zendikar  1GreenGreen (3) 
+  Nissa, Voice of Zendikar
   Parallel Lives
   Rancor
+  Riftmarked Knight
   Rhys the Redeemed
+  Roc Egg
   Ronom Unicorn
+  Rootborn Defenses
   Rhys the Redeemed
   Saffi Eriksdotter
-  Second Harvest  [1]
-  Sigil of the Nayan Gods  1GreenWhite (3) 
+  Second Harvest
+  Seed Spark
+  Sigil of the Nayan Gods
   Slate of Ancestry
+  Spawnwrithe
+  Spirit Bonds
   Springjack Pasture
   Sublime Archangel
   Sundering Growth
