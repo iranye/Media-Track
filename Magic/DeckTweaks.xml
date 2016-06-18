@@ -378,6 +378,25 @@
   Utopia Sprawl
 </EidolonSac>
 <EliteArcanist>
+  <ToSort>
+    Countersquall
+    Dash Hopes
+    Dawn Charm
+    Deprive
+    Dimir Charm
+    Disdainful Stroke
+    Dissipate
+    Dissolve
+    Dream Fracture
+    Echo Mage
+    Essence Scatter
+    Familiar's Ruse
+    Grimiore Thief
+    Hada Spy Patrol
+    Helix Pinnacle
+    Hinder
+    Hindering Light
+  </ToSort>
   <Creatures>
     Accursed Witch
     Ashling, the Extinguisher
@@ -406,6 +425,7 @@
     Lighthouse Chronologist
     Living Tsunami
     Loyal Sentry
+	Lullmage Mentor
     Magus of the Disk
     Magus of the Future
     Make a Stand
@@ -467,9 +487,12 @@
     Mystical Teachings
     Outwit
     Path to Exile
+	Perplex
     Piracy Charm
     Quicken
+	Render Silent
     Retraction Helix
+	Rewind
     Scout's Warning
     Shadowfeed
     Silence
@@ -492,9 +515,11 @@
   Hidden Strings
   Horribly Awry  
   Isochron Scepter
+  Lightning Greaves
   Mirrorpool
   Myth Realized
   Phantasmal Image
+  Ring of Evos Isle
   Rogue's Passage
   Tolaria West
 </EliteArcanist>
