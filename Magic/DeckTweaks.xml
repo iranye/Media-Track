@@ -12,7 +12,10 @@
     Thing in the Ice
   </HaveAtLeastOne>
   Aether Vial ($6+)
+  Augury Adept  
   Collected Company
+  Delver of Secrets
+  Grixis Charm
   Jace, Vryn's Prodigy ($30+)
   Leyline of the Void ($5+)
   Needle Specter
@@ -336,6 +339,7 @@
   Kolaghan's Command
   Massacre Wurm
   Merciless Resolve
+  Miren, the Moaning Well
   Mob Rule
   Morkrut Necropod
   Palace Siege
@@ -399,15 +403,23 @@
   </ToSort>
   <Creatures>
     Accursed Witch
+    Arcanis the Omnipotent
     Ashling, the Extinguisher
+    Augur of Bolas
     Augury Adept
+    Azami, Lady of Scrolls
+    Azorius Guildmage
     Blinding Angel
     Blizzard Specter
     Brine Elemental
     Cathar's Companion
+    Cephalid Constable
     Chronozoa
     Cinderbones
     Cinderhaze Wretch
+    Circu, Dimir Lobotomist
+    Crafty Pathmage
+    Dakra Mystic
     Deathbringer Liege
     Deathless Angel
     Delver of Secrets
@@ -478,12 +490,14 @@
     Bile Blight
     Boros Charm
     Cyclonic Rift
+    Devour Flesh
     Extirpate
     Faith's Shield
     Far // Away
     Eerie Interlude --
     Esper Charm
     Gods Willing
+    Grixis Charm
     Holy Day
     Intervention Pact
     Midnight Charm
@@ -504,6 +518,7 @@
     Stubborn Denial
     Swan Song
     Thoughtbind
+    Tribute to Hunger
     Trickbind
     Triton Tactics
     Turn Aside
@@ -531,6 +546,7 @@
   Ring of Evos Isle
   Rogue's Passage
   Tolaria West
+  Training Grounds
 </EliteArcanist>
 <Enchants>
   Arcanum Wings
@@ -801,6 +817,7 @@ NON-CREATURES:
 <RedGrDevotion-0>
   Arlinn Kord
   Borborygmos Enraged
+  Doomgape
   Furyborn Hellkite
   Gravity Well (Sideboard)
   Kalonian Behemoth
