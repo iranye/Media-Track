@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="F:\Media-Tracker\MakeMKV-Movies\ParaNorman">
+  <FileItemList>
+    <FileItem name="ParaNorman_t00.mkv">
+      <Size>24127448368</Size>
+      <MD5Hash>0xBA4CAD2895094F4CA30C7D4650909595</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t01.mkv">
+      <Size>4631072261</Size>
+      <MD5Hash>0xEF255542C068A63B4F1DEBF4138D01FE</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t02.mkv">
+      <Size>1017777201</Size>
+      <MD5Hash>0x4C43BE37C7D768856F90227F25552EDC</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t03.mkv">
+      <Size>1626056229</Size>
+      <MD5Hash>0xB92BCFDC3E47653D8A736658ED189ED4</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t04.mkv">
+      <Size>311787246</Size>
+      <MD5Hash>0x73EC827AA6FACB991B02C7C48DBD5130</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t05.mkv">
+      <Size>234571251</Size>
+      <MD5Hash>0xC07B7EE7D440FCF476E8164574CAF6CF</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t06.mkv">
+      <Size>262741331</Size>
+      <MD5Hash>0x5E5BC1E86DC753A610B493520F5B716D</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t07.mkv">
+      <Size>249693136</Size>
+      <MD5Hash>0xCF8CEF3B1FD74D61199B4BCA473DBB46</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t08.mkv">
+      <Size>252185720</Size>
+      <MD5Hash>0xCC6893DC22AA889F8F6D2D929FA41BEF</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t10.mkv">
+      <Size>501822077</Size>
+      <MD5Hash>0x4D36EAB06261ACA4027E7704E67FA6FE</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t11.mkv">
+      <Size>234787038</Size>
+      <MD5Hash>0x64C3CDC755E7CADD3387E8732C56B428</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t12.mkv">
+      <Size>278073165</Size>
+      <MD5Hash>0x0637710D39B6FBBCEE0843C686DB0387</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t13.mkv">
+      <Size>483826284</Size>
+      <MD5Hash>0xA755F0ED68CEC3C60959DED67E80B952</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t14.mkv">
+      <Size>727956265</Size>
+      <MD5Hash>0x74D4C086313B2880D9C00C3514B1F493</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t15.mkv">
+      <Size>646422901</Size>
+      <MD5Hash>0x3168694967DC4B7358F3B04BA339415A</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t16.mkv">
+      <Size>797175639</Size>
+      <MD5Hash>0x2EEC2383EF620045AE6F61412CA668BE</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t17.mkv">
+      <Size>457559138</Size>
+      <MD5Hash>0x24330CE0C6B5CFF2AD6DD1B2CADE7164</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t18.mkv">
+      <Size>512247673</Size>
+      <MD5Hash>0x09F7A441B544E86CFB84933BF718FD0B</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t19.mkv">
+      <Size>604471772</Size>
+      <MD5Hash>0x55B36432FEBAFBBEA3E34642D584BDF3</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t20.mkv">
+      <Size>290272274</Size>
+      <MD5Hash>0x984672E9AC7F71F534F0674A3A13215B</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t21.mkv">
+      <Size>310031394</Size>
+      <MD5Hash>0xCCBBF49EC344D8AE11E198BA8F451785</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t22.mkv">
+      <Size>232813994</Size>
+      <MD5Hash>0x03118D10996BB45E0721D4C2DCC230AF</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t23.mkv">
+      <Size>260984074</Size>
+      <MD5Hash>0x062C42697647433DA3078E084EA16FF2</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t24.mkv">
+      <Size>247935879</Size>
+      <MD5Hash>0x0AF451867CDDA2EE47187B91CD1D2B1A</MD5Hash>
+    </FileItem>
+    <FileItem name="ParaNorman_t25.mkv">
+      <Size>250415752</Size>
+      <MD5Hash>0x898972AAC841D99ED9C7AB7EE0EED217</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

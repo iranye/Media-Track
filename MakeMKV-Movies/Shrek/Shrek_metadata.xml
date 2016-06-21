@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="F:\Media-Tracker\MakeMKV-Movies\Shrek">
+  <FileItemList>
+    <FileItem name="Shrek.mkv">
+      <Size>5345566485</Size>
+      <MD5Hash>0x313C9EAC340039CA02C845BB03205823</MD5Hash>
+    </FileItem>
+    <FileItem name="Shrek_t03.mkv">
+      <Size>138680155</Size>
+      <MD5Hash>0x85D561CFD0EA7735A87F6882189E1584</MD5Hash>
+    </FileItem>
+    <FileItem name="Shrek_t04.mkv">
+      <Size>168851244</Size>
+      <MD5Hash>0x6C64E3430DC75D281E98A4EE52A1A5E9</MD5Hash>
+    </FileItem>
+    <FileItem name="Shrek_t05.mkv">
+      <Size>165264689</Size>
+      <MD5Hash>0xB8346A4433EF569EEA791C70E87C6C46</MD5Hash>
+    </FileItem>
+    <FileItem name="Shrek_t06.mkv">
+      <Size>161503820</Size>
+      <MD5Hash>0xA297F45BCCA1BD514A2A0BDBF64D67E9</MD5Hash>
+    </FileItem>
+    <FileItem name="Shrek_t07.mkv">
+      <Size>190411487</Size>
+      <MD5Hash>0x164D2F9B17E1696598468E81D2D277B9</MD5Hash>
+    </FileItem>
+    <FileItem name="Shrek_t08.mkv">
+      <Size>149771883</Size>
+      <MD5Hash>0x55500CF8F8F1A3392EA3BB7621B8A003</MD5Hash>
+    </FileItem>
+    <FileItem name="Shrek_t09.mkv">
+      <Size>158945347</Size>
+      <MD5Hash>0xEB13D68BAD04C29912F3C041A7969F6A</MD5Hash>
+    </FileItem>
+    <FileItem name="Shrek_t10.mkv">
+      <Size>179870917</Size>
+      <MD5Hash>0xCD12968ACF00570ED8CCDD4E15608872</MD5Hash>
+    </FileItem>
+    <FileItem name="Shrek_t11.mkv">
+      <Size>941974733</Size>
+      <MD5Hash>0x50F9E6D42E559D00AB695B308ABE7E21</MD5Hash>
+    </FileItem>
+    <FileItem name="Shrek_t12.mkv">
+      <Size>111251326</Size>
+      <MD5Hash>0xFE78E7339B36A9684F4BD2F080B473B1</MD5Hash>
+    </FileItem>
+    <FileItem name="Shrek_t13.mkv">
+      <Size>100667443</Size>
+      <MD5Hash>0x9A68832D8423F729E1FE56B927E3FF30</MD5Hash>
+    </FileItem>
+    <FileItem name="Shrek_t14.mkv">
+      <Size>158603693</Size>
+      <MD5Hash>0x35079BD215B702AA1EEFFF1351EA8CB3</MD5Hash>
+    </FileItem>
+    <FileItem name="Shrek_t15.mkv">
+      <Size>139041236</Size>
+      <MD5Hash>0x95B2BAE5355FC3278EA45C401C812421</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

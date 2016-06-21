@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="F:\Media-Tracker\MakeMKV-Movies\ChristmasClassics">
+  <FileItemList>
+    <FileItem name="CC09_RudolphTheRedNosedReindeer.mkv">
+      <Size>1724523019</Size>
+      <MD5Hash>0x1B128224CE0FF2C1E1AA5A2D1F71C782</MD5Hash>
+    </FileItem>
+    <FileItem name="CC0_SantaClauseComingToTown.mkv">
+      <Size>1691626182</Size>
+      <MD5Hash>0x1B02F23134650286FA0ADA73C3E5F564</MD5Hash>
+    </FileItem>
+    <FileItem name="CC10_FrostyTheSnowman.mkv">
+      <Size>846867728</Size>
+      <MD5Hash>0x573E8EAE65A5A20362193D24D8B32F54</MD5Hash>
+    </FileItem>
+    <FileItem name="CC11_FrostyReturns.mkv">
+      <Size>727173227</Size>
+      <MD5Hash>0x56063FAB18B076DF6914D7F0C3152275</MD5Hash>
+    </FileItem>
+    <FileItem name="CC6_LittleDrummerBoy.mkv">
+      <Size>793200650</Size>
+      <MD5Hash>0x26D10165B7B01F149E6DBA377E88CCF0</MD5Hash>
+    </FileItem>
+    <FileItem name="CC7_MrMagoos_AChristmasCarol.mkv">
+      <Size>1749066314</Size>
+      <MD5Hash>0xF67AA01871AAE86FE41CDFDF883C5207</MD5Hash>
+    </FileItem>
+    <FileItem name="CC8_CricketOnTheHearth.mkv">
+      <Size>1551411347</Size>
+      <MD5Hash>0x0F60971C26C190CECFC49EEF0BA7F945</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

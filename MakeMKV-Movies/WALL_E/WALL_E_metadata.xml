@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="F:\Media-Tracker\MakeMKV-Movies\WALL_E">
+  <FileItemList>
+    <FileItem name="WALL_E.mkv">
+      <Size>5221468515</Size>
+      <MD5Hash>0x0065885AF290F3D8ECBCEE7257C7AC33</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

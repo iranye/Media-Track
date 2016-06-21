@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="F:\Media-Tracker\MakeMKV-Movies\LionKing">
+  <FileItemList>
+    <FileItem name="LionKing.mkv">
+      <Size>4788448007</Size>
+      <MD5Hash>0x912D2FF4AA25010D59C8586496CFF99F</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>
