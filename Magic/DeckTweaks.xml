@@ -14,7 +14,12 @@
   Aether Vial ($6+)
   Augury Adept  
   Collected Company
+  Dash Hopes
   Delver of Secrets
+  Echo Mage
+  Extirpate
+  Familiar's Ruse
+  Grimoire Thief
   Grixis Charm
   Jace, Vryn's Prodigy ($30+)
   Leyline of the Void ($5+)
@@ -382,25 +387,6 @@
   Utopia Sprawl
 </EidolonSac>
 <EliteArcanist>
-  <ToSort>
-    Countersquall
-    Dash Hopes
-    Dawn Charm
-    Deprive
-    Dimir Charm
-    Disdainful Stroke
-    Dissipate
-    Dissolve
-    Dream Fracture
-    Echo Mage
-    Essence Scatter
-    Familiar's Ruse
-    Grimiore Thief
-    Hada Spy Patrol
-    Helix Pinnacle
-    Hinder
-    Hindering Light
-  </ToSort>
   <Creatures>
     Accursed Witch
     Arcanis the Omnipotent
@@ -424,6 +410,7 @@
     Deathless Angel
     Delver of Secrets
     Desecration Elemental
+    Echo Mage
     Elgaud Shieldmate
     Erayo, Soratami Ascendant
     Esper Sojourners
@@ -432,6 +419,7 @@
     Frost Walker
     Ghastlord of Fugue
     Guile
+    Hada Spy Patrol
     Jhessian Thief
     Kira, Great Glass-Spinner
     Lighthouse Chronologist
@@ -454,6 +442,7 @@
     Prognostic Sphinx
     Primal Plasma
     Quicksilver Elemental
+    Riptide Pilferer
     Roil Elemental
     Rotted Hulk
     Royal Assassin
@@ -489,8 +478,18 @@
     Beckon Apparition
     Bile Blight
     Boros Charm
+    Countersquall
     Cyclonic Rift
+    Dash Hopes
+    Dawn Charm
+    Deprive
     Devour Flesh
+    Dimir Charm
+    Disdainful Stroke
+    Dissipate
+    Dissolve
+    Dream Fracture
+    Essence Scatter
     Extirpate
     Faith's Shield
     Far // Away
@@ -498,6 +497,8 @@
     Esper Charm
     Gods Willing
     Grixis Charm
+    Hinder
+    Hindering Light
     Holy Day
     Intervention Pact
     Midnight Charm
@@ -604,6 +605,7 @@
   Fanatic of Mogis
   Felhide Spiritbinder
   Flameshadow Conjuring
+  Familiar's Ruse
   Frost Walker
   Goldnight Castigator
   Hellion Crucible
@@ -612,6 +614,7 @@
   Incorrigible Youths
   Inexorable Blob
   Intet, the Dreamer
+  Lavacore Elemental
   Living Tsunami
   Mantis Rider
   Mimic Vat
