@@ -336,6 +336,7 @@
   Deathbringer Regent
   Doomed Traveler
   Elspeth Tirel
+  Fallen Ideal
   Fruit of the First Tree
   Fulminator Mage
   Gideon, Champion of Justice
@@ -387,8 +388,24 @@
   Utopia Sprawl
 </EidolonSac>
 <EliteArcanist>
+  <White>
+    Cathar's Companion
+    Deathless Angel
+    Loyal Sentry
+    Magus of the Disk
+    Meddling Mage
+    Merieke Ri Berit
+    Pristine Skywise
+    Seeker of the Way
+    Sen Triplets
+    Shu Yun, the Silent Tempest
+    Sublime Archangel
+    Wispmare
+    Zur the Enchanter
+  </White>
   <Creatures>
-    Accursed Witch
+    Æther Adept
+    Ætherize
     Arcanis the Omnipotent
     Ashling, the Extinguisher
     Augur of Bolas
@@ -396,68 +413,47 @@
     Azami, Lady of Scrolls
     Azorius Guildmage
     Blinding Angel
-    Blizzard Specter
-    Brine Elemental
-    Cathar's Companion
     Cephalid Constable
     Chronozoa
     Cinderbones
-    Cinderhaze Wretch
     Circu, Dimir Lobotomist
+    Crackleburr
     Crafty Pathmage
     Dakra Mystic
-    Deathbringer Liege
-    Deathless Angel
     Delver of Secrets
-    Desecration Elemental
     Echo Mage
     Elgaud Shieldmate
     Erayo, Soratami Ascendant
-    Esper Sojourners
     Fatespinner
     Fatestitcher
+    Floodbringer
     Frost Walker
     Ghastlord of Fugue
     Guile
     Hada Spy Patrol
+    Harbinger of the Tides
     Jhessian Thief
     Kira, Great Glass-Spinner
     Lighthouse Chronologist
     Living Tsunami
-    Loyal Sentry
     Lullmage Mentor
-    Magus of the Disk
     Magus of the Future
-    Make a Stand
-    Meddling Mage
-    Merieke Ri Berit
     Necroskitter
     Nivmagus Elemental
     Nyxathid
     Pain Seer
-    Pearl Lake Ancient
     Pestermite
     Plumeveil
-    Pristine Skywise
-    Prognostic Sphinx
     Primal Plasma
     Quicksilver Elemental
     Riptide Pilferer
     Roil Elemental
     Rotted Hulk
-    Royal Assassin
     Sage-Eye Avengers
     Sage of Fables
-    Seeker of the Way
-    Sen Triplets
     Shorecrasher Elemental
-    Shu Yun, the Silent Tempest
     Sigil Tracer
-    Sky Hussar
-    Sphinx of the Steel Wind
-    Spitemare
     Stonybrook Banneret
-    Sublime Archangel
     Teferi, Mage of Zhalfir
     Thada Adel, Acquisitor
     Thassa, God of the Sea
@@ -465,20 +461,22 @@
     Tideforce Elemental
     Updraft Elemental
     Vedalken Mastermind
-    Voidmage Produgy
+    Voidmage Prodigy
     Wall of Air
-    Wispmare
-    Zur the Enchanter
   </Creatures>
   <Instants>
     Abzan Advantage
     Azorius Charm
     Awe Strike
     Bandage
+    Banishing Knack
     Beckon Apparition
     Bile Blight
+    Boomerang
     Boros Charm
+    Clutch of the Undercity
     Countersquall
+    Cryptic Command
     Cyclonic Rift
     Dash Hopes
     Dawn Charm
@@ -501,6 +499,7 @@
     Hindering Light
     Holy Day
     Intervention Pact
+    Make a Stand
     Midnight Charm
     Mizzium Skin
     Mystical Teachings
@@ -532,9 +531,14 @@
   <Planeswalkers>
     Narset Transcendent
   </Planeswalkers>
+  Batterskull
   Brain in a Jar
+  Brass Squire
+  Crystal Shard
   Declaration in Stone
+  Dimir Aqueduct
   Dovescape
+  Dramatic Rescue
   Etherwrought Page  
   Ghostly Prison
   Hidden Strings
@@ -555,6 +559,7 @@
   Azorius Æthermage
   Dragonlord Ojutai
   Dust Elemental
+  Fieldmist Borderpost
   Glacial Fortress
   Grand Arbiter Augustin IV
   Herald of the Pantheon
@@ -602,6 +607,7 @@
   Eel Umbra
   Eerie Interlude
   Elemental Bond
+  Familiar's Ruse
   Fanatic of Mogis
   Felhide Spiritbinder
   Flameshadow Conjuring
