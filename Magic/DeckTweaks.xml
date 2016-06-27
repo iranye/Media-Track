@@ -351,6 +351,7 @@
   Mob Rule
   Morkrut Necropod
   Palace Siege
+  Perilous Myr
   Rakdos, Lord of Riots
   Ravenous Rats
   Sandstepp outcast
@@ -390,7 +391,11 @@
   Utopia Sprawl
 </EidolonSac>
 <EliteArcanist>
+  <Notes>
+    More lands get 1 life when enters
+  </Notes>
   <White>
+    Blinding Angel
     Cathar's Companion
     Deathless Angel
     Loyal Sentry
@@ -407,14 +412,12 @@
   </White>
   <Creatures>
     Æther Adept
-    Ætherize
     Arcanis the Omnipotent
     Ashling, the Extinguisher
     Augur of Bolas
     Augury Adept
     Azami, Lady of Scrolls
     Azorius Guildmage
-    Blinding Angel
     Cephalid Constable
     Chronozoa
     Cinderbones
@@ -468,6 +471,7 @@
   </Creatures>
   <Instants>
     Abzan Advantage
+    Ætherize
     Azorius Charm
     Awe Strike
     Bandage
@@ -493,8 +497,8 @@
     Extirpate
     Faith's Shield
     Far // Away
-    Eerie Interlude --
     Esper Charm
+    Geth's Verdict
     Gods Willing
     Grixis Charm
     Hinder
