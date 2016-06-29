@@ -3,33 +3,35 @@
 <TradersList>
   <HaveAtLeastOne>
     Doubling Season
+    Echo Mage
+    Extirpate 
     Erebos's Titan
     Glacial Fortress
     Grimoire of the Dead
     Leyline of the Meek
+    Lotus Bloom
     Necrogen Mists
-    Sword of Feast and Famine ($4+)
     Thing in the Ice
   </HaveAtLeastOne>
-  Aether Vial ($6+)
-  Augury Adept  
-  Collected Company
-  Dash Hopes
-  Delver of Secrets
-  Echo Mage
-  Extirpate
-  Familiar's Ruse
+  <HighPriced>
+    Aether Vial ($6+)
+    Cavern of Souls
+    Collected Company
+    Fulminator Mage ($11+)
+    Jace, Vryn's Prodigy ($30+)
+    Leyline of the Void ($5+)
+    Massacre Wurm ($2+)
+    Obstinate Baloth ($4+)
+    Pact of Negation ($6+)
+    Painter's Servant ($3+)
+    Reaper King (> .50c)
+    Snapcaster Mage ($15+)
+    Sword of Feast and Famine ($4+)
+    Thragtusk ($3+)
+    Voice of Resurgence ($38+)
+  </HighPriced>
   Grimoire Thief
-  Grixis Charm
-  Jace, Vryn's Prodigy ($30+)
-  Leyline of the Void ($5+)
-  Lotus Bloom
   Needle Specter
-  Obstinate Baloth ($4+)
-  Pact of Negation ($6+)
-  Snapcaster Mage ($15+)
-  Thragtusk
-  Voice of Resurgence ($38+)
 </TradersList>
 <General>
   <Bounce>
@@ -165,6 +167,7 @@
     </ReturnFrom>
   </Graveyard>
   <LifeGain>
+    Devour Flesh
     Divine Favor
     Feed the Clan
     Pulse of the Fields
@@ -280,12 +283,12 @@
 </General>
 <ColorKill>
   Devout Lightcaster
-  Eight-and-a-Half-Tails  WhiteWhite (2) 
+  Eight-and-a-Half-Tails
   Glamerdye
-  Hunted Horror (Plus Ratchet Bomb)
+  Hunted Horror
   Mind Bend
-  Painters Servant
-  Prismwake Merrow  2Blue (3) 
+  Painter's Servant
+  Prismwake Merrow
   Reaper King
   Western Paladin
 </ColorKill>
@@ -305,7 +308,7 @@
   Hardened Scales
   High Sentinels of Arashin
   Phalanx Leader
-  Pheres-Band Tromper (Inspired->Add A Counter)
+  Pheres-Band Tromper
   Solidarity of Heroes
   Sunscorch Regent
   Thalia's Lieutenant
@@ -315,15 +318,18 @@
   Bear Umbra
   Canopy Cover
   Curse of Chains
-  Deceiver Exarch  2Blue (3)  
+  Deceiver Exarch
   Freed from the Real
   Grimoire Thief
-  Loam Dryad  Green (1) 
+  Loam Dryad
   Master of Waves
   Merieke Ri Berit
   Ral Zarek
 </DaringIceFeather>
 <Discards>
+  <Green>
+    Fruit of the First Tree
+  </Green>
   <Madness>
     Big Game Hunter
   </Madness>
@@ -332,6 +338,7 @@
   Battle Brawler
   Brutal Hordechief
   Crux of Fate
+  Devour Flesh
   Doomed Necromancer
   Dragonlord Kolaghan
   Dragonskull Summit
@@ -339,7 +346,6 @@
   Doomed Traveler
   Elspeth Tirel
   Fallen Ideal
-  Fruit of the First Tree
   Fulminator Mage
   Gideon, Champion of Justice
   Goblin Rabblemaster
@@ -363,7 +369,7 @@
   Vampiric Rites
   Vengeful Pharaoh
   Vulturous Aven
-  Wild-Field Scarecrow  3 (3) 
+  Wild-Field Scarecrow
 </Discards>
 <EidolonSac>
   Acidic Slime
