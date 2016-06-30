@@ -395,11 +395,15 @@
   Strength from the Fallen
   Twilight Drover
   Utopia Sprawl
+  Vampiric Rites
 </EidolonSac>
 <EliteArcanist>
   <Notes>
     More lands get 1 life when enters
   </Notes>
+  <Red>
+    GutterSnipe
+  </Red>
   <White>
     Blinding Angel
     Cathar's Companion
