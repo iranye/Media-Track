@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="F:\Media-Tracker\MakeMKV-Movies\_Adult\300">
+  <FileItemList>
+    <FileItem name="300.mkv">
+      <Size>21033329513</Size>
+      <MD5Hash>0x096576BA6D8157E5C6902B28012B0678</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

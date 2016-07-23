@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="F:\Media-Tracker\MakeMKV-Movies\Star_Trek_Season_1_Disc_1">
+  <FileItemList>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t00.mkv">
+      <Size>6776562094</Size>
+      <MD5Hash>0xADDAEEDF99A11CADBDFB2DE08341AEF6</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t02.mkv">
+      <Size>6818951388</Size>
+      <MD5Hash>0x1E747C34DA056E35B96B952DB9EC7D61</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t04.mkv">
+      <Size>6777386741</Size>
+      <MD5Hash>0xE720B068782499CEFC5DF81599CDC1FA</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t06.mkv">
+      <Size>6769854385</Size>
+      <MD5Hash>0x77D86E2A33AF135ADCE02FEAF7DC58E9</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t08.mkv">
+      <Size>294089686</Size>
+      <MD5Hash>0x0E988393818CF10A1972F3B29739F4C8</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t09.mkv">
+      <Size>267808312</Size>
+      <MD5Hash>0xF52DFBE4695DF5F22AF20963D45D2B52</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t10.mkv">
+      <Size>448890265</Size>
+      <MD5Hash>0x9D0BD00137C2C7B9D855ADA62970B82B</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t11.mkv">
+      <Size>329038710</Size>
+      <MD5Hash>0x5846C28315DA8F495E85C320D8EBB348</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t12.mkv">
+      <Size>328967705</Size>
+      <MD5Hash>0xB967F847D3CAD5FCA834F025D97BD261</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t13.mkv">
+      <Size>2016200679</Size>
+      <MD5Hash>0x5CC2269B024434E02B5AFD6F50AA5049</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t14.mkv">
+      <Size>382435921</Size>
+      <MD5Hash>0x1AE7D41C7AC0B0C2FBA53EFF5968B246</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t15.mkv">
+      <Size>388764991</Size>
+      <MD5Hash>0x9FB41FEA78499FF4D629E78DCE63B100</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t16.mkv">
+      <Size>2487703967</Size>
+      <MD5Hash>0x7F4A0E0F8C338B10E975161BDDEE3838</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t17.mkv">
+      <Size>302645114</Size>
+      <MD5Hash>0xD7E4DEF5703E8B61A222A6B825FCCA70</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t18.mkv">
+      <Size>302416859</Size>
+      <MD5Hash>0x394F92FE9B20EB8D3729EF912E855680</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t19.mkv">
+      <Size>302189620</Size>
+      <MD5Hash>0xD87A2E481BCC29A43DE3F00A469E8159</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t20.mkv">
+      <Size>302456633</Size>
+      <MD5Hash>0xC84CA3C163425DAB6D9CFE455DE6CE3C</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t21.mkv">
+      <Size>302783864</Size>
+      <MD5Hash>0xE4A390290BD6BDC51CB50A7BBEEE3E37</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t22.mkv">
+      <Size>312311672</Size>
+      <MD5Hash>0x182867E758F9959FAC08E2BB955587D4</MD5Hash>
+    </FileItem>
+    <FileItem name="Star_Trek_Season_1_Disc_1_t23.mkv">
+      <Size>1605182739</Size>
+      <MD5Hash>0x9F298C49DA235B20EC58B71D509F2C35</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>
