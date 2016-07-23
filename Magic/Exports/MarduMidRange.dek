@@ -31,10 +31,11 @@
   <Cards CatID="58399" Quantity="1" Sideboard="false" Name="Ob Nixilis Reignited" />
   <Cards CatID="58042" Quantity="1" Sideboard="false" Name="Abbot of Keral Keep" />
   <Cards CatID="58531" Quantity="2" Sideboard="false" Name="Shambling Vent" />
-  <Cards CatID="54198" Quantity="3" Sideboard="false" Name="Bloodstained Mire" />
+  <Cards CatID="54198" Quantity="2" Sideboard="false" Name="Bloodstained Mire" />
   <Cards CatID="58697" Quantity="4" Sideboard="false" Name="Smoldering Marsh" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
+  <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="55630" Quantity="1" Sideboard="true" Name="Shockmaw Dragon" />
-  <Cards CatID="55324" Quantity="1" Sideboard="true" Name="Wardscale Dragon" />
   <Cards CatID="55600" Quantity="2" Sideboard="true" Name="Valorous Stance" />
   <Cards CatID="56082" Quantity="1" Sideboard="true" Name="Kolaghan's Command" />
   <Cards CatID="55930" Quantity="4" Sideboard="true" Name="Duress" />
@@ -42,4 +43,5 @@
   <Cards CatID="55904" Quantity="1" Sideboard="true" Name="Foul-Tongue Invocation" />
   <Cards CatID="56410" Quantity="1" Sideboard="true" Name="Surge of Righteousness" />
   <Cards CatID="55944" Quantity="3" Sideboard="true" Name="Hidden Dragonslayer" />
+  <Cards CatID="36262" Quantity="1" Sideboard="true" Name="Withered Wretch" />
 </Deck>

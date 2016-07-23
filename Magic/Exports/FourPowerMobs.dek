@@ -45,8 +45,12 @@
   <Cards CatID="26435" Quantity="1" Sideboard="false" Name="Reckless Wurm" />
   <Cards CatID="34800" Quantity="1" Sideboard="false" Name="Baloth Cage Trap" />
   <Cards CatID="54366" Quantity="1" Sideboard="false" Name="Dragon Grip" />
+  <Cards CatID="34636" Quantity="1" Sideboard="false" Name="Obsidian Fireheart" />
+  <Cards CatID="51865" Quantity="1" Sideboard="false" Name="Fanatic of Xenagos" />
+  <Cards CatID="58014" Quantity="1" Sideboard="false" Name="Flameshadow Conjuring" />
+  <Cards CatID="28345" Quantity="1" Sideboard="false" Name="Mosswort Bridge" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="50428" Quantity="1" Sideboard="true" Name="Destructive Revelry" />
-  <Cards CatID="34636" Quantity="1" Sideboard="true" Name="Obsidian Fireheart" />
   <Cards CatID="53398" Quantity="1" Sideboard="true" Name="Ranger's Guile" />
   <Cards CatID="49133" Quantity="1" Sideboard="true" Name="Negate" />
   <Cards CatID="50360" Quantity="1" Sideboard="true" Name="Dissolve" />
@@ -58,4 +62,5 @@
   <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
   <Cards CatID="50578" Quantity="1" Sideboard="true" Name="Anger of the Gods" />
   <Cards CatID="34800" Quantity="1" Sideboard="true" Name="Baloth Cage Trap" />
+  <Cards CatID="51865" Quantity="1" Sideboard="true" Name="Fanatic of Xenagos" />
 </Deck>
