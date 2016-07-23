@@ -58,10 +58,11 @@
   <Cards CatID="50440" Quantity="1" Sideboard="false" Name="Swan Song" />
   <Cards CatID="44289" Quantity="1" Sideboard="false" Name="Appetite for Brains" />
   <Cards CatID="17913" Quantity="3" Sideboard="false" Name="Blackmail" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="49449" Quantity="1" Sideboard="true" Name="Lifebane Zombie" />
   <Cards CatID="54102" Quantity="2" Sideboard="true" Name="Despise" />
-  <Cards CatID="50622" Quantity="2" Sideboard="true" Name="Dark Betrayal" />
-  <Cards CatID="47579" Quantity="1" Sideboard="true" Name="Corpse Blockade" />
+  <Cards CatID="50622" Quantity="1" Sideboard="true" Name="Dark Betrayal" />
+  <Cards CatID="23210" Quantity="2" Sideboard="true" Name="Lore Broker" />
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
   <Cards CatID="60090" Quantity="2" Sideboard="true" Name="Shamble Back" />
   <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />

@@ -15,11 +15,13 @@
   </HaveAtLeastOne>
   <HighPriced>
     Aether Vial ($6+)
-    Cavern of Souls
-    Collected Company
+    Batterskull ($26+)
+    Cavern of Souls ($30+)
+    Collected Company ($19+)
     Fulminator Mage ($11+)
     Jace, Vryn's Prodigy ($30+)
     Leyline of the Void ($5+)
+    Lightning Greaves ($3+)
     Massacre Wurm ($2+)
     Obstinate Baloth ($4+)
     Pact of Negation ($6+)
@@ -30,6 +32,9 @@
     Thragtusk ($3+)
     Voice of Resurgence ($38+)
   </HighPriced>
+  Boot/Greaves
+  Dawn Charm
+  Devour in Shadow
   Grimoire Thief
   Needle Specter
 </TradersList>
@@ -316,9 +321,11 @@
 <DaringIceFeather>
   Aura of Dominion
   Bear Umbra
+  Burst of Strength
   Canopy Cover
   Curse of Chains
   Deceiver Exarch
+  Dream's Grip
   Freed from the Real
   Grimoire Thief
   Loam Dryad
@@ -334,10 +341,6 @@
     Big Game Hunter
   </Madness>
   Ayli, Eternal Pilgrim
-  Blightning
-  Battle Brawler
-  Brutal Hordechief
-  Crux of Fate
   Devour Flesh
   Doomed Necromancer
   Dragonlord Kolaghan
@@ -404,17 +407,42 @@
   <Red>
     GutterSnipe
   </Red>
+  <Green>
+    Abrupt Decay
+    Aggressive Urge
+    Golgari Charm
+  </Green>
   <White>
+    Ajani's Presence
+    Angelsong
+    Awe Strike
+    Azorius Charm
+    Bathe in Light
+    Blessed Alliance
+    Blessed Reversal
     Blinding Angel
     Cathar's Companion
+    Dawn Charm
     Deathless Angel
+    Double Cleave
+    Dramatic Rescue
+    Dromar's Cavern
+    Hide/Seek
+    Last Breath
+    Leave No Trace
     Loyal Sentry
     Magus of the Disk
     Meddling Mage
     Merieke Ri Berit
+    Myth Realized
+    Narset Transcendent
+    Orzhov Charm
+    Path to Exile
     Pristine Skywise
     Seeker of the Way
     Sen Triplets
+    Send to Sleep
+    Shadow of Doubt
     Shu Yun, the Silent Tempest
     Sublime Archangel
     Wispmare
@@ -428,6 +456,8 @@
     Augury Adept
     Azami, Lady of Scrolls
     Azorius Guildmage
+    Benthicore
+    Calcite Snapper
     Cephalid Constable
     Chronozoa
     Cinderbones
@@ -454,6 +484,7 @@
     Lullmage Mentor
     Magus of the Future
     Necroskitter
+    Neurok Commando
     Nivmagus Elemental
     Nyxathid
     Pain Seer
@@ -466,6 +497,7 @@
     Rotted Hulk
     Sage-Eye Avengers
     Sage of Fables
+    Shell Skulkin
     Shorecrasher Elemental
     Sigil Tracer
     Stonybrook Banneret
@@ -482,6 +514,7 @@
   <Instants>
     Abzan Advantage
     Ætherize
+    Agony Warp
     Azorius Charm
     Awe Strike
     Bandage
@@ -489,41 +522,53 @@
     Beckon Apparition
     Bile Blight
     Boomerang
+    Boon of Erebos
     Boros Charm
     Clutch of the Undercity
     Countersquall
+    Cremate
     Cryptic Command
     Cyclonic Rift
     Dash Hopes
     Dawn Charm
     Deprive
     Devour Flesh
+    Devour in Shadow
     Dimir Charm
     Disdainful Stroke
     Dissipate
     Dissolve
     Dream Fracture
+    Early Frost
     Essence Scatter
     Extirpate
     Faith's Shield
     Far // Away
+    Flashfreeze
     Esper Charm
     Geth's Verdict
+    Go for the Throat
     Gods Willing
     Grixis Charm
+    Grotesque Mutation
     Hinder
     Hindering Light
     Holy Day
+    Horribly Awry
+    Imp's Mischief
+    Inside Out
     Intervention Pact
     Make a Stand
+    Mana Leak
     Midnight Charm
     Mizzium Skin
     Mystical Teachings
     Outwit
     Path to Exile
+    Peek
     Perplex
     Piracy Charm
-    Quicken
+    Redirect
     Render Silent
     Retraction Helix
     Rewind
@@ -544,30 +589,23 @@
     Voidslime
     Valorous Stance
   </Instants>
-  <Planeswalkers>
-    Narset Transcendent
-  </Planeswalkers>
-  Batterskull
   Brain in a Jar
   Brass Squire
   Crystal Shard
   Declaration in Stone
   Dimir Aqueduct
   Dovescape
-  Dramatic Rescue
   Etherwrought Page  
   Ghostly Prison
   Hidden Strings
   Horribly Awry  
-  Isochron Scepter
-  Lightning Greaves
   Mirrorpool
-  Myth Realized
   Phantasmal Image
   Ring of Evos Isle
   Rogue's Passage
   Tolaria West
   Training Grounds
+  Whispersilk Cloak
 </EliteArcanist>
 <Enchants>
   Arcanum Wings
@@ -582,10 +620,13 @@
   Hindering Light
   Invocation of Saint Traft
   Kor Spiritdancer
+  Long Road Home
   Mesa Enchantress
+  Pongify
   Repel Intruders
   Shadows of the Past
   Shaman of Spring
+  Wispmare
 </Enchants>
 <ForceAttacks>
   Bident of Thassa
@@ -629,12 +670,14 @@
   Felhide Spiritbinder
   Flameshadow Conjuring
   Familiar's Ruse
+  Giant Solifuge
   Goldnight Castigator
   Hellion Crucible
   Hellkite Charger
   Hunted Troll
   Inexorable Blob
   Intet, the Dreamer
+  Kessig Wolf Run
   Lavacore Elemental
   Living Tsunami
   Mantis Rider
@@ -656,10 +699,10 @@
   Sagu Mauler
   Scout the Borders
   See the Unwritten
+  Sheltering Word
   Tarox Bladewing
   Vedalken Mastermind
   Voyage's End
-  Wooded Foothills
   <TOSORT>
   -- Alternate Strategy(s)
   Arcbond  
@@ -845,6 +888,7 @@ NON-CREATURES:
   Furyborn Hellkite
   Gravity Well (Sideboard)
   Kalonian Behemoth
+  Kessig Wolf Run
   Khalni Hydra
   Predator Ooze
   Pyrewild Shaman
@@ -866,7 +910,6 @@ NON-CREATURES:
   Doubling Season
   Elspeth, Knight-Errant
   Elspeth Tirel
-  Essence Warden
   Feral Incarnation
   Garruk, Primal Hunter
   Garruk Relentless
@@ -888,17 +931,18 @@ NON-CREATURES:
   Luminarch Ascension
   Miming Slime  
   Mentor of the Meek
+  Mirrorpool
   Mycoloth
   Nissa, Vastwood Seer
   Nissa, Voice of Zendikar
   Parallel Lives
+  Raise the Alarm
   Rancor
   Riftmarked Knight
   Rhys the Redeemed
   Roc Egg
   Ronom Unicorn
   Rootborn Defenses
-  Rhys the Redeemed
   Saffi Eriksdotter
   Second Harvest
   Seed Spark
@@ -1052,6 +1096,7 @@ NON-CREATURES:
   Fate Unraveler
   Into the Roil
   Lazav, Dimir Mastermind
+  Lich Lord of Unx
   Lifebane Zombie
   Mental Vapors
   Necromaster Dragon
@@ -1153,10 +1198,10 @@ NON-CREATURES:
     Soul's Attendant  White (1) 
     Stromgald Crusader
     Stupor
-    Sword of Feast and Famine  3 (3) 
+    Sword of Feast and Famine
     Talara's Bane
-    Tamiyo, the Moon Sage  3BlueBlue (5) 
-    Teferi, Mage of Zhalfir  2BlueBlueBlue (5) 
+    Tamiyo, the Moon Sage
+    Teferi, Mage of Zhalfir
     Thieving Magpie
     Twisted Abomination
     Vault Skirge  1Phyrexian Black (2) 

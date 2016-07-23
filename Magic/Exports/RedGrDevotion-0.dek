@@ -8,7 +8,7 @@
   <Cards CatID="47527" Quantity="4" Sideboard="false" Name="Burning-Tree Emissary" />
   <Cards CatID="50261" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
   <Cards CatID="50260" Quantity="3" Sideboard="false" Name="Sylvan Caryatid" />
-  <Cards CatID="53576" Quantity="2" Sideboard="false" Name="Genesis Hydra" />
+  <Cards CatID="53850" Quantity="2" Sideboard="false" Name="Hydra Broodmaster" />
   <Cards CatID="50178" Quantity="4" Sideboard="false" Name="Voyaging Satyr" />
   <Cards CatID="51851" Quantity="2" Sideboard="false" Name="Courser of Kruphix" />
   <Cards CatID="50628" Quantity="4" Sideboard="false" Name="Polukranos, World Eater" />
@@ -26,6 +26,9 @@
   <Cards CatID="50412" Quantity="1" Sideboard="false" Name="Bow of Nylea" />
   <Cards CatID="53568" Quantity="1" Sideboard="false" Name="Nissa, Worldwaker" />
   <Cards CatID="50266" Quantity="4" Sideboard="false" Name="Temple of Abandon" />
+  <Cards CatID="34568" Quantity="1" Sideboard="false" Name="Eternity Vessel" />
+  <Cards CatID="54022" Quantity="3" Sideboard="false" Name="Tormenting Voice" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="50196" Quantity="4" Sideboard="true" Name="Nylea's Disciple" />
   <Cards CatID="50386" Quantity="3" Sideboard="true" Name="Mistcutter Hydra" />
   <Cards CatID="49271" Quantity="1" Sideboard="true" Name="Scavenging Ooze" />
