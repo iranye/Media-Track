@@ -16,21 +16,49 @@
   <HighPriced>
     Aether Vial ($6+)
     Batterskull ($26+)
+    Bloodghast ($15+)
+    Bloom Tender ($2+)
     Cavern of Souls ($30+)
     Collected Company ($19+)
+    Deathbringer Liege ($2+)
     Fulminator Mage ($11+)
+    Gaddock Teeg ($4+)
+    Griselbrand ($30+)
     Jace, Vryn's Prodigy ($30+)
+    Kira, Great Glass-Spinner ($3+)
+    Kitchen Finks ($4+)
     Leyline of the Void ($5+)
+    Lighthouse Chronologist ($.50c+)
     Lightning Greaves ($3+)
+    Lord of Extinction ($3+)
+    Lord of the Undead ($1+)
+    Lotus Cobra ($5+)
     Massacre Wurm ($2+)
+    Master of the Wild Hunt ($4)
+    Meddling Mage (.50c+)
+    Nicol Bolas ($2+)
+    Norin the Wary (.50c+)
+    Novablast Wurm
     Obstinate Baloth ($4+)
     Pact of Negation ($6+)
     Painter's Servant ($3+)
+    Phantasmal Image ($1+)
+    Platinum Emperion ($2+)
+    Primalcrux ($1+)
+    Primordial Hydra ($2+)
+    Protean Hulk ($1+)
+    Puresteel Paladin ($3+)
     Reaper King (> .50c)
+    Restoration Angel ($8+)
     Snapcaster Mage ($15+)
+    Sphinx of the Steel Wind (.50c+)
+    Sublime Archangel ($3+)
     Sword of Feast and Famine ($4+)
     Thragtusk ($3+)
+    Thrun, the Last Troll ($15+)
+    Vexing Shusher ($1+)
     Voice of Resurgence ($38+)
+    Wall of Roots ($1+)
   </HighPriced>
   Boot/Greaves
   Dawn Charm
@@ -257,7 +285,7 @@
     Ulcerate
     Utter End
     Vortex elemental
-    War Priest of Thune  1White (2)
+    War Priest of Thune
     Whelming Wave
   </Removal>
   <Twiddle>
@@ -295,6 +323,7 @@
   Painter's Servant
   Prismwake Merrow
   Reaper King
+  Scuttlemutt
   Western Paladin
 </ColorKill>
 <CountersForCreatures>
@@ -323,6 +352,7 @@
   Bear Umbra
   Burst of Strength
   Canopy Cover
+  Cryptolith Rite
   Curse of Chains
   Deceiver Exarch
   Dream's Grip
@@ -341,6 +371,8 @@
     Big Game Hunter
   </Madness>
   Ayli, Eternal Pilgrim
+  Bellowing Saddlebrute
+  Bloom Tender
   Devour Flesh
   Doomed Necromancer
   Dragonlord Kolaghan
@@ -365,9 +397,11 @@
   Ravenous Rats
   Sandstepp outcast
   Secure the Wastes
+  Shadow Guildmage
   Shambling Vent
   Sin Collector
   Twilight Drover
+  Uncle Istvan
   Valorous Stance
   Vampiric Rites
   Vengeful Pharaoh
@@ -380,30 +414,33 @@
   Blessing of Leeches
   Chosen by Heliod
   Cloudshift
+  Cowed by Wisdom
   Dark Confidant
   Daybreak Coronet
   Dead Weight
+  Death Cloud
+  Dictate of Erebos
   Doomed Traveler
   Fertile Ground
   Flickerform
+  Ghostly Prison  
   Grim Guardian
-  Herald of the Panteon
+  Kokusho, the Evening Star
   Nether Traitor
   Lotus-Eye Mystics
   Pharika, God of Affliction
   Rancor
-  Rattlechains
+  Rattlechains  
+  Shadows of the Past
   Shambling Vent
   Spectral Shepherd
+  Sphere of Safety
   Strength from the Fallen
   Twilight Drover
   Utopia Sprawl
   Vampiric Rites
 </EidolonSac>
 <EliteArcanist>
-  <Notes>
-    More lands get 1 life when enters
-  </Notes>
   <Red>
     GutterSnipe
   </Red>
@@ -427,11 +464,13 @@
     Double Cleave
     Dramatic Rescue
     Dromar's Cavern
+    Fieldmist Borderpost
     Hide/Seek
     Last Breath
     Leave No Trace
     Loyal Sentry
     Magus of the Disk
+    Mangara of Corondor
     Meddling Mage
     Merieke Ri Berit
     Myth Realized
@@ -496,7 +535,10 @@
     Roil Elemental
     Rotted Hulk
     Sage-Eye Avengers
+    Sage of Epityr
     Sage of Fables
+    Scuttlemutt
+    Shadow Guildmage
     Shell Skulkin
     Shorecrasher Elemental
     Sigil Tracer
@@ -591,12 +633,12 @@
   </Instants>
   Brain in a Jar
   Brass Squire
+  Call to the Kindred
   Crystal Shard
   Declaration in Stone
   Dimir Aqueduct
   Dovescape
-  Etherwrought Page  
-  Ghostly Prison
+  Etherwrought Page
   Hidden Strings
   Horribly Awry  
   Mirrorpool
@@ -614,6 +656,7 @@
   Dragonlord Ojutai
   Dust Elemental
   Fieldmist Borderpost
+  Floodtide Serpent
   Glacial Fortress
   Grand Arbiter Augustin IV
   Herald of the Pantheon
@@ -624,8 +667,10 @@
   Mesa Enchantress
   Pongify
   Repel Intruders
-  Shadows of the Past
   Shaman of Spring
+  Sky Hussar
+  Sphere of Safety
+  Thran Golem
   Wispmare
 </Enchants>
 <ForceAttacks>
@@ -660,8 +705,11 @@
   Ancestral Statue
   Baloth Cage Trap (Sideboard)
   Bear's Companion
+  Bloom Tender
   Briarbridge Patrol
+  Chronozoa
   Collected Company
+  Cryptolith Rite
   Dragon Grip
   Eel Umbra
   Eerie Interlude
@@ -696,14 +744,17 @@
   Primeval Bounty
   Pyrewild Shaman
   Raise the Alarm
+  Rumbling Slum
   Sabertooth Outrider
   Sagu Mauler
   Scout the Borders
   See the Unwritten
   Sheltering Word
   Tarox Bladewing
+  Troll Ascetic
   Vedalken Mastermind
   Voyage's End
+  War Elemental
   <TOSORT>
   -- Alternate Strategy(s)
   Arcbond  
@@ -888,12 +939,19 @@ NON-CREATURES:
   Doomgape
   Furyborn Hellkite
   Gravity Well (Sideboard)
+  Groundbreaker
   Kalonian Behemoth
   Kessig Wolf Run
   Khalni Hydra
+  Leatherback Baloth
+  Living Hive
   Predator Ooze
+  Primalcrux
+  Primordial Hydra
   Pyrewild Shaman
   Regal Force
+  Troll Ascetic
+  Vexing Shusher
   Vigor
 </RedGrDevotion-0>
 <Tokens>
@@ -901,6 +959,7 @@ NON-CREATURES:
     Llanowar Mentor
 	</Madness>
   Aether Vial
+  Archangel of Tithes
   Awakening Zone
   Baloth Cage Trap (Sideboard)
   Baru, Fist of Krosa
@@ -929,7 +988,9 @@ NON-CREATURES:
   Khalni Garden
   Launch the Fleet
   Leyline of the Meek
+  Loyal Sentry
   Luminarch Ascension
+  Master of the Wild Hunt
   Miming Slime  
   Mentor of the Meek
   Mirrorpool
@@ -948,6 +1009,7 @@ NON-CREATURES:
   Second Harvest
   Seed Spark
   Sigil of the Nayan Gods
+  Skinshifter
   Slate of Ancestry
   Spawnwrithe
   Spirit Bonds
@@ -958,6 +1020,7 @@ NON-CREATURES:
   Unruly Mob
   Vessel of Malignity  1Black (2) 
   Wall of Omens
+  Windborn Muse
   Wingmate Roc
 </Tokens>
 <WasteNot>
@@ -982,42 +1045,44 @@ NON-CREATURES:
   <Red>
     Barbed Shocker
     Blightning
+    Burning Inquiry
     Cruel Ultimatum
     Elder Mastery  3BlueBlackRed (6) 
     Grixis Charm
     Grixis Grimblade
     Grixis Sojourners  1BlueBlackRed (4) 
     Hypersonic Dragon
-    Nicol Bolas  2BlueBlueBlackBlackRedRed (8) 
-    Nicol Bolas, Planeswalker  4BlueBlackBlackRed (8)
-    Rakdos Augermage  BlackBlackRed (3)     
-    Resounding Scream  2Black (3) 
+    Nicol Bolas
+    Nicol Bolas, Planeswalker
+    Rakdos Augermage    
+    Resounding Scream
     Rise // Fall
-    Sanity Gnawers  1BlackRed (3) 
+    Sanity Gnawers
     Sedraxis Specter
-    Sewn-Eye Drake  2Blue or RedBlack (4)
+    Sewn-Eye Drake
     Skull Rend
-    Slavering Nulls  1Red (2) 
+    Slavering Nulls
   </Red>
   <Madness>
     <CauseDiscard>
-      Artificer's Epiphany  2Blue (3) 
+      Artificer's Epiphany
       Avatar of Discord
       Black Oak of Odunos
       Bonded Fetch
       Call the Bloodline
       Catalog
-      Civilized Scholar  2Blue (3) 
-      Compulsive Research  2Blue (3) 
-      Deepcavern Imp  2Black (3) 
-      Demonic Collusion  3BlackBlack (5) 
+      Civilized Scholar
+      Compulsive Research
+      Creeping Dread
+      Deepcavern Imp
+      Demonic Collusion
       Disciple of Deceit
-      Dreamscape Artist  1Blue (2) 
-      Drekavac  1Black (2) 
+      Dreamscape Artist
+      Drekavac
       Elusive Tormentor
       Enclave Cryptologist
-      Enhanced Awareness  4Blue (5) 
-      Erebos's Titan  1BlackBlackBlack (4) 
+      Enhanced Awareness
+      Erebos's Titan
       Forgotten Creation
       Geralf's Masterpiece
       Ghastly Discovery
@@ -1025,24 +1090,24 @@ NON-CREATURES:
       Gibbering Descent
       Grixis Battlemage
       Heir of Falkenrath
-      Hidden Horror  1BlackBlack (3) 
+      Hidden Horror
       Ideas Unbound
       Jace, Vryn's Prodigy
-      Jace's Archivist  1BlueBlue (3) 
-      Jeskai Elder  1Blue (2) 
+      Jace's Archivist
+      Jeskai Elder
       Lightning Axe
-      Magus of the Jar  3BlueBlue (5) 
+      Magus of the Jar
       Mask of Memory
       Mercurial Chemister (RED)
-      Merfolk Looter  1Blue (2) 
-      Mindslicer  2BlackBlack (4) 
+      Merfolk Looter
+      Mindslicer
       Monastery Siege      
       Murderer's Axe
       Necrogen Mists
       Necromancer's Stockpile
-      Oblivion Crown  1Black (2) 
-      Pale Rider of Trostad  1Black (2) 
-      Persecute  2BlackBlack (4) 
+      Oblivion Crown
+      Pale Rider of Trostad
+      Persecute
       Prognostic Sphinx
       Pulse of the Grid
       Ridged Kusite
@@ -1064,20 +1129,25 @@ NON-CREATURES:
     Artificer's Epiphany  2Blue (3
     Asylum Visitor
     Big Game Hunter
-    Call to the Netherworld  Black (1) 
-    Consult the Necrosages  1BlueBlack (3)
-    Dark Withering  4BlackBlack (6) 
+    Call to the Netherworld
+    Consult the Necrosages
+    Dark Withering
+    Desecrated Earth
+    Dimir Guildmage
+    Diregraf Captain
+    Dimir Infiltrator
+    Disrupting Scepter
     Dream Salvage
-    From Under the Floorboards  3BlackBlack (5) 
-    Gorgon Recluse  3BlackBlack (5) 
-    Grave Scrabbler  3Black (4) 
+    From Under the Floorboards
+    Gorgon Recluse
+    Grave Scrabbler
     Guul Draz Specter
-    Ichor Slick  2Black (3)
-    Just the Wind  1Blue (2) 
-    Muck Drubb  3BlackBlack (5) 
-    Murderous Compulsion  1Black (2) 
-    Nagging Thoughts  1Blue (2) 
-    Psychotic Episode  1BlackBlack (3) 
+    Ichor Slick
+    Just the Wind
+    Muck Drubb
+    Murderous Compulsion
+    Nagging Thoughts
+    Psychotic Episode
     Scepter of Fugue
     Shred Memory (Transmute 2)
     Welcome to the Fold  2BlueBlue (4) 
@@ -1086,134 +1156,104 @@ NON-CREATURES:
   Ã†therize
   Augur of Skulls
   Black Oak of Odunos
-  Cyclonic Rift
-  Distress
+  Brain in a Jar
+  Cry of Contrition
+  Crystal Shard
+  Curse of Oblivion
+  Death Cloud
+  Disrupting Scepter
+  Dream Fracture
   Dragonlord Silumgar
-  Duress
+  Drunau Corpse Trawler
+  Elder Mastery
   Elixir of Immortality
   Empty the Pits
   Endless Obedience
+  Extirpate
   Far // Away
   Fate Unraveler
+  Forbidden Alchemy
+  Frightful Delusion
+  Funeral Charm
+  Havengul Lich
+  Geth's Grimoire
+  Gibbering Descent
+  Gitaxian Probe
+  Gnat Miser
+  Haunting Hymn
+  Horrifying Revelation
   Into the Roil
+  Lantern of Insight
   Lazav, Dimir Mastermind
+  Leyline of Anticipation
   Lich Lord of Unx
   Lifebane Zombie
+  Liliana, Heretical Healer
+  Liliana of the Veil
+  Liliana's Caress
+  Lord of Extinction
+  Lord of the Undead
   Mental Vapors
+  Mikokoro, Center of the Sea
+  Mind Slash
+  Mindstab
+  Mire's Toll
+  Mistmeadow Skulk
+  Muddle the Mixture
+  Mystical Teachings
   Necromaster Dragon
+  Needle Specter
+  Nezumi Shortfang
   Nightmare Incursion
-  Nivmagus Elemental  
+  Nip Gwyllion
+  Notion Thief
+  Oblivion Crown
+  Okiba-Gang Shinobi
+  Oona's Prowler
+  Ophidian Eye
   Ordeal of Erebos
+  Painful Quandary
+  Panoptic Mirror
+  Persecute
+  Phantasmal Bear
+  Pick the Brain
+  Prized Amalgam
+  Psychic Miasma
+  Pulse of the Dross
+  Quest for the Nihil Stone
+  Ragged Veins
+  Raven's Crime
+  Reality Smasher
+  Relentless Dead
+  Riptide Pilferer
   River's Grasp
+  Sever the Bloodline
   Sign in Blood
+  Sink into Takenuma
   Soul Ransom
+  Soul's Attendant
+  Stillmoon Cavalier
+  Stromgald Crusader
+  Stupor
   Swan Song
   Taigam's Scheming
+  Talara's Bane
+  Tamiyo, the Moon Sage
+  Teferi, Mage of Zhalfir
+  Thieving Magpie
   Thing in the Ice
   Tolaria West
+  Twisted Abomination
+  Vault Skirge
+  Venarian Glimmer
+  Venser, Shaper Savant
+  Vexing Sphinx
+  Warped Devotion
+  Weathered Wayfarer
+  Wheel of Fate
   Whelming Wave
-  
-    Akuta, Born of Ash  2BlackBlack (4) 
-    Appetite for Brains  Black (1) 
-    Arcane Denial
-    Arcanum Wings
-    Army of the Damned
-    Blackmail
-    Bloodhusk Ritualist
-    Bojuka Bog
-    Brain in a Jar
-    Brain Pry
-    Burning Inquiry
-    Call to the Kindred
-    Call to the Netherworld
-    Cavern of Souls
-    Consult the Necrosages
-    CorpseWeft
-    Cowed by Wisdom
-    Creeping Dread  3Black (4) 
-    Cry of Contrition
-    Crystal Shard
-    Curse of Oblivion  3Black (4) 
-    Death Cloud
-    Desecrated Earth
-    Dimir Guildmage
-    Diregraf Captain
-    Dimir Infiltrator (Transmute 2)
-    Disrupting Scepter
-    Dream Fracture  1BlueBlue (3) 
-    Drunau Corpse Trawler  3Blue (4) 
-    Elder Mastery
-    Extirpate
-    Far/Away
-    Forbidden Alchemy
-    Frightful Delusion  2Blue (3) 
-    Funeral Charm
-    Havengul Lich
-    Hypnotic Specter
-    Geth's Grimoire
-    Gibbering Descent
-    Gitaxian Probe
-    Gnat Miser
-    Haunting Hymn
-    Horrifying Revelation
-     
-    Inquisition of Kozilek
-    Lantern of Insight
-    Leyline of Anticipation  2BlueBlue (4) 
-    Liliana, Heretical Healer
-    Liliana of the Veil
-    Liliana's Caress
-    Lord of Extinction  3BlackGreen (5) 
-    Lord of the Undead
-    Mikokoro, Center of the Sea
-    Mind Slash
-    Mindstab
-    Mire's Toll    
-    Mistmeadow Skulk  1White (2) 
-    Muddle the Mixture (Transmute 2)
-    Mystical Teachings
-    Needle Specter  1BlackBlack (3) 
-    Nezumi Shortfang
-    Nip Gwyllion  White or Black (1)
-    Notion Thief
-    Oblivion Crown
-    Oona's Prowler
-    Ophidian Eye
-    Okiba-Gang Shinobi
-    Painful Quandary  3BlackBlack (5) 
-    Panoptic Mirror
-    Persecute
-    Phantasmal Bear  Blue (1) 
-    Pick the Brain
-    Prized Amalgam  1BlueBlack (3) 
-    Psychic Miasma
-    Pulse of the Dross
-    Quest for the Nihil Stone  Black (1) 
-    Ragged Veins  1Black (2) 
-    Raven's Crime
-    Reality Smasher  4Colorless (5) 
-    Relentless Dead  BlackBlack (2)  
-    Riptide Pilferer
-    Sever the Bloodline  3Black (4)
-    Sink into Takenuma  3Black (4) 
-    Soul's Attendant  White (1) 
-    Stromgald Crusader
-    Stupor
-    Sword of Feast and Famine
-    Talara's Bane
-    Tamiyo, the Moon Sage
-    Teferi, Mage of Zhalfir
-    Thieving Magpie
-    Twisted Abomination
-    Vault Skirge  1Phyrexian Black (2) 
-    Venser, Shaper Savant
-    Vexing Sphinx
-    Venarian Glimmer
-    Warped Devotion
-    Weathered Wayfarer
-    Wheel of Fate
-    Wistful Thinking
-    Zombie Outlander
+  Wistful Thinking
+  Zombie Outlander
 </WasteNot>
 
 
