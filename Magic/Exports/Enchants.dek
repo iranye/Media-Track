@@ -7,7 +7,7 @@
   <Cards CatID="50418" Quantity="3" Sideboard="false" Name="Island" />
   <Cards CatID="50416" Quantity="2" Sideboard="false" Name="Plains" />
   <Cards CatID="46423" Quantity="4" Sideboard="false" Name="Detention Sphere" />
-  <Cards CatID="23174" Quantity="2" Sideboard="false" Name="Remand" />
+  <Cards CatID="46421" Quantity="2" Sideboard="false" Name="Azorius Charm" />
   <Cards CatID="50420" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="51663" Quantity="1" Sideboard="false" Name="Revoke Existence" />
   <Cards CatID="52074" Quantity="1" Sideboard="false" Name="Nyx-Fleece Ram" />
@@ -30,12 +30,12 @@
   <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
   <Cards CatID="49539" Quantity="2" Sideboard="false" Name="Ajani's Chosen" />
   <Cards CatID="50479" Quantity="1" Sideboard="false" Name="Gods Willing" />
-  <Cards CatID="50532" Quantity="1" Sideboard="false" Name="Daxos of Meletis" />
   <Cards CatID="53294" Quantity="1" Sideboard="false" Name="Divination" />
+  <Cards CatID="50532" Quantity="1" Sideboard="false" Name="Daxos of Meletis" />
   <Cards CatID="46391" Quantity="2" Sideboard="false" Name="Syncopate" />
   <Cards CatID="58517" Quantity="1" Sideboard="false" Name="Skyline Cascade" />
   <Cards CatID="55550" Quantity="2" Sideboard="false" Name="Tranquil Cove" />
-  <Cards CatID="46421" Quantity="2" Sideboard="false" Name="Azorius Charm" />
+  <Cards CatID="23174" Quantity="2" Sideboard="false" Name="Remand" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="26543" Quantity="1" Sideboard="false" Name="Dust Elemental" />
   <Cards CatID="26832" Quantity="1" Sideboard="false" Name="Arcanum Wings" />
