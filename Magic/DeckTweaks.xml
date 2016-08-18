@@ -20,9 +20,11 @@
     Bloom Tender ($2+)
     Cavern of Souls ($30+)
     Collected Company ($19+)
+    Crucible of Worlds ($25+)
     Deathbringer Liege ($2+)
     Fulminator Mage ($11+)
     Gaddock Teeg ($4+)
+    Gemstone Mine ($10+)
     Griselbrand ($30+)
     Jace, Vryn's Prodigy ($30+)
     Kira, Great Glass-Spinner ($3+)
@@ -433,6 +435,7 @@
   Nether Traitor
   Lotus-Eye Mystics
   Pharika, God of Affliction
+  Primal Beyond
   Rancor
   Rattlechains  
   Shadows of the Past
@@ -669,6 +672,7 @@
   Kor Spiritdancer
   Long Road Home
   Mesa Enchantress
+  Plumeveil
   Pongify
   Repel Intruders
   Shaman of Spring
@@ -713,6 +717,7 @@
   Briarbridge Patrol
   Chronozoa
   Collected Company
+  Crush of Tentacles
   Cryptolith Rite
   Dragon Grip
   Eel Umbra
@@ -725,6 +730,7 @@
   Familiar's Ruse
   Giant Solifuge
   Goldnight Castigator
+  Groundbreaker
   Hellion Crucible
   Hellkite Charger
   Hunted Troll
@@ -865,6 +871,61 @@ Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
 Lightform (2 WHT devotion) (also works w/ Jeskai charm: "put creature on top of library")
 Heliod
 </LandDestruct>
+<LandFall>
+  <Mana>
+    Ancient Ziggurat
+    Birds of Paradise
+    Dimir Aqueduct
+    Evolving Wilds
+    Exotic Orchard
+    Golgari Rot Farm
+    Khalni Gem
+    Life from the Loam
+    Lotus Cobra
+    Mana Confluence
+    Mistvein Borderpost
+    Sylvan Caryatid
+    Transguild Promenade
+    Vivid Creek
+    Vivid Grove
+    Vivid Marsh
+  </Mana>
+  <OtherColors>
+  Generator Servant
+  </OtherColors>
+  Abrupt Decay
+  Amulet of Vigor
+  Bow of Nylea
+  Courser of Kruphix
+  Corrupted Zendikon
+  Cultivate
+  Deprive
+  Doubling Season
+  Embodiment of Insight
+  Embodiment of Spring
+  Eternity Vessel
+  Genju of the Realm
+  Glade Watcher
+  Groundswell
+  Hardened Scales
+  Living Tsunami
+  Master of Waves
+  Nissa, Worldwaker
+  Nykthos, Shrine to Nyx
+  Nylea, God of the Hunt
+  Pearl Lake Ancient
+  Rakshasa Vizier
+  Rampat Growth
+  Roil Elemental
+  Sidisi, Brood Tyrant
+  Strionic Resonator
+  Sultai Charm
+  Undergrowth Champion
+  Villainous Wealth
+  Vorosh, the Hunter
+  Vortex Elemental
+  Witch-Maw Nephilim
+</LandFall>
 <LivingLore>
   Crack the Earth
   Ojutai's Command
@@ -941,6 +1002,7 @@ NON-CREATURES:
   Arlinn Kord
   Borborygmos Enraged
   Doomgape
+  Doubling Season
   Furyborn Hellkite
   Gravity Well (Sideboard)
   Groundbreaker
@@ -995,6 +1057,7 @@ NON-CREATURES:
   Leyline of the Meek
   Loyal Sentry
   Luminarch Ascension
+  Mana Bloom
   Master of the Wild Hunt
   Miming Slime  
   Mentor of the Meek
@@ -1013,15 +1076,18 @@ NON-CREATURES:
   Saffi Eriksdotter
   Second Harvest
   Seed Spark
+  Shrine of Loyal Legions
   Sigil of the Nayan Gods
   Skinshifter
   Slate of Ancestry
+  Spawning Pit
   Spawnwrithe
   Spirit Bonds
   Springjack Pasture
   Sublime Archangel
   Sundering Growth
   Thragtusk
+  Tumble Magnet
   Ulvenwald Mysteries
   Unruly Mob
   Vessel of Malignity  1Black (2) 
