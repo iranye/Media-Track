@@ -19,6 +19,7 @@
     Bloodghast ($15+)
     Bloom Tender ($2+)
     Cavern of Souls ($30+)
+    Celestial Colonnade ($28+)
     Collected Company ($19+)
     Crucible of Worlds ($25+)
     Deathbringer Liege ($2+)
@@ -38,6 +39,7 @@
     Massacre Wurm ($2+)
     Master of the Wild Hunt ($4)
     Meddling Mage (.50c+)
+    Misty Rainforest ($13+)
     Nicol Bolas ($2+)
     Norin the Wary (.50c+)
     Novablast Wurm
@@ -660,8 +662,10 @@
   Arcanum Wings
   Armament of Nyx
   Azorius Æthermage
+  Azorius Chancery
   Dragonlord Ojutai
   Dust Elemental
+  Eiganjo Free-Riders
   Fieldmist Borderpost
   Floodtide Serpent
   Glacial Fortress
@@ -873,8 +877,9 @@ Heliod
 </LandDestruct>
 <LandFall>
   <Mana>
-    Ancient Ziggurat
+    Ancient Ziggurat    
     Birds of Paradise
+    Celestial Colonnade
     Dimir Aqueduct
     Evolving Wilds
     Exotic Orchard
@@ -884,18 +889,29 @@ Heliod
     Lotus Cobra
     Mana Confluence
     Mistvein Borderpost
+    Simic Growth Chamber
     Sylvan Caryatid
     Transguild Promenade
     Vivid Creek
     Vivid Grove
     Vivid Marsh
+    Windswept Heath
   </Mana>
   <OtherColors>
-  Generator Servant
+    Brighthearth Banneret
+    Dust Elemental
+    Generator Servant
+    Gift of Estates
+    Sidisi, Brood Tyrant
   </OtherColors>
+  <Madness>
+    Greenseeker
+  </Madness>  
   Abrupt Decay
   Amulet of Vigor
+  Awakening Zone
   Bow of Nylea
+  Budoka Gardener
   Courser of Kruphix
   Corrupted Zendikon
   Cultivate
@@ -904,6 +920,8 @@ Heliod
   Embodiment of Insight
   Embodiment of Spring
   Eternity Vessel
+  Expedition Map
+  Gatecreeper Vine
   Genju of the Realm
   Glade Watcher
   Groundswell
@@ -915,15 +933,20 @@ Heliod
   Nylea, God of the Hunt
   Pearl Lake Ancient
   Rakshasa Vizier
-  Rampat Growth
+  Rampant Growth
   Roil Elemental
-  Sidisi, Brood Tyrant
+  Slab Hammer
+  Soratami Rainshaper
   Strionic Resonator
   Sultai Charm
+  Trade Routes
   Undergrowth Champion
+  Unexpected Results
+  Vastwood Zendikon
   Villainous Wealth
   Vorosh, the Hunter
   Vortex Elemental
+  Wind Zendikon
   Witch-Maw Nephilim
 </LandFall>
 <LivingLore>
@@ -1092,6 +1115,7 @@ NON-CREATURES:
   Unruly Mob
   Vessel of Malignity  1Black (2) 
   Wall of Omens
+  Westvale Abbey
   Windborn Muse
   Wingmate Roc
 </Tokens>
