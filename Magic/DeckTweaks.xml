@@ -41,6 +41,7 @@
     Meddling Mage (.50c+)
     Misty Rainforest ($13+)
     Nicol Bolas ($2+)
+    Nissa, Vastwood Seer ($15+)
     Norin the Wary (.50c+)
     Novablast Wurm
     Obstinate Baloth ($4+)
@@ -64,6 +65,7 @@
     Voice of Resurgence ($38+)
     Wall of Roots ($1+)
   </HighPriced>
+  Amulet of Vigor
   Boomerang
   Boot/Greaves
   Call of the Herd
@@ -72,6 +74,7 @@
   Devour in Shadow
   Ghostly Prison
   Grimoire Thief
+  Krark-Clan Ironworks
   Needle Specter
   Nevermaker
   Spellweaver Helix
@@ -383,6 +386,7 @@
   Angelic Purge
   Ayli, Eternal Pilgrim
   Bellowing Saddlebrute
+  Bloodghast
   Bloom Tender
   Devour Flesh
   Doomed Necromancer
@@ -876,6 +880,18 @@
   Xenagos, the Reveler
   </TOSORT>
 </FourPowerMobs>
+<Goats>
+  __Changeling__ Spells
+  __Populate__ Spells
+  Doubling Season
+  Coat of Arms
+  Mutavault
+  Parallel Lives
+  Springjack Pasture
+  Trading Post
+  Void of Resurgence
+  Wayfaring Temple
+</Goats>
 <LandDestruct>
 Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
 
@@ -886,19 +902,27 @@ Heliod
   <Mana>
     Ancient Ziggurat    
     Birds of Paradise
+    Blighted Woodland
     Celestial Colonnade
+    Creeping Tar Pit
     Dimir Aqueduct
     Evolving Wilds
     Exotic Orchard
+    Flooded Strand
     Golgari Rot Farm
     Khalni Gem
     Life from the Loam
     Lotus Cobra
     Mana Confluence
     Mistvein Borderpost
+    Misty Rainforest
+    Mutavault
+    Primal Beyond
     Simic Growth Chamber
     Sylvan Caryatid
+    Terramorphic Expanse
     Transguild Promenade
+    Traveler's Amulet
     Vivid Creek
     Vivid Grove
     Vivid Marsh
@@ -909,43 +933,80 @@ Heliod
     Dust Elemental
     Generator Servant
     Gift of Estates
+    Grove Rumbler
+    Plated Geopede
+    Shambling Vent
     Sidisi, Brood Tyrant
   </OtherColors>
   <Madness>
     Greenseeker
   </Madness>  
   Abrupt Decay
+  Adaptive Automation
+  Angelic Destiny
   Amulet of Vigor
+  ___Awaken__ Spells
   Awakening Zone
   Bow of Nylea
+  Boundless Realms
   Budoka Gardener
+  Chameleon Colossus
+  Changeling Berserker
+  Changeling Titan
+  Cloud Key
+  Cloudstone Curio
+  Coat of Arms
   Courser of Kruphix
   Corrupted Zendikon
+  Crawling Sensation
   Cultivate
+  Cyclone Sire
   Deprive
   Doubling Season
+  Elemental Uprising
   Embodiment of Insight
   Embodiment of Spring
   Eternity Vessel
   Expedition Map
+  Explosive Vegetation
   Gatecreeper Vine
   Genju of the Realm
   Glade Watcher
   Groundswell
   Hardened Scales
+  Horizon Spellbomb
+  Hydroform
+  Ior Ruin Expedition
+  Khalni Heart Expedition
+  Krark-Clan Ironworks
+  Kuldotha Flamefiend
   Living Tsunami
   Master of Waves
+  Mycosynth Wellspring
+  Nissa, Vastwood Seer
   Nissa, Worldwaker
+  Nissa's Expedition
   Nykthos, Shrine to Nyx
   Nylea, God of the Hunt
+  Ordeal of Nylea
+  Omnath, Locus of Rage
   Pearl Lake Ancient
+  Primeval Titan
   Rakshasa Vizier
   Rampant Growth
+  Rampaging Baloths
   Roil Elemental
+  Sakura-Tribe Elder
+  Scapeshift
+  Scythe Leopard
+  Search for Tomorrow
   Slab Hammer
   Soratami Rainshaper
+  Steppe Lynx
   Strionic Resonator
   Sultai Charm
+  Sword of the Animist
+  Tideforce Elemental
   Trade Routes
   Undergrowth Champion
   Unexpected Results
@@ -953,6 +1014,8 @@ Heliod
   Villainous Wealth
   Vorosh, the Hunter
   Vortex Elemental
+  Wave-Wing Elemental
+  Wild-Field Scarecrow
   Wind Zendikon
   Witch-Maw Nephilim
 </LandFall>
@@ -1011,6 +1074,11 @@ NON-CREATURES:
 - Worst Fears (8) [BLK]
 
 </LivingLore>
+<Nibbler>
+  Courser of Kruphix
+  Crawling Sensation
+  Scrib Nibblers
+</Nibbler>
 <PackRats>
   Doubling Season
   Pack Rat
