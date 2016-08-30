@@ -72,8 +72,12 @@
   Dark Confidant
   Dawn Charm
   Devour in Shadow
+  Ghostly Prison
   Grimoire Thief
+  Krark-Clan Ironworks
   Needle Specter
+  Nevermaker
+  Spellweaver Helix
 </TradersList>
 <General>
   <Bounce>
@@ -655,8 +659,11 @@
   Horribly Awry  
   Mirrorpool
   Phantasmal Image
+  Pulse of the Grid
+  Pulse of the Tangle
   Ring of Evos Isle
   Rogue's Passage
+  Spellweaver Helix
   Tolaria West
   Training Grounds
   Whispersilk Cloak
@@ -666,6 +673,11 @@
   Armament of Nyx
   Azorius Æthermage
   Azorius Chancery
+  Bygone Bishop
+Centaur Omenreader
+Council of the Absolute
+Court Hussar
+Darksteel Sentinel
   Dragonlord Ojutai
   Dust Elemental
   Eiganjo Free-Riders
@@ -699,11 +711,11 @@
 </ForceAttacks>
 <FourPowerMobs>
   <Madness>
-    Avacyn's Judgment  1Red (2)
+    Avacyn's Judgment
     Avalanche Tusker
-    Avatar of Discord  Black or RedBlack or RedBlack or Red (3)     
-    Chandra Ablaze  4RedRed (6) 
-    Chandra, Flamecaller  4RedRed (6) 
+    Avatar of Discord
+    Chandra Ablaze
+    Chandra, Flamecaller
     Force Away  1Blue (2) 
     Forgotten Creation
     Gathan Raiders  3RedRed (5) 
@@ -712,6 +724,7 @@
     Ghostly Wings
     Grimoire of the Dead
     Incorrigible Youths
+    Jaya Ballard, Task Mage
     Razormane Masticore
     Reckless Wurm
     Vexing Sphinx
@@ -872,6 +885,18 @@
   Xenagos, the Reveler
   </TOSORT>
 </FourPowerMobs>
+<Goats>
+  __Changeling__ Spells
+  __Populate__ Spells
+  Doubling Season
+  Coat of Arms
+  Mutavault
+  Parallel Lives
+  Springjack Pasture
+  Trading Post
+  Void of Resurgence
+  Wayfaring Temple
+</Goats>
 <LandDestruct>
 Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
 
@@ -958,6 +983,11 @@ Heliod
   Hydroform
   Ior Ruin Expedition
   Khalni Heart Expedition
+<<<<<<< HEAD
+=======
+  Krark-Clan Ironworks
+  Kuldotha Flamefiend
+>>>>>>> bd523ce35c82aac314815b2c38e395042f070969
   Living Tsunami
   Master of Waves
   Mycosynth Wellspring
@@ -1142,6 +1172,7 @@ NON-CREATURES:
   Nissa, Vastwood Seer
   Nissa, Voice of Zendikar
   Parallel Lives
+  Pulse of the Tangle
   Raise the Alarm
   Rancor
   Riftmarked Knight
