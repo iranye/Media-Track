@@ -888,14 +888,25 @@ Darksteel Sentinel
 <Goats>
   __Changeling__ Spells
   __Populate__ Spells
-  Doubling Season
   Coat of Arms
+  Doubling Season
+  Expedition Map
+  Explorer's Scope
+  Knight of the Reliquary
   Mutavault
   Parallel Lives
+  Primeval Titan
+  Reap and Sow
+  Scapeshift
+  Selective Memory
   Springjack Pasture
+  Sylvan Scrying
   Trading Post
+  Ulvenwald Hydra
   Void of Resurgence
   Wayfaring Temple
+  Weathered Wayfarer
+  Westvale Abbey
 </Goats>
 <LandDestruct>
 Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
@@ -983,11 +994,8 @@ Heliod
   Hydroform
   Ior Ruin Expedition
   Khalni Heart Expedition
-<<<<<<< HEAD
-=======
   Krark-Clan Ironworks
   Kuldotha Flamefiend
->>>>>>> bd523ce35c82aac314815b2c38e395042f070969
   Living Tsunami
   Master of Waves
   Mycosynth Wellspring
