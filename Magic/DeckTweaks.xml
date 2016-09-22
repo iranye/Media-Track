@@ -671,6 +671,7 @@
   Whispersilk Cloak
 </EliteArcanist>
 <Enchants>
+  Aether Meltdown
   Arcanum Wings
   Armament of Nyx
   Azorius Æthermage
@@ -951,7 +952,7 @@ Heliod
     Canopy Vista
     Dust Elemental
     Generator Servant
-    Gift of Estates
+    Gift of Estates (and lands that are Plains)
     Godless Shrine (need 3 more)
     Grove Rumbler
     Plated Geopede
@@ -1005,10 +1006,12 @@ Heliod
   Master of Waves
   Mycosynth Wellspring
   Nissa, Vastwood Seer
+  Nissa, Vital Force
   Nissa, Worldwaker
   Nissa's Expedition
   Nykthos, Shrine to Nyx
   Nylea, God of the Hunt
+  Oboro, Palace in the Clouds
   Ordeal of Nylea
   Omnath, Locus of Rage
   Pearl Lake Ancient
@@ -1457,6 +1460,7 @@ NON-CREATURES:
   Demon of Death's Gate
   DragonLord Silumgar
   Dread Slaver
+  Elixir of Immortality
   Grave Titan
   Harvester of Souls
   Herald of Leshrac
