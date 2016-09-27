@@ -327,6 +327,10 @@
     Winterflame
   </Twiddle>
 </General>
+<Arty strat="Re-cast permanents that give artifact tokens on enter battlefield">
+  Inventor's Fair
+  Key to the City
+</Arty>
 <ColorKill>
   Devout Lightcaster
   Eight-and-a-Half-Tails
@@ -672,6 +676,7 @@
 </EliteArcanist>
 <Enchants>
   Aether Meltdown
+  Aetherling
   Arcanum Wings
   Armament of Nyx
   Azorius Æthermage
@@ -694,11 +699,13 @@ Darksteel Sentinel
   Kor Spiritdancer
   Long Road Home
   Mesa Enchantress
+  Panharmonicon
   Plumeveil
   Pongify
   Repel Intruders
   Shaman of Spring
   Sky Hussar
+  Spell Queller
   Sphere of Safety
   Thran Golem
   Wispmare
@@ -734,6 +741,7 @@ Darksteel Sentinel
   </Madness>
   Ætherling
   Ancestral Statue
+  Arborback Stomper
   Baloth Cage Trap (Sideboard)
   Bear's Companion
   Bloom Tender
@@ -1019,6 +1027,7 @@ Heliod
   Rakshasa Vizier
   Rampant Growth
   Rampaging Baloths
+  Ranger's Path
   Roil Elemental
   Sakura-Tribe Elder
   Scapeshift
@@ -1199,6 +1208,7 @@ NON-CREATURES:
   Saffi Eriksdotter
   Second Harvest
   Seed Spark
+  Selfless Spirit
   Shrine of Loyal Legions
   Sigil of the Nayan Gods
   Skinshifter
