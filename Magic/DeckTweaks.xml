@@ -67,11 +67,8 @@
   </HighPriced>
   Amulet of Vigor
   Boomerang
-  Boot/Greaves
   Call of the Herd
   Dark Confidant
-  Dawn Charm
-  Devour in Shadow
   Ghostly Prison
   Grimoire Thief
   Krark-Clan Ironworks
@@ -331,6 +328,58 @@
   Inventor's Fair
   Key to the City
 </Arty>
+<BlackWhiteSac>
+  <Removal>
+    Bojuka Bog
+    End Hostilities
+    Merciless Eviction
+  </Removal>
+  __CreatureGainLifeWhenOtherCreaturesEnterBattlefield__ (e.g., Soul Warden)
+  Alms Beast
+  Athreos, God of Passage
+  Blasting Station
+  Blood Baron of Vizkopa
+  Blood-Cursed Knight
+  Bloodsoaked Champion
+  Boros Reckoner
+  Brass Squire
+  Bubbling Cauldron
+  Deathbringer Liege
+  Dictate of Erebos
+  Divinity of Pride
+  Emeria, the Sky Ruin
+  Forbidden Orchard
+  Gauntlet of Power
+  Gift of Estates
+  Gift of Immortality
+  Godless Shrine ($5+)
+  Heliod, God of the Sun
+  High Priest of Penance
+  Holdout Settlement
+  Jinxed Idol
+  Kambal, Consul of Allocation
+  KingPin's Pet
+  Obzedat, Ghost Council
+  Orzhov Pontiff
+  Pathway Arrows
+  Perilous Myr
+  Restoration Gearsmith
+  Rod of Ruin
+  Scuttling Doom Engine
+  Selfless Spirit
+  Shambling Vent
+  Sigarda's Aid
+  Sin Collector
+  Spawning Pit
+  Spirit Bonds
+  Strionic Resonator
+  Teysa, Envoy of Ghosts
+  Teysa, Orzhov Scion
+  Tidehollow Skuller
+  Trading Post
+  Viridian Longbow
+  Worldslayer
+</BlackWhiteSac>
 <ColorKill>
   Devout Lightcaster
   Eight-and-a-Half-Tails
@@ -746,6 +795,8 @@ Darksteel Sentinel
   Bear's Companion
   Bloom Tender
   Briarbridge Patrol
+  Changeling Berserker
+  Changeling Titan
   Chronozoa
   Collected Company
   Crush of Tentacles
@@ -930,39 +981,44 @@ Heliod
     Ancient Ziggurat    
     Birds of Paradise
     Blighted Woodland
-    Celestial Colonnade
-    Creeping Tar Pit
+    Celestial Colonnade ($20+)
+    Creeping Tar Pit ($9+)
     Dimir Aqueduct
     Evolving Wilds
     Exotic Orchard
-    Flooded Strand
+    Flooded Strand ($10+)
     Golgari Rot Farm
     Khalni Gem
-    Life from the Loam
+    Kuldotha Flamefiend
+    Life from the Loam ($8+)
     Lotus Cobra
-    Mana Confluence
+    Mana Confluence ($3+)
     Mistvein Borderpost
-    Misty Rainforest
-    Mutavault
+    Misty Rainforest ($14+)
+    Mutavault ($6+)
     Primal Beyond
     Simic Growth Chamber
     Sylvan Caryatid
-    Terramorphic Expanse
+    Terramorphic Expanse ($1+)
     Transguild Promenade
     Traveler's Amulet
     Vivid Creek
     Vivid Grove
     Vivid Marsh
     Windswept Heath
+    Witch-Maw Nephilim
   </Mana>
   <OtherColors>
+    Angelic Destiny
     Brighthearth Banneret
     Canopy Vista
     Dust Elemental
     Generator Servant
+    Genju of the Realm
     Gift of Estates (and lands that are Plains)
     Godless Shrine (need 3 more)
     Grove Rumbler
+    Omnath, Locus of Rage
     Plated Geopede
     Shambling Vent
     Sidisi, Brood Tyrant
@@ -971,16 +1027,15 @@ Heliod
   <Madness>
     Greenseeker
   </Madness>  
-  Abrupt Decay
-  Adaptive Automation
-  Angelic Destiny
-  Amulet of Vigor
+  Abrupt Decay ($4+)
+  Adaptive Automaton
+  Amulet of Vigor ($1+)
   ___Awaken__ Spells
   Awakening Zone
   Bow of Nylea
   Boundless Realms
   Budoka Gardener
-  Chameleon Colossus
+  Chameleon Colossus ($2+)
   Changeling Berserker
   Changeling Titan
   Cloud Key
@@ -1000,7 +1055,6 @@ Heliod
   Expedition Map
   Explosive Vegetation
   Gatecreeper Vine
-  Genju of the Realm
   Glade Watcher
   Groundswell
   Hardened Scales
@@ -1008,8 +1062,7 @@ Heliod
   Hydroform
   Ior Ruin Expedition
   Khalni Heart Expedition
-  Krark-Clan Ironworks
-  Kuldotha Flamefiend
+  Krark-Clan Ironworks ($2+)
   Living Tsunami
   Master of Waves
   Mycosynth Wellspring
@@ -1019,18 +1072,15 @@ Heliod
   Nissa's Expedition
   Nykthos, Shrine to Nyx
   Nylea, God of the Hunt
-  Oboro, Palace in the Clouds
+  Oboro, Palace in the Clouds ($16+)
   Ordeal of Nylea
-  Omnath, Locus of Rage
   Pearl Lake Ancient
-  Primeval Titan
-  Rakshasa Vizier
+  Primeval Titan ($11+)
   Rampant Growth
   Rampaging Baloths
-  Ranger's Path
   Roil Elemental
-  Sakura-Tribe Elder
-  Scapeshift
+  Sakura-Tribe Elder ($2+)
+  Scapeshift ($26+)
   Scythe Leopard
   Search for Tomorrow
   Slab Hammer
@@ -1045,12 +1095,10 @@ Heliod
   Unexpected Results
   Vastwood Zendikon
   Villainous Wealth
-  Vorosh, the Hunter
   Vortex Elemental
   Wave-Wing Elemental
   Wild-Field Scarecrow
   Wind Zendikon
-  Witch-Maw Nephilim
 </LandFall>
 <LivingLore>
   Crack the Earth
@@ -1128,10 +1176,14 @@ NON-CREATURES:
   Reclusive Artificer
   Royal Assasin
   Sunbeam Spellbomb
+  Sword of Kaldra
+  Viridian Longbow
 </RedBlueIzzet>
 <RedGrDevotion-0>
   Arlinn Kord
   Borborygmos Enraged
+  Boundless Realms
+  Decimator of the Provinces
   Doomgape
   Doubling Season
   Furyborn Hellkite
@@ -1142,12 +1194,14 @@ NON-CREATURES:
   Khalni Hydra
   Leatherback Baloth
   Living Hive
+  Mage Slayer
   Predator Ooze
   Primalcrux
   Primordial Hydra
   Pyrewild Shaman
   Regal Force
   Troll Ascetic
+  Ulrich of the Krallenhorde
   Vexing Shusher
   Vigor
 </RedGrDevotion-0>
