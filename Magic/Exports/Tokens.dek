@@ -19,34 +19,36 @@
   <Cards CatID="46787" Quantity="1" Sideboard="false" Name="Grove of the Guardian" />
   <Cards CatID="48308" Quantity="1" Sideboard="false" Name="Bronzebeak Moa" />
   <Cards CatID="46553" Quantity="1" Sideboard="false" Name="Trostani, Selesnya's Voice" />
-  <Cards CatID="49231" Quantity="3" Sideboard="false" Name="Ratchet Bomb" />
   <Cards CatID="49339" Quantity="1" Sideboard="false" Name="Trading Post" />
   <Cards CatID="54288" Quantity="1" Sideboard="false" Name="Wingmate Roc" />
   <Cards CatID="42790" Quantity="2" Sideboard="false" Name="Parallel Lives" />
   <Cards CatID="50304" Quantity="1" Sideboard="false" Name="Elspeth, Sun's Champion" />
   <Cards CatID="47559" Quantity="1" Sideboard="false" Name="Smite" />
-  <Cards CatID="49245" Quantity="1" Sideboard="false" Name="Ajani, Caller of the Pride" />
+  <Cards CatID="53698" Quantity="1" Sideboard="false" Name="Hornet Nest" />
   <Cards CatID="51739" Quantity="1" Sideboard="false" Name="Brimaz, King of Oreskos" />
   <Cards CatID="46347" Quantity="1" Sideboard="false" Name="Gatecreeper Vine" />
   <Cards CatID="40041" Quantity="1" Sideboard="false" Name="Forest" />
   <Cards CatID="60126" Quantity="1" Sideboard="false" Name="Second Harvest" />
   <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
   <Cards CatID="23594" Quantity="1" Sideboard="false" Name="Temple Garden" />
-  <Cards CatID="50404" Quantity="1" Sideboard="false" Name="Spear of Heliod" />
+  <Cards CatID="57792" Quantity="1" Sideboard="false" Name="Archangel of Tithes" />
   <Cards CatID="54202" Quantity="2" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="29994" Quantity="1" Sideboard="false" Name="Creakwood Liege" />
   <Cards CatID="42684" Quantity="2" Sideboard="false" Name="Intangible Virtue" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="53316" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
+  <Cards CatID="56182" Quantity="1" Sideboard="false" Name="Dromoka's Command" />
+  <Cards CatID="61102" Quantity="2" Sideboard="false" Name="Selfless Spirit" />
   <Cards CatID="49219" Quantity="2" Sideboard="true" Name="Plummet" />
   <Cards CatID="49313" Quantity="1" Sideboard="true" Name="Ranger's Guile" />
-  <Cards CatID="51845" Quantity="1" Sideboard="true" Name="Archetype of Endurance" />
+  <Cards CatID="34800" Quantity="2" Sideboard="true" Name="Baloth Cage Trap" />
   <Cards CatID="49289" Quantity="1" Sideboard="true" Name="Bramblecrush" />
-  <Cards CatID="50478" Quantity="2" Sideboard="true" Name="Gods Willing" />
+  <Cards CatID="53278" Quantity="1" Sideboard="true" Name="Tormod's Crypt" />
   <Cards CatID="26281" Quantity="2" Sideboard="true" Name="Essence Warden" />
   <Cards CatID="42790" Quantity="1" Sideboard="true" Name="Parallel Lives" />
-  <Cards CatID="49151" Quantity="1" Sideboard="true" Name="Deadly Recluse" />
+  <Cards CatID="46641" Quantity="1" Sideboard="true" Name="Sundering Growth" />
   <Cards CatID="52076" Quantity="1" Sideboard="true" Name="Renowned Weaver" />
-  <Cards CatID="50386" Quantity="2" Sideboard="true" Name="Mistcutter Hydra" />
+  <Cards CatID="47869" Quantity="2" Sideboard="true" Name="Beckon Apparition" />
   <Cards CatID="53606" Quantity="1" Sideboard="true" Name="Reclamation Sage" />
 </Deck>

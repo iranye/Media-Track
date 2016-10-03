@@ -47,7 +47,7 @@
   <Cards CatID="55420" Quantity="1" Sideboard="false" Name="Brutal Hordechief" />
   <Cards CatID="56190" Quantity="1" Sideboard="false" Name="Crater Elemental" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
-  <Cards CatID="35515" Quantity="2" Sideboard="false" Name="Bojuka Bog" />
+  <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="36360" Quantity="1" Sideboard="false" Name="Inquisition of Kozilek" />
   <Cards CatID="50479" Quantity="1" Sideboard="true" Name="Gods Willing" />
   <Cards CatID="54226" Quantity="1" Sideboard="true" Name="Swamp" />

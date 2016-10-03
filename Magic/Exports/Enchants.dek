@@ -29,16 +29,16 @@
   <Cards CatID="49539" Quantity="2" Sideboard="false" Name="Ajani's Chosen" />
   <Cards CatID="50532" Quantity="1" Sideboard="false" Name="Daxos of Meletis" />
   <Cards CatID="53294" Quantity="1" Sideboard="false" Name="Divination" />
-  <Cards CatID="46391" Quantity="2" Sideboard="false" Name="Syncopate" />
   <Cards CatID="58517" Quantity="1" Sideboard="false" Name="Skyline Cascade" />
   <Cards CatID="55550" Quantity="2" Sideboard="false" Name="Tranquil Cove" />
   <Cards CatID="46421" Quantity="2" Sideboard="false" Name="Azorius Charm" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
-  <Cards CatID="26543" Quantity="1" Sideboard="false" Name="Dust Elemental" />
   <Cards CatID="56048" Quantity="1" Sideboard="false" Name="Dragonlord Ojutai" />
   <Cards CatID="32817" Quantity="2" Sideboard="false" Name="Glacial Fortress" />
   <Cards CatID="24157" Quantity="1" Sideboard="false" Name="Grand Arbiter Augustin IV" />
-  <Cards CatID="28741" Quantity="4" Sideboard="false" Name="Familiar's Ruse" />
+  <Cards CatID="28741" Quantity="3" Sideboard="false" Name="Familiar's Ruse" />
+  <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" />
+  <Cards CatID="53642" Quantity="1" Sideboard="false" Name="Quickling" />
   <Cards CatID="49121" Quantity="1" Sideboard="true" Name="Wall of Swords" />
   <Cards CatID="49493" Quantity="1" Sideboard="true" Name="Tidebinder Mage" />
   <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
