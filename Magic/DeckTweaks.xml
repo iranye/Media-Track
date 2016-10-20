@@ -424,6 +424,7 @@
   Cryptolith Rite
   Curse of Chains
   Deceiver Exarch
+  Dramatic Reversal
   Dream's Grip
   Freed from the Real
   Grimoire Thief
@@ -739,6 +740,7 @@
   Council of the Absolute
   Court Hussar
   Darksteel Sentinel
+  Disappearing Act
   Dragonlord Ojutai
   Dust Elemental
   Eiganjo Free-Riders
@@ -805,6 +807,7 @@
   Collected Company
   Crush of Tentacles
   Cryptolith Rite
+  Disappearing Act
   Dragon Grip
   Eel Umbra
   Eerie Interlude
@@ -1173,6 +1176,7 @@ NON-CREATURES:
   *for 2+1BLACK, discard a card and put a Pack Rat token into play
 </PackRats>
 <RedBlueIzzet>
+  Aethertorch Renegade
   Arcane Teachings
   Chandra's Spitfire
   Curiosity
@@ -1223,6 +1227,7 @@ NON-CREATURES:
   Beckon Apparition
   Call of the Herd
   Cobra Trap
+  Cogworker's Puzzleknot
   Creakwood Liege
   Dromoka's Command
   Doubling Season
