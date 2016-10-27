@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="23054" Quantity="1" Sideboard="false" Name="Birds of Paradise" />
+  <Cards CatID="58537" Quantity="4" Sideboard="false" Name="Blighted Woodland" />
+  <Cards CatID="23192" Quantity="4" Sideboard="false" Name="Dimir Aqueduct" />
+</Deck>

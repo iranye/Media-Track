@@ -7,6 +7,7 @@
   <Cards CatID="50418" Quantity="3" Sideboard="false" Name="Island" />
   <Cards CatID="50416" Quantity="2" Sideboard="false" Name="Plains" />
   <Cards CatID="46423" Quantity="4" Sideboard="false" Name="Detention Sphere" />
+  <Cards CatID="46421" Quantity="2" Sideboard="false" Name="Azorius Charm" />
   <Cards CatID="50420" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="51663" Quantity="1" Sideboard="false" Name="Revoke Existence" />
   <Cards CatID="52074" Quantity="1" Sideboard="false" Name="Nyx-Fleece Ram" />
@@ -22,21 +23,20 @@
   <Cards CatID="52186" Quantity="1" Sideboard="false" Name="Hypnotic Siren" />
   <Cards CatID="46455" Quantity="1" Sideboard="false" Name="Tablet of the Guilds" />
   <Cards CatID="46733" Quantity="2" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="28741" Quantity="3" Sideboard="false" Name="Familiar's Ruse" />
   <Cards CatID="47897" Quantity="2" Sideboard="false" Name="Blind Obedience" />
   <Cards CatID="47887" Quantity="1" Sideboard="false" Name="Simic Manipulator" />
   <Cards CatID="55944" Quantity="1" Sideboard="false" Name="Hidden Dragonslayer" />
   <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
   <Cards CatID="49539" Quantity="2" Sideboard="false" Name="Ajani's Chosen" />
+  <Cards CatID="24157" Quantity="1" Sideboard="false" Name="Grand Arbiter Augustin IV" />
   <Cards CatID="50532" Quantity="1" Sideboard="false" Name="Daxos of Meletis" />
   <Cards CatID="53294" Quantity="1" Sideboard="false" Name="Divination" />
   <Cards CatID="58517" Quantity="1" Sideboard="false" Name="Skyline Cascade" />
   <Cards CatID="55550" Quantity="2" Sideboard="false" Name="Tranquil Cove" />
-  <Cards CatID="46421" Quantity="2" Sideboard="false" Name="Azorius Charm" />
+  <Cards CatID="32817" Quantity="2" Sideboard="false" Name="Glacial Fortress" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="56048" Quantity="1" Sideboard="false" Name="Dragonlord Ojutai" />
-  <Cards CatID="32817" Quantity="2" Sideboard="false" Name="Glacial Fortress" />
-  <Cards CatID="24157" Quantity="1" Sideboard="false" Name="Grand Arbiter Augustin IV" />
-  <Cards CatID="28741" Quantity="3" Sideboard="false" Name="Familiar's Ruse" />
   <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" />
   <Cards CatID="53642" Quantity="1" Sideboard="false" Name="Quickling" />
   <Cards CatID="49121" Quantity="1" Sideboard="true" Name="Wall of Swords" />
