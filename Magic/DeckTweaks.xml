@@ -763,6 +763,7 @@
   Sky Hussar
   Spell Queller
   Sphere of Safety
+  Stasis Snare
   Thran Golem
   Wispmare
 </Enchants>
@@ -1214,8 +1215,8 @@ NON-CREATURES:
   Regal Force
   Troll Ascetic
   Ulrich of the Krallenhorde
-  Vexing Shusher
   Vigor
+  Wolfbriar Elemental
 </RedGrDevotion-0>
 <Tokens>
 	<Madness>
@@ -1288,6 +1289,7 @@ NON-CREATURES:
   Springjack Pasture
   Sublime Archangel
   Sundering Growth
+  Wolfbriar Elemental
   Thragtusk
   Tumble Magnet
   Ulvenwald Mysteries
