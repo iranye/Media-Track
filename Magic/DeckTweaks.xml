@@ -483,6 +483,7 @@
   Vengeful Pharaoh
   Vulturous Aven
   Wild-Field Scarecrow
+  Zurgo Helmsmasher
 </Discards>
 <EidolonSac>
   Acidic Slime
@@ -805,6 +806,7 @@
   Bear's Companion
   Bloom Tender
   Briarbridge Patrol
+  Briarhorn
   Changeling Berserker
   Changeling Titan
   Chronozoa
@@ -850,13 +852,18 @@
   Rumbling Slum
   Sabertooth Outrider
   Sagu Mauler
+  Savage Summoning
   Scout the Borders
   See the Unwritten
   Self-Assembler
   Sheltering Word
+  Snake of the Golden Grove
   Tarox Bladewing
+  Tornado Elemental
+  Triumph of the Hordes
   Troll Ascetic
   Vedalken Mastermind
+  Vengevine
   Voyage's End
   War Elemental
   <TOSORT>
@@ -931,6 +938,7 @@
   Spirespine
   Shaman of the Great Hunt
   Stormbreath Dragon (1)
+  Stratus Dancer
   Surrak Dragonclaw (+Flash) (1)
   Temur Sabertooth +++ (0)
   Twinflame
@@ -990,25 +998,19 @@ Heliod
 </LandDestruct>
 <LandFall>
   <Mana>
-    Ancient Ziggurat    
-    Birds of Paradise
     Blighted Woodland
     Celestial Colonnade ($20+)
     Creeping Tar Pit ($9+)
-    Dimir Aqueduct
-    Evolving Wilds
-    Exotic Orchard
     Flooded Strand ($10+)
     Golgari Rot Farm
     Khalni Gem
     Kuldotha Flamefiend
     Life from the Loam ($8+)
-    Lotus Cobra
     Mana Confluence ($3+)
     Mistvein Borderpost
     Misty Rainforest ($14+)
-    Mutavault ($6+)
     Primal Beyond
+    Prophetic Prism
     Simic Growth Chamber
     Sylvan Caryatid
     Terramorphic Expanse ($1+)
@@ -1024,62 +1026,90 @@ Heliod
     Angelic Destiny
     Brighthearth Banneret
     Canopy Vista
+    Citadel Siege
+    Collective Effort
     Dust Elemental
+    Gavony Township
     Generator Servant
     Genju of the Realm
     Gift of Estates (and lands that are Plains)
     Godless Shrine (need 3 more)
     Grove Rumbler
+    Juniper Order Ranger
     Omnath, Locus of Rage
+    Ordeal of Heliod
     Plated Geopede
     Rampaging Baloths
+    Selfless Spirit
     Shambling Vent
     Sidisi, Brood Tyrant
     Temple Garden (need 2)
+    Voice of Resurgence
   </OtherColors>
   <Madness>
     Greenseeker
-  </Madness>  
+  </Madness>
+  ___Awaken__ Spells
+  ___Proliferate__ Spells
   Abrupt Decay ($4+)
   Adaptive Automaton
+  Ageless Entity
+  Altered Ego
   Amulet of Vigor ($1+)
+  Animation Module
+  Archangel of Thune
   Architect of the Untamed
-  ___Awaken__ Spells
   Awakening Zone
-  Bow of Nylea
-  Boundless Realms
+  Avenger of Zendikar
+  Bloodbriar
+  Boundless Realms  
+  Bred for the Hunt
   Budoka Gardener
   Chameleon Colossus ($2+)
   Changeling Berserker
   Changeling Titan
   Cloud Key
   Cloudstone Curio
+  Cloudthresher
   Coat of Arms
+  Conifer Strider
+  Corpsejack Menace
   Courser of Kruphix
   Corrupted Zendikon
   Crawling Sensation
-  Cultivate
+  Cultivator's Caravan
   Cyclone Sire
   Deprive
+  Doomgape
+  Door of Destinies
   Doubling Season
   Elemental Uprising
   Embodiment of Insight
   Embodiment of Spring
+  Etched Oracle
   Eternity Vessel
   Expedition Map
   Explosive Vegetation
+  Force of Savagery (Add other creatures w/ Graft)
   Gatecreeper Vine
+  Give/Take
   Glade Watcher
+  Go for the Throat
   Groundswell
   Hardened Scales
   Horizon Spellbomb
   Hydroform
+  Inspiring Call
   Ior Ruin Expedition
   Khalni Heart Expedition
   Krark-Clan Ironworks ($2+)
+  Living Totem
   Living Tsunami
+  Llanowar Reborn
+  Master Biomancer
   Master of Waves
   Mycosynth Wellspring
+  Myr Retriever
   Nissa, Vastwood Seer
   Nissa, Vital Force
   Nissa, Worldwaker
@@ -1088,32 +1118,45 @@ Heliod
   Nylea, God of the Hunt
   Oboro, Palace in the Clouds ($16+)
   Oran-Rief Hydra
-  Ordeal of Nylea
+  Ordeal of Thassa
   Pearl Lake Ancient
+  Petrified Wood-Kin
+  Primeval Bounty
   Primeval Titan ($11+)
   Rampant Growth
   Rampaging Baloths
+  Retreat to Kazandu
+  Retribution of the Ancients
   Roil Elemental
   Sakura-Tribe Elder ($2+)
   Scapeshift ($26+)
   Scythe Leopard
+  Seed Guardian
   Search for Tomorrow
+  Simic Manipulator
   Slab Hammer
   Soratami Rainshaper
+  Spawnwrithe
   Steppe Lynx
   Strionic Resonator
+  Sturdy Hatchling
   Sultai Charm
   Sword of the Animist
   Tideforce Elemental
+  Timbermare
   Trade Routes
   Undergrowth Champion
   Unexpected Results
   Vastwood Zendikon
+  Vigean Hydropon
+  Vigor
   Villainous Wealth
   Vortex Elemental
   Wave-Wing Elemental
   Wild-Field Scarecrow
   Wind Zendikon
+  Woodland Wanderer
+  Zameck Guildmage
 </LandFall>
 <LivingLore>
   Crack the Earth
@@ -1216,9 +1259,18 @@ NON-CREATURES:
   Primordial Hydra
   Pyrewild Shaman
   Regal Force
+  Reverent Hunter
+  Roil Spout
+  Rumbling Slum
+  Savage Summoning
+  Savageborn Hydra
+  Timbermare
+  Triumph of the Hordes
   Troll Ascetic
+  Ulasht, the Hate Seed
   Ulrich of the Krallenhorde
   Vigor
+  Vorapede
   Wolfbriar Elemental
 </RedGrDevotion-0>
 <Tokens>
