@@ -2,69 +2,62 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="23054" Quantity="1" Sideboard="false" Name="Birds of Paradise" />
-  <Cards CatID="58537" Quantity="1" Sideboard="false" Name="Blighted Woodland" />
-  <Cards CatID="23192" Quantity="3" Sideboard="false" Name="Dimir Aqueduct" />
+  <Cards CatID="46451" Quantity="1" Sideboard="false" Name="Golgari Charm" />
   <Cards CatID="61833" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="53316" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
-  <Cards CatID="31939" Quantity="1" Sideboard="false" Name="Exotic Orchard" />
   <Cards CatID="40730" Quantity="3" Sideboard="false" Name="Golgari Rot Farm" />
-  <Cards CatID="34826" Quantity="1" Sideboard="false" Name="Khalni Gem" />
   <Cards CatID="34546" Quantity="1" Sideboard="false" Name="Lotus Cobra" />
-  <Cards CatID="32246" Quantity="2" Sideboard="false" Name="Mistvein Borderpost" />
-  <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
-  <Cards CatID="29212" Quantity="1" Sideboard="false" Name="Primal Beyond" />
-  <Cards CatID="24031" Quantity="4" Sideboard="false" Name="Simic Growth Chamber" />
-  <Cards CatID="50260" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
-  <Cards CatID="55290" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="24031" Quantity="2" Sideboard="false" Name="Simic Growth Chamber" />
   <Cards CatID="46657" Quantity="2" Sideboard="false" Name="Transguild Promenade" />
-  <Cards CatID="50208" Quantity="2" Sideboard="false" Name="Traveler's Amulet" />
   <Cards CatID="40497" Quantity="1" Sideboard="false" Name="Vivid Creek" />
   <Cards CatID="28515" Quantity="1" Sideboard="false" Name="Vivid Grove" />
   <Cards CatID="28517" Quantity="1" Sideboard="false" Name="Vivid Marsh" />
   <Cards CatID="54202" Quantity="2" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="46497" Quantity="1" Sideboard="false" Name="Abrupt Decay" />
-  <Cards CatID="41577" Quantity="1" Sideboard="false" Name="Adaptive Automaton" />
   <Cards CatID="35633" Quantity="1" Sideboard="false" Name="Amulet of Vigor" />
-  <Cards CatID="50412" Quantity="1" Sideboard="false" Name="Bow of Nylea" />
-  <Cards CatID="51817" Quantity="1" Sideboard="false" Name="Bile Blight" />
-  <Cards CatID="21225" Quantity="2" Sideboard="false" Name="Budoka Gardener" />
-  <Cards CatID="26866" Quantity="1" Sideboard="false" Name="Cloud Key" />
+  <Cards CatID="50412" Quantity="2" Sideboard="false" Name="Bow of Nylea" />
   <Cards CatID="19049" Quantity="1" Sideboard="false" Name="Coat of Arms" />
-  <Cards CatID="35587" Quantity="1" Sideboard="false" Name="Corrupted Zendikon" />
   <Cards CatID="51084" Quantity="1" Sideboard="false" Name="Cultivate" />
-  <Cards CatID="36492" Quantity="4" Sideboard="false" Name="Deprive" />
-  <Cards CatID="59377" Quantity="1" Sideboard="false" Name="Elemental Uprising" />
-  <Cards CatID="59357" Quantity="1" Sideboard="false" Name="Embodiment of Insight" />
-  <Cards CatID="53970" Quantity="2" Sideboard="false" Name="Embodiment of Spring" />
-  <Cards CatID="34832" Quantity="2" Sideboard="false" Name="Expedition Map" />
-  <Cards CatID="49339" Quantity="1" Sideboard="false" Name="Trading Post" />
-  <Cards CatID="50234" Quantity="1" Sideboard="false" Name="Ordeal of Nylea" />
+  <Cards CatID="36492" Quantity="3" Sideboard="false" Name="Deprive" />
+  <Cards CatID="50220" Quantity="1" Sideboard="false" Name="Ordeal of Thassa" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="45470" Quantity="1" Sideboard="false" Name="Ring of Evos Isle" />
+  <Cards CatID="50272" Quantity="2" Sideboard="false" Name="Temple of Mystery" />
+  <Cards CatID="51968" Quantity="1" Sideboard="false" Name="Temple of Malady" />
   <Cards CatID="56416" Quantity="1" Sideboard="false" Name="Glade Watcher" />
-  <Cards CatID="56406" Quantity="1" Sideboard="false" Name="Explosive Vegetation" />
-  <Cards CatID="49593" Quantity="1" Sideboard="false" Name="Quicken" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
+  <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
   <Cards CatID="35509" Quantity="1" Sideboard="false" Name="Tideforce Elemental" />
-  <Cards CatID="47795" Quantity="1" Sideboard="false" Name="Hydroform" />
-  <Cards CatID="34534" Quantity="1" Sideboard="false" Name="Ior Ruin Expedition" />
+  <Cards CatID="46767" Quantity="2" Sideboard="false" Name="Nivmagus Elemental" />
+  <Cards CatID="51851" Quantity="1" Sideboard="false" Name="Courser of Kruphix" />
   <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
-  <Cards CatID="34584" Quantity="1" Sideboard="false" Name="Living Tsunami" />
-  <Cards CatID="50618" Quantity="1" Sideboard="false" Name="Prophet of Kruphix" />
-  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
-  <Cards CatID="53568" Quantity="1" Sideboard="false" Name="Nissa, Worldwaker" />
-  <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
+  <Cards CatID="34584" Quantity="2" Sideboard="false" Name="Living Tsunami" />
+  <Cards CatID="39447" Quantity="2" Sideboard="false" Name="Go for the Throat" />
+  <Cards CatID="46495" Quantity="1" Sideboard="false" Name="Corpsejack Menace" />
+  <Cards CatID="50550" Quantity="1" Sideboard="false" Name="Master of Waves" />
+  <Cards CatID="47685" Quantity="2" Sideboard="false" Name="Aetherize" />
   <Cards CatID="34536" Quantity="1" Sideboard="false" Name="Roil Elemental" />
-  <Cards CatID="55450" Quantity="1" Sideboard="false" Name="Crux of Fate" />
+  <Cards CatID="49157" Quantity="1" Sideboard="false" Name="Divination" />
   <Cards CatID="54134" Quantity="3" Sideboard="false" Name="Sultai Charm" />
-  <Cards CatID="51797" Quantity="1" Sideboard="false" Name="Whelming Wave" />
+  <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
   <Cards CatID="61831" Quantity="1" Sideboard="false" Name="Island" />
-  <Cards CatID="61847" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="56174" Quantity="1" Sideboard="false" Name="Updraft Elemental" />
   <Cards CatID="61845" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="61827" Quantity="1" Sideboard="false" Name="Forest" />
   <Cards CatID="60052" Quantity="1" Sideboard="false" Name="Forest" />
   <Cards CatID="19169" Quantity="1" Sideboard="false" Name="Trade Routes" />
   <Cards CatID="58667" Quantity="4" Sideboard="false" Name="Undergrowth Champion" />
   <Cards CatID="47689" Quantity="1" Sideboard="false" Name="Unexpected Results" />
-  <Cards CatID="35619" Quantity="1" Sideboard="false" Name="Vastwood Zendikon" />
-  <Cards CatID="51665" Quantity="1" Sideboard="false" Name="Vortex Elemental" />
-  <Cards CatID="35721" Quantity="1" Sideboard="false" Name="Wind Zendikon" />
+  <Cards CatID="53760" Quantity="1" Sideboard="false" Name="Living Totem" />
+  <Cards CatID="48520" Quantity="1" Sideboard="false" Name="Far/Away" />
+  <Cards CatID="54406" Quantity="1" Sideboard="false" Name="Hardened Scales" />
+  <Cards CatID="54406" Quantity="1" Sideboard="true" Name="Hardened Scales" />
+  <Cards CatID="48520" Quantity="2" Sideboard="true" Name="Far/Away" />
+  <Cards CatID="48426" Quantity="1" Sideboard="true" Name="Bred for the Hunt" />
+  <Cards CatID="46733" Quantity="2" Sideboard="true" Name="Cyclonic Rift" />
+  <Cards CatID="49159" Quantity="2" Sideboard="true" Name="Doom Blade" />
+  <Cards CatID="35515" Quantity="3" Sideboard="true" Name="Bojuka Bog" />
+  <Cards CatID="50596" Quantity="1" Sideboard="true" Name="Hero's Downfall" />
+  <Cards CatID="49475" Quantity="1" Sideboard="true" Name="Strionic Resonator" />
+  <Cards CatID="19169" Quantity="1" Sideboard="true" Name="Trade Routes" />
 </Deck>
