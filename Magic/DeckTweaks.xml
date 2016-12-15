@@ -376,6 +376,7 @@
   Spawning Pit
   Spirit Bonds
   Strionic Resonator
+  Talon of Pain
   Teysa, Envoy of Ghosts
   Teysa, Orzhov Scion
   Tidehollow Skuller
@@ -423,6 +424,7 @@
   Canopy Cover
   Cryptolith Rite
   Curse of Chains
+  Deadlock Trap
   Deceiver Exarch
   Dramatic Reversal
   Dream's Grip
@@ -518,7 +520,7 @@
   Utopia Sprawl
   Vampiric Rites
 </EidolonSac>
-<EliteArcanist>
+<EliteIsochron>
   <Red>
     GutterSnipe
   </Red>
@@ -716,6 +718,7 @@
   Declaration in Stone
   Dimir Aqueduct
   Dovescape
+  Dynavolt Tower
   Etherwrought Page
   Hidden Strings
   Horribly Awry  
@@ -729,7 +732,7 @@
   Tolaria West
   Training Grounds
   Whispersilk Cloak
-</EliteArcanist>
+</EliteIsochron>
 <Enchants>
   Aether Meltdown
   Aetherling
@@ -808,6 +811,7 @@
   Bloom Tender
   Briarbridge Patrol
   Briarhorn
+  Bristling Hydra
   Changeling Berserker
   Changeling Titan
   Chronozoa
@@ -851,6 +855,7 @@
   Primeval Bounty
   Pyrewild Shaman
   Raise the Alarm
+  Riparian Tiger
   Rumbling Slum
   Sabertooth Outrider
   Sagu Mauler
@@ -985,6 +990,7 @@
   Selective Memory
   Springjack Pasture
   Sylvan Scrying
+  Thriving Ibex
   Trading Post
   Ulvenwald Hydra
   Void of Resurgence
@@ -1064,6 +1070,7 @@ Heliod
   Awakening Zone
   Avenger of Zendikar
   Bloodbriar
+  Blossoming Defense
   Boundless Realms  
   Bred for the Hunt
   Budoka Gardener
@@ -1097,6 +1104,7 @@ Heliod
   Gatecreeper Vine
   Give/Take
   Glade Watcher
+  Glimmer of Genius
   Go for the Throat
   Groundswell
   Hardened Scales
@@ -1111,6 +1119,7 @@ Heliod
   Llanowar Reborn
   Master Biomancer
   Master of Waves
+  Mulldrifter
   Mycosynth Wellspring
   Myr Retriever
   Nissa, Vastwood Seer
@@ -1124,6 +1133,7 @@ Heliod
   Ordeal of Thassa
   Pearl Lake Ancient
   Petrified Wood-Kin
+  Power Conduit
   Primeval Bounty
   Primeval Titan ($11+)
   Rampant Growth

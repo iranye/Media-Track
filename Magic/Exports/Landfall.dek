@@ -2,62 +2,68 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="46451" Quantity="1" Sideboard="false" Name="Golgari Charm" />
   <Cards CatID="61833" Quantity="1" Sideboard="false" Name="Island" />
-  <Cards CatID="53316" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
-  <Cards CatID="40730" Quantity="3" Sideboard="false" Name="Golgari Rot Farm" />
+  <Cards CatID="54406" Quantity="1" Sideboard="false" Name="Hardened Scales" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="19169" Quantity="2" Sideboard="false" Name="Trade Routes" />
+  <Cards CatID="48520" Quantity="1" Sideboard="false" Name="Far/Away" />
   <Cards CatID="34546" Quantity="1" Sideboard="false" Name="Lotus Cobra" />
-  <Cards CatID="24031" Quantity="2" Sideboard="false" Name="Simic Growth Chamber" />
-  <Cards CatID="46657" Quantity="2" Sideboard="false" Name="Transguild Promenade" />
+  <Cards CatID="19049" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="62091" Quantity="2" Sideboard="false" Name="Aether Hub" />
+  <Cards CatID="50412" Quantity="2" Sideboard="false" Name="Bow of Nylea" />
+  <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
+  <Cards CatID="60378" Quantity="1" Sideboard="false" Name="Drownyard Temple" />
   <Cards CatID="40497" Quantity="1" Sideboard="false" Name="Vivid Creek" />
   <Cards CatID="28515" Quantity="1" Sideboard="false" Name="Vivid Grove" />
-  <Cards CatID="28517" Quantity="1" Sideboard="false" Name="Vivid Marsh" />
+  <Cards CatID="59255" Quantity="1" Sideboard="false" Name="Hissing Quagmire" />
   <Cards CatID="54202" Quantity="2" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="46497" Quantity="1" Sideboard="false" Name="Abrupt Decay" />
+  <Cards CatID="47475" Quantity="2" Sideboard="false" Name="Breeding Pool" />
   <Cards CatID="35633" Quantity="1" Sideboard="false" Name="Amulet of Vigor" />
-  <Cards CatID="50412" Quantity="2" Sideboard="false" Name="Bow of Nylea" />
-  <Cards CatID="19049" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="46451" Quantity="1" Sideboard="false" Name="Golgari Charm" />
+  <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="61921" Quantity="2" Sideboard="false" Name="Glimmer of Genius" />
   <Cards CatID="51084" Quantity="1" Sideboard="false" Name="Cultivate" />
   <Cards CatID="36492" Quantity="3" Sideboard="false" Name="Deprive" />
-  <Cards CatID="50220" Quantity="1" Sideboard="false" Name="Ordeal of Thassa" />
-  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
-  <Cards CatID="45470" Quantity="1" Sideboard="false" Name="Ring of Evos Isle" />
-  <Cards CatID="50272" Quantity="2" Sideboard="false" Name="Temple of Mystery" />
-  <Cards CatID="51968" Quantity="1" Sideboard="false" Name="Temple of Malady" />
-  <Cards CatID="56416" Quantity="1" Sideboard="false" Name="Glade Watcher" />
-  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
-  <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
-  <Cards CatID="35509" Quantity="1" Sideboard="false" Name="Tideforce Elemental" />
-  <Cards CatID="46767" Quantity="2" Sideboard="false" Name="Nivmagus Elemental" />
-  <Cards CatID="51851" Quantity="1" Sideboard="false" Name="Courser of Kruphix" />
-  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
-  <Cards CatID="34584" Quantity="2" Sideboard="false" Name="Living Tsunami" />
-  <Cards CatID="39447" Quantity="2" Sideboard="false" Name="Go for the Throat" />
-  <Cards CatID="46495" Quantity="1" Sideboard="false" Name="Corpsejack Menace" />
   <Cards CatID="50550" Quantity="1" Sideboard="false" Name="Master of Waves" />
+  <Cards CatID="46495" Quantity="1" Sideboard="false" Name="Corpsejack Menace" />
+  <Cards CatID="56416" Quantity="1" Sideboard="false" Name="Glade Watcher" />
+  <Cards CatID="39447" Quantity="2" Sideboard="false" Name="Go for the Throat" />
+  <Cards CatID="26822" Quantity="1" Sideboard="false" Name="Tolaria West" />
+  <Cards CatID="51851" Quantity="1" Sideboard="false" Name="Courser of Kruphix" />
+  <Cards CatID="46767" Quantity="2" Sideboard="false" Name="Nivmagus Elemental" />
+  <Cards CatID="34584" Quantity="3" Sideboard="false" Name="Living Tsunami" />
+  <Cards CatID="29212" Quantity="1" Sideboard="false" Name="Primal Beyond" />
   <Cards CatID="47685" Quantity="2" Sideboard="false" Name="Aetherize" />
   <Cards CatID="34536" Quantity="1" Sideboard="false" Name="Roil Elemental" />
-  <Cards CatID="49157" Quantity="1" Sideboard="false" Name="Divination" />
+  <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="54134" Quantity="3" Sideboard="false" Name="Sultai Charm" />
-  <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
   <Cards CatID="61831" Quantity="1" Sideboard="false" Name="Island" />
-  <Cards CatID="56174" Quantity="1" Sideboard="false" Name="Updraft Elemental" />
+  <Cards CatID="49293" Quantity="1" Sideboard="false" Name="Shimmering Grotto" />
   <Cards CatID="61845" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="61827" Quantity="1" Sideboard="false" Name="Forest" />
   <Cards CatID="60052" Quantity="1" Sideboard="false" Name="Forest" />
-  <Cards CatID="19169" Quantity="1" Sideboard="false" Name="Trade Routes" />
   <Cards CatID="58667" Quantity="4" Sideboard="false" Name="Undergrowth Champion" />
-  <Cards CatID="47689" Quantity="1" Sideboard="false" Name="Unexpected Results" />
-  <Cards CatID="53760" Quantity="1" Sideboard="false" Name="Living Totem" />
-  <Cards CatID="48520" Quantity="1" Sideboard="false" Name="Far/Away" />
-  <Cards CatID="54406" Quantity="1" Sideboard="false" Name="Hardened Scales" />
+  <Cards CatID="54164" Quantity="1" Sideboard="false" Name="Opulent Palace" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
+  <Cards CatID="51968" Quantity="1" Sideboard="false" Name="Temple of Malady" />
+  <Cards CatID="50272" Quantity="2" Sideboard="false" Name="Temple of Mystery" />
+  <Cards CatID="35513" Quantity="1" Sideboard="false" Name="Khalni Garden" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="45470" Quantity="1" Sideboard="false" Name="Ring of Evos Isle" />
+  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="50220" Quantity="1" Sideboard="false" Name="Ordeal of Thassa" />
   <Cards CatID="54406" Quantity="1" Sideboard="true" Name="Hardened Scales" />
-  <Cards CatID="48520" Quantity="2" Sideboard="true" Name="Far/Away" />
+  <Cards CatID="48520" Quantity="1" Sideboard="true" Name="Far/Away" />
+  <Cards CatID="18965" Quantity="1" Sideboard="true" Name="Boomerang" />
   <Cards CatID="48426" Quantity="1" Sideboard="true" Name="Bred for the Hunt" />
   <Cards CatID="46733" Quantity="2" Sideboard="true" Name="Cyclonic Rift" />
   <Cards CatID="49159" Quantity="2" Sideboard="true" Name="Doom Blade" />
   <Cards CatID="35515" Quantity="3" Sideboard="true" Name="Bojuka Bog" />
   <Cards CatID="50596" Quantity="1" Sideboard="true" Name="Hero's Downfall" />
   <Cards CatID="49475" Quantity="1" Sideboard="true" Name="Strionic Resonator" />
-  <Cards CatID="19169" Quantity="1" Sideboard="true" Name="Trade Routes" />
+  <Cards CatID="58537" Quantity="1" Sideboard="true" Name="Blighted Woodland" />
+  <Cards CatID="51084" Quantity="1" Sideboard="true" Name="Cultivate" />
 </Deck>
