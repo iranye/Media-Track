@@ -491,7 +491,6 @@
   Acidic Slime
   Angelic Gift
   Blessing of Leeches
-  Chosen by Heliod
   Cloudshift
   Cowed by Wisdom
   Dark Confidant
@@ -1031,35 +1030,63 @@ Heliod
     Witch-Maw Nephilim
   </Mana>
   <OtherColors>
-    Angelic Destiny
-    Archangel of Thune
-    Brighthearth Banneret
-    Canopy Vista
-    Citadel Siege
-    Collective Effort
-    Dust Elemental
-    Gavony Township
-    Generator Servant
-    Genju of the Realm
-    Gift of Estates (and lands that are Plains)
-    Godless Shrine (need 3 more)
-    Grove Rumbler
-    Juniper Order Ranger
-    Omnath, Locus of Rage
-    Ordeal of Heliod
-    Plated Geopede
-    Rampaging Baloths
-    Selfless Spirit
-    Shambling Vent
-    Sidisi, Brood Tyrant
-    Temple Garden (need 2)
-    Voice of Resurgence
+    <AllColors>
+      Fusion Elemental
+      Genju of the Realm  
+    </AllColors>
+    <Red>
+      Brighthearth Banneret
+      Ember Swallower
+      Embodiment of Fury
+      Firefiend Elemental
+      Flamekin Harbinger
+      Generator Servant
+      Grinning Ignus
+      Grove Rumbler
+      Omnath, Locus of Rage
+      Plated Geopede
+    </Red>
+    <White>
+      Angelic Destiny
+      Archangel of Thune
+      Canopy Vista
+      Citadel Siege
+      Collective Effort
+      Dust Elemental
+      Gavony Township
+      Gift of Estates (and lands that are Plains)
+      Godless Shrine (need 3 more)
+      Juniper Order Ranger
+      Ordeal of Heliod
+      Selfless Spirit
+      Shambling Vent
+      Temple Garden (need 2)
+      Voice of Resurgence
+    </White>
   </OtherColors>
   <Madness>
     Greenseeker
   </Madness>
-  ___Awaken__ Spells
-  ___Proliferate__ Spells
+  <Striker>
+    Asha's Favor (White)
+    Ashmouth Blade
+    Bladed Pinions
+    Chariot of Victory
+    Peregrine Mask
+    Sparring Collar
+    Surestrike Trident
+    Unscythe, Killer of Kings (Red)
+    Viridian Claw
+  </Striker>
+  <Proliferate>
+    Atraxa, Praetors' Voice
+    Fuel for the Cause
+    Steady Progress
+    Tezzeret's Gambit
+    Thrummingbird
+  </Proliferate>
+  ___Awaken__ Spells 
+  ___Removal___ (Sideboard in Vortex Elemental with Nivmagus to deal with lots of big creatures).
   Abrupt Decay ($4+)
   Adaptive Automaton
   Ageless Entity
@@ -1157,6 +1184,7 @@ Heliod
   Sword of the Animist
   Tideforce Elemental
   Timbermare
+  Throne of Geth
   Trade Routes
   Undergrowth Champion
   Unexpected Results
