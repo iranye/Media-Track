@@ -22,6 +22,7 @@
     Celestial Colonnade ($28+)
     Collected Company ($19+)
     Crucible of Worlds ($25+)
+    Crumbling Vestige
     Deathbringer Liege ($2+)
     Fulminator Mage ($11+)
     Gaddock Teeg ($4+)
@@ -65,8 +66,6 @@
     Voice of Resurgence ($38+)
     Wall of Roots ($1+)
   </HighPriced>
-  Amulet of Vigor
-  Boomerang
   Call of the Herd
   Dark Confidant
   Ghostly Prison
@@ -379,7 +378,7 @@
   Talon of Pain
   Teysa, Envoy of Ghosts
   Teysa, Orzhov Scion
-  Tidehollow Skuller
+  Tidehollow Sculler
   Trading Post
   Viridian Longbow
   Worldslayer
@@ -808,6 +807,7 @@
   Baloth Cage Trap (Sideboard)
   Bear's Companion
   Bloom Tender
+  Brackwater Elemental
   Briarbridge Patrol
   Briarhorn
   Bristling Hydra
@@ -1006,18 +1006,25 @@ Heliod
 <LandFall>
   <Mana>
     Blighted Woodland
+    Cavern of Souls
     Celestial Colonnade ($20+)
     Creeping Tar Pit ($9+)
     Flooded Strand ($10+)
-    Golgari Rot Farm
+    Halimar Depths
     Khalni Gem
     Kuldotha Flamefiend
     Life from the Loam ($8+)
+    Llanowar Reborn
+    Lumbering Falls
     Mana Confluence ($3+)
     Mistvein Borderpost
     Misty Rainforest ($14+)
+    Moonring Island
+    Mortuary Mire
+    Oran-Rief, the Vastwood
     Primal Beyond
     Prophetic Prism
+    Radiant Fountain
     Simic Growth Chamber
     Sylvan Caryatid
     Terramorphic Expanse ($1+)
@@ -1032,7 +1039,8 @@ Heliod
   <OtherColors>
     <AllColors>
       Fusion Elemental
-      Genju of the Realm  
+      Genju of the Realm
+      Rupture Spire
     </AllColors>
     <Red>
       Brighthearth Banneret
@@ -1043,8 +1051,10 @@ Heliod
       Generator Servant
       Grinning Ignus
       Grove Rumbler
+      Nova Chaser
       Omnath, Locus of Rage
       Plated Geopede
+      Smokebraider
     </Red>
     <White>
       Angelic Destiny
@@ -1060,6 +1070,7 @@ Heliod
       Ordeal of Heliod
       Selfless Spirit
       Shambling Vent
+      Stirring Wildwood
       Temple Garden (need 2)
       Voice of Resurgence
     </White>
@@ -1096,6 +1107,7 @@ Heliod
   Architect of the Untamed
   Awakening Zone
   Avenger of Zendikar
+  Bant Panorama
   Bloodbriar
   Blossoming Defense
   Boundless Realms  
@@ -1107,6 +1119,7 @@ Heliod
   Cloud Key
   Cloudstone Curio
   Cloudthresher
+  Clutch of Currents
   Coat of Arms
   Commandeer
   Conifer Strider
@@ -1120,6 +1133,8 @@ Heliod
   Doomgape
   Door of Destinies
   Doubling Season
+  Druidic Satchel
+  Elemental Mastery
   Elemental Uprising
   Embodiment of Insight
   Embodiment of Spring
@@ -1141,6 +1156,7 @@ Heliod
   Ior Ruin Expedition
   Khalni Heart Expedition
   Krark-Clan Ironworks ($2+)
+  Lavacore Elemental
   Living Totem
   Living Tsunami
   Llanowar Reborn
@@ -1173,6 +1189,7 @@ Heliod
   Scythe Leopard
   Seed Guardian
   Search for Tomorrow
+  Shorecrasher Elemental
   Simic Manipulator
   Slab Hammer
   Soratami Rainshaper
@@ -1181,10 +1198,12 @@ Heliod
   Strionic Resonator
   Sturdy Hatchling
   Sultai Charm
+  Supreme Exemplar
   Sword of the Animist
   Tideforce Elemental
   Timbermare
   Throne of Geth
+  Torrent Elemental
   Trade Routes
   Undergrowth Champion
   Unexpected Results
@@ -1196,8 +1215,10 @@ Heliod
   Wave-Wing Elemental
   Wild-Field Scarecrow
   Wind Zendikon
+  Wolfbriar Elemental
   Woodland Wanderer
   Zameck Guildmage
+  Zendikar's Roil
 </LandFall>
 <LivingLore>
   Crack the Earth

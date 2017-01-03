@@ -2,46 +2,51 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="50570" Quantity="2" Sideboard="false" Name="Ashen Rider" />
-  <Cards CatID="46281" Quantity="1" Sideboard="false" Name="Azorius Arrester" />
-  <Cards CatID="49553" Quantity="1" Sideboard="false" Name="Blood Bairn" />
-  <Cards CatID="50248" Quantity="2" Sideboard="false" Name="Burnished Hart" />
-  <Cards CatID="51821" Quantity="1" Sideboard="false" Name="Champion of Stray Souls" />
-  <Cards CatID="49407" Quantity="1" Sideboard="false" Name="Corpse Hauler" />
-  <Cards CatID="50466" Quantity="1" Sideboard="false" Name="Disciple of Phenax" />
-  <Cards CatID="46315" Quantity="3" Sideboard="false" Name="Drainpipe Vermin" />
-  <Cards CatID="51727" Quantity="1" Sideboard="false" Name="Eater of Hope" />
-  <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
+  <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
+  <Cards CatID="47749" Quantity="2" Sideboard="false" Name="Merciless Eviction" />
+  <Cards CatID="47819" Quantity="4" Sideboard="false" Name="Alms Beast" />
+  <Cards CatID="52106" Quantity="1" Sideboard="false" Name="Athreos, God of Passage" />
+  <Cards CatID="48270" Quantity="1" Sideboard="false" Name="Blood Baron of Vizkopa" />
+  <Cards CatID="54172" Quantity="4" Sideboard="false" Name="Bloodsoaked Champion" />
+  <Cards CatID="47921" Quantity="3" Sideboard="false" Name="Boros Reckoner" />
+  <Cards CatID="49533" Quantity="1" Sideboard="false" Name="Bubbling Cauldron" />
+  <Cards CatID="30052" Quantity="1" Sideboard="false" Name="Deathbringer Liege" />
   <Cards CatID="52260" Quantity="1" Sideboard="false" Name="Dictate of Erebos" />
-  <Cards CatID="50408" Quantity="1" Sideboard="false" Name="Whip of Erebos" />
-  <Cards CatID="50224" Quantity="2" Sideboard="false" Name="Ordeal of Erebos" />
-  <Cards CatID="49537" Quantity="1" Sideboard="false" Name="Gnawing Zombie" />
-  <Cards CatID="50562" Quantity="1" Sideboard="false" Name="Gray Merchant of Asphodel" />
-  <Cards CatID="52062" Quantity="1" Sideboard="false" Name="Tethmos High Priest" />
-  <Cards CatID="52188" Quantity="1" Sideboard="false" Name="Master of the Feast" />
-  <Cards CatID="49379" Quantity="1" Sideboard="false" Name="Master of Diversion" />
-  <Cards CatID="47751" Quantity="2" Sideboard="false" Name="Nightveil Specter" />
-  <Cards CatID="48257" Quantity="1" Sideboard="false" Name="Obzedat's Aid" />
-  <Cards CatID="49461" Quantity="1" Sideboard="false" Name="Shadowborn Apostle" />
-  <Cards CatID="50113" Quantity="1" Sideboard="false" Name="Sin Collector" />
-  <Cards CatID="46681" Quantity="1" Sideboard="false" Name="Slum Reaper" />
-  <Cards CatID="52108" Quantity="1" Sideboard="false" Name="Underworld Coinsmith" />
-  <Cards CatID="47701" Quantity="1" Sideboard="false" Name="Vizkopa Confessor" />
-  <Cards CatID="49381" Quantity="4" Sideboard="false" Name="Celestial Flare" />
-  <Cards CatID="47837" Quantity="3" Sideboard="false" Name="Devour Flesh" />
-  <Cards CatID="49159" Quantity="2" Sideboard="false" Name="Doom Blade" />
-  <Cards CatID="49181" Quantity="2" Sideboard="false" Name="Duress" />
+  <Cards CatID="50912" Quantity="1" Sideboard="false" Name="Divinity of Pride" />
+  <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
+  <Cards CatID="54779" Quantity="1" Sideboard="false" Name="Emeria, the Sky Ruin" />
+  <Cards CatID="22955" Quantity="2" Sideboard="false" Name="Gift of Estates" />
   <Cards CatID="50374" Quantity="3" Sideboard="false" Name="Gift of Immortality" />
-  <Cards CatID="50479" Quantity="1" Sideboard="false" Name="Gods Willing" />
-  <Cards CatID="50596" Quantity="2" Sideboard="false" Name="Hero's Downfall" />
-  <Cards CatID="47825" Quantity="1" Sideboard="false" Name="Mental Vapors" />
-  <Cards CatID="49109" Quantity="2" Sideboard="false" Name="Pacifism" />
-  <Cards CatID="50256" Quantity="3" Sideboard="false" Name="Thoughtseize" />
-  <Cards CatID="52054" Quantity="1" Sideboard="false" Name="Tormented Thoughts" />
-  <Cards CatID="49339" Quantity="2" Sideboard="false" Name="Trading Post" />
-  <Cards CatID="47913" Quantity="1" Sideboard="false" Name="Undercity Plague" />
-  <Cards CatID="46603" Quantity="1" Sideboard="false" Name="Ultimate Price" />
-  <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" />
-  <Cards CatID="52182" Quantity="1" Sideboard="true" Name="Agent of Erebos" />
-  <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
+  <Cards CatID="47453" Quantity="1" Sideboard="false" Name="Godless Shrine" />
+  <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
+  <Cards CatID="49339" Quantity="1" Sideboard="false" Name="Trading Post" />
+  <Cards CatID="47765" Quantity="4" Sideboard="false" Name="High Priest of Penance" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="47857" Quantity="1" Sideboard="false" Name="Kingpin's Pet" />
+  <Cards CatID="47769" Quantity="1" Sideboard="false" Name="Obzedat, Ghost Council" />
+  <Cards CatID="23651" Quantity="1" Sideboard="false" Name="Orzhov Pontiff" />
+  <Cards CatID="58571" Quantity="1" Sideboard="false" Name="Pathway Arrows" />
+  <Cards CatID="37969" Quantity="4" Sideboard="false" Name="Perilous Myr" />
+  <Cards CatID="61763" Quantity="1" Sideboard="false" Name="Restoration Gearsmith" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
+  <Cards CatID="53636" Quantity="1" Sideboard="false" Name="Scuttling Doom Engine" />
+  <Cards CatID="58531" Quantity="3" Sideboard="false" Name="Shambling Vent" />
+  <Cards CatID="48310" Quantity="4" Sideboard="false" Name="Sin Collector" />
+  <Cards CatID="20469" Quantity="1" Sideboard="false" Name="Spawning Pit" />
+  <Cards CatID="53522" Quantity="4" Sideboard="false" Name="Spirit Bonds" />
+  <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
+  <Cards CatID="48266" Quantity="1" Sideboard="false" Name="Teysa, Envoy of Ghosts" />
+  <Cards CatID="23935" Quantity="1" Sideboard="false" Name="Teysa, Orzhov Scion" />
+  <Cards CatID="19735" Quantity="4" Sideboard="false" Name="Viridian Longbow" />
+  <Cards CatID="20267" Quantity="1" Sideboard="false" Name="Worldslayer" />
+  <Cards CatID="47749" Quantity="2" Sideboard="true" Name="Merciless Eviction" />
+  <Cards CatID="35515" Quantity="1" Sideboard="true" Name="Bojuka Bog" />
+  <Cards CatID="58092" Quantity="1" Sideboard="true" Name="Blood-Cursed Knight" />
+  <Cards CatID="39449" Quantity="1" Sideboard="true" Name="Brass Squire" />
+  <Cards CatID="52260" Quantity="1" Sideboard="true" Name="Dictate of Erebos" />
+  <Cards CatID="25895" Quantity="1" Sideboard="true" Name="Gauntlet of Power" />
+  <Cards CatID="22955" Quantity="1" Sideboard="true" Name="Gift of Estates" />
+  <Cards CatID="50374" Quantity="1" Sideboard="true" Name="Gift of Immortality" />
+  <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
+  <Cards CatID="49119" Quantity="1" Sideboard="true" Name="Rod of Ruin" />
 </Deck>
