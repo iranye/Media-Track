@@ -333,55 +333,116 @@
     End Hostilities
     Merciless Eviction
   </Removal>
+  <Contains>
+    Alms Beast
+    Athreos, God of Passage
+    Banisher Priest
+    Blasting Station
+    Blood Baron of Vizkopa
+    Blood-Cursed Knight
+    Bloodsoaked Champion
+    Boros Reckoner
+    Godless Shrine ($5+)
+    Heliod, God of the S
+    Rod of Ruin
+  </Contains>
+  <EquipmentAuras>
+    Aspect of Gorgon
+    Banshee's Blade
+    Blessing of Leeches
+    Brass Squire
+    Darksteel Plate
+    Eland Umbra
+    Gift of Orzhova
+    Gorgon's Head
+    Healer's Headdress
+    Mammoth Umbra
+    Mortarpod
+    Pathway Arrows
+    Ring of Xathrid
+    Vial of Poison
+    Viridian Longbow
+    Worldslayer
+  </EquipmentAuras>
+  <Red>
+    Alesha, Who Smiles at Death
+    Boros Charm
+    Brimstone Mage
+    Dual Shot
+    Fire Whip
+    Frostling
+    Mogg Fanatic
+    Needle Drop
+    Power of Fire
+    Prodigal Pyromancer
+    Spark Jolt
+    Stun Sniper
+  </Red>
   __CreatureGainLifeWhenOtherCreaturesEnterBattlefield__ (e.g., Soul Warden)
-  Alms Beast
-  Athreos, God of Passage
-  Blasting Station
-  Blood Baron of Vizkopa
-  Blood-Cursed Knight
-  Bloodsoaked Champion
-  Boros Reckoner
-  Brass Squire
-  Bubbling Cauldron
-  Clone Shell
+  Bygone Bishop
+  Carom
+  Coat with Venom
   Concealed Courtyard
+  Crossbow Infantry
+  Granite Shard
+  D'Avenant Archer
   Deathbringer Liege
+  Devout Chaplain
   Dictate of Erebos
   Divinity of Pride
+  Edge of the Divinity
+  Eight-and-a-Half-Tails
   Emeria, the Sky Ruin
   Forbidden Orchard
+  Funeral Charm
   Gauntlet of Power
   Gift of Estates
-  Gift of Immortality
-  Godless Shrine ($5+)
-  Heliod, God of the Sun
-  High Priest of Penance
+  Grand Abolisher
   Holdout Settlement
-  Jinxed Idol
+  Immortal Servitude
   Kambal, Consul of Allocation
+  Kemba, Kha Regent
   KingPin's Pet
+  Kor Sanctifiers
+  Liliana, Heretical Healer
+  Mesa Enchantress
+  Midnight Charm
+  Mikaeus, the Lunarch
+  Nomad Mythmaker
   Obzedat, Ghost Council
+  Oracle of Nectars
+  Order of the Stars
+  Order of Whiteclay
+  Orzhov Charm
   Orzhov Pontiff
-  Pathway Arrows
-  Perilous Myr
+  Outrider en-Kor
+  Pious Evangel
   Restoration Gearsmith
-  Rod of Ruin
-  Scuttling Doom Engine
+  Rush of Vitality
   Selfless Spirit
   Semblance Anvil
   Shambling Vent
+  Skirsdag High Priest
   Sigarda's Aid
   Sin Collector
+  Sorin Markov
+  Sorin, Lord of Innistrad
+  Sorin, Solemn Visitor
   Spawning Pit
   Spirit Bonds
   Strionic Resonator
+  Suture Priest
   Talon of Pain
   Teysa, Envoy of Ghosts
   Teysa, Orzhov Scion
   Tidehollow Sculler
+  Touch of Moonglove
   Trading Post
-  Viridian Longbow
-  Worldslayer
+  Transcendent Master
+  Treasury Thrall
+  True Believers
+  Underworld Coinsmith
+  Vampire Envoy
 </BlackWhiteSac>
 <ColorKill>
   Devout Lightcaster
@@ -757,6 +818,7 @@
   Invocation of Saint Traft
   Kor Spiritdancer
   Long Road Home
+  Meddling Mage
   Mesa Enchantress
   Panharmonicon
   Plumeveil
@@ -781,6 +843,13 @@
   Hornet Nest
 </ForceAttacks>
 <FourPowerMobs>
+<FourPowerElementals>
+  Brackwater Elemental
+  Brighthearth Banneret
+  Nova Chaser
+  Smokebraider
+  Thornling
+</FourPowerElementals>
   <Madness>
     Avacyn's Judgment
     Avalanche Tusker
@@ -1040,6 +1109,7 @@ Heliod
     <AllColors>
       Fusion Elemental
       Genju of the Realm
+      Horde of Notions
       Rupture Spire
     </AllColors>
     <Red>
@@ -1200,6 +1270,7 @@ Heliod
   Sultai Charm
   Supreme Exemplar
   Sword of the Animist
+  Tamiyo, Field Researcher
   Tideforce Elemental
   Timbermare
   Throne of Geth
@@ -1286,6 +1357,10 @@ NON-CREATURES:
   Parallel Lives
   *for 2+1BLACK, discard a card and put a Pack Rat token into play
 </PackRats>
+<Pyxis>
+  Moonring Island
+  Pyxis of Pandemonium
+</Pyxis>
 <RedBlueIzzet>
   Aethertorch Renegade
   Arcane Teachings
