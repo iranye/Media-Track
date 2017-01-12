@@ -340,11 +340,14 @@
     Blasting Station
     Blood Baron of Vizkopa
     Blood-Cursed Knight
-    Bloodsoaked Champion
     Boros Reckoner
-    Godless Shrine ($5+)
-    Heliod, God of the S
-    Rod of Ruin
+    Godless Shrine
+    Heliod, God of the Sun
+    Immortal Servitude
+    Shambling Vent
+    Spirit Bonds
+    Strionic Resonator
+    Tidehollow Sculler
   </Contains>
   <EquipmentAuras>
     Aspect of Gorgon
@@ -371,9 +374,7 @@
     Dual Shot
     Fire Whip
     Frostling
-    Mogg Fanatic
     Needle Drop
-    Power of Fire
     Prodigal Pyromancer
     Spark Jolt
     Stun Sniper
@@ -384,44 +385,37 @@
   Coat with Venom
   Concealed Courtyard
   Crossbow Infantry
+  Dark Dabbling
   Granite Shard
-  D'Avenant Archer
   Deathbringer Liege
   Devout Chaplain
   Dictate of Erebos
   Divinity of Pride
   Edge of the Divinity
+  Eidolon of Rhetoric
   Eight-and-a-Half-Tails
-  Emeria, the Sky Ruin
-  Forbidden Orchard
-  Funeral Charm
-  Gauntlet of Power
-  Gift of Estates
   Grand Abolisher
-  Holdout Settlement
-  Immortal Servitude
+  Holdout Settlement  
   Kambal, Consul of Allocation
   Kemba, Kha Regent
   KingPin's Pet
   Kor Sanctifiers
   Liliana, Heretical Healer
   Mesa Enchantress
+  Michiko Konda, Truth Seeker
   Midnight Charm
   Mikaeus, the Lunarch
+  Necrobite
   Nomad Mythmaker
-  Obzedat, Ghost Council
   Oracle of Nectars
-  Order of the Stars
   Order of Whiteclay
   Orzhov Charm
   Orzhov Pontiff
   Outrider en-Kor
-  Pious Evangel
-  Restoration Gearsmith
+  Pariah
   Rush of Vitality
   Selfless Spirit
   Semblance Anvil
-  Shambling Vent
   Skirsdag High Priest
   Sigarda's Aid
   Sin Collector
@@ -429,20 +423,16 @@
   Sorin, Lord of Innistrad
   Sorin, Solemn Visitor
   Spawning Pit
-  Spirit Bonds
-  Strionic Resonator
   Suture Priest
-  Talon of Pain
-  Teysa, Envoy of Ghosts
-  Teysa, Orzhov Scion
-  Tidehollow Sculler
   Touch of Moonglove
-  Trading Post
   Transcendent Master
-  Treasury Thrall
-  True Believers
+  Treasury Thrull
+  True Believer
+  Umbra Mystic
   Underworld Coinsmith
+  Volatile Rig
   Vampire Envoy
+  Will-o'-the-Wisp
 </BlackWhiteSac>
 <ColorKill>
   Devout Lightcaster
@@ -843,13 +833,6 @@
   Hornet Nest
 </ForceAttacks>
 <FourPowerMobs>
-<FourPowerElementals>
-  Brackwater Elemental
-  Brighthearth Banneret
-  Nova Chaser
-  Smokebraider
-  Thornling
-</FourPowerElementals>
   <Madness>
     Avacyn's Judgment
     Avalanche Tusker
@@ -922,11 +905,13 @@
   Precinct Captain
   Primeval Bounty
   Pyrewild Shaman
+  Rage Nimbus
   Raise the Alarm
   Riparian Tiger
   Rumbling Slum
   Sabertooth Outrider
   Sagu Mauler
+  Sarkhan the Mad
   Savage Summoning
   Scout the Borders
   See the Unwritten
@@ -1042,6 +1027,14 @@
   Xenagos, the Reveler
   </TOSORT>
 </FourPowerMobs>
+<FourPowerElementals>
+  Brackwater Elemental
+  Brighthearth Banneret
+  Nova Chaser
+  Rage Nimbus
+  Smokebraider
+  Thornling
+</FourPowerElementals>
 <Goats>
   __Changeling__ Spells
   __Populate__ Spells
