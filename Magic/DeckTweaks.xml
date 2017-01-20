@@ -342,6 +342,7 @@
     Blood-Cursed Knight
     Boros Reckoner
     Godless Shrine
+    Granite Shard
     Heliod, God of the Sun
     Immortal Servitude
     Shambling Vent
@@ -360,6 +361,7 @@
     Gorgon's Head
     Healer's Headdress
     Mammoth Umbra
+    Mask of Avacyn
     Mortarpod
     Pathway Arrows
     Ring of Xathrid
@@ -374,39 +376,68 @@
     Dual Shot
     Fire Whip
     Frostling
+    Iroas, God of Victory
     Needle Drop
     Prodigal Pyromancer
     Spark Jolt
     Stun Sniper
   </Red>
-  __CreatureGainLifeWhenOtherCreaturesEnterBattlefield__ (e.g., Soul Warden)
+  <GainLife>
+    Aerial Responder
+    Basilik Collar
+    Divinity of Pride
+    Fiendslayer Paladin
+    Mourning Thrull
+    Scourge of the Nobilis    
+    Soul Warden
+    Vault Skirge
+    Westvale Abbey
+    Whip of Erebos
+  </GainLife>
+  <ReturnFromGrave>
+    Doomed Necromancer
+    Hell's Caretaker
+  </ReturnFromGrave>
+  <Wipe>
+    Crux of Fate
+    Damnation
+    Day of Judgement
+    Fumigate
+    Magus of the Disk
+    Wrath of God
+  </Wipe>
   Archangel of Tithes
   Bygone Bishop
   Carom
   Coat with Venom
+  Collateral Damage
   Concealed Courtyard
   Crossbow Infantry
   Dark Dabbling
-  Granite Shard
   Deathbringer Liege
   Devout Chaplain
   Dictate of Erebos
-  Divinity of Pride
+  Dutiful Attendant
   Edge of the Divinity
   Eidolon of Rhetoric
   Eight-and-a-Half-Tails
+  Fallen Ideal
+  Fiendslayer Paladin
   Grand Abolisher
+  Hanweir Militia Captain
+  Hidden Dragonslayer
   Holdout Settlement  
   Kambal, Consul of Allocation
   Kemba, Kha Regent
   KingPin's Pet
   Kor Sanctifiers
   Liliana, Heretical Healer
+  Martyred Rusalka
+  Mentor of the Meek
   Mesa Enchantress
   Michiko Konda, Truth Seeker
   Midnight Charm
   Mikaeus, the Lunarch
-  Mourning Thrull
   Necrobite
   Nomad Mythmaker
   Oracle of Nectars
@@ -414,16 +445,20 @@
   Orzhov Charm
   Orzhov Pontiff
   Outrider en-Kor
+  Pain Seer
   Pariah
+  Quest for the Gravelord
   Rush of Vitality
   Selfless Spirit
   Semblance Anvil
+  Seraph of the Sword
   Skirsdag High Priest
   Sigarda's Aid
   Sin Collector
   Sorin Markov
   Sorin, Lord of Innistrad
   Sorin, Solemn Visitor
+  Spellskite
   Spawning Pit
   Suture Priest
   Touch of Moonglove
@@ -435,6 +470,7 @@
   Volatile Rig
   Vampire Envoy
   Will-o'-the-Wisp
+  Zealous Persecution
 </BlackWhiteSac>
 <ColorKill>
   Devout Lightcaster
@@ -1291,6 +1327,7 @@ Heliod
   Villainous Wealth
   Vortex Elemental
   Wave-Wing Elemental
+  Wayfarer's Bauble
   Wild-Field Scarecrow
   Wind Zendikon
   Wolfbriar Elemental
@@ -1462,6 +1499,7 @@ NON-CREATURES:
   Miming Slime  
   Mentor of the Meek
   Mirrorpool
+  Mortarpod
   Mycoloth
   Nissa, Vastwood Seer
   Nissa, Voice of Zendikar
@@ -1500,6 +1538,7 @@ NON-CREATURES:
   Westvale Abbey
   Windborn Muse
   Wingmate Roc
+  Woolly Razorback
 </Tokens>
 <WasteNot>
   <Green>

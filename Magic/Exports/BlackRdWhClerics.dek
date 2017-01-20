@@ -3,8 +3,7 @@
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
-  <Cards CatID="53504" Quantity="1" Sideboard="false" Name="Ajani Steadfast" />
-  <Cards CatID="47819" Quantity="1" Sideboard="false" Name="Alms Beast" />
+  <Cards CatID="51813" Quantity="1" Sideboard="false" Name="Pain Seer" />
   <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
   <Cards CatID="47921" Quantity="2" Sideboard="false" Name="Boros Reckoner" />
   <Cards CatID="61102" Quantity="2" Sideboard="false" Name="Selfless Spirit" />
@@ -13,7 +12,6 @@
   <Cards CatID="21861" Quantity="3" Sideboard="false" Name="Frostling" />
   <Cards CatID="47453" Quantity="2" Sideboard="false" Name="Godless Shrine" />
   <Cards CatID="47765" Quantity="4" Sideboard="false" Name="High Priest of Penance" />
-  <Cards CatID="53688" Quantity="1" Sideboard="false" Name="Heliod's Pilgrim" />
   <Cards CatID="61859" Quantity="1" Sideboard="false" Name="Concealed Courtyard" />
   <Cards CatID="61591" Quantity="1" Sideboard="false" Name="Plains" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
@@ -22,38 +20,38 @@
   <Cards CatID="53522" Quantity="2" Sideboard="false" Name="Spirit Bonds" />
   <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
   <Cards CatID="61847" Quantity="1" Sideboard="false" Name="Swamp" />
-  <Cards CatID="52278" Quantity="1" Sideboard="false" Name="Brain Maggot" />
+  <Cards CatID="36360" Quantity="1" Sideboard="false" Name="Inquisition of Kozilek" />
   <Cards CatID="53316" Quantity="3" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="46513" Quantity="3" Sideboard="false" Name="Plains" />
   <Cards CatID="54166" Quantity="1" Sideboard="false" Name="Nomad Outpost" />
   <Cards CatID="50268" Quantity="3" Sideboard="false" Name="Temple of Silence" />
-  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
   <Cards CatID="22373" Quantity="1" Sideboard="false" Name="Soul Warden" />
   <Cards CatID="60060" Quantity="1" Sideboard="false" Name="Mountain" />
   <Cards CatID="51559" Quantity="1" Sideboard="false" Name="Gorgon's Head" />
   <Cards CatID="36706" Quantity="1" Sideboard="false" Name="Eland Umbra" />
-  <Cards CatID="52136" Quantity="1" Sideboard="false" Name="Godsend" />
   <Cards CatID="57876" Quantity="1" Sideboard="false" Name="Kytheon, Hero of Akros" />
-  <Cards CatID="60268" Quantity="1" Sideboard="false" Name="Dual Shot" />
+  <Cards CatID="60268" Quantity="2" Sideboard="false" Name="Dual Shot" />
   <Cards CatID="52256" Quantity="1" Sideboard="false" Name="Aegis of the Gods" />
-  <Cards CatID="9199" Quantity="1" Sideboard="false" Name="Fire Whip" />
-  <Cards CatID="57941" Quantity="1" Sideboard="false" Name="Liliana, Heretical Healer" />
+  <Cards CatID="49531" Quantity="2" Sideboard="false" Name="Fiendslayer Paladin" />
   <Cards CatID="20009" Quantity="3" Sideboard="false" Name="Granite Shard" />
   <Cards CatID="50214" Quantity="1" Sideboard="false" Name="Ordeal of Heliod" />
   <Cards CatID="26988" Quantity="1" Sideboard="false" Name="Prodigal Pyromancer" />
   <Cards CatID="47837" Quantity="1" Sideboard="false" Name="Devour Flesh" />
-  <Cards CatID="49395" Quantity="1" Sideboard="false" Name="Archangel of Thune" />
+  <Cards CatID="49541" Quantity="1" Sideboard="false" Name="Seraph of the Sword" />
   <Cards CatID="58531" Quantity="1" Sideboard="false" Name="Shambling Vent" />
   <Cards CatID="23590" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
   <Cards CatID="55340" Quantity="1" Sideboard="false" Name="Battle Brawler" />
   <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
   <Cards CatID="54969" Quantity="1" Sideboard="false" Name="Skirsdag High Priest" />
-  <Cards CatID="24187" Quantity="1" Sideboard="false" Name="Nettling Curse" />
+  <Cards CatID="55930" Quantity="1" Sideboard="false" Name="Duress" />
   <Cards CatID="54250" Quantity="1" Sideboard="false" Name="Zurgo Helmsmasher" />
   <Cards CatID="47477" Quantity="1" Sideboard="false" Name="Boros Charm" />
-  <Cards CatID="47749" Quantity="2" Sideboard="true" Name="Merciless Eviction" />
+  <Cards CatID="42418" Quantity="1" Sideboard="false" Name="Abattoir Ghoul" />
+  <Cards CatID="49189" Quantity="1" Sideboard="false" Name="Brave the Elements" />
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="49189" Quantity="1" Sideboard="true" Name="Brave the Elements" />
   <Cards CatID="52256" Quantity="2" Sideboard="true" Name="Aegis of the Gods" />
-  <Cards CatID="23651" Quantity="1" Sideboard="true" Name="Orzhov Pontiff" />
+  <Cards CatID="52260" Quantity="1" Sideboard="true" Name="Dictate of Erebos" />
   <Cards CatID="19735" Quantity="1" Sideboard="true" Name="Viridian Longbow" />
   <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
   <Cards CatID="23935" Quantity="1" Sideboard="true" Name="Teysa, Orzhov Scion" />
@@ -63,5 +61,6 @@
   <Cards CatID="60268" Quantity="1" Sideboard="true" Name="Dual Shot" />
   <Cards CatID="24135" Quantity="1" Sideboard="true" Name="Carom" />
   <Cards CatID="21001" Quantity="1" Sideboard="true" Name="Eight-and-a-Half-Tails" />
-  <Cards CatID="54925" Quantity="1" Sideboard="true" Name="Grand Abolisher" />
+  <Cards CatID="34652" Quantity="1" Sideboard="true" Name="Devout Lightcaster" />
+  <Cards CatID="57941" Quantity="1" Sideboard="true" Name="Liliana, Heretical Healer" />
 </Deck>
