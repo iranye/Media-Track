@@ -330,8 +330,7 @@
 <BlackWhiteSac>
   <Removal>
     Bojuka Bog
-    End Hostilities
-    Merciless Eviction
+    Tragic Slip
   </Removal>
   <Contains>
     Alms Beast
@@ -382,6 +381,7 @@
     Prodigal Pyromancer
     Spark Jolt
     Stun Sniper
+    Taurean Mauler
   </Red>
   <GainLife>
     Aerial Responder
@@ -399,13 +399,18 @@
   <ReturnFromGrave>
     Doomed Necromancer
     Hell's Caretaker
+    Soul Stair Expedition
   </ReturnFromGrave>
   <Wipe>
     Crux of Fate
     Damnation
     Day of Judgement
+    End Hostilities
     Fumigate
     Magus of the Disk
+    Merciless Eviction
+    Scourglass
+    Whipflare
     Wrath of God
   </Wipe>
   Archangel of Tithes
@@ -460,6 +465,7 @@
   Sorin Markov
   Sorin, Lord of Innistrad
   Sorin, Solemn Visitor
+  Soul of New Phyrexia
   Spellskite
   Spawning Pit
   Suture Priest
@@ -1074,6 +1080,7 @@
   Nova Chaser
   Rage Nimbus
   Smokebraider
+  Taurean Mauler
   Thornling
 </FourPowerElementals>
 <Goats>
