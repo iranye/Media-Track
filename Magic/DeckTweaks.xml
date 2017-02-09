@@ -329,7 +329,9 @@
 </Arty>
 <BlackWhiteSac>
   <Removal>
+    Angelic Purge
     Bojuka Bog
+    Revoke Existence
     Tragic Slip
   </Removal>
   <Contains>
@@ -430,6 +432,7 @@
   Eight-and-a-Half-Tails
   Fallen Ideal
   Fiendslayer Paladin
+  Ghostly Prison
   Grand Abolisher
   Hanweir Militia Captain
   Hidden Dragonslayer
@@ -439,6 +442,7 @@
   KingPin's Pet
   Kor Sanctifiers
   Liliana, Heretical Healer
+  Luminarch Ascension
   Martyred Rusalka
   Mentor of the Meek
   Mesa Enchantress
@@ -954,6 +958,7 @@
   Rage Nimbus
   Raise the Alarm
   Riparian Tiger
+  Roil Spout
   Rumbling Slum
   Sabertooth Outrider
   Sagu Mauler
@@ -1079,9 +1084,14 @@
   Brighthearth Banneret
   Nova Chaser
   Rage Nimbus
+  Roil Spout
+  Rumbling Slum
   Smokebraider
+  Soul of the Harvest
   Taurean Mauler
   Thornling
+  Timbermare
+  Woodland Wanderer
 </FourPowerElementals>
 <Goats>
   __Changeling__ Spells
@@ -1166,6 +1176,7 @@ Heliod
       Omnath, Locus of Rage
       Plated Geopede
       Smokebraider
+      Temur Battle Rage
     </Red>
     <White>
       Angelic Destiny
@@ -1451,7 +1462,6 @@ NON-CREATURES:
   Pyrewild Shaman
   Regal Force
   Reverent Hunter
-  Roil Spout
   Rumbling Slum
   Savage Summoning
   Savageborn Hydra
@@ -1512,8 +1522,10 @@ NON-CREATURES:
   Mycoloth
   Nissa, Vastwood Seer
   Nissa, Voice of Zendikar
+  Nuisance Engine
   Oran-Rief, the Vastwood
   Parallel Lives
+  Prophetic Prism
   Pulse of the Tangle
   Raise the Alarm
   Rancor
