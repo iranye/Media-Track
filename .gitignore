@@ -38,7 +38,9 @@ packages/
 *.mp3
 *.mpeg
 *.mp4
+*.mts
 *.nrg
+*.ogg
 *.pdf
 *.rtf
 *.swp

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="C:\Users\inye\OneDrive\Music\MP3s\B-52s">
+  <FileItemList>
+    <FileItem name="AlbumArtSmall.jpg">
+      <Size>9354</Size>
+      <MD5Hash>0x667F9F49CFCF80B283815CC2B9336FB4</MD5Hash>
+    </FileItem>
+    <FileItem name="AlbumArt_{F4098DC8-BA81-4597-A1E8-CAC32487A6BE}_Large.jpg">
+      <Size>32326</Size>
+      <MD5Hash>0xD0D02A63DDF7FEEC43E46118C17EE153</MD5Hash>
+    </FileItem>
+    <FileItem name="AlbumArt_{F4098DC8-BA81-4597-A1E8-CAC32487A6BE}_Small.jpg">
+      <Size>9354</Size>
+      <MD5Hash>0x667F9F49CFCF80B283815CC2B9336FB4</MD5Hash>
+    </FileItem>
+    <FileItem name="B-52s_01_Cosmic Thing.mp3">
+      <Size>5900786</Size>
+      <MD5Hash>0x0C8536EBE8D65A4E1A166FB96F3EDB3C</MD5Hash>
+    </FileItem>
+    <FileItem name="B-52s_02_Dry County.mp3">
+      <Size>7575680</Size>
+      <MD5Hash>0xB181AA107D26990CFF608CFF75C93F47</MD5Hash>
+    </FileItem>
+    <FileItem name="B-52s_03_Deadbeat Club.mp3">
+      <Size>7411840</Size>
+      <MD5Hash>0x34B2F8EF6E967324D64CE293D555F011</MD5Hash>
+    </FileItem>
+    <FileItem name="B-52s_04_Love Shack.mp3">
+      <Size>8272007</Size>
+      <MD5Hash>0x825EF70CB7F506CB9184FD45B363197C</MD5Hash>
+    </FileItem>
+    <FileItem name="B-52s_05_Junebug.mp3">
+      <Size>7557248</Size>
+      <MD5Hash>0x30184C028CC8754DB139C7B7BFBA6D4C</MD5Hash>
+    </FileItem>
+    <FileItem name="B-52s_06_Roam.mp3">
+      <Size>7340160</Size>
+      <MD5Hash>0xB1638F017EA0AF463531A789CD447DCE</MD5Hash>
+    </FileItem>
+    <FileItem name="B-52s_07_Bushfire.mp3">
+      <Size>7631140</Size>
+      <MD5Hash>0xD6663FEE39FED614E14AC66F4A83EF95</MD5Hash>
+    </FileItem>
+    <FileItem name="B-52s_08_Channel Z.mp3">
+      <Size>7364736</Size>
+      <MD5Hash>0xFE1EF04FC7942FA0BBE8639876EBC90D</MD5Hash>
+    </FileItem>
+    <FileItem name="B-52s_09_Topaz.mp3">
+      <Size>6633600</Size>
+      <MD5Hash>0xB919EF2CFFF1FE963E138D8599212F9D</MD5Hash>
+    </FileItem>
+    <FileItem name="B-52s_10_Follow Your Bliss.mp3">
+      <Size>6262912</Size>
+      <MD5Hash>0x1F9E6239B85594502BC2E3C87402B617</MD5Hash>
+    </FileItem>
+    <FileItem name="Folder.jpg">
+      <Size>32326</Size>
+      <MD5Hash>0xD0D02A63DDF7FEEC43E46118C17EE153</MD5Hash>
+    </FileItem>
+    <FileItem name="_B52s.m3u">
+      <Size>245</Size>
+      <MD5Hash>0x642EE2ED5AEE461AE7887FA9B6F0C820</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

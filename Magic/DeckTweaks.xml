@@ -370,6 +370,10 @@
     Viridian Longbow
     Worldslayer
   </EquipmentAuras>
+  <Blue>
+    Merieke Ri Berit
+    Ovinomancer
+  </Blue>
   <Red>
     Alesha, Who Smiles at Death
     Boros Charm
@@ -398,6 +402,10 @@
     Westvale Abbey
     Whip of Erebos
   </GainLife>
+  <Madness>  
+    Bloodhall Priest
+    Senseless Rage
+  </Madness>
   <ReturnFromGrave>
     Doomed Necromancer
     Hell's Caretaker
@@ -576,8 +584,8 @@
   Sandstepp outcast
   Secure the Wastes
   Shadow Guildmage
-  Shambling Vent
   Sin Collector
+  Terminate
   Twilight Drover
   Uncle Istvan
   Valorous Stance
@@ -898,6 +906,7 @@
     Grimoire of the Dead
     Incorrigible Youths
     Jaya Ballard, Task Mage
+    Just the Wind
     Razormane Masticore
     Reckless Wurm
     Vexing Sphinx
@@ -954,6 +963,7 @@
   Penumbra Spider
   Precinct Captain
   Primeval Bounty
+  Progenitor Mimic
   Pyrewild Shaman
   Rage Nimbus
   Raise the Alarm
@@ -1083,6 +1093,7 @@
   Brackwater Elemental
   Brighthearth Banneret
   Nova Chaser
+  Progenitor Mimic
   Rage Nimbus
   Roil Spout
   Rumbling Slum
@@ -1322,6 +1333,7 @@ Heliod
   Seed Guardian
   Search for Tomorrow
   Shorecrasher Elemental
+  Simic Charm
   Simic Manipulator
   Slab Hammer
   Soratami Rainshaper

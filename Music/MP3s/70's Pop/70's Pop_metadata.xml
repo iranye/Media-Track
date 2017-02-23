@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="C:\Users\Ira\OneDrive\Music\MP3s\70's Pop">
+  <FileItemList>
+    <FileItem name="Various Artists-10cc - The Things We Do For Love.mp3">
+      <Size>3960823</Size>
+      <MD5Hash>0xC0641A38A52A5C42299ED5822263E7CA</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-Andrew Gold - Lonely Boy.mp3">
+      <Size>4068893</Size>
+      <MD5Hash>0xDDECCAB906595BAFDCCE8E003A66F9E5</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-Andrew Gold - Thank You For Being A Friend.mp3">
+      <Size>4836692</Size>
+      <MD5Hash>0x771B4E9638DF2FB17D64CAF57FFC7869</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-Andy Kim - Rock Me Gently.mp3">
+      <Size>3866343</Size>
+      <MD5Hash>0x7B01BF6F827579D531399615078EE7E4</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-Bay City Rollers - Saturday Night.mp3">
+      <Size>2924996</Size>
+      <MD5Hash>0x7EDBABC9ADE7E5E794D6B573AE230D82</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-Blue Swede - Hooked On A Feeling.mp3">
+      <Size>3042157</Size>
+      <MD5Hash>0x318BAA21ACB57363B3C1C4ED533B1579</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-Gary Wright - Love Is Alive.mp3">
+      <Size>3714525</Size>
+      <MD5Hash>0x2BBFE8DE2D45D9C635000893990015A2</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-Jay Ferguson - Thunder Island.mp3">
+      <Size>4371293</Size>
+      <MD5Hash>0x768865C5953658722401273F44DB79C6</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-Lobo - Me And You And A Dog Named Boo.mp3">
+      <Size>3331649</Size>
+      <MD5Hash>0x32C0E5A0B2C87F10976065C9D4826A78</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-Looking Glass - Brandy (You're A Fine Girl).mp3">
+      <Size>3291851</Size>
+      <MD5Hash>0xC9B3957932B93BD43C2813E2329B0E0B</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-Neil Sedaka - Bad Blood.mp3">
+      <Size>2815450</Size>
+      <MD5Hash>0x73C610BF249880E550B0C31481B59180</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-Orleans - Still The One.mp3">
+      <Size>4358953</Size>
+      <MD5Hash>0x2C65EFDA3B0960FA81C1E0F66FCF0246</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-Pilot - Magic.mp3">
+      <Size>2530031</Size>
+      <MD5Hash>0xEB73708B1A8FE68732E58A2B2073BBA7</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-Starbuck - Moonlight Feels Right.mp3">
+      <Size>3511379</Size>
+      <MD5Hash>0x85599D48D6C7F92CBA896D8301C450C4</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-The Grass Roots - Sooner Or Later.mp3">
+      <Size>2857139</Size>
+      <MD5Hash>0x54B223E5BB4F37FA1CAD7BEBA114F0A8</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-The Sanford Townsend Band - Smoke From A Distant Fire.mp3">
+      <Size>3946267</Size>
+      <MD5Hash>0xC29B98BC346920E9F1EBE8CD9BADDD11</MD5Hash>
+    </FileItem>
+    <FileItem name="Various Artists-Walter Egan - Magnet And Steel.mp3">
+      <Size>3478803</Size>
+      <MD5Hash>0x56A7CF80B46F4E7352E53247370E32BA</MD5Hash>
+    </FileItem>
+    <FileItem name="_70's Pop.md5">
+      <Size>1781</Size>
+      <MD5Hash>0xBB9D11C1D15B9677EAF97BFC9EE78DFA</MD5Hash>
+    </FileItem>
+    <FileItem name="_70sPop.m3u">
+      <Size>905</Size>
+      <MD5Hash>0x4D85CCF629ED25858506716FBAD4E601</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

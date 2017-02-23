@@ -15,6 +15,7 @@
   <Cards CatID="60378" Quantity="1" Sideboard="false" Name="Drownyard Temple" />
   <Cards CatID="54074" Quantity="2" Sideboard="false" Name="Thornwood Falls" />
   <Cards CatID="50546" Quantity="1" Sideboard="false" Name="Vaporkin" />
+  <Cards CatID="21225" Quantity="2" Sideboard="false" Name="Budoka Gardener" />
   <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
   <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
   <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
@@ -47,7 +48,6 @@
   <Cards CatID="62027" Quantity="1" Sideboard="false" Name="Blossoming Defense" />
   <Cards CatID="34626" Quantity="1" Sideboard="false" Name="Oran-Rief, the Vastwood" />
   <Cards CatID="41367" Quantity="1" Sideboard="false" Name="Druidic Satchel" />
-  <Cards CatID="55900" Quantity="1" Sideboard="false" Name="Conifer Strider" />
   <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
   <Cards CatID="56224" Quantity="1" Sideboard="false" Name="Shorecrasher Elemental" />
   <Cards CatID="54406" Quantity="1" Sideboard="true" Name="Hardened Scales" />

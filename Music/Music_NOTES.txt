@@ -5,3 +5,7 @@ Delete ZZ Top remixed songs and create a Shortlist
 
 Look at why 1974-73 isn't in the playlist
 Need to replace 015-Janet Jackson - Escapade.mp3 in 1990's BillboardHits
+
+SONG TO MASSAGE:
+REMOVE LONG SILENCE:
+C:\Media-Tracker\Music\MP3s\Kings of Leon\01-Kings of Leon_11_Holy Roller Novocaine.mp3
