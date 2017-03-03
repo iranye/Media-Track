@@ -351,17 +351,12 @@
     Strionic Resonator
     Tidehollow Sculler
   </Contains>
-  <EquipmentAuras>
-    Aspect of Gorgon
+  <Equipment>
     Banshee's Blade
-    Blessing of Leeches
     Brass Squire
     Darksteel Plate
-    Eland Umbra
-    Gift of Orzhova
     Gorgon's Head
     Healer's Headdress
-    Mammoth Umbra
     Mask of Avacyn
     Mortarpod
     Pathway Arrows
@@ -379,9 +374,10 @@
     Boros Charm
     Brimstone Mage
     Dual Shot
-    Fire Whip
     Frostling
     Iroas, God of Victory
+    Lightning Bolt
+    Lightning Helix
     Master of Cruelties
     Needle Drop
     Prodigal Pyromancer
@@ -394,12 +390,10 @@
     Basilik Collar
     Divinity of Pride
     Fiendslayer Paladin
-    Lightning Helix
+    Loxodon Warhammer
     Mourning Thrull
-    Scourge of the Nobilis    
-    Soul Warden
+    Scourge of the Nobilis
     Vault Skirge
-    Westvale Abbey
     Whip of Erebos
   </GainLife>
   <Madness>  
@@ -423,70 +417,199 @@
     Whipflare
     Wrath of God
   </Wipe>
-  Archangel of Tithes
-  Bygone Bishop
+  <Auras>
+    Angelic Destiny
+    Angelic Gift
+    Arcane Teachings
+    Aspect of Gorgon
+    Blessing of Leeches
+    Bonds of Faith
+    Chosen by Heliod
+    Conviction
+    Curse of Exhaustion
+    Daybreak Coronet
+    Demonic Appetite
+    Detainment Spell
+    Divine Favor
+    Dragon Mantle
+    Edge of the Divinity
+    Eland Umbra
+    Ethereal Armor
+    Fallen Ideal
+    Fire Whip
+    Fractured Loyalty
+    Gift of Orzhova
+    Genju of the Fields
+    Gift of Granite
+    Gryff's Boon
+    Indestructibility
+    Indomitable Will
+    Infernal Scarring
+    Ironclad Slayer
+    Kumano's Blessing
+    Lightning Prowess
+    Lunarch Mantle
+    Mammoth Umbra
+    Mantle of Leadership
+    Mardu Runemark
+    Mutavault
+    Nimbus Wings
+    Oblivion Crown
+    Oppressive Rays
+    Orzhov Charm
+    Pariah
+    Pentarch Ward
+    Pillory of the Sleepless
+    Power of Fire
+    Predator's Gambit
+    Prison Term
+    Prophetic Ravings
+    Senseless Rage
+    Skeletal Grimace
+    Skin Invasion
+    Soul Tithe
+    Spectra Ward
+    Spirit Loop
+    Spirit Mantle
+    Spiteful Motives
+    Stab Wound
+    Tin Street Market
+    Triclopean Sight
+    Underworld Connections
+    Visions of Brutality
+    Weight of Conscience
+  </Auras>
+  <Clerics>
+    Ajani's Sunstriker
+    Arashin Cleric
+    Archangel of Tithes
+    Auriok Champion
+    Ayli, Eternal Pilgrim
+    Banisher Priest
+    Battletide Alchemist
+    Bloodhall Priest
+    Bygone Bishop
+    Cemetery Puca
+    D'Avenant Healer
+    Devout Chaplain
+    Devout Lightcaster
+    Eight-and-a-Half-Tails
+    Geist of Saint Traft
+    Geist of the Lonely Vigil
+    Goldnight Commander
+    Grand Abolisher
+    Hanweir Militia Captain
+    Heliod's Pilgrim
+    Kor Sanctifiers
+    Leonin Arbiter
+    Leonin Abunas
+    Liliana, Heretical Healer
+    Metallic Mimic
+    Mikaeus, the Lunarch
+    Nomad Mythmaker
+    Oracle of Nectars
+    Order of the Stars
+    Orzhov Pontiff
+    Ragamuffyn
+    Resplendent Mentor
+    Sanctum Guardian
+    Selfless Spirit
+    Setessan Battle Priest
+    Shadowborn Apostle
+    Sin Collector
+    Skirsdag Flayer
+    Skirsdag High Priest
+    Skirsdag Supplicant
+    Soltari Priest
+    Soul Warden
+    Soulmender
+    Suture Priest
+    Syndic of Tithes
+    Taurean Mauler
+    Tethmos High Priest
+    Thraben Doomsayer
+    Transcendent Master
+    True Believer
+    Underworld Coinsmith
+    Vampire Envoy
+    War Priest of Thune
+    Weathered Wayfarer
+    Westvale Abbey
+    Witch Hunter
+    Withered Wretch
+    Zealous Inquisitor
+  </Clerics>
+  Acolyte's Reward
+  Assemble the Legion
+  Brave the Sands
   Carom
   Coat with Venom
   Collateral Damage
   Concealed Courtyard
+  Consulate Dreadnought
   Crossbow Infantry
+  Daredevil Dragster
   Dark Dabbling
   Deathbringer Liege
-  Devout Chaplain
+  Decommission
+  Deft Dismissal
   Dictate of Erebos
+  Dovescape
   Dutiful Attendant
-  Edge of the Divinity
   Eidolon of Rhetoric
-  Eight-and-a-Half-Tails
+  Erebos
   Fallen Ideal
-  Fiendslayer Paladin
   Ghostly Prison
-  Grand Abolisher
-  Hanweir Militia Captain
   Hidden Dragonslayer
+  Hidden Stockpile
   Holdout Settlement  
   Kambal, Consul of Allocation
+  Kari Zev's Expertise
   Kemba, Kha Regent
   KingPin's Pet
+  Kolaghan's Command
   Kor Sanctifiers
-  Liliana, Heretical Healer
   Luminarch Ascension
   Martyred Rusalka
+  Meekstone
   Mentor of the Meek
   Mesa Enchantress
   Michiko Konda, Truth Seeker
   Midnight Charm
   Mikaeus, the Lunarch
+  Mirrorweave
   Necrobite
   Nomad Mythmaker
   Oracle of Nectars
   Order of Whiteclay
-  Orzhov Charm
-  Orzhov Pontiff
   Outrider en-Kor
   Pain Seer
   Pariah
+  Pia's Revolution
   Quest for the Gravelord
+  Quicksmith Rebel
+  Recover
+  Renegade's Getaway
+  Resourceful Return
+  Rise of the Hobgoblins
   Rush of Vitality
-  Selfless Spirit
   Semblance Anvil
   Seraph of the Sword
-  Skirsdag High Priest
   Sigarda's Aid
-  Sin Collector
   Sorin Markov
   Sorin, Lord of Innistrad
   Sorin, Solemn Visitor
   Soul of New Phyrexia
+  Soul Stair Expedition
   Spellskite
   Spawning Pit
-  Suture Priest
+  Stony Silence
   Touch of Moonglove
   Transcendent Master
   Treasury Thrull
   True Believer
   Umbra Mystic
-  Underworld Coinsmith
+  Untethered Express
   Volatile Rig
   Vampire Envoy
   Will-o'-the-Wisp
@@ -530,6 +653,7 @@
   Bear Umbra
   Burst of Strength
   Canopy Cover
+  Clout of the Dominus
   Cryptolith Rite
   Curse of Chains
   Deadlock Trap
@@ -544,6 +668,7 @@
   Master of Waves
   Merieke Ri Berit
   Minamo, School at Water's Edge
+  Mobile Garrison
   Ral Zarek
 </DaringIceFeather>
 <Discards>
@@ -571,6 +696,7 @@
   Goblin Rabblemaster
   Kheru Bloodsucker
   Kolaghan's Command
+  Mark of the Oni
   Massacre Wurm
   Merciless Resolve
   Miren, the Moaning Well
@@ -852,12 +978,14 @@
   Cloudblazer
   Council of the Absolute
   Court Hussar
+  Curse of Exhaustion
   Darksteel Sentinel
   Disappearing Act
   Dragonlord Ojutai
   Dust Elemental
   Eiganjo Free-Riders
   Fieldmist Borderpost
+  Flickerform
   Floodtide Serpent
   Glacial Fortress
   Grand Arbiter Augustin IV
@@ -869,14 +997,17 @@
   Meddling Mage
   Mesa Enchantress
   Panharmonicon
+  Plumes of Peace
   Plumeveil
   Pongify
   Reality Acid
   Repel Intruders
+  Roil Spout
   Shaman of Spring
   Sky Hussar
   Spell Queller
   Sphere of Safety
+  Sphinx's Revelation
   Stasis Snare
   Thran Golem
   Wispmare
@@ -911,7 +1042,6 @@
     Reckless Wurm
     Vexing Sphinx
   </Madness>
-  Aether Hub
   Ætherling  
   Ancestral Statue
   Arborback Stomper
@@ -938,7 +1068,8 @@
   Fanatic of Mogis
   Felhide Spiritbinder
   Flameshadow Conjuring
-  Familiar's Ruse
+  Followed Footsteps
+  Fool's Demise
   Giant Solifuge
   Goldnight Castigator
   Groundbreaker
@@ -956,6 +1087,7 @@
   Mirror Mockery
   Mold Shambler
   Mosswort Bridge
+  Narnan Renegade
   Obsidian Fireheart
   Obstinate Baloth
   Pack Guardian
@@ -1092,6 +1224,7 @@
 <FourPowerElementals>
   Brackwater Elemental
   Brighthearth Banneret
+  Foundry Champion
   Nova Chaser
   Progenitor Mimic
   Rage Nimbus
@@ -1245,6 +1378,7 @@ Heliod
   Ageless Entity
   Altered Ego
   Amulet of Vigor ($1+)
+  Ancestral Vengeance
   Animation Module
   Architect of the Untamed
   Awakening Zone
@@ -1258,11 +1392,13 @@ Heliod
   Chameleon Colossus ($2+)
   Changeling Berserker
   Changeling Titan
+  Clockwork Hydra
   Cloud Key
   Cloudstone Curio
   Cloudthresher
   Clutch of Currents
   Coat of Arms
+  Coiling Oracle
   Commandeer
   Conifer Strider
   Corpsejack Menace
@@ -1324,8 +1460,10 @@ Heliod
   Progenitor Mimic
   Rampant Growth
   Rampaging Baloths
+  Rishkar, Peema Renegade
   Retreat to Kazandu
   Retribution of the Ancients
+  Rogue Refiner
   Roil Elemental
   Sakura-Tribe Elder ($2+)
   Scapeshift ($26+)
@@ -1353,6 +1491,7 @@ Heliod
   Trade Routes
   Undergrowth Champion
   Unexpected Results
+  Untethered Express
   Vastwood Zendikon
   Vigean Hydropon
   Vigor
@@ -1456,6 +1595,7 @@ NON-CREATURES:
   Borborygmos Enraged
   Boundless Realms
   Cloudthresher
+  Curse of Stalked Prey
   Decimator of the Provinces
   Doomgape
   Doubling Season
@@ -1466,8 +1606,10 @@ NON-CREATURES:
   Kessig Wolf Run
   Khalni Hydra
   Leatherback Baloth
+  Lifecrafter's Bestiary
   Living Hive
   Mage Slayer
+  Monstrous Onslaught
   Predator Ooze
   Primalcrux
   Primordial Hydra
@@ -1478,6 +1620,7 @@ NON-CREATURES:
   Savage Summoning
   Savageborn Hydra
   Timbermare
+  Trace of Abundance
   Triumph of the Hordes
   Troll Ascetic
   Ulasht, the Hate Seed
@@ -1491,6 +1634,7 @@ NON-CREATURES:
     Llanowar Mentor
 	</Madness>
   Aether Vial
+  Angel of Jubilation
   Archangel of Tithes
   Awakening Zone
   Baloth Cage Trap (Sideboard)
@@ -1512,6 +1656,7 @@ NON-CREATURES:
   Gideon, Ally of Zendikar
   Gideon, Champion of Justice
   Godsire
+  Goldnight Commander
   Hanweir Militia Captain
   Herald of Anafenza
   Hooded Hydra
@@ -1525,6 +1670,7 @@ NON-CREATURES:
   Leyline of the Meek
   Loyal Sentry
   Luminarch Ascension
+  Mantle of Leadership
   Mana Bloom
   Master of the Wild Hunt
   Miming Slime  
@@ -1535,6 +1681,7 @@ NON-CREATURES:
   Nissa, Vastwood Seer
   Nissa, Voice of Zendikar
   Nuisance Engine
+  Oath of Ajani
   Oran-Rief, the Vastwood
   Parallel Lives
   Prophetic Prism
@@ -1543,6 +1690,7 @@ NON-CREATURES:
   Rancor
   Riftmarked Knight
   Rhys the Redeemed
+  Rise of the Hobgoblins
   Roc Egg
   Ronom Unicorn
   Rootborn Defenses
