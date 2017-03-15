@@ -11,3 +11,12 @@ REMOVE LONG SILENCE:
 C:\Media-Tracker\Music\MP3s\Kings of Leon\01-Kings of Leon_11_Holy Roller Novocaine.mp3
 
 Switch 1990's B-52's LoveShack with one that isn't shortened.
+
+De-Dupe:
+"C:\Media-Tracker\MusicRipped\Frédéric Chopin\06" against "C:\Media-Tracker\Music\MP3s\_Classical"
+
+SONGS CUT SHORT:
+C:\Media-Tracker\Music\SimpleDriveMusic\Eric Clapton\1977 - Slowhand\Eric Clapton - Slow Hand - 06 - The Core.mp3
+
+SONG TO COMBINE:
+[C:\Media-Tracker\Music\MP3s\Who\24 - Were Not Gonna Take It (Original Album Edit).mp3]&["See me.  Feel me."]

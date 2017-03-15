@@ -480,6 +480,7 @@
     Weight of Conscience
   </Auras>
   <Clerics>
+    Adaptive Automaton
     Ajani's Sunstriker
     Arashin Cleric
     Archangel of Tithes
@@ -548,6 +549,7 @@
   Concealed Courtyard
   Consulate Dreadnought
   Crossbow Infantry
+  Dance with Devils
   Daredevil Dragster
   Dark Dabbling
   Deathbringer Liege
@@ -570,6 +572,7 @@
   Kolaghan's Command
   Kor Sanctifiers
   Luminarch Ascension
+  Mardu Charm
   Martyred Rusalka
   Meekstone
   Mentor of the Meek
@@ -583,16 +586,16 @@
   Oracle of Nectars
   Order of Whiteclay
   Outrider en-Kor
-  Pain Seer
-  Pariah
   Pia's Revolution
   Quest for the Gravelord
   Quicksmith Rebel
+  Raise the Alarm
   Recover
   Renegade's Getaway
   Resourceful Return
   Rise of the Hobgoblins
   Rush of Vitality
+  Secure the Wastes
   Semblance Anvil
   Seraph of the Sword
   Sigarda's Aid
@@ -661,6 +664,7 @@
   Deceiver Exarch
   Decomission
   Fatal Push
+  Felhide Spiritbinder
   Gifted Aetherborn
   Illusionist's Stratagem
   Mobile Garrison
@@ -1123,6 +1127,7 @@
   Tornado Elemental
   Triumph of the Hordes
   Troll Ascetic
+  Unbridled Growth
   Vedalken Mastermind
   Vengevine
   Vexing Devil
@@ -1232,6 +1237,7 @@
 <FourPowerElementals>
   Brackwater Elemental
   Brighthearth Banneret
+  Duplicant
   Foundry Champion
   Lumbering Falls
   Nova Chaser
@@ -1384,13 +1390,13 @@ Heliod
   ___Awaken__ Spells 
   ___Removal___ (Sideboard in Vortex Elemental with Nivmagus to deal with lots of big creatures).
   Abrupt Decay ($4+)
-  Adaptive Automaton
   Ageless Entity
   Altered Ego
   Amulet of Vigor ($1+)
   Ancestral Vengeance
   Animation Module
   Architect of the Untamed
+  Ashiok, Nightmare Weaver
   Awakening Zone
   Avenger of Zendikar
   Bant Panorama
@@ -1418,6 +1424,7 @@ Heliod
   Cultivator's Caravan
   Cyclone Sire
   Deprive
+  Dimir Infiltrator
   Doomgape
   Door of Destinies
   Doubling Season
@@ -1451,6 +1458,7 @@ Heliod
   Master Biomancer
   Master of Waves
   Mulldrifter
+  Mwonvuli Acid-Moss
   Mycosynth Wellspring
   Myr Retriever
   Nissa, Vastwood Seer
@@ -1462,6 +1470,7 @@ Heliod
   Oboro, Palace in the Clouds ($16+)
   Oran-Rief Hydra
   Ordeal of Thassa
+  Overgrown Tomb
   Pearl Lake Ancient
   Petrified Wood-Kin
   Power Conduit
@@ -1636,6 +1645,7 @@ NON-CREATURES:
   Troll Ascetic
   Ulasht, the Hate Seed
   Ulrich of the Krallenhorde
+  Unbridled Growth
   Vigor
   Vorapede
   Wolfbriar Elemental
@@ -1699,7 +1709,7 @@ NON-CREATURES:
   Pulse of the Tangle
   Raise the Alarm
   Rancor
-  Rengard Rallier
+  Renegade Rallier
   Riftmarked Knight
   Rhys the Redeemed
   Rise of the Hobgoblins
@@ -1725,6 +1735,7 @@ NON-CREATURES:
   Thragtusk
   Tumble Magnet
   Ulvenwald Mysteries
+  Unbridled Growth
   Unruly Mob
   Vessel of Malignity  1Black (2) 
   Wall of Omens

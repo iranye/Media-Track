@@ -3,36 +3,31 @@
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="61833" Quantity="1" Sideboard="false" Name="Island" />
-  <Cards CatID="54406" Quantity="2" Sideboard="false" Name="Hardened Scales" />
   <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="19169" Quantity="2" Sideboard="false" Name="Trade Routes" />
   <Cards CatID="54134" Quantity="2" Sideboard="false" Name="Sultai Charm" />
-  <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
   <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
-  <Cards CatID="62091" Quantity="4" Sideboard="false" Name="Aether Hub" />
+  <Cards CatID="62091" Quantity="3" Sideboard="false" Name="Aether Hub" />
   <Cards CatID="50412" Quantity="2" Sideboard="false" Name="Bow of Nylea" />
   <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
-  <Cards CatID="60378" Quantity="1" Sideboard="false" Name="Drownyard Temple" />
-  <Cards CatID="54074" Quantity="2" Sideboard="false" Name="Thornwood Falls" />
-  <Cards CatID="50546" Quantity="1" Sideboard="false" Name="Vaporkin" />
-  <Cards CatID="21225" Quantity="2" Sideboard="false" Name="Budoka Gardener" />
-  <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
+  <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
+  <Cards CatID="62849" Quantity="1" Sideboard="false" Name="Verdant Automaton" />
+  <Cards CatID="21225" Quantity="1" Sideboard="false" Name="Budoka Gardener" />
+  <Cards CatID="47475" Quantity="3" Sideboard="false" Name="Breeding Pool" />
   <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
   <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
-  <Cards CatID="51665" Quantity="1" Sideboard="false" Name="Vortex Elemental" />
-  <Cards CatID="61921" Quantity="1" Sideboard="false" Name="Glimmer of Genius" />
+  <Cards CatID="59796" Quantity="1" Sideboard="false" Name="Catalog" />
   <Cards CatID="51084" Quantity="1" Sideboard="false" Name="Cultivate" />
   <Cards CatID="36492" Quantity="3" Sideboard="false" Name="Deprive" />
-  <Cards CatID="35515" Quantity="1" Sideboard="false" Name="Bojuka Bog" />
+  <Cards CatID="35515" Quantity="2" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="30915" Quantity="1" Sideboard="false" Name="Bant Panorama" />
-  <Cards CatID="26822" Quantity="1" Sideboard="false" Name="Tolaria West" />
-  <Cards CatID="51851" Quantity="2" Sideboard="false" Name="Courser of Kruphix" />
-  <Cards CatID="46767" Quantity="2" Sideboard="false" Name="Nivmagus Elemental" />
+  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="51851" Quantity="3" Sideboard="false" Name="Courser of Kruphix" />
   <Cards CatID="34584" Quantity="3" Sideboard="false" Name="Living Tsunami" />
-  <Cards CatID="29212" Quantity="1" Sideboard="false" Name="Primal Beyond" />
+  <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="61831" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="48426" Quantity="1" Sideboard="false" Name="Bred for the Hunt" />
-  <Cards CatID="61827" Quantity="1" Sideboard="false" Name="Forest" />
+  <Cards CatID="57650" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="60052" Quantity="1" Sideboard="false" Name="Forest" />
   <Cards CatID="58667" Quantity="4" Sideboard="false" Name="Undergrowth Champion" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
@@ -43,14 +38,22 @@
   <Cards CatID="54226" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="58517" Quantity="1" Sideboard="false" Name="Skyline Cascade" />
   <Cards CatID="53970" Quantity="1" Sideboard="false" Name="Embodiment of Spring" />
-  <Cards CatID="35509" Quantity="1" Sideboard="false" Name="Tideforce Elemental" />
+  <Cards CatID="23518" Quantity="1" Sideboard="false" Name="Doubling Season" />
   <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
-  <Cards CatID="62027" Quantity="1" Sideboard="false" Name="Blossoming Defense" />
+  <Cards CatID="62777" Quantity="1" Sideboard="false" Name="Unbridled Growth" />
   <Cards CatID="34626" Quantity="1" Sideboard="false" Name="Oran-Rief, the Vastwood" />
-  <Cards CatID="41367" Quantity="1" Sideboard="false" Name="Druidic Satchel" />
+  <Cards CatID="53698" Quantity="1" Sideboard="false" Name="Hornet Nest" />
   <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
-  <Cards CatID="56224" Quantity="1" Sideboard="false" Name="Shorecrasher Elemental" />
-  <Cards CatID="54406" Quantity="1" Sideboard="true" Name="Hardened Scales" />
+  <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="54482" Quantity="1" Sideboard="false" Name="Pearl Lake Ancient" />
+  <Cards CatID="50261" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
+  <Cards CatID="46497" Quantity="1" Sideboard="false" Name="Abrupt Decay" />
+  <Cards CatID="62823" Quantity="4" Sideboard="false" Name="Winding Constrictor" />
+  <Cards CatID="47485" Quantity="1" Sideboard="false" Name="Simic Charm" />
+  <Cards CatID="57618" Quantity="1" Sideboard="false" Name="Negate" />
+  <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
+  <Cards CatID="25805" Quantity="2" Sideboard="false" Name="Mwonvuli Acid-Moss" />
+  <Cards CatID="59752" Quantity="1" Sideboard="true" Name="Aim High" />
   <Cards CatID="48520" Quantity="1" Sideboard="true" Name="Far/Away" />
   <Cards CatID="18965" Quantity="1" Sideboard="true" Name="Boomerang" />
   <Cards CatID="48426" Quantity="1" Sideboard="true" Name="Bred for the Hunt" />
@@ -60,6 +63,7 @@
   <Cards CatID="36678" Quantity="1" Sideboard="true" Name="Gravity Well" />
   <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
   <Cards CatID="53338" Quantity="2" Sideboard="true" Name="Back to Nature" />
-  <Cards CatID="57618" Quantity="2" Sideboard="true" Name="Negate" />
-  <Cards CatID="55972" Quantity="1" Sideboard="true" Name="Inspiring Call" />
+  <Cards CatID="57618" Quantity="1" Sideboard="true" Name="Negate" />
+  <Cards CatID="47485" Quantity="1" Sideboard="true" Name="Simic Charm" />
+  <Cards CatID="62027" Quantity="1" Sideboard="true" Name="Blossoming Defense" />
 </Deck>
