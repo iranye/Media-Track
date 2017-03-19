@@ -17,11 +17,10 @@
   <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
   <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
   <Cards CatID="59796" Quantity="1" Sideboard="false" Name="Catalog" />
-  <Cards CatID="51084" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="51084" Quantity="2" Sideboard="false" Name="Cultivate" />
   <Cards CatID="36492" Quantity="3" Sideboard="false" Name="Deprive" />
   <Cards CatID="35515" Quantity="2" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="30915" Quantity="1" Sideboard="false" Name="Bant Panorama" />
-  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
   <Cards CatID="51851" Quantity="3" Sideboard="false" Name="Courser of Kruphix" />
   <Cards CatID="34584" Quantity="3" Sideboard="false" Name="Living Tsunami" />
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
@@ -33,7 +32,7 @@
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
   <Cards CatID="50272" Quantity="2" Sideboard="false" Name="Temple of Mystery" />
-  <Cards CatID="35513" Quantity="1" Sideboard="false" Name="Khalni Garden" />
+  <Cards CatID="61829" Quantity="2" Sideboard="false" Name="Forest" />
   <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
   <Cards CatID="54226" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="58517" Quantity="1" Sideboard="false" Name="Skyline Cascade" />
@@ -43,7 +42,6 @@
   <Cards CatID="62777" Quantity="1" Sideboard="false" Name="Unbridled Growth" />
   <Cards CatID="34626" Quantity="1" Sideboard="false" Name="Oran-Rief, the Vastwood" />
   <Cards CatID="53698" Quantity="1" Sideboard="false" Name="Hornet Nest" />
-  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
   <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
   <Cards CatID="54482" Quantity="1" Sideboard="false" Name="Pearl Lake Ancient" />
   <Cards CatID="50261" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />

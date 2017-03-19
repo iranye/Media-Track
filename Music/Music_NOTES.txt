@@ -10,7 +10,9 @@ SONG TO MASSAGE:
 REMOVE LONG SILENCE:
 C:\Media-Tracker\Music\MP3s\Kings of Leon\01-Kings of Leon_11_Holy Roller Novocaine.mp3
 
+SONGS TO FIND
 Switch 1990's B-52's LoveShack with one that isn't shortened.
+Gorillaz Demon Days Nero NRG
 
 De-Dupe:
 "C:\Media-Tracker\MusicRipped\Frédéric Chopin\06" against "C:\Media-Tracker\Music\MP3s\_Classical"

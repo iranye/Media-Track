@@ -406,6 +406,7 @@
     Soul Stair Expedition
   </ReturnFromGrave>
   <Wipe>
+    Austere Command
     Crux of Fate
     Damnation
     Day of Judgement
@@ -541,6 +542,7 @@
     Zealous Inquisitor
   </Clerics>
   Acolyte's Reward
+  Alley Evasion
   Assemble the Legion
   Brave the Sands
   Carom
@@ -981,6 +983,8 @@
 <Enchants>
   Aether Meltdown
   Aetherling
+  Alley Evasion
+  Angelic Destiny
   Arcanum Wings
   Armament of Nyx
   Azorius Æthermage
@@ -1655,7 +1659,7 @@ NON-CREATURES:
     Llanowar Mentor
 	</Madness>
   Aether Vial
-  Angel of Jubilation
+  Angel of Jubilation (TAKE OUT: Awakening Zone, Trading Post)
   Archangel of Tithes
   Awakening Zone
   Baloth Cage Trap (Sideboard)
