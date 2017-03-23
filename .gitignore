@@ -28,6 +28,8 @@ obj/
 packages/
 
 *.avi
+*.bdm
+*.cpi
 *.doc
 *.flac
 *.gif
@@ -39,11 +41,14 @@ packages/
 *.mpeg
 *.mp4
 *.mts
+*.nar
 *.nrg
 *.ogg
 *.pdf
 *.rtf
 *.swp
+*.thumb
+*.tmp
 *.wav
 *.wma
 *.wtv
