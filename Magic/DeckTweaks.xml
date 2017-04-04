@@ -544,6 +544,7 @@
   Acolyte's Reward
   Alley Evasion
   Assemble the Legion
+  Blood Artist
   Brave the Sands
   Carom
   Coat with Venom
@@ -1322,6 +1323,7 @@ Heliod
   </Mana>
   <OtherColors>
     <AllColors>
+      Bloodhall Ooze
       Fusion Elemental
       Genju of the Realm
       Horde of Notions
@@ -1592,6 +1594,7 @@ NON-CREATURES:
 </Nibbler>
 <PackRats>
   Doubling Season
+  Marrow-Gnawer
   Pack Rat
   Parallel Lives
   *for 2+1BLACK, discard a card and put a Pack Rat token into play
