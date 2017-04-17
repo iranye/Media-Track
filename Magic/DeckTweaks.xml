@@ -324,8 +324,13 @@
   </Twiddle>
 </General>
 <Arty strat="Re-cast permanents that give artifact tokens on enter battlefield">
+  Dispeller's Capsule
   Inventor's Fair
   Key to the City
+  Lotus Bloom
+  Pyrite Spellbomb
+  Salvaging Station
+  Sunbeam Spellbomb
 </Arty>
 <BlackWhiteSac>
   <Removal>
@@ -710,6 +715,7 @@
   Fulminator Mage
   Gideon, Champion of Justice
   Goblin Rabblemaster
+  Jeering Instigator
   Kheru Bloodsucker
   Kolaghan's Command
   Mark of the Oni
@@ -1407,6 +1413,7 @@ Heliod
   Awakening Zone
   Avenger of Zendikar
   Bant Panorama
+  Bassara Tower Archer
   Bloodbriar
   Blossoming Defense
   Boundless Realms  
@@ -1415,8 +1422,10 @@ Heliod
   Chameleon Colossus ($2+)
   Changeling Berserker
   Changeling Titan
+  Chronomaton
   Clockwork Hydra
   Cloud Key
+  Cloudfin Raptor
   Cloudstone Curio
   Cloudthresher
   Clutch of Currents
@@ -1443,6 +1452,7 @@ Heliod
   Etched Oracle
   Eternity Vessel
   Expedition Map
+  Experiment One
   Explosive Vegetation
   Force of Savagery (Add other creatures w/ Graft)
   Gatecreeper Vine
@@ -1452,6 +1462,7 @@ Heliod
   Go for the Throat
   Groundswell
   Hardened Scales
+  Honored Hierarch
   Horizon Spellbomb
   Hydroform
   Inspiring Call
@@ -1468,6 +1479,7 @@ Heliod
   Mwonvuli Acid-Moss
   Mycosynth Wellspring
   Myr Retriever
+  Narnam Renegade
   Nissa, Vastwood Seer
   Nissa, Vital Force
   Nissa, Worldwaker
@@ -1496,6 +1508,7 @@ Heliod
   Scythe Leopard
   Seed Guardian
   Search for Tomorrow
+  Sheltering Word
   Shorecrasher Elemental
   Simic Charm
   Simic Manipulator
@@ -1519,17 +1532,19 @@ Heliod
   Trade Routes
   Undergrowth Champion
   Unexpected Results
+  Undying Evil
   Untethered Express
   Vastwood Zendikon
   Vigean Hydropon
   Vigor
-  Villainous Wealth
+  Villainous Wealth  
+  Void Grafter
   Vortex Elemental
   Wave-Wing Elemental
   Wayfarer's Bauble
   Wild-Field Scarecrow
   Wind Zendikon
-  Winding Constrictor 
+  Witchstalker
   Wolfbriar Elemental
   Woodland Wanderer
   Zameck Guildmage
@@ -1629,6 +1644,7 @@ NON-CREATURES:
   Decimator of the Provinces
   Doomgape
   Doubling Season
+  Electropotence
   Furyborn Hellkite
   Gravity Well (Sideboard)
   Groundbreaker
@@ -1649,6 +1665,7 @@ NON-CREATURES:
   Rumbling Slum
   Savage Summoning
   Savageborn Hydra
+  Sheltering Word
   Timbermare
   Trace of Abundance
   Triumph of the Hordes
