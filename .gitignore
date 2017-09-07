@@ -35,11 +35,14 @@ packages/
 *.gif
 *.jpg
 *.m4a
+*.mdb
+*.mid
 *.mkv
 *.mov
 *.mp3
 *.mpeg
 *.mp4
+*.mpl
 *.mts
 *.nar
 *.nrg
