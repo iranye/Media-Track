@@ -2,82 +2,72 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="35515" Quantity="4" Sideboard="false" Name="Bojuka Bog" />
-  <Cards CatID="57744" Quantity="1" Sideboard="false" Name="Celestial Flare" />
+  <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
-  <Cards CatID="50270" Quantity="1" Sideboard="false" Name="Temple of Triumph" />
-  <Cards CatID="61102" Quantity="3" Sideboard="false" Name="Selfless Spirit" />
+  <Cards CatID="61102" Quantity="2" Sideboard="false" Name="Selfless Spirit" />
   <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
-  <Cards CatID="50374" Quantity="3" Sideboard="false" Name="Gift of Immortality" />
-  <Cards CatID="62583" Quantity="1" Sideboard="false" Name="Conviction" />
+  <Cards CatID="50374" Quantity="2" Sideboard="false" Name="Gift of Immortality" />
+  <Cards CatID="28495" Quantity="1" Sideboard="false" Name="Austere Command" />
   <Cards CatID="47453" Quantity="2" Sideboard="false" Name="Godless Shrine" />
   <Cards CatID="47765" Quantity="4" Sideboard="false" Name="High Priest of Penance" />
   <Cards CatID="61859" Quantity="1" Sideboard="false" Name="Concealed Courtyard" />
+  <Cards CatID="9199" Quantity="2" Sideboard="false" Name="Fire Whip" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="60076" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="48310" Quantity="1" Sideboard="false" Name="Sin Collector" />
-  <Cards CatID="53522" Quantity="2" Sideboard="false" Name="Spirit Bonds" />
-  <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
   <Cards CatID="61847" Quantity="1" Sideboard="false" Name="Swamp" />
-  <Cards CatID="36360" Quantity="1" Sideboard="false" Name="Inquisition of Kozilek" />
-  <Cards CatID="53316" Quantity="3" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="23761" Quantity="2" Sideboard="false" Name="Order of the Stars" />
+  <Cards CatID="53316" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="46513" Quantity="3" Sideboard="false" Name="Plains" />
   <Cards CatID="54166" Quantity="2" Sideboard="false" Name="Nomad Outpost" />
-  <Cards CatID="50268" Quantity="3" Sideboard="false" Name="Temple of Silence" />
+  <Cards CatID="50268" Quantity="2" Sideboard="false" Name="Temple of Silence" />
   <Cards CatID="22373" Quantity="1" Sideboard="false" Name="Soul Warden" />
   <Cards CatID="60060" Quantity="1" Sideboard="false" Name="Mountain" />
-  <Cards CatID="53688" Quantity="2" Sideboard="false" Name="Heliod's Pilgrim" />
-  <Cards CatID="36706" Quantity="1" Sideboard="false" Name="Eland Umbra" />
-  <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
+  <Cards CatID="40595" Quantity="1" Sideboard="false" Name="Wall of Omens" />
   <Cards CatID="60268" Quantity="1" Sideboard="false" Name="Dual Shot" />
-  <Cards CatID="52062" Quantity="1" Sideboard="false" Name="Tethmos High Priest" />
+  <Cards CatID="22857" Quantity="1" Sideboard="false" Name="Will-o'-the-Wisp" />
   <Cards CatID="20009" Quantity="3" Sideboard="false" Name="Granite Shard" />
-  <Cards CatID="21693" Quantity="1" Sideboard="false" Name="Blessing of Leeches" />
-  <Cards CatID="58531" Quantity="1" Sideboard="false" Name="Shambling Vent" />
+  <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
+  <Cards CatID="53688" Quantity="1" Sideboard="false" Name="Heliod's Pilgrim" />
+  <Cards CatID="58531" Quantity="2" Sideboard="false" Name="Shambling Vent" />
   <Cards CatID="23590" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
-  <Cards CatID="40595" Quantity="2" Sideboard="false" Name="Wall of Omens" />
-  <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
-  <Cards CatID="54969" Quantity="2" Sideboard="false" Name="Skirsdag High Priest" />
-  <Cards CatID="55930" Quantity="1" Sideboard="false" Name="Duress" />
+  <Cards CatID="54969" Quantity="1" Sideboard="false" Name="Skirsdag High Priest" />
+  <Cards CatID="25445" Quantity="1" Sideboard="false" Name="Pentarch Ward" />
   <Cards CatID="54432" Quantity="1" Sideboard="false" Name="Crackling Doom" />
   <Cards CatID="47477" Quantity="1" Sideboard="false" Name="Boros Charm" />
-  <Cards CatID="52260" Quantity="1" Sideboard="false" Name="Dictate of Erebos" />
-  <Cards CatID="9199" Quantity="1" Sideboard="false" Name="Fire Whip" />
-  <Cards CatID="45698" Quantity="1" Sideboard="false" Name="Staff of Nin" />
   <Cards CatID="51663" Quantity="1" Sideboard="false" Name="Revoke Existence" />
-  <Cards CatID="50322" Quantity="1" Sideboard="false" Name="Chosen by Heliod" />
-  <Cards CatID="46571" Quantity="1" Sideboard="false" Name="Ethereal Armor" />
-  <Cards CatID="49109" Quantity="1" Sideboard="false" Name="Pacifism" />
-  <Cards CatID="53502" Quantity="1" Sideboard="false" Name="Spectra Ward" />
-  <Cards CatID="50302" Quantity="2" Sideboard="false" Name="Heliod, God of the Sun" />
+  <Cards CatID="50270" Quantity="1" Sideboard="false" Name="Temple of Triumph" />
+  <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
   <Cards CatID="49139" Quantity="2" Sideboard="false" Name="Door of Destinies" />
-  <Cards CatID="58777" Quantity="1" Sideboard="false" Name="Angelic Gift" />
   <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
-  <Cards CatID="53475" Quantity="1" Sideboard="false" Name="Oppressive Rays" />
   <Cards CatID="47481" Quantity="1" Sideboard="false" Name="Orzhov Charm" />
-  <Cards CatID="54170" Quantity="1" Sideboard="false" Name="End Hostilities" />
+  <Cards CatID="26039" Quantity="1" Sideboard="false" Name="Witch Hunter" />
   <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
-  <Cards CatID="45490" Quantity="1" Sideboard="false" Name="Ajani's Sunstriker" />
-  <Cards CatID="55650" Quantity="1" Sideboard="false" Name="Arashin Cleric" />
-  <Cards CatID="57792" Quantity="1" Sideboard="false" Name="Archangel of Tithes" />
-  <Cards CatID="59583" Quantity="1" Sideboard="false" Name="Ayli, Eternal Pilgrim" />
+  <Cards CatID="42292" Quantity="1" Sideboard="false" Name="Angelic Overseer" />
+  <Cards CatID="42358" Quantity="1" Sideboard="false" Name="Bonds of Faith" />
   <Cards CatID="49569" Quantity="1" Sideboard="false" Name="Banisher Priest" />
-  <Cards CatID="54925" Quantity="1" Sideboard="false" Name="Grand Abolisher" />
   <Cards CatID="57941" Quantity="1" Sideboard="false" Name="Liliana, Heretical Healer" />
   <Cards CatID="38191" Quantity="1" Sideboard="false" Name="Mimic Vat" />
-  <Cards CatID="23651" Quantity="1" Sideboard="false" Name="Orzhov Pontiff" />
-  <Cards CatID="26409" Quantity="1" Sideboard="false" Name="Mesa Enchantress" />
-  <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" />
-  <Cards CatID="49189" Quantity="1" Sideboard="true" Name="Brave the Elements" />
-  <Cards CatID="52256" Quantity="2" Sideboard="true" Name="Aegis of the Gods" />
-  <Cards CatID="52260" Quantity="1" Sideboard="true" Name="Dictate of Erebos" />
+  <Cards CatID="63513" Quantity="1" Sideboard="false" Name="Cavern of Souls" />
+  <Cards CatID="62581" Quantity="1" Sideboard="false" Name="Alley Evasion" />
+  <Cards CatID="34552" Quantity="2" Sideboard="false" Name="Day of Judgment" />
+  <Cards CatID="60212" Quantity="1" Sideboard="false" Name="Bygone Bishop" />
+  <Cards CatID="25621" Quantity="1" Sideboard="false" Name="D'Avenant Healer" />
+  <Cards CatID="44227" Quantity="1" Sideboard="false" Name="Devout Chaplain" />
+  <Cards CatID="61298" Quantity="1" Sideboard="false" Name="Geist of the Lonely Vigil" />
+  <Cards CatID="26543" Quantity="1" Sideboard="false" Name="Dust Elemental" />
+  <Cards CatID="57744" Quantity="1" Sideboard="true" Name="Celestial Flare" />
+  <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
   <Cards CatID="19735" Quantity="1" Sideboard="true" Name="Viridian Longbow" />
   <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
-  <Cards CatID="62037" Quantity="1" Sideboard="true" Name="Kambal, Consul of Allocation" />
+  <Cards CatID="47481" Quantity="1" Sideboard="true" Name="Orzhov Charm" />
   <Cards CatID="49231" Quantity="1" Sideboard="true" Name="Ratchet Bomb" />
   <Cards CatID="51817" Quantity="1" Sideboard="true" Name="Bile Blight" />
   <Cards CatID="60268" Quantity="1" Sideboard="true" Name="Dual Shot" />
   <Cards CatID="21001" Quantity="1" Sideboard="true" Name="Eight-and-a-Half-Tails" />
-  <Cards CatID="57744" Quantity="2" Sideboard="true" Name="Celestial Flare" />
+  <Cards CatID="34652" Quantity="1" Sideboard="true" Name="Devout Lightcaster" />
+  <Cards CatID="47591" Quantity="1" Sideboard="true" Name="Gift of Orzhova" />
+  <Cards CatID="52260" Quantity="1" Sideboard="true" Name="Dictate of Erebos" />
   <Cards CatID="51663" Quantity="2" Sideboard="true" Name="Revoke Existence" />
+  <Cards CatID="54925" Quantity="1" Sideboard="true" Name="Grand Abolisher" />
 </Deck>
