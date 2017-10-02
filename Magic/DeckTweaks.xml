@@ -696,6 +696,7 @@
   Ral Zarek
 </DaringIceFeather>
 <Discards>
+  Elemental Mastery
   <Green>
     Fruit of the First Tree
   </Green>
@@ -746,6 +747,14 @@
   Wild-Field Scarecrow
   Zurgo Helmsmasher
 </Discards>
+<Duffs>
+  Divine Offering
+  Genju of the Fields
+  Loxodon Warhammer
+  Mortarpod
+  Odric, Lunarch Marshal
+  Sram, Senior Edificer
+</Duffs>
 <EidolonSac>
   Acidic Slime
   Angelic Gift
@@ -786,8 +795,12 @@
   Cremate
   Crook of Condemnation
   Crypt Incursion
+  Dimir Infiltrator
   Erebos, God
   Mana Leak
+  Mana Vapors
+  Recover
+  Slith Bloodletter
   <Red>
     GutterSnipe
   </Red>
@@ -1013,6 +1026,7 @@
   Centaur Omenreader
   Cloudblazer
   Clout of the Dominus
+  Conviction
   Council of the Absolute
   Court Hussar
   Curse of Exhaustion
@@ -1047,6 +1061,7 @@
   Sphinx's Revelation
   Stasis Snare
   Thran Golem
+  Vapor Snare
   Wispmare
 </Enchants>
 <ForceAttacks>
@@ -1304,6 +1319,10 @@ Bloodmad vampire
   Weathered Wayfarer
   Westvale Abbey
 </Goats>
+<Haunted>
+  Haunted Plate Mail
+  Lethal Vapors
+</Haunted>
 <LandDestruct>
 Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
 
