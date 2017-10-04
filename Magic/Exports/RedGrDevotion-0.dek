@@ -6,16 +6,16 @@
   <Cards CatID="49499" Quantity="3" Sideboard="false" Name="Elvish Mystic" />
   <Cards CatID="50402" Quantity="1" Sideboard="false" Name="Arbor Colossus" />
   <Cards CatID="47527" Quantity="4" Sideboard="false" Name="Burning-Tree Emissary" />
-  <Cards CatID="50261" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
+  <Cards CatID="32292" Quantity="2" Sideboard="false" Name="Mage Slayer" />
   <Cards CatID="50260" Quantity="3" Sideboard="false" Name="Sylvan Caryatid" />
-  <Cards CatID="53850" Quantity="1" Sideboard="false" Name="Hydra Broodmaster" />
+  <Cards CatID="51084" Quantity="1" Sideboard="false" Name="Cultivate" />
   <Cards CatID="50178" Quantity="4" Sideboard="false" Name="Voyaging Satyr" />
   <Cards CatID="51851" Quantity="2" Sideboard="false" Name="Courser of Kruphix" />
-  <Cards CatID="50628" Quantity="4" Sideboard="false" Name="Polukranos, World Eater" />
+  <Cards CatID="50628" Quantity="3" Sideboard="false" Name="Polukranos, World Eater" />
   <Cards CatID="51745" Quantity="1" Sideboard="false" Name="Xenagos, God of Revels" />
   <Cards CatID="50314" Quantity="2" Sideboard="false" Name="Nylea, God of the Hunt" />
   <Cards CatID="47851" Quantity="2" Sideboard="false" Name="Domri Rade" />
-  <Cards CatID="50316" Quantity="2" Sideboard="false" Name="Xenagos, the Reveler" />
+  <Cards CatID="50316" Quantity="1" Sideboard="false" Name="Xenagos, the Reveler" />
   <Cards CatID="53478" Quantity="8" Sideboard="false" Name="Forest" />
   <Cards CatID="53302" Quantity="1" Sideboard="false" Name="Forest" />
   <Cards CatID="53480" Quantity="1" Sideboard="false" Name="Mountain" />
@@ -24,22 +24,30 @@
   <Cards CatID="50274" Quantity="4" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
   <Cards CatID="49363" Quantity="1" Sideboard="false" Name="Chandra, Pyromaster" />
   <Cards CatID="50412" Quantity="1" Sideboard="false" Name="Bow of Nylea" />
-  <Cards CatID="53568" Quantity="1" Sideboard="false" Name="Nissa, Worldwaker" />
+  <Cards CatID="36678" Quantity="1" Sideboard="false" Name="Gravity Well" />
   <Cards CatID="50266" Quantity="4" Sideboard="false" Name="Temple of Abandon" />
   <Cards CatID="42586" Quantity="1" Sideboard="false" Name="Kessig Wolf Run" />
-  <Cards CatID="54022" Quantity="3" Sideboard="false" Name="Tormenting Voice" />
+  <Cards CatID="54022" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="23518" Quantity="1" Sideboard="false" Name="Doubling Season" />
-  <Cards CatID="41373" Quantity="1" Sideboard="false" Name="Furyborn Hellkite" />
+  <Cards CatID="23811" Quantity="1" Sideboard="false" Name="Rumbling Slum" />
   <Cards CatID="35537" Quantity="1" Sideboard="false" Name="Leatherback Baloth" />
   <Cards CatID="48274" Quantity="1" Sideboard="false" Name="Pyrewild Shaman" />
   <Cards CatID="27598" Quantity="1" Sideboard="false" Name="Troll Ascetic" />
   <Cards CatID="29291" Quantity="1" Sideboard="false" Name="Vexing Shusher" />
-  <Cards CatID="50196" Quantity="4" Sideboard="true" Name="Nylea's Disciple" />
+  <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
+  <Cards CatID="20047" Quantity="1" Sideboard="false" Name="Living Hive" />
+  <Cards CatID="50558" Quantity="2" Sideboard="false" Name="Reverent Hunter" />
+  <Cards CatID="35755" Quantity="1" Sideboard="false" Name="Wolfbriar Elemental" />
+  <Cards CatID="50452" Quantity="1" Sideboard="false" Name="Fade into Antiquity" />
+  <Cards CatID="50428" Quantity="2" Sideboard="false" Name="Destructive Revelry" />
+  <Cards CatID="63093" Quantity="1" Sideboard="false" Name="Harmonize" />
+  <Cards CatID="50196" Quantity="3" Sideboard="true" Name="Nylea's Disciple" />
   <Cards CatID="50386" Quantity="3" Sideboard="true" Name="Mistcutter Hydra" />
   <Cards CatID="49271" Quantity="1" Sideboard="true" Name="Scavenging Ooze" />
   <Cards CatID="48222" Quantity="2" Sideboard="true" Name="Ruric Thar, the Unbowed" />
   <Cards CatID="49363" Quantity="1" Sideboard="true" Name="Chandra, Pyromaster" />
   <Cards CatID="46473" Quantity="2" Sideboard="true" Name="Mizzium Mortars" />
   <Cards CatID="36678" Quantity="2" Sideboard="true" Name="Gravity Well" />
+  <Cards CatID="50428" Quantity="1" Sideboard="true" Name="Destructive Revelry" />
 </Deck>

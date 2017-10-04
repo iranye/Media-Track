@@ -5,11 +5,10 @@
   <Cards CatID="61833" Quantity="2" Sideboard="false" Name="Island" />
   <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
   <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
-  <Cards CatID="19169" Quantity="2" Sideboard="false" Name="Trade Routes" />
+  <Cards CatID="19169" Quantity="1" Sideboard="false" Name="Trade Routes" />
   <Cards CatID="53698" Quantity="1" Sideboard="false" Name="Hornet Nest" />
-  <Cards CatID="63215" Quantity="1" Sideboard="false" Name="Explore" />
   <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
-  <Cards CatID="62091" Quantity="3" Sideboard="false" Name="Aether Hub" />
+  <Cards CatID="62091" Quantity="2" Sideboard="false" Name="Aether Hub" />
   <Cards CatID="50412" Quantity="2" Sideboard="false" Name="Bow of Nylea" />
   <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
   <Cards CatID="62777" Quantity="1" Sideboard="false" Name="Unbridled Growth" />
@@ -21,45 +20,46 @@
   <Cards CatID="61829" Quantity="3" Sideboard="false" Name="Forest" />
   <Cards CatID="57650" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="51084" Quantity="2" Sideboard="false" Name="Cultivate" />
-  <Cards CatID="36492" Quantity="3" Sideboard="false" Name="Deprive" />
+  <Cards CatID="36492" Quantity="1" Sideboard="false" Name="Deprive" />
   <Cards CatID="35515" Quantity="2" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
   <Cards CatID="51851" Quantity="3" Sideboard="false" Name="Courser of Kruphix" />
-  <Cards CatID="59796" Quantity="1" Sideboard="false" Name="Catalog" />
   <Cards CatID="34584" Quantity="2" Sideboard="false" Name="Living Tsunami" />
   <Cards CatID="50314" Quantity="1" Sideboard="false" Name="Nylea, God of the Hunt" />
-  <Cards CatID="61831" Quantity="1" Sideboard="false" Name="Island" />
-  <Cards CatID="48426" Quantity="1" Sideboard="false" Name="Bred for the Hunt" />
-  <Cards CatID="21225" Quantity="1" Sideboard="false" Name="Budoka Gardener" />
+  <Cards CatID="61831" Quantity="2" Sideboard="false" Name="Island" />
   <Cards CatID="60052" Quantity="1" Sideboard="false" Name="Forest" />
   <Cards CatID="58667" Quantity="4" Sideboard="false" Name="Undergrowth Champion" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="50272" Quantity="1" Sideboard="false" Name="Temple of Mystery" />
-  <Cards CatID="62849" Quantity="1" Sideboard="false" Name="Verdant Automaton" />
-  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="35537" Quantity="1" Sideboard="false" Name="Leatherback Baloth" />
   <Cards CatID="61847" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="53970" Quantity="1" Sideboard="false" Name="Embodiment of Spring" />
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
   <Cards CatID="54134" Quantity="1" Sideboard="false" Name="Sultai Charm" />
   <Cards CatID="54482" Quantity="1" Sideboard="false" Name="Pearl Lake Ancient" />
-  <Cards CatID="50261" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
   <Cards CatID="46497" Quantity="1" Sideboard="false" Name="Abrupt Decay" />
-  <Cards CatID="62823" Quantity="3" Sideboard="false" Name="Winding Constrictor" />
+  <Cards CatID="62823" Quantity="1" Sideboard="false" Name="Winding Constrictor" />
   <Cards CatID="47485" Quantity="1" Sideboard="false" Name="Simic Charm" />
-  <Cards CatID="57618" Quantity="2" Sideboard="false" Name="Negate" />
+  <Cards CatID="57618" Quantity="1" Sideboard="false" Name="Negate" />
   <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="25805" Quantity="2" Sideboard="false" Name="Mwonvuli Acid-Moss" />
-  <Cards CatID="61935" Quantity="1" Sideboard="false" Name="Thriving Rats" />
+  <Cards CatID="56388" Quantity="1" Sideboard="false" Name="Anticipate" />
   <Cards CatID="63093" Quantity="1" Sideboard="false" Name="Harmonize" />
-  <Cards CatID="62005" Quantity="1" Sideboard="false" Name="Durable Handicraft" />
   <Cards CatID="35577" Quantity="1" Sideboard="false" Name="Explore" />
   <Cards CatID="58134" Quantity="1" Sideboard="false" Name="Sword of the Animist" />
   <Cards CatID="50196" Quantity="1" Sideboard="false" Name="Nylea's Disciple" />
+  <Cards CatID="47523" Quantity="1" Sideboard="false" Name="Cloudfin Raptor" />
+  <Cards CatID="35521" Quantity="1" Sideboard="false" Name="Halimar Depths" />
+  <Cards CatID="51962" Quantity="1" Sideboard="false" Name="Kruphix, God of Horizons" />
+  <Cards CatID="50220" Quantity="1" Sideboard="false" Name="Ordeal of Thassa" />
+  <Cards CatID="50234" Quantity="1" Sideboard="false" Name="Ordeal of Nylea" />
+  <Cards CatID="53460" Quantity="2" Sideboard="false" Name="Elvish Mystic" />
+  <Cards CatID="47685" Quantity="2" Sideboard="false" Name="Aetherize" />
+  <Cards CatID="50628" Quantity="1" Sideboard="false" Name="Polukranos, World Eater" />
   <Cards CatID="48520" Quantity="1" Sideboard="true" Name="Far/Away" />
   <Cards CatID="18965" Quantity="1" Sideboard="true" Name="Boomerang" />
-  <Cards CatID="48426" Quantity="1" Sideboard="true" Name="Bred for the Hunt" />
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
   <Cards CatID="35515" Quantity="2" Sideboard="true" Name="Bojuka Bog" />
   <Cards CatID="56012" Quantity="2" Sideboard="true" Name="Naturalize" />
@@ -69,4 +69,5 @@
   <Cards CatID="53338" Quantity="2" Sideboard="true" Name="Back to Nature" />
   <Cards CatID="47485" Quantity="1" Sideboard="true" Name="Simic Charm" />
   <Cards CatID="62027" Quantity="1" Sideboard="true" Name="Blossoming Defense" />
+  <Cards CatID="45390" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
 </Deck>
