@@ -2,22 +2,21 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="58659" Quantity="2" Sideboard="false" Name="Sunken Hollow" />
   <Cards CatID="58527" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="53316" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
-  <Cards CatID="46307" Quantity="3" Sideboard="false" Name="Mizzium Skin" />
+  <Cards CatID="46307" Quantity="1" Sideboard="false" Name="Mizzium Skin" />
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
-  <Cards CatID="23174" Quantity="1" Sideboard="false" Name="Remand" />
-  <Cards CatID="34584" Quantity="1" Sideboard="false" Name="Living Tsunami" />
-  <Cards CatID="50306" Quantity="2" Sideboard="false" Name="Thassa, God of the Sea" />
-  <Cards CatID="58513" Quantity="1" Sideboard="false" Name="Mortuary Mire" />
+  <Cards CatID="63191" Quantity="1" Sideboard="false" Name="Spell Pierce" />
+  <Cards CatID="50306" Quantity="1" Sideboard="false" Name="Thassa, God of the Sea" />
+  <Cards CatID="48520" Quantity="1" Sideboard="false" Name="Far/Away" />
   <Cards CatID="55520" Quantity="3" Sideboard="false" Name="Dismal Backwater" />
-  <Cards CatID="48260" Quantity="2" Sideboard="false" Name="Hidden Strings" />
-  <Cards CatID="35515" Quantity="4" Sideboard="false" Name="Bojuka Bog" />
+  <Cards CatID="60226" Quantity="1" Sideboard="false" Name="Biting Rain" />
+  <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="58809" Quantity="2" Sideboard="false" Name="Island" />
   <Cards CatID="58807" Quantity="1" Sideboard="false" Name="Island" />
-  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
-  <Cards CatID="49159" Quantity="3" Sideboard="false" Name="Doom Blade" />
+  <Cards CatID="53558" Quantity="1" Sideboard="false" Name="Xathrid Slyblade" />
+  <Cards CatID="59778" Quantity="1" Sideboard="false" Name="Brain in a Jar" />
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="60072" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="58835" Quantity="1" Sideboard="false" Name="Swamp" />
@@ -25,24 +24,40 @@
   <Cards CatID="58796" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
   <Cards CatID="50264" Quantity="3" Sideboard="false" Name="Temple of Deceit" />
-  <Cards CatID="50596" Quantity="2" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="62903" Quantity="1" Sideboard="false" Name="Daredevil Dragster" />
   <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
-  <Cards CatID="49593" Quantity="3" Sideboard="false" Name="Quicken" />
-  <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Ætherize" />
+  <Cards CatID="49593" Quantity="2" Sideboard="false" Name="Quicken" />
+  <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
   <Cards CatID="54102" Quantity="2" Sideboard="false" Name="Despise" />
   <Cards CatID="46767" Quantity="4" Sideboard="false" Name="Nivmagus Elemental" />
-  <Cards CatID="44289" Quantity="2" Sideboard="false" Name="Appetite for Brains" />
+  <Cards CatID="44289" Quantity="1" Sideboard="false" Name="Appetite for Brains" />
   <Cards CatID="17913" Quantity="2" Sideboard="false" Name="Blackmail" />
   <Cards CatID="36360" Quantity="2" Sideboard="false" Name="Inquisition of Kozilek" />
-  <Cards CatID="36492" Quantity="2" Sideboard="false" Name="Deprive" />
-  <Cards CatID="47479" Quantity="1" Sideboard="false" Name="Dimir Charm" />
+  <Cards CatID="57678" Quantity="1" Sideboard="false" Name="Deadbridge Shaman" />
+  <Cards CatID="53990" Quantity="1" Sideboard="false" Name="Mardu Skullhunter" />
   <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
-  <Cards CatID="19433" Quantity="2" Sideboard="false" Name="Wall of Air" />
-  <Cards CatID="51813" Quantity="1" Sideboard="false" Name="Pain Seer" />
-  <Cards CatID="19665" Quantity="2" Sideboard="false" Name="Isochron Scepter" />
+  <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
+  <Cards CatID="19665" Quantity="1" Sideboard="false" Name="Isochron Scepter" />
   <Cards CatID="59868" Quantity="1" Sideboard="false" Name="Thing in the Ice" />
   <Cards CatID="42436" Quantity="4" Sideboard="false" Name="Delver of Secrets" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
+  <Cards CatID="62857" Quantity="1" Sideboard="false" Name="Irontread Crusher" />
+  <Cards CatID="61931" Quantity="1" Sideboard="false" Name="Rush of Vitality" />
+  <Cards CatID="61593" Quantity="1" Sideboard="false" Name="Renegade Freighter" />
+  <Cards CatID="60382" Quantity="1" Sideboard="false" Name="Grotesque Mutation" />
+  <Cards CatID="49515" Quantity="3" Sideboard="false" Name="Haunted Plate Mail" />
+  <Cards CatID="53494" Quantity="1" Sideboard="false" Name="Waste Not" />
+  <Cards CatID="62681" Quantity="1" Sideboard="false" Name="Gifted Aetherborn" />
+  <Cards CatID="54096" Quantity="1" Sideboard="false" Name="Ruthless Ripper" />
+  <Cards CatID="51817" Quantity="1" Sideboard="false" Name="Bile Blight" />
+  <Cards CatID="51679" Quantity="1" Sideboard="false" Name="Drown in Sorrow" />
+  <Cards CatID="22857" Quantity="1" Sideboard="false" Name="Will-o'-the-Wisp" />
+  <Cards CatID="53267" Quantity="1" Sideboard="false" Name="Mind Rot" />
+  <Cards CatID="50562" Quantity="1" Sideboard="false" Name="Gray Merchant of Asphodel" />
+  <Cards CatID="31765" Quantity="1" Sideboard="false" Name="Scepter of Fugue" />
+  <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
+  <Cards CatID="30140" Quantity="1" Sideboard="false" Name="Raven's Crime" />
+  <Cards CatID="34442" Quantity="1" Sideboard="false" Name="Spell Pierce" />
   <Cards CatID="49117" Quantity="3" Sideboard="true" Name="Essence Scatter" />
   <Cards CatID="54102" Quantity="1" Sideboard="true" Name="Despise" />
   <Cards CatID="50622" Quantity="2" Sideboard="true" Name="Dark Betrayal" />
@@ -50,5 +65,7 @@
   <Cards CatID="50220" Quantity="1" Sideboard="true" Name="Ordeal of Thassa" />
   <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
   <Cards CatID="51817" Quantity="1" Sideboard="true" Name="Bile Blight" />
-  <Cards CatID="50406" Quantity="1" Sideboard="true" Name="Bident of Thassa" />
+  <Cards CatID="48520" Quantity="2" Sideboard="true" Name="Far/Away" />
+  <Cards CatID="52278" Quantity="1" Sideboard="true" Name="Brain Maggot" />
+  <Cards CatID="46307" Quantity="1" Sideboard="true" Name="Mizzium Skin" />
 </Deck>

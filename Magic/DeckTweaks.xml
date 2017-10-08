@@ -335,6 +335,7 @@
   Sunbeam Spellbomb
 </Arty>
 <BlackWhiteSac>
+  Shadow Guildmage
   <Removal>
     Angelic Purge
     Bojuka Bog
@@ -693,6 +694,7 @@
   Merieke Ri Berit
   Minamo, School at Water's Edge
   Mobile Garrison
+  Night Market Lookout
   Ral Zarek
 </DaringIceFeather>
 <Discards>
@@ -746,6 +748,9 @@
   Wild-Field Scarecrow
   Zurgo Helmsmasher
 </Discards>
+<Duffs>
+  Pestermite
+</Duffs>
 <EidolonSac>
   Acidic Slime
   Angelic Gift
@@ -779,217 +784,54 @@
   Vampiric Rites
 </EidolonSac>
 <EliteIsochron>
-  <Red>
-    GutterSnipe
-  </Red>
-  <Green>
-    Abrupt Decay
-    Aggressive Urge
-    Golgari Charm
-  </Green>
-  <White>
-    Ajani's Presence
-    Angelsong
-    Awe Strike
-    Azorius Charm
-    Bathe in Light
-    Blessed Alliance
-    Blessed Reversal
-    Blinding Angel
-    Cathar's Companion
-    Dawn Charm
-    Deathless Angel
-    Double Cleave
-    Dramatic Rescue
-    Dromar's Cavern
-    Fieldmist Borderpost
-    Hide/Seek
-    Last Breath
-    Leave No Trace
-    Loyal Sentry
-    Magus of the Disk
-    Mangara of Corondor
-    Meddling Mage
-    Merieke Ri Berit
-    Myth Realized
-    Narset Transcendent
-    Orzhov Charm
-    Path to Exile
-    Pristine Skywise
-    Seeker of the Way
-    Sen Triplets
-    Send to Sleep
-    Shadow of Doubt
-    Shu Yun, the Silent Tempest
-    Sublime Archangel
-    Wispmare
-    Zur the Enchanter
-  </White>
-  <Creatures>
-    Æther Adept
-    Arcanis the Omnipotent
-    Ashling, the Extinguisher
-    Augur of Bolas
-    Augury Adept
-    Azami, Lady of Scrolls
-    Azorius Guildmage
-    Benthicore
-    Calcite Snapper
-    Cephalid Constable
-    Chronozoa
-    Cinderbones
-    Circu, Dimir Lobotomist
-    Crackleburr
-    Crafty Pathmage
-    Dakra Mystic
-    Delver of Secrets
-    Echo Mage
-    Elgaud Shieldmate
-    Erayo, Soratami Ascendant
-    Fatespinner
-    Fatestitcher
-    Floodbringer
-    Frost Walker
-    Ghastlord of Fugue
-    Guile
-    Hada Spy Patrol
-    Harbinger of the Tides
-    Jhessian Thief
-    Kira, Great Glass-Spinner
-    Lighthouse Chronologist
-    Living Tsunami
-    Lullmage Mentor
-    Magus of the Future
-    Necroskitter
-    Neurok Commando
-    Nivmagus Elemental
-    Nyxathid
-    Pain Seer
-    Pestermite
-    Plumeveil
-    Primal Plasma
-    Quicksilver Elemental
-    Riptide Pilferer
-    Roil Elemental
-    Rotted Hulk
-    Sage-Eye Avengers
-    Sage of Epityr
-    Sage of Fables
-    Scuttlemutt
-    Shadow Guildmage
-    Shell Skulkin
-    Shorecrasher Elemental
-    Sigil Tracer
-    Stonybrook Banneret
-    Teferi, Mage of Zhalfir
-    Thada Adel, Acquisitor
-    Thassa, God of the Sea
-    Thing in the Ice
-    Tideforce Elemental
-    Updraft Elemental
-    Vedalken Mastermind
-    Voidmage Prodigy
-    Wall of Air
-  </Creatures>
-  <Instants>
-    Abzan Advantage
-    Ætherize
-    Agony Warp
-    Azorius Charm
-    Awe Strike
-    Bandage
-    Banishing Knack
-    Beckon Apparition
-    Bile Blight
-    Boomerang
-    Boon of Erebos
-    Boros Charm
-    Clutch of the Undercity
-    Countersquall
-    Cremate
-    Cryptic Command
-    Cyclonic Rift
-    Dash Hopes
-    Dawn Charm
-    Deprive
-    Devour Flesh
-    Devour in Shadow
-    Dimir Charm
-    Disdainful Stroke
-    Dissipate
-    Dissolve
-    Dream Fracture
-    Early Frost
-    Essence Scatter
-    Extirpate
-    Faith's Shield
-    Far // Away
-    Flashfreeze
-    Esper Charm
-    Geth's Verdict
-    Go for the Throat
-    Gods Willing
-    Grixis Charm
-    Grotesque Mutation
-    Hinder
-    Hindering Light
-    Holy Day
-    Horribly Awry
-    Imp's Mischief
-    Inside Out
-    Intervention Pact
-    Make a Stand
-    Mana Leak
-    Midnight Charm
-    Mizzium Skin
-    Mystical Teachings
-    Outwit
-    Path to Exile
-    Peek
-    Perplex
-    Piracy Charm
-    Redirect
-    Render Silent
-    Retraction Helix
-    Rewind
-    Scout's Warning
-    Shadowfeed
-    Silence
-    Spell Pierce
-    Stubborn Denial
-    Swan Song
-    Thoughtbind
-    Tribute to Hunger
-    Trickbind
-    Triton Tactics
-    Turn Aside
-    Twiddle
-    Undying Evil
-    Unsummon
-    Voidslime
-    Valorous Stance
-  </Instants>
-  Brain in a Jar
-  Brass Squire
-  Call to the Kindred
+  __Prowess__
+  Academy Ruins
+  Æther Adept
+  Aether Spellbomb
+  Agony Warp
+  Augur of Bolas
+  Clutch of the Undercity
+  Countersquall
+  Cremate
+  Crook of Condemnation
+  Crypt Incursion
+  Cryptic Command
   Crystal Shard
-  Declaration in Stone
-  Dimir Aqueduct
-  Dovescape
   Dynavolt Tower
-  Etherwrought Page
-  Hidden Strings
-  Horribly Awry  
-  Mirrorpool
-  Phantasmal Image
+  Echo Mage
+  Esper Charm
+  Geth's Verdict
+  Grixis Charm
+  Guile
+  Horribly Awry
+  Hunted Horror
+  Imp's Mischief
+  Mana Leak
+  Midnight Charm
+  Mystical Teachings
+  Neurok Commando
+  Nyxathid
+  Peek
+  Perplex
+  Pestermite
+  Piracy Charm
   Pulse of the Grid
   Pulse of the Tangle
+  Redirect
   Ring of Evos Isle
-  Rogue's Passage
-  Spellweaver Helix
-  Tolaria West
-  Training Grounds
-  Whispersilk Cloak
+  Sage-Eye Avengers
+  Sage of Epityr
+  Sage of Fables
+  Scuttlemutt
+  Shadow Guildmage
+  Shadowfeed
+  Shell Skulkin
+  Shorecrasher Elemental
+  Swan Song
+  Twiddle
+  Undying Evil
+  Unsummon
+  Vapor Snag
 </EliteIsochron>
 <Enchants>
   Aether Meltdown
@@ -1000,9 +842,11 @@
   Armament of Nyx
   Azorius Æthermage
   Azorius Chancery
+  Azorius Guildmage
   Bygone Bishop
   Centaur Omenreader
   Cloudblazer
+  Clout of the Dominus
   Council of the Absolute
   Court Hussar
   Curse of Exhaustion
@@ -1025,7 +869,7 @@
   Mesa Enchantress
   Panharmonicon
   Plumes of Peace
-  Plumeveil
+    Plumeveil
   Pongify
   Reality Acid
   Repel Intruders
@@ -1049,6 +893,10 @@
   Hornet Nest
 </ForceAttacks>
 <FourPowerMobs>
+Arc Runner
+Bloodmad vampire
+Phantasmal Image
+Vedalken Mastermind
   <Madness>
     Avacyn's Judgment
     Avalanche Tusker
@@ -1143,6 +991,7 @@
   Triumph of the Hordes
   Troll Ascetic
   Unbridled Growth
+  Unsubstantiate
   Vedalken Mastermind
   Vengevine
   Vexing Devil
@@ -1250,23 +1099,30 @@
   </TOSORT>
 </FourPowerMobs>
 <FourPowerElementals>
+  Ashling the Extinguisher
   Brackwater Elemental
   Brighthearth Banneret
   Duplicant
   Foundry Champion
   Lumbering Falls
   Nova Chaser
+  Primal Plasma
   Progenitor Mimic
+  Quicksilver Elemental
   Rage Nimbus
   Roil Spout
   Rumbling Slum
+  Shorecrasher Elemental
   Smokebraider
   Soul of the Harvest
   Taurean Mauler
   Thornling
   Timbermare
   Unbridled Growth
+  Updraft Elemental
+  Vedalken Mastermind
   Woodland Wanderer
+  
 </FourPowerElementals>
 <Goats>
   __Changeling__ Spells
@@ -1299,6 +1155,9 @@ Lightform (2 WHT devotion) (also works w/ Jeskai charm: "put creature on top of 
 Heliod
 </LandDestruct>
 <LandFall>
+  Calcite Snappera
+  Floodbringer
+  Roil Elemental
   <Mana>
     Blighted Woodland
     Cavern of Souls

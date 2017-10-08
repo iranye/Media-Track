@@ -16,7 +16,6 @@
   <Cards CatID="50248" Quantity="1" Sideboard="false" Name="Burnished Hart" />
   <Cards CatID="54183" Quantity="1" Sideboard="false" Name="Butcher of the Horde" />
   <Cards CatID="54182" Quantity="3" Sideboard="false" Name="Butcher of the Horde" />
-  <Cards CatID="50562" Quantity="2" Sideboard="false" Name="Gray Merchant of Asphodel" />
   <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
   <Cards CatID="53688" Quantity="1" Sideboard="false" Name="Heliod's Pilgrim" />
   <Cards CatID="55386" Quantity="1" Sideboard="false" Name="Collateral Damage" />
@@ -39,20 +38,25 @@
   <Cards CatID="54022" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
   <Cards CatID="54188" Quantity="1" Sideboard="false" Name="Utter End" />
   <Cards CatID="55614" Quantity="2" Sideboard="false" Name="Soulfire Grand Master" />
-  <Cards CatID="54104" Quantity="2" Sideboard="false" Name="Murderous Cut" />
+  <Cards CatID="54104" Quantity="1" Sideboard="false" Name="Murderous Cut" />
   <Cards CatID="58523" Quantity="1" Sideboard="false" Name="Sandstone Bridge" />
   <Cards CatID="58531" Quantity="3" Sideboard="false" Name="Shambling Vent" />
   <Cards CatID="30983" Quantity="1" Sideboard="false" Name="Blightning" />
   <Cards CatID="55340" Quantity="1" Sideboard="false" Name="Battle Brawler" />
-  <Cards CatID="55420" Quantity="1" Sideboard="false" Name="Brutal Hordechief" />
+  <Cards CatID="50578" Quantity="1" Sideboard="false" Name="Anger of the Gods" />
   <Cards CatID="56190" Quantity="1" Sideboard="false" Name="Crater Elemental" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="36360" Quantity="1" Sideboard="false" Name="Inquisition of Kozilek" />
+  <Cards CatID="54250" Quantity="1" Sideboard="false" Name="Zurgo Helmsmasher" />
+  <Cards CatID="39447" Quantity="1" Sideboard="false" Name="Go for the Throat" />
+  <Cards CatID="60310" Quantity="2" Sideboard="false" Name="Alms of the Vein" />
+  <Cards CatID="62581" Quantity="1" Sideboard="false" Name="Alley Evasion" />
+  <Cards CatID="60070" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="50479" Quantity="1" Sideboard="true" Name="Gods Willing" />
   <Cards CatID="54226" Quantity="1" Sideboard="true" Name="Swamp" />
   <Cards CatID="54170" Quantity="1" Sideboard="true" Name="End Hostilities" />
-  <Cards CatID="53262" Quantity="1" Sideboard="true" Name="Liliana Vess" />
   <Cards CatID="54188" Quantity="2" Sideboard="true" Name="Utter End" />
   <Cards CatID="53278" Quantity="1" Sideboard="true" Name="Tormod's Crypt" />
   <Cards CatID="50478" Quantity="2" Sideboard="true" Name="Gods Willing" />

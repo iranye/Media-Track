@@ -1,0 +1,378 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Sun Aug 11 21:03:37 2013
+
+   Source : C:\Media\PicsAndVideo\Twins\
+     Dest : \\minii3\Media\PicsAndVideo\Twins\
+
+    Files : *.*
+	    
+  Options : *.* /L /S /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                 588	C:\Media\PicsAndVideo\Twins\
+	  *EXTRA File 		   54784	Thumbs.db
+	    New File  		       0	robolog.txt
+	                  86	C:\Media\PicsAndVideo\Twins\KateKellyPhotography\
+	                 239	C:\Media\PicsAndVideo\Twins\Month04and05\
+	  *EXTRA File 		  581630	2012-11-16 08.33.09.jpg
+	  *EXTRA File 		  587286	2012-11-16 08.33.15.jpg
+	  *EXTRA File 		  689927	2012-11-16 08.34.02.jpg
+	  *EXTRA File 		  773281	2012-11-17 11.29.49.jpg
+	  *EXTRA File 		  553641	2012-11-17 11.30.17.jpg
+	  *EXTRA File 		  558545	2012-11-17 11.30.36.jpg
+	  *EXTRA File 		   75776	Thumbs.db
+	                 318	C:\Media\PicsAndVideo\Twins\Month06and07\
+	  *EXTRA File 		   39936	Thumbs.db
+	                 195	C:\Media\PicsAndVideo\Twins\Month08and09\
+	  *EXTRA File 		   84480	Thumbs.db
+	                 356	C:\Media\PicsAndVideo\Twins\Month10and11\
+	  *EXTRA File 		   4.1 m	2013-03-16-DSC01398.JPG
+	  *EXTRA File 		   3.8 m	2013-03-16-DSC01399.JPG
+	  *EXTRA File 		   3.9 m	2013-03-16-DSC01400.JPG
+	  *EXTRA File 		   3.4 m	2013-03-16-DSC01401.JPG
+	  *EXTRA File 		   4.0 m	2013-03-16-DSC01402.JPG
+	  *EXTRA File 		   3.6 m	2013-03-19-DSC01403.JPG
+	  *EXTRA File 		   4.7 m	2013-03-24-DSC01404.JPG
+	  *EXTRA File 		   3.8 m	2013-03-24-DSC01406.JPG
+	  *EXTRA File 		   4.6 m	2013-03-24-DSC01407.JPG
+	  *EXTRA File 		   4.4 m	2013-03-24-DSC01408.JPG
+	  *EXTRA File 		   4.2 m	2013-03-24-DSC01409.JPG
+	  *EXTRA File 		   4.0 m	2013-03-24-DSC01410.JPG
+	  *EXTRA File 		   3.5 m	2013-03-24-DSC01411.JPG
+	  *EXTRA File 		   3.9 m	2013-03-24-DSC01412.JPG
+	  *EXTRA File 		   3.8 m	2013-03-24-DSC01413.JPG
+	  *EXTRA File 		   3.6 m	2013-03-24-DSC01415.JPG
+	  *EXTRA File 		   4.3 m	2013-03-24-DSC01417.JPG
+	  *EXTRA File 		   4.1 m	2013-03-24-DSC01418.JPG
+	  *EXTRA File 		   4.0 m	2013-03-24-DSC01419.JPG
+	  *EXTRA File 		   3.6 m	2013-03-28-DSC01422.JPG
+	  *EXTRA File 		   3.7 m	2013-03-28-DSC01423.JPG
+	  *EXTRA File 		   3.4 m	2013-03-28-DSC01424.JPG
+	  *EXTRA File 		   3.7 m	2013-03-28-DSC01425.JPG
+	  *EXTRA File 		   3.6 m	2013-03-28-DSC01426.JPG
+	  *EXTRA File 		   5.2 m	2013-03-29-DSC01427.JPG
+	  *EXTRA File 		   5.7 m	2013-03-29-DSC01428.JPG
+	  *EXTRA File 		   3.9 m	2013-03-29-DSC01429.JPG
+	  *EXTRA File 		   5.3 m	2013-03-29-DSC01430.JPG
+	  *EXTRA File 		   4.0 m	2013-03-29-DSC01431.JPG
+	  *EXTRA File 		   5.0 m	2013-03-29-DSC01432.JPG
+	  *EXTRA File 		   4.9 m	2013-03-30-DSC01433.JPG
+	  *EXTRA File 		   4.5 m	2013-03-30-DSC01434.JPG
+	  *EXTRA File 		   4.6 m	2013-03-30-DSC01435.JPG
+	  *EXTRA File 		   4.3 m	2013-03-30-DSC01436.JPG
+	  *EXTRA File 		   4.5 m	2013-03-30-DSC01437.JPG
+	  *EXTRA File 		   4.2 m	2013-03-30-DSC01438.JPG
+	  *EXTRA File 		   4.1 m	2013-03-30-DSC01439.JPG
+	  *EXTRA File 		   4.7 m	2013-03-30-DSC01440.JPG
+	  *EXTRA File 		   5.0 m	2013-03-31-DSC01441.JPG
+	  *EXTRA File 		   5.5 m	2013-03-31-DSC01442.JPG
+	  *EXTRA File 		   5.9 m	2013-03-31-DSC01443.JPG
+	  *EXTRA File 		   5.6 m	2013-03-31-DSC01444.JPG
+	  *EXTRA File 		   4.4 m	2013-03-31-DSC01445.JPG
+	  *EXTRA File 		   4.8 m	2013-03-31-DSC01448.JPG
+	  *EXTRA File 		   4.8 m	2013-03-31-DSC01449.JPG
+	  *EXTRA File 		   4.8 m	2013-03-31-DSC01450.JPG
+	  *EXTRA File 		   4.4 m	2013-03-31-DSC01451.JPG
+	  *EXTRA File 		   4.4 m	2013-03-31-DSC01452.JPG
+	  *EXTRA File 		   4.3 m	2013-03-31-DSC01453.JPG
+	  *EXTRA File 		   5.3 m	2013-03-31-DSC01455.JPG
+	  *EXTRA File 		   5.4 m	2013-03-31-DSC01456.JPG
+	  *EXTRA File 		   4.6 m	2013-03-31-DSC01457.JPG
+	  *EXTRA File 		   4.6 m	2013-03-31-DSC01458.JPG
+	  *EXTRA File 		   4.6 m	2013-03-31-DSC01459.JPG
+	  *EXTRA File 		   4.8 m	2013-03-31-DSC01460.JPG
+	  *EXTRA File 		   4.1 m	2013-03-31-DSC01464.JPG
+	  *EXTRA File 		   4.3 m	2013-03-31-DSC01466.JPG
+	  *EXTRA File 		   4.7 m	2013-03-31-DSC01468.JPG
+	  *EXTRA File 		   4.4 m	2013-03-31-DSC01469.JPG
+	  *EXTRA File 		   5.1 m	2013-03-31-DSC01470.JPG
+	  *EXTRA File 		   5.1 m	2013-04-05-DSC01476.JPG
+	  *EXTRA File 		   5.2 m	2013-04-05-DSC01477.JPG
+	  *EXTRA File 		   5.3 m	2013-04-05-DSC01480.JPG
+	  *EXTRA File 		   5.2 m	2013-04-05-DSC01481.JPG
+	  *EXTRA File 		   3.9 m	2013-04-05-DSC01482.JPG
+	  *EXTRA File 		   4.0 m	2013-04-05-DSC01487.JPG
+	  *EXTRA File 		   3.9 m	2013-04-05-DSC01488.JPG
+	  *EXTRA File 		   3.8 m	2013-04-05-DSC01489.JPG
+	  *EXTRA File 		   3.7 m	2013-04-05-DSC01491.JPG
+	  *EXTRA File 		   3.7 m	2013-04-05-DSC01492.JPG
+	  *EXTRA File 		   3.4 m	2013-04-05-DSC01493.JPG
+	  *EXTRA File 		   3.4 m	2013-04-05-DSC01494.JPG
+	  *EXTRA File 		   4.3 m	2013-04-05-DSC01498.JPG
+	  *EXTRA File 		   4.3 m	2013-04-05-DSC01500.JPG
+	  *EXTRA File 		   4.6 m	2013-04-05-DSC01501.JPG
+	  *EXTRA File 		   4.6 m	2013-04-05-DSC01502.JPG
+	  *EXTRA File 		   4.6 m	2013-04-05-DSC01503.JPG
+	  *EXTRA File 		   4.9 m	2013-04-07-DSC01504.JPG
+	  *EXTRA File 		   4.9 m	2013-04-07-DSC01505.JPG
+	  *EXTRA File 		   4.9 m	2013-04-07-DSC01506.JPG
+	  *EXTRA File 		   5.0 m	2013-04-07-DSC01507.JPG
+	  *EXTRA File 		   5.0 m	2013-04-07-DSC01508.JPG
+	  *EXTRA File 		   5.0 m	2013-04-07-DSC01509.JPG
+	  *EXTRA File 		   5.0 m	2013-04-07-DSC01510.JPG
+	  *EXTRA File 		   4.1 m	2013-04-10-DSC01511.JPG
+	  *EXTRA File 		   4.1 m	2013-04-10-DSC01512.JPG
+	  *EXTRA File 		   3.8 m	2013-04-10-DSC01513.JPG
+	  *EXTRA File 		   3.8 m	2013-04-10-DSC01514.JPG
+	  *EXTRA File 		   4.1 m	2013-04-10-DSC01515.JPG
+	  *EXTRA File 		   4.1 m	2013-04-10-DSC01517.JPG
+	  *EXTRA File 		   4.1 m	2013-04-10-DSC01518.JPG
+	  *EXTRA File 		   5.0 m	2013-04-10-DSC01519.JPG
+	  *EXTRA File 		   3.4 m	2013-04-10-DSC01526.JPG
+	  *EXTRA File 		   3.4 m	2013-04-12-DSC01530.JPG
+	  *EXTRA File 		   3.8 m	2013-04-12-DSC01531.JPG
+	  *EXTRA File 		   2.9 m	2013-04-12-DSC01532.JPG
+	  *EXTRA File 		   3.5 m	2013-04-13-DSC01533.JPG
+	  *EXTRA File 		   3.5 m	2013-04-13-DSC01534.JPG
+	  *EXTRA File 		   3.4 m	2013-04-13-DSC01536.JPG
+	  *EXTRA File 		   3.8 m	2013-04-13-DSC01537.JPG
+	  *EXTRA File 		   3.0 m	2013-04-13-DSC01538.JPG
+	  *EXTRA File 		   3.9 m	2013-04-13-DSC01539.JPG
+	  *EXTRA File 		   2.9 m	2013-04-13-DSC01540.JPG
+	  *EXTRA File 		   4.6 m	2013-06-16-DSC01868.JPG
+	  *EXTRA File 		   5.5 m	2013-06-16-DSC01869.JPG
+	  *EXTRA File 		   6.6 m	2013-06-16-DSC01870.JPG
+	  *EXTRA File 		   5.7 m	2013-06-16-DSC01871.JPG
+	  *EXTRA File 		   5.8 m	2013-06-16-DSC01872.JPG
+	  *EXTRA File 		   5.8 m	2013-06-16-DSC01873.JPG
+	  *EXTRA File 		   5.7 m	2013-06-16-DSC01874.JPG
+	  *EXTRA File 		   4.8 m	2013-06-16-DSC01875.JPG
+	  *EXTRA File 		   5.3 m	2013-06-16-DSC01876.JPG
+	  *EXTRA File 		   5.3 m	2013-06-16-DSC01877.JPG
+	  *EXTRA File 		   3.5 m	2013-06-16-DSC01878.JPG
+	  *EXTRA File 		   6.2 m	2013-06-16-DSC01879.JPG
+	  *EXTRA File 		   6.0 m	2013-06-16-DSC01880.JPG
+	  *EXTRA File 		   6.1 m	2013-06-16-DSC01881.JPG
+	  *EXTRA File 		   6.1 m	2013-06-16-DSC01882.JPG
+	  *EXTRA File 		   3.6 m	2013-06-16-DSC01883.JPG
+	  *EXTRA File 		   4.4 m	2013-06-16-DSC01884.JPG
+	  *EXTRA File 		   4.5 m	2013-06-16-DSC01885.JPG
+	  *EXTRA File 		   2.6 m	2013-06-16-DSC01886.JPG
+	  *EXTRA File 		   7.0 m	2013-06-16-DSC01887.JPG
+	  *EXTRA File 		   4.1 m	2013-06-16-DSC01888.JPG
+	  *EXTRA File 		   6.5 m	2013-06-16-DSC01889.JPG
+	  *EXTRA File 		   6.7 m	2013-06-16-DSC01890.JPG
+	  *EXTRA File 		   7.1 m	2013-06-16-DSC01891.JPG
+	  *EXTRA File 		   6.9 m	2013-06-16-DSC01892.JPG
+	  *EXTRA File 		   6.7 m	2013-06-16-DSC01893.JPG
+	  *EXTRA File 		   6.8 m	2013-06-16-DSC01894.JPG
+	  *EXTRA File 		   6.1 m	2013-06-16-DSC01895.JPG
+	  *EXTRA File 		   3.5 m	2013-06-16-DSC01896.JPG
+	  *EXTRA File 		   6.8 m	2013-06-16-DSC01897.JPG
+	  *EXTRA File 		   5.6 m	2013-06-16-DSC01898.JPG
+	  *EXTRA File 		   3.5 m	2013-06-16-DSC01899.JPG
+	  *EXTRA File 		   4.8 m	2013-06-16-DSC01900.JPG
+	  *EXTRA File 		   7.1 m	2013-06-16-DSC01901.JPG
+	  *EXTRA File 		   5.5 m	2013-06-17-DSC01902.JPG
+	  *EXTRA File 		   5.1 m	2013-06-17-DSC01903.JPG
+	  *EXTRA File 		   4.4 m	2013-06-17-DSC01904.JPG
+	  *EXTRA File 		   4.9 m	2013-06-17-DSC01905.JPG
+	  *EXTRA File 		   4.8 m	2013-06-17-DSC01906.JPG
+	  *EXTRA File 		   4.3 m	2013-06-17-DSC01907.JPG
+	  *EXTRA File 		   4.6 m	2013-06-17-DSC01908.JPG
+	  *EXTRA File 		   4.5 m	2013-06-17-DSC01909.JPG
+	  *EXTRA File 		   4.9 m	2013-06-17-DSC01910.JPG
+	  *EXTRA File 		   3.6 m	2013-06-17-DSC01911.JPG
+	  *EXTRA File 		   4.3 m	2013-06-17-DSC01912.JPG
+	  *EXTRA File 		   4.0 m	2013-06-17-DSC01913.JPG
+	  *EXTRA File 		   3.9 m	2013-06-17-DSC01914.JPG
+	  *EXTRA File 		   4.8 m	2013-06-19-DSC01916.JPG
+	  *EXTRA File 		   4.9 m	2013-06-19-DSC01917.JPG
+	  *EXTRA File 		   4.7 m	2013-06-19-DSC01918.JPG
+	  *EXTRA File 		   4.7 m	2013-06-19-DSC01919.JPG
+	  *EXTRA File 		   4.7 m	2013-06-19-DSC01920.JPG
+	  *EXTRA File 		   4.9 m	2013-06-19-DSC01921.JPG
+	  *EXTRA File 		   4.8 m	2013-06-19-DSC01922.JPG
+	  *EXTRA File 		   6.3 m	2013-06-19-DSC01923.JPG
+	  *EXTRA File 		   6.4 m	2013-06-19-DSC01924.JPG
+	  *EXTRA File 		   7.3 m	2013-06-19-DSC01925.JPG
+	  *EXTRA File 		   7.4 m	2013-06-19-DSC01926.JPG
+	  *EXTRA File 		   7.0 m	2013-06-19-DSC01927.JPG
+	  *EXTRA File 		   7.2 m	2013-06-19-DSC01928.JPG
+	  *EXTRA File 		   5.5 m	2013-06-19-DSC01929.JPG
+	  *EXTRA File 		   4.8 m	2013-06-19-DSC01930.JPG
+	  *EXTRA File 		   5.1 m	2013-06-19-DSC01931.JPG
+	  *EXTRA File 		   6.5 m	2013-06-19-DSC01932.JPG
+	  *EXTRA File 		   6.5 m	2013-06-19-DSC01933.JPG
+	  *EXTRA File 		   7.0 m	2013-06-19-DSC01934.JPG
+	  *EXTRA File 		   6.3 m	2013-06-19-DSC01935.JPG
+	  *EXTRA File 		   6.8 m	2013-06-19-DSC01936.JPG
+	  *EXTRA File 		   6.7 m	2013-06-19-DSC01937.JPG
+	  *EXTRA File 		   6.8 m	2013-06-19-DSC01938.JPG
+	  *EXTRA File 		   4.1 m	2013-06-19-DSC01939.JPG
+	  *EXTRA File 		   3.6 m	2013-06-19-DSC01940.JPG
+	  *EXTRA File 		   4.0 m	2013-06-19-DSC01941.JPG
+	  *EXTRA File 		   4.4 m	2013-06-19-DSC01942.JPG
+	  *EXTRA File 		   4.9 m	2013-06-19-DSC01943.JPG
+	  *EXTRA File 		   7.6 m	2013-06-19-DSC01944.JPG
+	  *EXTRA File 		   5.6 m	2013-06-19-DSC01945.JPG
+	  *EXTRA File 		   6.3 m	2013-06-19-DSC01946.JPG
+	  *EXTRA File 		   6.2 m	2013-06-19-DSC01947.JPG
+	  *EXTRA File 		   4.9 m	2013-06-19-DSC01948.JPG
+	  *EXTRA File 		   7.4 m	2013-06-19-DSC01949.JPG
+	  *EXTRA File 		   6.5 m	2013-06-19-DSC01950.JPG
+	  *EXTRA File 		   5.2 m	2013-06-19-DSC01951.JPG
+	  *EXTRA File 		   5.2 m	2013-06-19-DSC01952.JPG
+	  *EXTRA File 		   6.8 m	2013-06-19-DSC01953.JPG
+	  *EXTRA File 		   4.5 m	2013-06-19-DSC01954.JPG
+	  *EXTRA File 		   6.5 m	2013-06-19-DSC01955.JPG
+	  *EXTRA File 		   7.7 m	2013-06-19-DSC01956.JPG
+	  *EXTRA File 		   7.3 m	2013-06-19-DSC01957.JPG
+	  *EXTRA File 		   7.6 m	2013-06-19-DSC01958.JPG
+	  *EXTRA File 		   7.7 m	2013-06-19-DSC01959.JPG
+	  *EXTRA File 		   7.6 m	2013-06-19-DSC01960.JPG
+	  *EXTRA File 		   7.9 m	2013-06-19-DSC01961.JPG
+	  *EXTRA File 		   4.7 m	2013-06-19-DSC01962.JPG
+	  *EXTRA File 		   3.8 m	2013-06-19-DSC01963.JPG
+	  *EXTRA File 		   3.1 m	2013-06-19-DSC01964.JPG
+	  *EXTRA File 		   6.9 m	2013-06-19-DSC01965.JPG
+	  *EXTRA File 		   7.0 m	2013-06-19-DSC01966.JPG
+	  *EXTRA File 		   7.1 m	2013-06-19-DSC01967.JPG
+	  *EXTRA File 		   6.8 m	2013-06-19-DSC01968.JPG
+	  *EXTRA File 		   7.1 m	2013-06-19-DSC01969.JPG
+	  *EXTRA File 		   2.5 m	2013-06-19-DSC01970.JPG
+	  *EXTRA File 		   4.0 m	2013-06-19-DSC01971.JPG
+	  *EXTRA File 		   2.9 m	2013-06-19-DSC01972.JPG
+	  *EXTRA File 		   7.2 m	2013-06-19-DSC01973.JPG
+	  *EXTRA File 		   6.7 m	2013-06-19-DSC01974.JPG
+	  *EXTRA File 		   5.0 m	2013-06-19-DSC01976.JPG
+	  *EXTRA File 		   6.6 m	2013-06-19-DSC01977.JPG
+	  *EXTRA File 		   5.1 m	2013-06-19-DSC01978.JPG
+	  *EXTRA File 		   5.0 m	2013-06-19-DSC01979.JPG
+	  *EXTRA File 		   5.4 m	2013-06-19-DSC01980.JPG
+	  *EXTRA File 		   6.0 m	2013-06-19-DSC01981.JPG
+	  *EXTRA File 		   6.7 m	2013-06-19-DSC01982.JPG
+	  *EXTRA File 		   5.7 m	2013-06-19-DSC01983.JPG
+	  *EXTRA File 		   5.2 m	2013-06-19-DSC01984.JPG
+	  *EXTRA File 		   4.4 m	2013-06-19-DSC01985.JPG
+	  *EXTRA File 		   4.3 m	2013-06-19-DSC01986.JPG
+	  *EXTRA File 		   4.0 m	2013-06-19-DSC01987.JPG
+	  *EXTRA File 		   6.0 m	2013-06-20-DSC01988.JPG
+	  *EXTRA File 		   6.4 m	2013-06-20-DSC01989.JPG
+	  *EXTRA File 		   4.9 m	2013-06-20-DSC01990.JPG
+	  *EXTRA File 		   6.1 m	2013-06-20-DSC01991.JPG
+	  *EXTRA File 		   5.5 m	2013-06-20-DSC01992.JPG
+	  *EXTRA File 		   5.6 m	2013-06-20-DSC01993.JPG
+	  *EXTRA File 		   5.3 m	2013-06-20-DSC01994.JPG
+	  *EXTRA File 		   3.6 m	2013-06-20-DSC01995.JPG
+	  *EXTRA File 		   5.9 m	2013-06-20-DSC01996.JPG
+	  *EXTRA File 		   4.7 m	2013-06-20-DSC01997.JPG
+	  *EXTRA File 		   5.4 m	2013-06-21-DSC01998.JPG
+	  *EXTRA File 		   3.9 m	2013-06-21-DSC02000.JPG
+	  *EXTRA File 		   4.6 m	2013-06-23-DSC02001.JPG
+	  *EXTRA File 		   5.0 m	2013-06-23-DSC02002.JPG
+	  *EXTRA File 		   5.1 m	2013-06-23-DSC02003.JPG
+	  *EXTRA File 		   4.0 m	2013-06-28-DSC02005.JPG
+	  *EXTRA File 		   3.9 m	2013-06-28-DSC02006.JPG
+	  *EXTRA File 		   5.0 m	2013-06-28-DSC02007.JPG
+	  *EXTRA File 		   5.8 m	2013-06-29-DSC02008.JPG
+	  *EXTRA File 		   3.8 m	2013-06-29-DSC02009.JPG
+	  *EXTRA File 		   4.6 m	2013-06-29-DSC02011.JPG
+	  *EXTRA File 		   4.6 m	2013-06-30-DSC02013.JPG
+	  *EXTRA File 		   4.6 m	2013-06-30-DSC02014.JPG
+	  *EXTRA File 		  452096	Thumbs.db
+	    New File  		   3.6 m	2013-07-15-DSC02216.JPG
+	    New File  		   3.7 m	2013-07-15-DSC02217.JPG
+	    New File  		   4.3 m	2013-07-15-DSC02218.JPG
+	    New File  		   4.5 m	2013-07-15-DSC02219.JPG
+	    New File  		   4.2 m	2013-07-15-DSC02220.JPG
+	    New File  		   4.7 m	2013-07-15-DSC02221.JPG
+	    New File  		   4.2 m	2013-07-15-DSC02222.JPG
+	    New File  		   3.6 m	2013-07-18-DSC02223.JPG
+	    New File  		   3.3 m	2013-07-18-DSC02224.JPG
+	    New File  		   4.2 m	2013-07-19-DSC02225.JPG
+	    New File  		   5.0 m	2013-07-19-DSC02226.JPG
+	    New File  		   5.6 m	2013-07-19-DSC02227.JPG
+	    New File  		   4.2 m	2013-07-19-DSC02228.JPG
+	    New File  		   5.3 m	2013-07-19-DSC02229.JPG
+	    New File  		   4.7 m	2013-07-19-DSC02231.JPG
+	    New File  		   3.3 m	2013-07-19-DSC02232.JPG
+	    New File  		   3.2 m	2013-07-19-DSC02233.JPG
+	    New File  		   6.6 m	2013-07-19-DSC02234.JPG
+	    New File  		   7.3 m	2013-07-19-DSC02235.JPG
+	    New File  		   6.1 m	2013-07-19-DSC02236.JPG
+	    New File  		   4.0 m	2013-07-19-DSC02237.JPG
+	    New File  		   4.6 m	2013-07-19-DSC02238.JPG
+	    New File  		   5.4 m	2013-07-19-DSC02239.JPG
+	    New File  		   6.1 m	2013-07-19-DSC02240.JPG
+	    New File  		   5.3 m	2013-07-19-DSC02241.JPG
+	    New File  		   7.0 m	2013-07-19-DSC02242.JPG
+	    New File  		   3.7 m	2013-07-19-DSC02243.JPG
+	    New File  		   3.8 m	2013-07-19-DSC02244.JPG
+	    New File  		   3.8 m	2013-07-19-DSC02245.JPG
+	    New File  		   3.3 m	2013-07-19-DSC02246.JPG
+	    New File  		   2.8 m	2013-07-19-DSC02247.JPG
+	    New File  		   5.3 m	2013-07-19-DSC02248.JPG
+	    New File  		   6.4 m	2013-07-19-DSC02249.JPG
+	    New File  		   6.8 m	2013-07-19-DSC02250.JPG
+	    New File  		   6.2 m	2013-07-19-DSC02251.JPG
+	    New File  		   6.5 m	2013-07-19-DSC02252.JPG
+	    New File  		   5.5 m	2013-07-21-DSC02258.JPG
+	    New File  		   4.4 m	2013-07-21-DSC02259.JPG
+	    New File  		   4.0 m	2013-07-21-DSC02260.JPG
+	    New File  		   4.6 m	2013-07-21-DSC02261.JPG
+	    New File  		   3.4 m	2013-07-21-DSC02262.JPG
+	    New File  		   3.7 m	2013-07-21-DSC02263.JPG
+	    New File  		   4.8 m	2013-07-21-DSC02264.JPG
+	    New File  		   4.1 m	2013-07-21-DSC02265.JPG
+	    New File  		   4.5 m	2013-07-23-DSC02266.JPG
+	    New File  		   2.9 m	2013-07-23-DSC02268.JPG
+	    New File  		   4.0 m	2013-07-23-DSC02270.JPG
+	    New File  		   4.6 m	2013-07-23-DSC02271.JPG
+	    New File  		   4.1 m	2013-07-23-DSC02272.JPG
+	    New File  		   4.2 m	2013-07-23-DSC02273.JPG
+	    New File  		   4.4 m	2013-07-23-DSC02274.JPG
+	    New File  		   4.5 m	2013-07-31-DSC02277.JPG
+	    New File  		   4.8 m	2013-07-31-DSC02278.JPG
+	    New File  		   4.4 m	2013-07-31-DSC02279.JPG
+	    New File  		   4.5 m	2013-07-31-DSC02282.JPG
+	    New File  		   4.3 m	2013-07-31-DSC02283.JPG
+	    New File  		   4.5 m	2013-07-31-DSC02285.JPG
+	    New File  		   4.4 m	2013-07-31-DSC02286.JPG
+	    New File  		   4.8 m	2013-07-31-DSC02287.JPG
+	    New File  		   4.0 m	2013-07-31-DSC02288.JPG
+	    New File  		   5.6 m	2013-07-31-DSC02290.JPG
+	    New File  		   3.8 m	2013-07-31-DSC02292.JPG
+	    New File  		   4.5 m	2013-07-31-DSC02294.JPG
+	    New File  		   4.2 m	2013-07-31-DSC02296.JPG
+	    New File  		   4.8 m	2013-07-31-DSC02297.JPG
+	    New File  		   3.5 m	2013-08-08-DSC02298.JPG
+	    New File  		   3.4 m	2013-08-08-DSC02300.JPG
+	    New File  		   4.0 m	2013-08-08-DSC02301.JPG
+	    New File  		   3.8 m	2013-08-08-DSC02302.JPG
+	    New File  		   3.8 m	2013-08-08-DSC02303.JPG
+	    New File  		   3.6 m	2013-08-08-DSC02304.JPG
+	    New File  		   3.5 m	2013-08-08-DSC02305.JPG
+	    New File  		   3.8 m	2013-08-08-DSC02306.JPG
+	    New File  		   3.6 m	2013-08-08-DSC02308.JPG
+	    New File  		   3.6 m	2013-08-08-DSC02309.JPG
+	    New File  		   3.4 m	2013-08-08-DSC02310.JPG
+	    New File  		   3.7 m	2013-08-08-DSC02311.JPG
+	    New File  		   3.6 m	2013-08-08-DSC02312.JPG
+	                 321	C:\Media\PicsAndVideo\Twins\Month12and13\
+	  *EXTRA File 		   31744	Thumbs.db
+	                 251	C:\Media\PicsAndVideo\Twins\ThirdMonth\
+	  *EXTRA File 		   18944	Thumbs.db
+	                 146	C:\Media\PicsAndVideo\Twins\Video\
+	    New File  		  23.9 m	20130723194813.MTS
+	    New File  		   2.9 m	20130805152054.MTS
+	    New File  		  46.9 m	20130805152103.MTS
+	    New File  		 154.6 m	20130805181847.MTS
+	    New File  		 119.5 m	20130805182258.MTS
+	    New File  		 381.3 m	20130805182620.MTS
+	    New File  		  62.4 m	20130808090111.MTS
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         9         0         9         0         0         0
+   Files :      2500        86      2414         0         0       257
+   Bytes :  20.721 g   1.114 g  19.606 g         0         0   1.199 g
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+   Ended : Sun Aug 11 21:03:37 2013

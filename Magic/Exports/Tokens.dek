@@ -17,10 +17,8 @@
   <Cards CatID="26281" Quantity="1" Sideboard="false" Name="Essence Warden" />
   <Cards CatID="46475" Quantity="3" Sideboard="false" Name="Wayfaring Temple" />
   <Cards CatID="46787" Quantity="1" Sideboard="false" Name="Grove of the Guardian" />
-  <Cards CatID="48308" Quantity="1" Sideboard="false" Name="Bronzebeak Moa" />
   <Cards CatID="46553" Quantity="1" Sideboard="false" Name="Trostani, Selesnya's Voice" />
-  <Cards CatID="57792" Quantity="1" Sideboard="false" Name="Archangel of Tithes" />
-  <Cards CatID="49339" Quantity="1" Sideboard="false" Name="Trading Post" />
+  <Cards CatID="54384" Quantity="1" Sideboard="false" Name="Naturalize" />
   <Cards CatID="54288" Quantity="1" Sideboard="false" Name="Wingmate Roc" />
   <Cards CatID="42790" Quantity="2" Sideboard="false" Name="Parallel Lives" />
   <Cards CatID="50304" Quantity="1" Sideboard="false" Name="Elspeth, Sun's Champion" />
@@ -29,10 +27,9 @@
   <Cards CatID="51739" Quantity="1" Sideboard="false" Name="Brimaz, King of Oreskos" />
   <Cards CatID="46347" Quantity="1" Sideboard="false" Name="Gatecreeper Vine" />
   <Cards CatID="40041" Quantity="1" Sideboard="false" Name="Forest" />
-  <Cards CatID="60126" Quantity="1" Sideboard="false" Name="Second Harvest" />
   <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
   <Cards CatID="23594" Quantity="1" Sideboard="false" Name="Temple Garden" />
-  <Cards CatID="61102" Quantity="2" Sideboard="false" Name="Selfless Spirit" />
+  <Cards CatID="57792" Quantity="1" Sideboard="false" Name="Archangel of Tithes" />
   <Cards CatID="54202" Quantity="2" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="29994" Quantity="1" Sideboard="false" Name="Creakwood Liege" />
   <Cards CatID="42684" Quantity="2" Sideboard="false" Name="Intangible Virtue" />
@@ -40,15 +37,24 @@
   <Cards CatID="53316" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
   <Cards CatID="56182" Quantity="1" Sideboard="false" Name="Dromoka's Command" />
+  <Cards CatID="61102" Quantity="2" Sideboard="false" Name="Selfless Spirit" />
+  <Cards CatID="38423" Quantity="1" Sideboard="false" Name="Asceticism" />
+  <Cards CatID="34626" Quantity="1" Sideboard="false" Name="Oran-Rief, the Vastwood" />
+  <Cards CatID="42694" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
+  <Cards CatID="63093" Quantity="1" Sideboard="false" Name="Harmonize" />
+  <Cards CatID="63513" Quantity="1" Sideboard="false" Name="Cavern of Souls" />
+  <Cards CatID="45286" Quantity="1" Sideboard="false" Name="Acidic Slime" />
+  <Cards CatID="53338" Quantity="1" Sideboard="false" Name="Back to Nature" />
+  <Cards CatID="62581" Quantity="1" Sideboard="false" Name="Alley Evasion" />
   <Cards CatID="49219" Quantity="2" Sideboard="true" Name="Plummet" />
-  <Cards CatID="49313" Quantity="1" Sideboard="true" Name="Ranger's Guile" />
-  <Cards CatID="47869" Quantity="2" Sideboard="true" Name="Beckon Apparition" />
+  <Cards CatID="34800" Quantity="2" Sideboard="true" Name="Baloth Cage Trap" />
   <Cards CatID="49289" Quantity="1" Sideboard="true" Name="Bramblecrush" />
-  <Cards CatID="46641" Quantity="1" Sideboard="true" Name="Sundering Growth" />
+  <Cards CatID="53278" Quantity="1" Sideboard="true" Name="Tormod's Crypt" />
   <Cards CatID="26281" Quantity="2" Sideboard="true" Name="Essence Warden" />
   <Cards CatID="42790" Quantity="1" Sideboard="true" Name="Parallel Lives" />
+  <Cards CatID="46641" Quantity="1" Sideboard="true" Name="Sundering Growth" />
   <Cards CatID="52076" Quantity="1" Sideboard="true" Name="Renowned Weaver" />
-  <Cards CatID="53278" Quantity="1" Sideboard="true" Name="Tormod's Crypt" />
+  <Cards CatID="47869" Quantity="2" Sideboard="true" Name="Beckon Apparition" />
   <Cards CatID="53606" Quantity="1" Sideboard="true" Name="Reclamation Sage" />
-  <Cards CatID="34800" Quantity="2" Sideboard="true" Name="Baloth Cage Trap" />
+  <Cards CatID="54384" Quantity="1" Sideboard="true" Name="Naturalize" />
 </Deck>
