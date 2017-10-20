@@ -5,7 +5,7 @@
   <Cards CatID="58659" Quantity="2" Sideboard="false" Name="Sunken Hollow" />
   <Cards CatID="58527" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="53316" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
-  <Cards CatID="46307" Quantity="1" Sideboard="false" Name="Mizzium Skin" />
+  <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="63191" Quantity="1" Sideboard="false" Name="Spell Pierce" />
   <Cards CatID="50306" Quantity="1" Sideboard="false" Name="Thassa, God of the Sea" />
@@ -24,9 +24,8 @@
   <Cards CatID="58796" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
   <Cards CatID="50264" Quantity="3" Sideboard="false" Name="Temple of Deceit" />
-  <Cards CatID="62903" Quantity="1" Sideboard="false" Name="Daredevil Dragster" />
   <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
-  <Cards CatID="49593" Quantity="2" Sideboard="false" Name="Quicken" />
+  <Cards CatID="49593" Quantity="1" Sideboard="false" Name="Quicken" />
   <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
   <Cards CatID="54102" Quantity="2" Sideboard="false" Name="Despise" />
   <Cards CatID="46767" Quantity="4" Sideboard="false" Name="Nivmagus Elemental" />
@@ -37,15 +36,15 @@
   <Cards CatID="53990" Quantity="1" Sideboard="false" Name="Mardu Skullhunter" />
   <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
   <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
-  <Cards CatID="19665" Quantity="1" Sideboard="false" Name="Isochron Scepter" />
+  <Cards CatID="52278" Quantity="1" Sideboard="false" Name="Brain Maggot" />
   <Cards CatID="59868" Quantity="1" Sideboard="false" Name="Thing in the Ice" />
   <Cards CatID="42436" Quantity="4" Sideboard="false" Name="Delver of Secrets" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
-  <Cards CatID="62857" Quantity="1" Sideboard="false" Name="Irontread Crusher" />
+  <Cards CatID="47837" Quantity="1" Sideboard="false" Name="Devour Flesh" />
   <Cards CatID="61931" Quantity="1" Sideboard="false" Name="Rush of Vitality" />
-  <Cards CatID="61593" Quantity="1" Sideboard="false" Name="Renegade Freighter" />
+  <Cards CatID="57910" Quantity="1" Sideboard="false" Name="Jhessian Thief" />
   <Cards CatID="60382" Quantity="1" Sideboard="false" Name="Grotesque Mutation" />
-  <Cards CatID="49515" Quantity="3" Sideboard="false" Name="Haunted Plate Mail" />
+  <Cards CatID="55375" Quantity="1" Sideboard="false" Name="Jeskai Sage" />
   <Cards CatID="53494" Quantity="1" Sideboard="false" Name="Waste Not" />
   <Cards CatID="62681" Quantity="1" Sideboard="false" Name="Gifted Aetherborn" />
   <Cards CatID="54096" Quantity="1" Sideboard="false" Name="Ruthless Ripper" />
@@ -53,19 +52,24 @@
   <Cards CatID="51679" Quantity="1" Sideboard="false" Name="Drown in Sorrow" />
   <Cards CatID="22857" Quantity="1" Sideboard="false" Name="Will-o'-the-Wisp" />
   <Cards CatID="53267" Quantity="1" Sideboard="false" Name="Mind Rot" />
-  <Cards CatID="50562" Quantity="1" Sideboard="false" Name="Gray Merchant of Asphodel" />
+  <Cards CatID="45244" Quantity="1" Sideboard="false" Name="Rewind" />
   <Cards CatID="31765" Quantity="1" Sideboard="false" Name="Scepter of Fugue" />
   <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
   <Cards CatID="30140" Quantity="1" Sideboard="false" Name="Raven's Crime" />
-  <Cards CatID="34442" Quantity="1" Sideboard="false" Name="Spell Pierce" />
-  <Cards CatID="49117" Quantity="3" Sideboard="true" Name="Essence Scatter" />
-  <Cards CatID="54102" Quantity="1" Sideboard="true" Name="Despise" />
+  <Cards CatID="55394" Quantity="1" Sideboard="false" Name="Mistfire Adept" />
+  <Cards CatID="45544" Quantity="1" Sideboard="false" Name="Augur of Bolas" />
+  <Cards CatID="58367" Quantity="1" Sideboard="false" Name="Horribly Awry" />
+  <Cards CatID="26549" Quantity="1" Sideboard="false" Name="Dash Hopes" />
+  <Cards CatID="23384" Quantity="4" Sideboard="false" Name="Hunted Horror" />
+  <Cards CatID="45274" Quantity="1" Sideboard="false" Name="Unsummon" />
+  <Cards CatID="49117" Quantity="2" Sideboard="true" Name="Essence Scatter" />
+  <Cards CatID="53382" Quantity="2" Sideboard="true" Name="Dissipate" />
   <Cards CatID="50622" Quantity="2" Sideboard="true" Name="Dark Betrayal" />
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
-  <Cards CatID="50220" Quantity="1" Sideboard="true" Name="Ordeal of Thassa" />
+  <Cards CatID="27749" Quantity="1" Sideboard="true" Name="Flashfreeze" />
   <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
   <Cards CatID="51817" Quantity="1" Sideboard="true" Name="Bile Blight" />
-  <Cards CatID="48520" Quantity="2" Sideboard="true" Name="Far/Away" />
-  <Cards CatID="52278" Quantity="1" Sideboard="true" Name="Brain Maggot" />
-  <Cards CatID="46307" Quantity="1" Sideboard="true" Name="Mizzium Skin" />
+  <Cards CatID="19665" Quantity="1" Sideboard="true" Name="Isochron Scepter" />
+  <Cards CatID="53982" Quantity="2" Sideboard="true" Name="Disdainful Stroke" />
+  <Cards CatID="46325" Quantity="1" Sideboard="true" Name="Cremate" />
 </Deck>

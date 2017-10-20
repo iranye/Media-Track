@@ -58,6 +58,7 @@
   <Cards CatID="53460" Quantity="2" Sideboard="false" Name="Elvish Mystic" />
   <Cards CatID="47685" Quantity="2" Sideboard="false" Name="Aetherize" />
   <Cards CatID="50628" Quantity="1" Sideboard="false" Name="Polukranos, World Eater" />
+  <Cards CatID="34468" Quantity="1" Sideboard="false" Name="Harrow" />
   <Cards CatID="48520" Quantity="1" Sideboard="true" Name="Far/Away" />
   <Cards CatID="18965" Quantity="1" Sideboard="true" Name="Boomerang" />
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
