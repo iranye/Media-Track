@@ -1,3 +1,34 @@
+For Clerics deck:
+Athreos
+Auriok Champion
+Cleric of the Forward Order (use w/ Mirrorweave)
+Clockwork Hydra
+Cloudstone Curio
+Harm's Way
+Stoneforge Masterwork
+Suture Priest
+
+EliteIsochron:
+Ring of blue island
+
+
+Landfall:
+Black Sun's Zenith
+Bounding Krasis
+Calcite Snapper
+Cloudstone Curio
+Dream Stalker
+Fathom Seer
+Khalni Gem
+Oboro
+Noggle Bridgebreaker
+Thrummingbird
+Tragic Lesson
+
+Other:
+Black Sun's Zenith
+Dismember
+
 <?xml version="1.0" encoding="utf-8"?>
 <AllDecks>
 <TradersList>
@@ -335,6 +366,7 @@
   Sunbeam Spellbomb
 </Arty>
 <BlackWhiteSac>
+  Shadow Guildmage
   <Removal>
     Angelic Purge
     Bojuka Bog
@@ -674,6 +706,7 @@
   Deadlock Trap
   Deceiver Exarch
   Decomission
+  Fallowsage
   Fatal Push
   Felhide Spiritbinder
   Gifted Aetherborn
@@ -755,6 +788,9 @@
   Odric, Lunarch Marshal
   Sram, Senior Edificer
 </Duffs>
+<Duffs>
+  Pestermite
+</Duffs>
 <EidolonSac>
   Acidic Slime
   Angelic Gift
@@ -788,13 +824,18 @@
   Vampiric Rites
 </EidolonSac>
 <EliteIsochron>
+  __Prowess__
   Academy Ruins
-  Cemetery Reaper
-  Consign
-  Conversion Chamber
+  Æther Adept
+  Aether Spellbomb
+  Agony Warp
+  Augur of Bolas
+  Clutch of the Undercity
+  Countersquall
   Cremate
   Crook of Condemnation
   Crypt Incursion
+  Cryptic Command
   Dimir Infiltrator
   Erebos, God
   Mana Leak
@@ -995,23 +1036,41 @@
   Brass Squire
   Call to the Kindred
   Crystal Shard
-  Declaration in Stone
-  Dimir Aqueduct
-  Dovescape
   Dynavolt Tower
-  Etherwrought Page
-  Hidden Strings
-  Horribly Awry  
-  Mirrorpool
-  Phantasmal Image
+  Echo Mage
+  Esper Charm
+  Geth's Verdict
+  Grixis Charm
+  Guile
+  Horribly Awry
+  Hunted Horror
+  Imp's Mischief
+  Mana Leak
+  Midnight Charm
+  Mystical Teachings
+  Neurok Commando
+  Nyxathid
+  Peek
+  Perplex
+  Pestermite
+  Piracy Charm
   Pulse of the Grid
   Pulse of the Tangle
+  Redirect
   Ring of Evos Isle
-  Rogue's Passage
-  Spellweaver Helix
-  Tolaria West
-  Training Grounds
-  Whispersilk Cloak
+  Sage-Eye Avengers
+  Sage of Epityr
+  Sage of Fables
+  Scuttlemutt
+  Shadow Guildmage
+  Shadowfeed
+  Shell Skulkin
+  Shorecrasher Elemental
+  Swan Song
+  Twiddle
+  Undying Evil
+  Unsummon
+  Vapor Snag
 </EliteIsochron>
 <Enchants>
   Aether Meltdown
@@ -1022,6 +1081,7 @@
   Armament of Nyx
   Azorius Æthermage
   Azorius Chancery
+  Azorius Guildmage
   Bygone Bishop
   Centaur Omenreader
   Cloudblazer
@@ -1049,7 +1109,7 @@
   Mesa Enchantress
   Panharmonicon
   Plumes of Peace
-  Plumeveil
+    Plumeveil
   Pongify
   Reality Acid
   Repel Intruders
@@ -1074,7 +1134,10 @@
   Hornet Nest
 </ForceAttacks>
 <FourPowerMobs>
+Arc Runner
 Bloodmad vampire
+Phantasmal Image
+Vedalken Mastermind
   <Madness>
     Avacyn's Judgment
     Avalanche Tusker
@@ -1277,23 +1340,30 @@ Bloodmad vampire
   </TOSORT>
 </FourPowerMobs>
 <FourPowerElementals>
+  Ashling the Extinguisher
   Brackwater Elemental
   Brighthearth Banneret
   Duplicant
   Foundry Champion
   Lumbering Falls
   Nova Chaser
+  Primal Plasma
   Progenitor Mimic
+  Quicksilver Elemental
   Rage Nimbus
   Roil Spout
   Rumbling Slum
+  Shorecrasher Elemental
   Smokebraider
   Soul of the Harvest
   Taurean Mauler
   Thornling
   Timbermare
   Unbridled Growth
+  Updraft Elemental
+  Vedalken Mastermind
   Woodland Wanderer
+  
 </FourPowerElementals>
 <Goats>
   __Changeling__ Spells
@@ -1330,6 +1400,9 @@ Lightform (2 WHT devotion) (also works w/ Jeskai charm: "put creature on top of 
 Heliod
 </LandDestruct>
 <LandFall>
+  Calcite Snappera
+  Floodbringer
+  Roil Elemental
   <Mana>
     Blighted Woodland
     Cavern of Souls

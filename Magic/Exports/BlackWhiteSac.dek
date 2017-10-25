@@ -5,7 +5,6 @@
   <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="55600" Quantity="2" Sideboard="false" Name="Valorous Stance" />
   <Cards CatID="47819" Quantity="1" Sideboard="false" Name="Alms Beast" />
-  <Cards CatID="52106" Quantity="1" Sideboard="false" Name="Athreos, God of Passage" />
   <Cards CatID="45472" Quantity="1" Sideboard="false" Name="Ring of Xathrid" />
   <Cards CatID="47921" Quantity="2" Sideboard="false" Name="Boros Reckoner" />
   <Cards CatID="61102" Quantity="2" Sideboard="false" Name="Selfless Spirit" />
@@ -40,7 +39,7 @@
   <Cards CatID="52136" Quantity="1" Sideboard="false" Name="Godsend" />
   <Cards CatID="57876" Quantity="1" Sideboard="false" Name="Kytheon, Hero of Akros" />
   <Cards CatID="26409" Quantity="2" Sideboard="false" Name="Mesa Enchantress" />
-  <Cards CatID="52256" Quantity="2" Sideboard="false" Name="Aegis of the Gods" />
+  <Cards CatID="52256" Quantity="1" Sideboard="false" Name="Aegis of the Gods" />
   <Cards CatID="52232" Quantity="2" Sideboard="false" Name="Eidolon of Rhetoric" />
   <Cards CatID="57941" Quantity="1" Sideboard="false" Name="Liliana, Heretical Healer" />
   <Cards CatID="50164" Quantity="2" Sideboard="false" Name="Baleful Eidolon" />
@@ -54,14 +53,15 @@
   <Cards CatID="47481" Quantity="1" Sideboard="false" Name="Orzhov Charm" />
   <Cards CatID="61282" Quantity="1" Sideboard="false" Name="Sigarda's Aid" />
   <Cards CatID="54969" Quantity="1" Sideboard="false" Name="Skirsdag High Priest" />
+  <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
+  <Cards CatID="48808" Quantity="1" Sideboard="false" Name="Tidehollow Sculler" />
   <Cards CatID="47749" Quantity="2" Sideboard="true" Name="Merciless Eviction" />
-  <Cards CatID="52256" Quantity="2" Sideboard="true" Name="Aegis of the Gods" />
+  <Cards CatID="52256" Quantity="3" Sideboard="true" Name="Aegis of the Gods" />
   <Cards CatID="23651" Quantity="1" Sideboard="true" Name="Orzhov Pontiff" />
   <Cards CatID="19735" Quantity="1" Sideboard="true" Name="Viridian Longbow" />
   <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
-  <Cards CatID="23935" Quantity="1" Sideboard="true" Name="Teysa, Orzhov Scion" />
   <Cards CatID="62037" Quantity="1" Sideboard="true" Name="Kambal, Consul of Allocation" />
-  <Cards CatID="49569" Quantity="1" Sideboard="true" Name="Banisher Priest" />
+  <Cards CatID="59756" Quantity="1" Sideboard="true" Name="Angelic Purge" />
   <Cards CatID="49231" Quantity="1" Sideboard="true" Name="Ratchet Bomb" />
   <Cards CatID="51817" Quantity="1" Sideboard="true" Name="Bile Blight" />
   <Cards CatID="35503" Quantity="1" Sideboard="true" Name="Lightning Greaves" />
