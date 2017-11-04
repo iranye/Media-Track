@@ -1,0 +1,46 @@
+{
+  "Name": "MellowVol1",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "TotalMegaBytes": 72,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Natalie Merchant\\$Natalie Merchant-Tigerlilly.m3u"
+    },
+    {
+      "TotalMegaBytes": 9,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\toriamos\\_ToriAmos_ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 196,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Talking Heads\\$Talking Heads.m3u"
+    },
+    {
+      "TotalMegaBytes": 86,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Steely Dan\\_SteelyDan-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 51,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\SleeplessSeattleSoundtrack\\$SleeplessSeattleSoundtrack.m3u"
+    },
+    {
+      "TotalMegaBytes": 15,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Sinéad O'Connor\\_SineadOConnor_ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 105,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Simon & Garfunkel\\_SimonAndGarfunkel.m3u"
+    },
+    {
+      "TotalMegaBytes": 13,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Roxy Music\\_RoxyMusic_ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 32,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Raconteurs\\_Raconteurs.m3u"
+    },
+    {
+      "TotalMegaBytes": 58,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Paul Simon\\_PaulSimon.m3u"
+    }
+  ]
+}

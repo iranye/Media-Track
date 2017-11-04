@@ -14,6 +14,7 @@ Thumbs.db
 *.ini
 *.log
 *.ncb
+*.nri
 *.pch
 *.sbr
 *.suo
@@ -21,6 +22,10 @@ Thumbs.db
 *.vspscc
 [Rr]elease*/
 _ReSharper*/
+*.dll
+*.exe
+*.manifest
+*.pdb
 
 [Bb]in
 [Dd]ebug*/
