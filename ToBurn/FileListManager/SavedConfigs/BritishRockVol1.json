@@ -1,0 +1,18 @@
+{
+  "Name": "BritishRockVol1",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "TotalMegaBytes": 275,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Who\\$Who.m3u"
+    },
+    {
+      "TotalMegaBytes": 307,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\LedZeppelin\\$LedZeppelin-Shortlist.m3u"
+    },
+    {
+      "TotalMegaBytes": 58,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\John Lennon\\$JohnLennon-ShortList.m3u"
+    }
+  ]
+}
