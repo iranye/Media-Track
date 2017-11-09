@@ -9,12 +9,10 @@
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="63191" Quantity="1" Sideboard="false" Name="Spell Pierce" />
   <Cards CatID="38155" Quantity="1" Sideboard="false" Name="Psychic Miasma" />
-  <Cards CatID="48520" Quantity="1" Sideboard="false" Name="Far/Away" />
-  <Cards CatID="55520" Quantity="3" Sideboard="false" Name="Dismal Backwater" />
+  <Cards CatID="55520" Quantity="2" Sideboard="false" Name="Dismal Backwater" />
   <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="58809" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="58807" Quantity="1" Sideboard="false" Name="Island" />
-  <Cards CatID="53558" Quantity="1" Sideboard="false" Name="Xathrid Slyblade" />
   <Cards CatID="59778" Quantity="1" Sideboard="false" Name="Brain in a Jar" />
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="60072" Quantity="1" Sideboard="false" Name="Swamp" />
@@ -30,19 +28,16 @@
   <Cards CatID="44289" Quantity="1" Sideboard="false" Name="Appetite for Brains" />
   <Cards CatID="17913" Quantity="2" Sideboard="false" Name="Blackmail" />
   <Cards CatID="36360" Quantity="2" Sideboard="false" Name="Inquisition of Kozilek" />
-  <Cards CatID="57678" Quantity="1" Sideboard="false" Name="Deadbridge Shaman" />
   <Cards CatID="53990" Quantity="1" Sideboard="false" Name="Mardu Skullhunter" />
-  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="49515" Quantity="1" Sideboard="false" Name="Haunted Plate Mail" />
   <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
   <Cards CatID="59868" Quantity="4" Sideboard="false" Name="Thing in the Ice" />
   <Cards CatID="42436" Quantity="4" Sideboard="false" Name="Delver of Secrets" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="47837" Quantity="1" Sideboard="false" Name="Devour Flesh" />
-  <Cards CatID="24575" Quantity="1" Sideboard="false" Name="Blizzard Specter" />
   <Cards CatID="53494" Quantity="1" Sideboard="false" Name="Waste Not" />
   <Cards CatID="50562" Quantity="1" Sideboard="false" Name="Gray Merchant of Asphodel" />
-  <Cards CatID="51817" Quantity="1" Sideboard="false" Name="Bile Blight" />
-  <Cards CatID="51679" Quantity="1" Sideboard="false" Name="Drown in Sorrow" />
+  <Cards CatID="51817" Quantity="3" Sideboard="false" Name="Bile Blight" />
   <Cards CatID="22857" Quantity="1" Sideboard="false" Name="Will-o'-the-Wisp" />
   <Cards CatID="53267" Quantity="1" Sideboard="false" Name="Mind Rot" />
   <Cards CatID="31765" Quantity="1" Sideboard="false" Name="Scepter of Fugue" />
@@ -51,7 +46,7 @@
   <Cards CatID="26549" Quantity="1" Sideboard="false" Name="Dash Hopes" />
   <Cards CatID="23384" Quantity="4" Sideboard="false" Name="Hunted Horror" />
   <Cards CatID="45274" Quantity="1" Sideboard="false" Name="Unsummon" />
-  <Cards CatID="34792" Quantity="2" Sideboard="false" Name="Whiplash Trap" />
+  <Cards CatID="34792" Quantity="4" Sideboard="false" Name="Whiplash Trap" />
   <Cards CatID="49231" Quantity="3" Sideboard="false" Name="Ratchet Bomb" />
   <Cards CatID="49117" Quantity="2" Sideboard="true" Name="Essence Scatter" />
   <Cards CatID="53382" Quantity="2" Sideboard="true" Name="Dissipate" />
@@ -59,7 +54,6 @@
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
   <Cards CatID="27749" Quantity="1" Sideboard="true" Name="Flashfreeze" />
   <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
-  <Cards CatID="51817" Quantity="1" Sideboard="true" Name="Bile Blight" />
   <Cards CatID="19665" Quantity="1" Sideboard="true" Name="Isochron Scepter" />
   <Cards CatID="53982" Quantity="2" Sideboard="true" Name="Disdainful Stroke" />
   <Cards CatID="46325" Quantity="1" Sideboard="true" Name="Cremate" />
