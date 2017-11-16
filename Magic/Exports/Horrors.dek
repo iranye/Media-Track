@@ -5,7 +5,7 @@
   <Cards CatID="58659" Quantity="2" Sideboard="false" Name="Sunken Hollow" />
   <Cards CatID="58527" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="53316" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
-  <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
+  <Cards CatID="63698" Quantity="1" Sideboard="false" Name="Cryptic Serpent" />
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="63191" Quantity="1" Sideboard="false" Name="Spell Pierce" />
   <Cards CatID="38155" Quantity="1" Sideboard="false" Name="Psychic Miasma" />
@@ -24,30 +24,39 @@
   <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
   <Cards CatID="49593" Quantity="1" Sideboard="false" Name="Quicken" />
   <Cards CatID="54102" Quantity="2" Sideboard="false" Name="Despise" />
-  <Cards CatID="46767" Quantity="2" Sideboard="false" Name="Nivmagus Elemental" />
-  <Cards CatID="44289" Quantity="1" Sideboard="false" Name="Appetite for Brains" />
-  <Cards CatID="17913" Quantity="2" Sideboard="false" Name="Blackmail" />
+  <Cards CatID="46767" Quantity="1" Sideboard="false" Name="Nivmagus Elemental" />
+  <Cards CatID="61494" Quantity="1" Sideboard="false" Name="Lupine Prototype" />
+  <Cards CatID="50310" Quantity="1" Sideboard="false" Name="Ashiok, Nightmare Weaver" />
   <Cards CatID="36360" Quantity="2" Sideboard="false" Name="Inquisition of Kozilek" />
-  <Cards CatID="53990" Quantity="1" Sideboard="false" Name="Mardu Skullhunter" />
+  <Cards CatID="57618" Quantity="1" Sideboard="false" Name="Negate" />
   <Cards CatID="49515" Quantity="1" Sideboard="false" Name="Haunted Plate Mail" />
-  <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
   <Cards CatID="59868" Quantity="4" Sideboard="false" Name="Thing in the Ice" />
-  <Cards CatID="42436" Quantity="4" Sideboard="false" Name="Delver of Secrets" />
+  <Cards CatID="42436" Quantity="2" Sideboard="false" Name="Delver of Secrets" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="47837" Quantity="1" Sideboard="false" Name="Devour Flesh" />
-  <Cards CatID="53494" Quantity="1" Sideboard="false" Name="Waste Not" />
   <Cards CatID="50562" Quantity="1" Sideboard="false" Name="Gray Merchant of Asphodel" />
-  <Cards CatID="51817" Quantity="3" Sideboard="false" Name="Bile Blight" />
+  <Cards CatID="51817" Quantity="2" Sideboard="false" Name="Bile Blight" />
   <Cards CatID="22857" Quantity="1" Sideboard="false" Name="Will-o'-the-Wisp" />
   <Cards CatID="53267" Quantity="1" Sideboard="false" Name="Mind Rot" />
-  <Cards CatID="31765" Quantity="1" Sideboard="false" Name="Scepter of Fugue" />
-  <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
+  <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
   <Cards CatID="30140" Quantity="1" Sideboard="false" Name="Raven's Crime" />
-  <Cards CatID="26549" Quantity="1" Sideboard="false" Name="Dash Hopes" />
   <Cards CatID="23384" Quantity="4" Sideboard="false" Name="Hunted Horror" />
   <Cards CatID="45274" Quantity="1" Sideboard="false" Name="Unsummon" />
-  <Cards CatID="34792" Quantity="4" Sideboard="false" Name="Whiplash Trap" />
+  <Cards CatID="34792" Quantity="3" Sideboard="false" Name="Whiplash Trap" />
   <Cards CatID="49231" Quantity="3" Sideboard="false" Name="Ratchet Bomb" />
+  <Cards CatID="47663" Quantity="2" Sideboard="false" Name="Hands of Binding" />
+  <Cards CatID="61845" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="20956" Quantity="1" Sideboard="false" Name="Serum Visions" />
+  <Cards CatID="57752" Quantity="1" Sideboard="false" Name="Read the Bones" />
+  <Cards CatID="49157" Quantity="1" Sideboard="false" Name="Divination" />
+  <Cards CatID="65492" Quantity="1" Sideboard="false" Name="Dowsing Dagger" />
+  <Cards CatID="65510" Quantity="1" Sideboard="false" Name="Primal Amulet" />
+  <Cards CatID="57912" Quantity="1" Sideboard="false" Name="Harbinger of the Tides" />
+  <Cards CatID="21807" Quantity="1" Sideboard="false" Name="Kaijin of the Vanishing Touch" />
+  <Cards CatID="50376" Quantity="1" Sideboard="false" Name="Prognostic Sphinx" />
+  <Cards CatID="63710" Quantity="1" Sideboard="false" Name="Galestrike" />
+  <Cards CatID="47907" Quantity="1" Sideboard="false" Name="Call of the Nightwing" />
+  <Cards CatID="42282" Quantity="3" Sideboard="false" Name="Invisible Stalker" />
   <Cards CatID="49117" Quantity="2" Sideboard="true" Name="Essence Scatter" />
   <Cards CatID="53382" Quantity="2" Sideboard="true" Name="Dissipate" />
   <Cards CatID="50622" Quantity="2" Sideboard="true" Name="Dark Betrayal" />
@@ -57,4 +66,5 @@
   <Cards CatID="19665" Quantity="1" Sideboard="true" Name="Isochron Scepter" />
   <Cards CatID="53982" Quantity="2" Sideboard="true" Name="Disdainful Stroke" />
   <Cards CatID="46325" Quantity="1" Sideboard="true" Name="Cremate" />
+  <Cards CatID="51817" Quantity="1" Sideboard="true" Name="Bile Blight" />
 </Deck>
