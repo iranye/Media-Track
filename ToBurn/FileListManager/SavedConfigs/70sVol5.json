@@ -3,7 +3,15 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "TotalMegaBytes": 448,
+      "TotalMegaBytes": 86,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Steely Dan\\_SteelyDan-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 118,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Stevie Wonder\\_StevieWonder.m3u"
+    },
+    {
+      "TotalMegaBytes": 444,
       "FullPath": "C:\\MediaTracker\\Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1979\\_1979-ShortList.m3u"
     }
   ]
