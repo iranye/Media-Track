@@ -1,5 +1,5 @@
 {
-  "Name": "BritishRockVol1",
+  "Name": "ClassicRockVolXXX",
   "CopyDirectories": true,
   "M3uFiles": [
     {
@@ -9,6 +9,10 @@
     {
       "TotalMegaBytes": 58,
       "FullPath": "C:\\MediaTracker\\Music\\MP3s\\John Lennon\\$JohnLennon-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 307,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\LedZeppelin\\$LedZeppelin-Shortlist.m3u"
     },
     {
       "TotalMegaBytes": 100,
@@ -21,6 +25,10 @@
     {
       "TotalMegaBytes": 121,
       "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Peter Gabriel\\_PeterGabriel-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 365,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Rolling Stones\\_RollingStones-ShortList.m3u"
     },
     {
       "TotalMegaBytes": 310,
