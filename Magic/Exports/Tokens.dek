@@ -12,7 +12,7 @@
   <Cards CatID="46707" Quantity="4" Sideboard="false" Name="Call of the Conclave" />
   <Cards CatID="46413" Quantity="1" Sideboard="false" Name="Vitu-Ghazi Guildmage" />
   <Cards CatID="46415" Quantity="3" Sideboard="false" Name="Selesnya Charm" />
-  <Cards CatID="49109" Quantity="2" Sideboard="false" Name="Pacifism" />
+  <Cards CatID="49109" Quantity="1" Sideboard="false" Name="Pacifism" />
   <Cards CatID="49381" Quantity="2" Sideboard="false" Name="Celestial Flare" />
   <Cards CatID="26281" Quantity="1" Sideboard="false" Name="Essence Warden" />
   <Cards CatID="46475" Quantity="3" Sideboard="false" Name="Wayfaring Temple" />
@@ -22,7 +22,6 @@
   <Cards CatID="54288" Quantity="1" Sideboard="false" Name="Wingmate Roc" />
   <Cards CatID="42790" Quantity="2" Sideboard="false" Name="Parallel Lives" />
   <Cards CatID="50304" Quantity="1" Sideboard="false" Name="Elspeth, Sun's Champion" />
-  <Cards CatID="47559" Quantity="1" Sideboard="false" Name="Smite" />
   <Cards CatID="53698" Quantity="1" Sideboard="false" Name="Hornet Nest" />
   <Cards CatID="51739" Quantity="1" Sideboard="false" Name="Brimaz, King of Oreskos" />
   <Cards CatID="46347" Quantity="1" Sideboard="false" Name="Gatecreeper Vine" />
@@ -37,7 +36,7 @@
   <Cards CatID="53316" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
   <Cards CatID="56182" Quantity="1" Sideboard="false" Name="Dromoka's Command" />
-  <Cards CatID="61102" Quantity="2" Sideboard="false" Name="Selfless Spirit" />
+  <Cards CatID="61102" Quantity="3" Sideboard="false" Name="Selfless Spirit" />
   <Cards CatID="38423" Quantity="1" Sideboard="false" Name="Asceticism" />
   <Cards CatID="34626" Quantity="1" Sideboard="false" Name="Oran-Rief, the Vastwood" />
   <Cards CatID="42694" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
@@ -45,16 +44,18 @@
   <Cards CatID="63513" Quantity="1" Sideboard="false" Name="Cavern of Souls" />
   <Cards CatID="45286" Quantity="1" Sideboard="false" Name="Acidic Slime" />
   <Cards CatID="53338" Quantity="1" Sideboard="false" Name="Back to Nature" />
-  <Cards CatID="62581" Quantity="1" Sideboard="false" Name="Alley Evasion" />
+  <Cards CatID="34552" Quantity="1" Sideboard="false" Name="Day of Judgment" />
+  <Cards CatID="49395" Quantity="1" Sideboard="false" Name="Archangel of Thune" />
   <Cards CatID="49219" Quantity="2" Sideboard="true" Name="Plummet" />
   <Cards CatID="34800" Quantity="2" Sideboard="true" Name="Baloth Cage Trap" />
   <Cards CatID="49289" Quantity="1" Sideboard="true" Name="Bramblecrush" />
   <Cards CatID="53278" Quantity="1" Sideboard="true" Name="Tormod's Crypt" />
-  <Cards CatID="26281" Quantity="2" Sideboard="true" Name="Essence Warden" />
+  <Cards CatID="26281" Quantity="1" Sideboard="true" Name="Essence Warden" />
   <Cards CatID="42790" Quantity="1" Sideboard="true" Name="Parallel Lives" />
   <Cards CatID="46641" Quantity="1" Sideboard="true" Name="Sundering Growth" />
   <Cards CatID="52076" Quantity="1" Sideboard="true" Name="Renowned Weaver" />
   <Cards CatID="47869" Quantity="2" Sideboard="true" Name="Beckon Apparition" />
   <Cards CatID="53606" Quantity="1" Sideboard="true" Name="Reclamation Sage" />
   <Cards CatID="54384" Quantity="1" Sideboard="true" Name="Naturalize" />
+  <Cards CatID="34552" Quantity="1" Sideboard="true" Name="Day of Judgment" />
 </Deck>
