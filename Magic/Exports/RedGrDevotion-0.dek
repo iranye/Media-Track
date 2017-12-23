@@ -42,6 +42,7 @@
   <Cards CatID="50452" Quantity="1" Sideboard="false" Name="Fade into Antiquity" />
   <Cards CatID="50428" Quantity="2" Sideboard="false" Name="Destructive Revelry" />
   <Cards CatID="63093" Quantity="1" Sideboard="false" Name="Harmonize" />
+  <Cards CatID="34902" Quantity="1" Sideboard="false" Name="Rancor" />
   <Cards CatID="50196" Quantity="3" Sideboard="true" Name="Nylea's Disciple" />
   <Cards CatID="50386" Quantity="3" Sideboard="true" Name="Mistcutter Hydra" />
   <Cards CatID="49271" Quantity="1" Sideboard="true" Name="Scavenging Ooze" />

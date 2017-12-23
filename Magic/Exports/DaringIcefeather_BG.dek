@@ -5,7 +5,7 @@
   <Cards CatID="54242" Quantity="4" Sideboard="false" Name="Forest" />
   <Cards CatID="53478" Quantity="2" Sideboard="false" Name="Forest" />
   <Cards CatID="54218" Quantity="4" Sideboard="false" Name="Island" />
-  <Cards CatID="53482" Quantity="4" Sideboard="false" Name="Island" />
+  <Cards CatID="53482" Quantity="3" Sideboard="false" Name="Island" />
   <Cards CatID="50272" Quantity="4" Sideboard="false" Name="Temple of Mystery" />
   <Cards CatID="54074" Quantity="2" Sideboard="false" Name="Thornwood Falls" />
   <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
@@ -16,7 +16,6 @@
   <Cards CatID="52228" Quantity="2" Sideboard="false" Name="Daring Thief" />
   <Cards CatID="54302" Quantity="1" Sideboard="false" Name="Dragon's Eye Savants" />
   <Cards CatID="51549" Quantity="1" Sideboard="false" Name="Ephara, God of the Polis" />
-  <Cards CatID="52186" Quantity="2" Sideboard="false" Name="Hypnotic Siren" />
   <Cards CatID="54150" Quantity="1" Sideboard="false" Name="Icefeather Aven" />
   <Cards CatID="51709" Quantity="2" Sideboard="false" Name="Kiora's Follower" />
   <Cards CatID="50550" Quantity="1" Sideboard="false" Name="Master of Waves" />
@@ -36,14 +35,13 @@
   <Cards CatID="50360" Quantity="2" Sideboard="false" Name="Dissolve" />
   <Cards CatID="52008" Quantity="1" Sideboard="false" Name="Font of Fortunes" />
   <Cards CatID="49133" Quantity="2" Sideboard="false" Name="Negate" />
-  <Cards CatID="53594" Quantity="1" Sideboard="false" Name="Nissa's Expedition" />
-  <Cards CatID="50220" Quantity="2" Sideboard="false" Name="Ordeal of Thassa" />
   <Cards CatID="53412" Quantity="1" Sideboard="false" Name="Peel from Reality" />
   <Cards CatID="53398" Quantity="2" Sideboard="false" Name="Ranger's Guile" />
   <Cards CatID="52196" Quantity="1" Sideboard="false" Name="Reviving Melody" />
   <Cards CatID="50160" Quantity="1" Sideboard="false" Name="Voyage's End" />
   <Cards CatID="53986" Quantity="1" Sideboard="false" Name="Weave Fate" />
-  <Cards CatID="53542" Quantity="1" Sideboard="false" Name="Ætherspouts" />
+  <Cards CatID="53542" Quantity="1" Sideboard="false" Name="Aetherspouts" />
+  <Cards CatID="53372" Quantity="1" Sideboard="false" Name="Plains" />
   <Cards CatID="50614" Quantity="3" Sideboard="true" Name="Gainsay" />
   <Cards CatID="53588" Quantity="1" Sideboard="true" Name="Jalira, Master Polymorphist" />
   <Cards CatID="53606" Quantity="1" Sideboard="true" Name="Reclamation Sage" />

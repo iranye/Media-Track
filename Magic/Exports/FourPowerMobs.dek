@@ -24,7 +24,6 @@
   <Cards CatID="50578" Quantity="2" Sideboard="false" Name="Anger of the Gods" />
   <Cards CatID="50428" Quantity="1" Sideboard="false" Name="Destructive Revelry" />
   <Cards CatID="54390" Quantity="1" Sideboard="false" Name="Feed the Clan" />
-  <Cards CatID="55628" Quantity="1" Sideboard="false" Name="Torrent Elemental" />
   <Cards CatID="54308" Quantity="2" Sideboard="false" Name="Stubborn Denial" />
   <Cards CatID="54440" Quantity="3" Sideboard="false" Name="Temur Ascendancy" />
   <Cards CatID="34792" Quantity="1" Sideboard="false" Name="Whiplash Trap" />
@@ -36,7 +35,6 @@
   <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
   <Cards CatID="55372" Quantity="3" Sideboard="false" Name="Frost Walker" />
   <Cards CatID="26435" Quantity="1" Sideboard="false" Name="Reckless Wurm" />
-  <Cards CatID="34800" Quantity="1" Sideboard="false" Name="Baloth Cage Trap" />
   <Cards CatID="54366" Quantity="1" Sideboard="false" Name="Dragon Grip" />
   <Cards CatID="60112" Quantity="1" Sideboard="false" Name="Lambholt Pacifist" />
   <Cards CatID="62091" Quantity="2" Sideboard="false" Name="Aether Hub" />
@@ -48,8 +46,9 @@
   <Cards CatID="28741" Quantity="3" Sideboard="false" Name="Familiar's Ruse" />
   <Cards CatID="49217" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
   <Cards CatID="62777" Quantity="2" Sideboard="false" Name="Unbridled Growth" />
-  <Cards CatID="53338" Quantity="1" Sideboard="false" Name="Back to Nature" />
   <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="45274" Quantity="1" Sideboard="false" Name="Unsummon" />
+  <Cards CatID="20007" Quantity="1" Sideboard="false" Name="Crystal Shard" />
   <Cards CatID="50428" Quantity="1" Sideboard="true" Name="Destructive Revelry" />
   <Cards CatID="53398" Quantity="1" Sideboard="true" Name="Ranger's Guile" />
   <Cards CatID="49133" Quantity="1" Sideboard="true" Name="Negate" />

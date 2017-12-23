@@ -49,7 +49,7 @@
   <Cards CatID="47719" Quantity="1" Sideboard="false" Name="Elusive Krasis" />
   <Cards CatID="24119" Quantity="2" Sideboard="false" Name="Plaxmanta" />
   <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
-  <Cards CatID="47935" Quantity="1" Sideboard="false" Name="Master Biomancer" />
+  <Cards CatID="55546" Quantity="1" Sideboard="false" Name="Abzan Beastmaster" />
   <Cards CatID="64586" Quantity="2" Sideboard="false" Name="Tragic Lesson" />
   <Cards CatID="24031" Quantity="1" Sideboard="false" Name="Simic Growth Chamber" />
   <Cards CatID="27598" Quantity="1" Sideboard="false" Name="Troll Ascetic" />
@@ -57,11 +57,14 @@
   <Cards CatID="34484" Quantity="1" Sideboard="false" Name="Scute Mob" />
   <Cards CatID="46347" Quantity="1" Sideboard="false" Name="Gatecreeper Vine" />
   <Cards CatID="56386" Quantity="1" Sideboard="false" Name="Avatar of the Resolute" />
-  <Cards CatID="24013" Quantity="1" Sideboard="false" Name="Simic Guildmage" />
   <Cards CatID="51970" Quantity="1" Sideboard="false" Name="Bassara Tower Archer" />
   <Cards CatID="63071" Quantity="1" Sideboard="false" Name="Coiling Oracle" />
   <Cards CatID="55998" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="30915" Quantity="1" Sideboard="false" Name="Bant Panorama" />
+  <Cards CatID="38079" Quantity="1" Sideboard="false" Name="Thrummingbird" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="47771" Quantity="1" Sideboard="false" Name="Fathom Mage" />
+  <Cards CatID="25439" Quantity="1" Sideboard="false" Name="Dream Stalker" />
   <Cards CatID="36684" Quantity="1" Sideboard="true" Name="Spider Umbra" />
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
   <Cards CatID="35515" Quantity="1" Sideboard="true" Name="Bojuka Bog" />
