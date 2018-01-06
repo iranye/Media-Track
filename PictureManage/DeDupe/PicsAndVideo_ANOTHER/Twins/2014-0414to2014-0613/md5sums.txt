@@ -1,0 +1,78 @@
+
+MD5sums 1.2 freeware for Win9x/ME/NT/2000/XP+
+Copyright (C) 2001-2005 Jem Berkes - http://www.pc-tools.net/
+Type md5sums -h for help
+
+[Path] / filename                              MD5 sum
+-------------------------------------------------------------------------------
+[C:\Media-Tracked\PicsAndVideo\Twins\2014-0414to2014-0613\]
+2014-04-19-DSC03021.JPG                        c1096ced22284720505ca90cb89ecf0f
+2014-04-19-DSC03022.JPG                        bc7cf25feb52914657f05a8218d771c7
+2014-04-19-DSC03023.JPG                        3470163f15176f652c2bc3e8a1434966
+2014-04-19-DSC03024.JPG                        313b317abcf5056a3948707900e0f789
+2014-04-19-DSC03025.JPG                        0c0e546303c482358a2ad3d9110db8fb
+2014-04-20-DSC03028.JPG                        085caf4b729a35321405d3701a8640d1
+2014-04-20-DSC03029.JPG                        4459ddb147eb9c7f0fc4a51c3ae9a654
+2014-04-20-DSC03030.JPG                        6a8e284d158da5d01052ecdde3d76d31
+2014-04-20-DSC03031.JPG                        5c72825be43840fdab2b3c6076a67355
+2014-04-20-DSC03032.JPG                        8f5cef6569535e2edf8e47a7770cb6d4
+2014-04-20-DSC03033.JPG                        cba06d67ecba597f64543a8b0c662b32
+2014-04-20-DSC03034.JPG                        1b9f14e4314107d99b5515ee3c3ea314
+2014-04-20-DSC03035.JPG                        ac3cde3d3958b114b63682bfb3ba8930
+2014-04-20-DSC03036.JPG                        f808efd1f7a3f36f83a7e27859947a31
+2014-04-20-DSC03037.JPG                        6169a757d87f677f12fc50282a6e2892
+2014-04-20-DSC03038.JPG                        9acb1710d9194d0e92997a44cefe5fce
+2014-04-20-DSC03039.JPG                        c4a2af3f43879ed4e6ad3943a61e54fb
+2014-04-20-DSC03040.JPG                        146d2c95fae3132f6b0c3c6cab7e5405
+2014-04-20-DSC03041.JPG                        715cf9c30759d0be30b8e70a92e201b5
+2014-04-20-DSC03042.JPG                        e0cc64307219ebdb7d9627f4ef7fd9ed
+2014-04-20-DSC03043.JPG                        ea683e0abec836ac5ea987acf06c9923
+2014-04-20-DSC03044.JPG                        86c2fdacc379a09e8b45f5582602bcc9
+2014-04-20-DSC03045.JPG                        9fbb4851255bd1fe3a1d9adea680ad71
+2014-04-20-DSC03046.JPG                        8df5022dc03167f6872b38b059a7a039
+2014-04-23-DSC03047.JPG                        132e6fd67381ded5205b79f3585235fd
+2014-04-23-DSC03048.JPG                        5779bad7cdddcd68732f49dbbf24c54e
+2014-04-23-DSC03049.JPG                        6a8d9dbe8490f7b54e105344d7660751
+2014-04-27-DSC03050.JPG                        ce1675d93d60c61c391789a6ad4bf0f0
+2014-04-27-DSC03052.JPG                        d89daca4336d093ce6d626933310685d
+2014-04-27-DSC03053.JPG                        f39e20c057ecada614ddbfba455c9fc5
+2014-04-27-DSC03054.JPG                        068b0d5a584ed88c1cbb34c1923db088
+2014-04-27-DSC03055.JPG                        ff85d51347330b538b57a916a2e11865
+2014-04-27-DSC03056.JPG                        7aa5cebe5cd447304525c46e3ca16e45
+2014-04-27-DSC03057.JPG                        12cc85319156d40c9f25c30fed4f922c
+2014-05-02-DSC03058.JPG                        4c06690599a3476bd376fee0534251da
+2014-05-02-DSC03059.JPG                        7496aa0119f2666c7dde37fc3a780ed5
+2014-05-04-DSC03060.JPG                        96ee572116ee3394df9209e1b9e0dbda
+2014-05-08-DSC03061.JPG                        c86124b93aab0b9d4f682e2d2b07a88a
+2014-05-08-DSC03062.JPG                        ede301b3cca1b96b1dcab217f8f2b6d7
+2014-05-25-DSC03063.JPG                        f91d56e1d160424036adb0890c20429e
+2014-05-25-DSC03064.JPG                        da8d5c47715c485f870fd27fccd43bac
+2014-05-25-DSC03066.JPG                        d7f69ed0f1b5f4d95de41df87ea12dcd
+2014-05-25-DSC03067.JPG                        9394562469c798c4461d58fa230e4fbf
+2014-05-25-DSC03068.JPG                        e8c8c65be1b8bfbd29df9bfb1977435f
+2014-05-25-DSC03069.JPG                        82ad795df13789fc7545fa598d04f89e
+2014-05-26-DSC03071.JPG                        aeba60d1a2ffd9702921f81f9ae5e4dc
+2014-05-26-DSC03072.JPG                        744f756f06c5e96ed0f07283a257e6db
+2014-05-26-DSC03073.JPG                        4d2660d6a4c0dc1fe4367377d26e5c2f
+2014-05-26-DSC03074.JPG                        e0c2be06311bef6ceb17abfccc54a461
+2014-05-26-DSC03075.JPG                        2db64410de22ec8775688bec56821898
+2014-05-26-DSC03076.JPG                        5adbb1c54909a12ad45ef31cd8e8fe04
+2014-05-26-DSC03077.JPG                        50aa0bafad59737362d68d6670c88c08
+2014-05-26-DSC03078.JPG                        fcf19b45180af748714461b96614ad78
+2014-05-26-DSC03079.JPG                        aa9ca8888f13fd14ef8d337ab1e029f2
+2014-05-26-DSC03083.JPG                        7d9711f0c74147be48d8cf15ac464d11
+2014-05-26-DSC03084.JPG                        947b821a8ba8857a836fbc71e5a82048
+2014-05-26-DSC03085.JPG                        98e40882c03ef469aa0cdb3c3adda65e
+2014-05-26-DSC03091.JPG                        68e2b7ddf619b9cef160c4519667e043
+2014-05-26-DSC03092.JPG                        9b480a3f92bc68ca4660903151ef5159
+2014-05-26-DSC03093.JPG                        4aca3ccedde6b16cf585de54465e0203
+2014-05-26-DSC03094.JPG                        58258ffd3e218bd470ab4de58c4ddd34
+2014-05-26-DSC03095.JPG                        3821b0da473eee772b3444afb138a694
+2014-05-26-DSC03096.JPG                        021a5e5803b717eec062604c50106e2e
+2014-05-26-DSC03097.JPG                        2c4be002363e52804cf31af6ca119802
+2014-05-26-DSC03098.JPG                        3e73f7cef0b84398928cde81dada0bc1
+2014-05-26-DSC03099.JPG                        b4965a98b4a6f16887cf43d7366e14c0
+2014-05-26-DSC03101.JPG                        743f6a091dfc7a6e0791f3c05ebf4c09
+2014-05-26-DSC03102.JPG                        36f714449d94cbbd1e99fca2df219f15
+2014-05-26-DSC03103.JPG                        30a6bfe380668e0ce5c27b4a37a8f77a
+2014-05-26-DSC03104.JPG                        64270f54b241d6cb9a6320110cf9d65b

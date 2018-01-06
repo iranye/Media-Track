@@ -1,0 +1,374 @@
+
+MD5sums 1.2 freeware for Win9x/ME/NT/2000/XP+
+Copyright (C) 2001-2005 Jem Berkes - http://www.pc-tools.net/
+Type md5sums -h for help
+
+[Path] / filename                              MD5 sum
+-------------------------------------------------------------------------------
+[C:\Media-Tracked\PicsAndVideo\Twins\Video\]
+2012-08-19 21.10.42.mp4                        885dbd28231ee9e36e24789f426be113
+2012-08-22 20.21.30.mp4                        43ec4d1b095e37953098bde1bd16105a
+2012-08-22 20.21.39.mp4                        2a70b4292dd48d247a59ae493262a827
+2012-08-22 20.37.49.mp4                        d9adddb3f858cf61a663a3249a3b1f5a
+2012-08-24 21.23.56.mp4                        a01164a5729eede0daff7c98c20bab35
+2012-08-25 14.51.58.mp4                        cf65ebeb3ee5756add623f15aa051502
+2012-08-28 18.33.32.mp4                        7c98676bdd992b680bfaf1698fde3434
+2012-08-30 20.43.21.mp4                        d2cdc79375775fbdaa2220eb64a06127
+2012-08-30 20.50.42.mp4                        84b5bb43c1d2a673fcaa17316619ad1b
+2012-09-01 10.26.20.mp4                        2c7c57fc8e3720fbf7010dd38ee9de8b
+2012-09-11 20.32.34.mp4                        d340a95558973f7fd9fac4a8eaa59538
+2012-09-14 20.33.07.mp4                        ea6792de7bef157533a9cd7c59948056
+2012-09-15 16.18.18.mp4                        f439efd16916013d6b674f6e65057565
+2012-09-19 12.50.43.mp4                        a2b4823df4a8017b573ae493870e0004
+2012-10-02 19.31.33.mp4                        73666a3ca6a51672b85b8b0a3eacd29b
+2012-10-06 09.21.45.mp4                        7f13bd07e5de825ab9940568a239084f
+2012-10-08 19.38.20.mp4                        8baf3210394ae2e393313ab7042eed3b
+2012-10-16 18.26.49.mp4                        28866f714a41c18da76db9cb52945333
+2012-11-03 19.17.38.mp4                        be3e397846baa21ca31a38fb5319754d
+2012-11-06 16.48.58.mp4                        b555624056d1b37e90cf55a58a187030
+2012-11-22 14.50.58.mp4                        667ed2753669060b56a4d83e89f8be31
+2012-12-28-IMG_0002.MOV                        6f52e106f60af0f44e230675458f0ff7
+2012-12-28-IMG_0003.MOV                        507e61731f93685dae968fbc87db40f4
+2012-12-28-ipadMini-IMG_0002.MOV               6f52e106f60af0f44e230675458f0ff7
+2012-12-28-ipadMini-IMG_0003.MOV               507e61731f93685dae968fbc87db40f4
+20120804194511.MTS                             11b36b57b9783347aa3eb370f2fa5f54
+20120805102209.MTS                             4fa00850f01ebba8cede299a848f3d4a
+20120808204654.MTS                             f92b5d904a35ca27ce6096d4d9ad41fd
+20120808210858.MTS                             717b833c69b4c49ae9aa42157ee74780
+20120812183103.MTS                             1870b25b8550d778aed41e0a635dd257
+20120819115132.MTS                             243b8ab6ac696206183bdaec73a159f5
+20120907160146.MTS                             787b466ff43527a5e6ca4053c7598853
+20120918105418.MTS                             464d9bf07b3452dffd44242515c7542e
+20121007104518.MTS                             814ec205b60a9b5e763ccc0f6c1a925d
+20121007112155.MTS                             065c04621f3fcbb890b67d58f6c3f16b
+20121007205241.MTS                             5a92ef97b04da3ecea66e3aa279514c1
+20121008150024.MTS                             07e358d320b7192aea40f6959e695525
+20121008152311.MTS                             0a5e705a010d0e76e501bbb73cbf1bc5
+20121014131236.MTS                             6946c61b37a500fac3ec2391a7605110
+20121030174603.MTS                             ba236ce8a33e09b12cccc03a1746a495
+20121109095138.MTS                             2d2d5e662466bad062924dd66eb3bf74
+20121109095330.MTS                             d3a9f4c167ea293f7b8b9b8a340d150b
+20121110093045.MTS                             78161a6d6fd541ba0cea98001437687b
+20121112135951.MTS                             0ba48ebdd13b4a169fe4f8e4564dc1f1
+20121120194422.MTS                             3787c8a516a44b76ede9fcda36a176af
+20121125093839.MTS                             a5a27747421b03f358efb257a7ef2730
+20121125215750.MTS                             be33abeb1e9dff87626e1a906bbc3887
+20121125220540.MTS                             273b73a11b6751e484edb483e965fe8c
+20121223161017.MTS                             5960948e5ae45bb24745688736e25c75
+20121231185711.MTS                             7a513da86f12150b032df7304ec91918
+20121231191254.MTS                             8140eebb17082335c6cd1f66a4f16e49
+20121231191342.MTS                             d3420b44c03705881debae5586366bb9
+20121231191452.MTS                             992d1db990c4ad5e4b72835d6c3798d6
+20121231191551.MTS                             af072b6a042f8b1777c54d25002926e7
+2013-01-02-IMG_0015.MOV                        0ae9f9024821c5532813abec1ca70a7e
+2013-01-02-ipadMini-IMG_0015.MOV               0ae9f9024821c5532813abec1ca70a7e
+2013-01-25-ipadMini-IMG_0026.MOV               402b147383db446a27085c3a794a148e
+2013-01-25-ipadMini-IMG_0027.MOV               6e7abace8638c4f26e8118dbd6cf4497
+2013-02-14-ipadMini-IMG_0033.MOV               df08ed2da59f8384df0e41a378668e84
+2013-02-24-ipadMini-IMG_0035.MOV               6eaa972875d464a75d5c8ded4a0bda1c
+2013-02-24-ipadMini-IMG_0036.MOV               0db7b9554903bcf3351db3efd5bc5fd8
+2013-03-07-ipadMini-IMG_0042.MOV               cc5b6d1f5b480cf537a1a8f3134e6842
+2013-03-07-ipadMini-IMG_0043.MOV               84c03d77c017f938ad8b9f2ec033bc30
+2013-03-12-ipadMini-IMG_0045.MOV               5f7b33ee7bc93f2722256e6a7e8d6ae8
+2013-03-12-ipadMini-IMG_0046.MOV               07b1df22c4a837032598b26c768f1c9f
+2013-03-14-ipadMini-IMG_0051.MOV               1c0d408b4383fa8070bf4cb0cb3b3ac4
+2013-03-15-ipadMini-IMG_0052.MOV               fc3c84f17cd4bb155c93f9499b02dea9
+2013-03-15-ipadMini-IMG_0053.MOV               695fa94c75a92195467e07f5cd205c2e
+2013-03-19-ipadMini-IMG_0054.MOV               7c11326d9406e5a9f1c7fc6900a5e549
+2013-03-19-ipadMini-IMG_0055.MOV               f125128c2c21e67d80b4ec9fcfd26bda
+2013-03-19-ipadMini-IMG_0056.MOV               56c762a2e034335e2644cb231e343fe7
+2013-03-21-ipadMini-IMG_0059.MOV               030eaaca91e630bbad61b603d63517ff
+2013-03-22-ipadMini-IMG_0061.MOV               08db96895696ddfb196d18ebc0ba4521
+2013-03-26-ipadMini-IMG_0067.MOV               cd331dd7cdab5cdb7cc6e68138d4fa15
+2013-03-26-ipadMini-IMG_0068.MOV               0e87c39233c3c462e3491a2fa763e6af
+2013-03-26-ipadMini-IMG_0069.MOV               a39901e871b4e021342dda9cb81001e6
+2013-03-27-ipadMini-IMG_0077.MOV               bdfdf3f82c6aa5223bd52d57063b11ae
+2013-03-27-ipadMini-IMG_0086.MOV               8c05ba3ddbddfaaa1f2d1fa297005791
+2013-04-09 08.19.42.mp4                        82f6ac569fb09d1a606b8058a4ba22fe
+2013-04-11 12.13.30.mp4                        12178fb7a36ba8fc732b316ed32be7cb
+2013-04-11 17.51.02.mp4                        ad61ed75b989d36c20f78b69a59b058f
+2013-04-12-ipadMini-IMG_0116.MOV               27e791e5b3be2292ffc7b3df82987691
+2013-04-12-ipadMini-IMG_0118.MOV               89d42d36aee4596b77d0cafac0f583f7
+2013-04-12-ipadMini-IMG_0120.MOV               179e00b908dd8bbda3c332e63fc7ae59
+2013-04-13 09.08.39.mp4                        bf406904b20c296a6eb1bc4f3e382871
+2013-04-15 15.12.36.mp4                        e8513099e130249f6a2e952297c3f2f6
+2013-04-17-ipadMini-IMG_0127.MOV               c5a71bd8c0ffaca961460664fc7e1535
+2013-04-20 19.53.22.mp4                        758f5021ae62e7eb08a37e9a7dbcc06e
+2013-04-25-ipadMini-IMG_0137.MOV               3d70b0d767c9e2641a63c18b96a0b988
+2013-04-25-ipadMini-IMG_0138.MOV               08bdc465605554eef227ed8ab425bf63
+2013-04-25-ipadMini-IMG_0139.MOV               5a6bc0e7acd028a884c449051b56a91e
+2013-04-30-ipadMini-IMG_0140.MOV               5d89c3aa35edb4a43793055bca2c821d
+2013-04-30-ipadMini-IMG_0141.MOV               f065dbc9a52a845179591ab4afab6f4e
+2013-05-01-ipadMini-IMG_0143.MOV               3212897f2a68fa615af93597423d2cc6
+2013-05-02-ipadMini-IMG_0144.MOV               1af2527d2bab27045ccbba0cf1850a7b
+2013-05-10-ipadMini-IMG_0162.MOV               297f736a30c60a1db70a0bf51b41d14c
+2013-05-23-ipadMini-IMG_0171.MOV               669c0cf54047a8c133da2a55b0e271f5
+2013-05-29-ipadMini-IMG_0176.MOV               538caa528f5689444bc0da702738edc2
+2013-05-30-ipadMini-IMG_0182.MOV               b6c3c704f59abbec2883550784ed28d1
+2013-06-03-ipadMini-IMG_0201.MOV               32c67ea00f6ed4a867afa4dc878b174d
+2013-06-04-ipadMini-IMG_0205.MOV               0903af28071ca54cc4d5ab07957f5ff2
+2013-06-11-ipadMini-IMG_0212.MOV               c90d7b0e4c3ee60dacf82ec4f74b9ea7
+2013-06-12 19.45.57.mov                        06a1f3e9c5d0c8a7a7e413db314aa2af
+2013-06-12 21.42.11.mov                        9cadddd34b6d1af8b1da0fd407cab6be
+2013-06-12-ipadMini-IMG_0216.MOV               301ef4344ea3c1febf2c5ac47d33e0ab
+2013-06-12-ipadMini-IMG_0217.MOV               69be2ac7c4b0f09f38870c61be8cc2bc
+2013-06-12-ipadMini-IMG_0222.MOV               06a1f3e9c5d0c8a7a7e413db314aa2af
+2013-06-12-ipadMini-IMG_0226.MOV               2b0aa14ee1f663aaef5f479c8b315a24
+2013-06-12-ipadMini-IMG_0227.MOV               9934da8e9701c7e19d4819c75734e93a
+2013-06-12-ipadMini-IMG_0228.MOV               9cadddd34b6d1af8b1da0fd407cab6be
+2013-06-13 20.03.18.mov                        10bb65fb928328eb127d0ef1669248ce
+2013-06-13-ipadMini-IMG_0229.MOV               8a107afbfb71c9ff8546fc0f1b66135a
+2013-06-13-ipadMini-IMG_0230.MOV               10bb65fb928328eb127d0ef1669248ce
+2013-06-13-ipadMini-IMG_0231.MOV               d767489ae98991688fdafca4036e502a
+2013-06-18-ipadMini-IMG_0233.MOV               9e6f38ac8d1bacb7eee8ee92849c29be
+2013-06-19 08.01.24.mov                        2402c744fea8482c06b06b7691bec128
+2013-06-19-ipadMini-IMG_0234.MOV               2402c744fea8482c06b06b7691bec128
+2013-06-25-ipadMini-IMG_0237.MOV               54d071c661e7294447f2cc3d3b42a7bd
+2013-06-25-ipadMini-IMG_0238.MOV               2992ce7c254f5effffd2c104c4856aed
+2013-06-29-ipadMini-IMG_0246.MOV               440552098257268f90299592f9fa3a98
+2013-08-15-ipadMini-IMG_0289.MOV               a944d247eacf4402ce2200f591a8d4d2
+2013-08-15-ipadMini-IMG_0290.MOV               e102eb7d48af9378778fc7015bf436bf
+2013-08-18-ipadMini-IMG_0297.MOV               374de2f07eca9235481aef2c985ce639
+2013-08-27-ipadMini-IMG_0300.MOV               5cf009913c0d3bbe30425bea1be49f42
+2013-08-28-ipadMini-IMG_0301.MOV               de244082352554258de79fd8e785958b
+2013-09-08 13.06.29.mp4                        d06fa18d85b618d6740efbb103cc6dde
+2013-09-23-ipadMini-IMG_0305.MOV               71d1e53b52b8d08337b94369e0dc159c
+2013-09-24-ipadMini-IMG_0306.MOV               d7f08ae6d0f9f1fdadfa74bb3f314254
+2013-09-24-ipadMini-IMG_0307.MOV               a6e83987318a15caf3841bb1e15f9863
+2013-09-24-ipadMini-IMG_0308.MOV               c5d8c06bb545f9942f9c5d0cb18add86
+2013-10-09-ipadMini-IMG_0311.MOV               cd767d66839b66ae49072c2698e11edf
+2013-10-23-ipadMini-IMG_0319.MOV               7e76810e2c308fd444225e9cc734643f
+2013-10-25-ipadMini-IMG_0322.MOV               8d84623108e0fdb6c2bab3f6985a2749
+2013-10-28-ipadMini-IMG_0323.MOV               dfc08fa1a8f45636359ac646505979be
+2013-10-28-ipadMini-IMG_0326.MOV               95c0e0372dc9300770aa18490a252ad1
+2013-10-28-ipadMini-IMG_0327.MOV               4544a74bfb44fe940f4fad307d616df6
+2013-10-28-ipadMini-IMG_0328.MOV               b91679bfdf2f898fe0fa91ce12ee1fba
+2013-10-28-ipadMini-IMG_0329.MOV               ab6ef3dfa02715f43611f64f9c2ddec6
+2013-10-28-ipadMini-IMG_0330.MOV               721a4a14e086b8f005a9cdc192b122d8
+2013-10-30-ipadMini-IMG_0331.MOV               e35df68bc1f0cbd2443eea139816b15b
+2013-10-30-ipadMini-IMG_0332.MOV               0af8f4ffe2f89bbc4b65d59afaaed94c
+2013-10-30-ipadMini-IMG_0333.MOV               85f0ef336494a1450e547916f059168e
+2013-10-30-ipadMini-IMG_0334.MOV               7583c5062efeb1cd6d27c09f06eed21d
+2013-11-19 18.58.16.mp4                        e5b992ed6a1ff0002f55b3ff7f7c7d33
+2013-11-25-ipadMini-IMG_0351.MOV               fb74243a0f18c03a485f37a5f3250a60
+2013-11-25-ipadMini-IMG_0352.MOV               92189249fa57fefe4aed58e4a460e967
+2013-12-06-ipadMini-IMG_0361.MOV               d72e1ff8e05e0ce4808e73308e42bfab
+2013-12-06-ipadMini-IMG_0362.MOV               c0069d723e7bc10e259a6892a82f1429
+2013-12-21 13.14.34.mp4                        4d09fb38c5f97629b05270611d432aa2
+2013-12-21 14.18.33.mp4                        d4b4f817d041e605ac5aacc283a5e871
+20130108185019.MTS                             052e74cdbe7a66bc700d46c3a0955c48
+20130120153259.MTS                             9cc0f1c7e42a54e2b8373ee93511e5a1
+20130120153447.MTS                             2f7a11548b56d0e4fa562e640fabeaca
+20130120175652.MTS                             5acb1344d6bdd71b0ecaa744b750f46d
+20130122204243.MTS                             f543c381a7dd4cf3746813fa18c107aa
+20130122204552.MTS                             70239496c4d984965a68672c2972239e
+20130127211645.MTS                             cfd39b71b3de57b75b0f25fb319f272f
+20130211101129.MTS                             a608fb3d0a841aa403cfa5a4dfb750df
+20130212182809.MTS                             c742767cef383460dc4b76e354a05903
+20130212182948.MTS                             27a4ece7f19344430b6e6f1caba763c3
+20130214190555.MTS                             63586396d10af5e87a0f06046f7427b5
+20130216123125.MTS                             9451f8d93f4ac6a7c9387c56f759a87d
+20130216123154.MTS                             f2ad6a62123a0fecc1b83e69173d2aab
+20130220212132.MTS                             4f52a63bf62c7ac97fa5a85824f9ea8b
+20130222095643.MTS                             93079a947b0f410fbfd371b54674aab8
+20130227220504.MTS                             002b80b46a3d8c807b74471adaaf4a7d
+20130227220621.MTS                             ecfd463c96064511f010b8012b4e73bb
+20130228094908.MTS                             ff3a37e46ac8887cf30ab8defbd45798
+20130228095417.MTS                             02190149b1c7dda3ae6984582ef0c569
+20130228121346.MTS                             a300aacfa05f0cbe16aece2e3ff364da
+20130304154804.MTS                             45b8e566de3441344d787d8f24ea8380
+20130304155057.MTS                             d622c843779751eea21db0f2dc24b8a8
+20130316085214.MTS                             821192792f6bd13d624372cd2b3600bd
+20130326121907.MTS                             d4f09e5779c81ce92333972e6d60e04d
+20130407175844.MTS                             693976676fc910c4c2eacd4c562c1d80
+20130412153253.MTS                             fa3ac29583f6fdb58a8463433101cba9
+20130414204030.MTS                             8ad29499d0f57287ec58a5970f541d9a
+20130416194141.MTS                             80c66aa00da6a36c56818e29e4f0c081
+20130417185309.MTS                             e92df5ba304b2f2e97609447961651e5
+20130420145701.MTS                             281bfd5afdc18bd577b33e270b09508e
+20130422194201.MTS                             0a086c8e70a945482b8d2187a16fe341
+20130422194235.MTS                             d293d855f5cf7f51eb6a66f5c6d3c4e8
+20130422194258.MTS                             3df5da243a6a642361f1bf0d926f3f98
+20130424142644.MTS                             271bac680c4e4c8f29d90d15f58e3c23
+20130428115738.MTS                             2ebff451db26293868989b20300fd454
+20130519163504.MTS                             f486e4af19ecb1357db75df9edd86cc1
+20130519163519.MTS                             bf4b283ac167495b3e5196e20cb73b1e
+20130530190619.MTS                             b08a5f853188882d005747ddee820802
+20130604133450.MTS                             2252b0bbd9fd4356cb89e206a88dad75
+20130604134513.MTS                             81b1edf091ee0bd1e8c064f3115f97c5
+20130604134530.MTS                             f6608b395f817eefa146e257a5c018ec
+20130604194807.MTS                             e3d0850d1e8c105c77ef9213883988c5
+20130605082033.MTS                             cd2f39811a90030315d075e1e7768f2e
+20130605200807.MTS                             e6ad92d3004348ad7431092d28ef4c5f
+20130606071602.MTS                             35deceac6a8ab8d8ed6175947a02a12f
+20130606072244.MTS                             f1455a7e2c3da436acbb82f385f3ab27
+20130606132202.MTS                             ed09dadc5b9d21f5c53f92c513bc8ff3
+20130606172925.MTS                             8d2aea960fd2476c1684a7461e605173
+20130606181014.MTS                             469cdc9c66a4ed1799c274c369f936c7
+20130606181047.MTS                             600a2c72b89e334b7f455c6a477cc6af
+20130607170740.MTS                             0e8682e79cb8e99bec4cab647e47bda6
+20130609172021.MTS                             8cc2409277b7cdaa5f0af68271834801
+20130609191904.MTS                             89be1f792d34ace834766ec804c39592
+20130609191925.MTS                             bb1b2114162a6516e476c8df5c5d18ea
+20130609191950.MTS                             9361f3a29229346b0467ed79061bd7ab
+20130611171858.MTS                             1f50de571ec7b4d49e52934b721e7fd7
+20130616111438.MTS                             f656a1f9e026d43a85311b56cb23471d
+20130617132524.MTS                             f26f15a03f6d4715aec7b3e45add66c0
+20130619110213.MTS                             59991f40ef18d1ce00c7d12d6e4b0535
+20130619110744.MTS                             9e50fa6279398c2cbfbee284bdc68474
+20130619111143.MTS                             8e1718201e1d03f87c23a466ca1c1a06
+20130619113524.MTS                             9087b4a26af1053f92e24017cf8c7d41
+20130620140438.MTS                             bea8bfb5252a22266d79ea319a313238
+20130623172822.MTS                             1bf7daf0e02c3265902cfecd80b2e68f
+20130630184531.MTS                             840bdda6330956661c03d76b3fe8d64f
+20130713195520.MTS                             de5d8340fc16b0d8f8df4a1e96dbe95b
+20130714182600.MTS                             bc1f14b965e1330964015914e9c180b3
+20130714183018.MTS                             f767e6cb296f3dd3805130371975b35d
+20130723194813.MTS                             96dd50913fc853564ef7ba228d35ba6f
+20130805152054.MTS                             2bf538af4609ea773e54d3707bf5cdd8
+20130805152103.MTS                             dc0144a742d6e15d0888150bf4ff1783
+20130805181847.MTS                             aa18abfacf96a9b978578431f2a111d9
+20130805182258.MTS                             4793a32bed052e2d18096d6e060bced6
+20130805182620.MTS                             0ba684de7cb8efb6a6b780df0640a5a3
+20130808090111.MTS                             bdd1c9888652eb65d019bee52e8a655d
+20130816083135.MTS                             f06f6e9baa0fefa6e9e9746f13384d75
+20130818195105.MTS                             807494a322902eb21825622a53552159
+20130818195307.MTS                             164b3c4b08b8749c1cea2d5e695a8d5d
+20130825193728.MTS                             9f91213bc6233db7666952d6cdcf22b4
+20130830095305.MTS                             ba29454da5c80ba2b0026af239865339
+20130919155602.MTS                             7bfbe40e253f472e9825357530542545
+20130919192535.MTS                             41a9db83099a7c2e01e378536f65176a
+20130921141359.MTS                             86f877363f25f71559b2c83f8afafbae
+20130921142711.MTS                             0291bb6c0fb3509486859011da43e43e
+20130921192108.MTS                             1157b14b7f954dac2197748c9c7cc44a
+20130922093407.MTS                             a32b7064b9cdddf49d3f899b1565965f
+20130922093449.MTS                             4fd8f12bd5f2e8e3e1e66a7479b9f49d
+20130926161202.MTS                             3889337e75b961b261c966e4a5913bd4
+20131025160941.MTS                             40b9f267e01354c124aa294b5ef44b97
+20131025160959.MTS                             0f5603116b2e888c47f30c22127ed5dd
+20131029150730.MTS                             4431bb35fd1f5349d028a0801e984f4f
+20131029151214.MTS                             5787c8e667860ce6175377ce4e474db9
+20131029151344.MTS                             bae69fcbe19cfcabbb2ce4abc985352e
+20131029151544.MTS                             3583d5e671124017fe1d6f60f66bd627
+20131030091847.MTS                             672671315fcabb9cb42834308d9d7d47
+20131030091945.MTS                             b405d0d68f08da759cc7b3e3a1180d90
+20131030092228.MTS                             fbf40ee2d8ae584d1b28117f298fb7a7
+20131030155556.MTS                             a03a88fe97168ec2b186c114bd74a99f
+20131108192820.MTS                             3b0159486a79596014d40fb1d21225df
+20131118211824.MTS                             8c654a2c7d865611101db6183572d3a5
+20131118211911.MTS                             352155faae0e5430ec1f9dd93d87587f
+20131128140351.MTS                             85c82db923044a29d3185e45e89fecc5
+20131130104651.MTS                             c039a5d195fca0fc585ceb4c311635b4
+20131130204138.MTS                             b88451a4e93a629957630a98e7b84a7a
+20131130204514.MTS                             79f79b7d1017d9fd5951f74842a103b9
+20131130204648.MTS                             a842c85cbe2dc033f928626aca73f269
+20131130210035.MTS                             1418974513a34c5b70251d1005d87489
+20131130210106.MTS                             38332d3979df87205e36b9a80c0fafd9
+20131206214753.MTS                             147f0e46ab765f00152a60ef962ea7be
+20131206214847.MTS                             551727c77c3a2a68166950f195d9acff
+20131208150454.MTS                             2c44091abf940a458b7ae4c4335cccf2
+20131208152415.MTS                             c1090eaea41293ac36930c50bf0b1ba0
+20131227090615.MTS                             f9212bde2b2d68d3d57f1fbf9e817e5f
+20131230181612.MTS                             60b920f99628d5d6cb2009cfe7ca74d3
+2014-01-15-ipadMini-IMG_0386.MOV               f1d85adcb4111abdee64845be1800df4
+2014-01-15-ipadMini-IMG_0387.MOV               9c276af9fe09e24fe907f81df2263fac
+2014-01-15-ipadMini-IMG_0388.MOV               8ef2c567d58c75c9315f7cee23c2ef26
+2014-02-13-ipadMini-IMG_0398.MOV               91e8186039f693727a3c91419642ac4a
+20140121183036.MTS                             6937a0c04502fd9247e4b6b2b65db540
+20140124221638.MTS                             abef9769f97e094402f5e3eb10571170
+20140211203737.MTS                             16100197d2cd27adf502761ca51d3c05
+20140219105341.MTS                             54633ba5f07ef97a220e273c4f411389
+20140222205716.MTS                             e5cf2d69c7af2b2c73e72d4972a25e3a
+20140222205743.MTS                             56c6951f815e3eaf9e46e9881cff606a
+20140227143701.MTS                             6a7517ec6fa282c552d9a3aec2fc1520
+20140227143747.MTS                             31045afa6e2085e14644188504b54d01
+20140311194520.MTS                             2393ca50c9f480e2715f433f0407c01e
+20140328185935.MTS                             fd95cef2f04edca097e32d0cf60fd89a
+20140329204739.MTS                             b0d3a47039902eace52b0ab1300982c8
+20140410155523.MTS                             108641d0a49a5c360cc854fd2d40c71a
+20140419195121.MTS                             40f1d19074c59789c0fb4d73e4a3c9a6
+20140419195137.MTS                             817b4c34dd4da44472bd6f7a3faefec6
+20140419195228.MTS                             95cf4480d4ef1733675b558d5f62d065
+20140420080636.MTS                             2298707c90d72b2fc2140bf0f9a7c109
+20140502194928.MTS                             c255dbd786392126b25024203335d3c9
+20140504190059.MTS                             777ef53d956af380a5bf7c3ee84cb158
+20140525195957.MTS                             c9fb460c48660f982f93233c5f097a63
+20140525200027.MTS                             aee2a92c97a3f35d76e9d972cfe5da24
+20140525200105.MTS                             b7ae9d071127b2d7bbea607d6c9b58a6
+20140526184242.MTS                             62e0fee13009bad308cad78b83b7ac02
+20140607102534.MTS                             13c29db6cfa2d644f02e85167a5669e6
+20140607103900.MTS                             47bc4076fccda938a83dbe41fbc4c536
+20140607111051.MTS                             1210d86d0cd78bb81d8d8ae4c98578b7
+20140607112012.MTS                             5f80a1576a2d233c36467f9b022eb384
+20140607114348.MTS                             61b88c39387820ff723090839859ef81
+20140607114626.MTS                             5d6ed8b13e1aaccd7df00ad39abb82c6
+20140607115417.MTS                             1e0ac7020db092037861040aa5b783f7
+20140607115605.MTS                             08778407ab1cfa2be4dd23ead544154d
+20140607115715.MTS                             3fdd7e9f27755d5af622d901edd64eb6
+20140607121124.MTS                             7f2d6ca0dcee44bfff40969ee57411a6
+20140607121402.MTS                             a335f0ee2b6abf0e42581b3f63e4c975
+20140608153447.MTS                             f3a437df9b32ad5eab626a5b3f4f7957
+20140609143619.MTS                             9b480942821ab026cd7b35a56775232b
+20140609145247.MTS                             728c93a81e84dbbe5c90b5ea0a1007dc
+20140610114725.MTS                             345f170e2cd734b651f53af8e56a8ed0
+20140610114804.MTS                             e2df7188230a6927359b4c0ab6287ee8
+20140610115015.MTS                             d94be663f8a75742560a64301f65c0d2
+20140623182701.MTS                             0586bed6146fbfebfa56a4c4de317cbc
+20140623182844.MTS                             9ad394035627e14d032f8e26d61ac205
+20140704113200.MTS                             2ad43933cdd712113a94d26b9f80501c
+20140708213535.MTS                             f1f996df1292710ca397480ee19d4a1b
+20140713162541.MTS                             3a219f4e0b049efd19a37f8f6340cd14
+20140713162555.MTS                             83ceaf5b3df47491e0f0be39ed563a1b
+20140713162801.MTS                             934a512745e6b7d4dcebedaa5edf60a3
+20140713190128.MTS                             7b01f69072ca4ec38f4c142a678e92ad
+20140713190154.MTS                             c18fd3accde5d0a0783b3cbc41136ee1
+20140720164747.MTS                             0353bdb30772e1b150c36be4f92b2b46
+20140723163446.MTS                             a65e2319093eda1fa289e4311bb7d17d
+20140723163528.MTS                             f26088c63579a1c55160c34d85530c1d
+20140723163634.MTS                             9c0975cf59d13a33dceb2efd091adcd9
+20140723164156.MTS                             efe3d2b4347f66d364558c8416ad2f24
+20140725204426.MTS                             15afec87b41a7cccde05556afeef191b
+20140725204702.MTS                             8b289bd146ad577badb905d369bec679
+20140728085538.MTS                             c4992f346169a0804f73447b6669af8d
+20140803172318.MTS                             0855bb48270ff51cddf38e33a546a4b1
+20140803172406.MTS                             c15866d3c957ac104194c8327e901b4b
+20140803172422.MTS                             4000889c7a03f08a8630a73e2781ed3e
+20140830161337.MTS                             c7742165477c93e9d62df7dacc31fc6c
+20140830161350.MTS                             59d1aa7c54eff02c7ab3d2ebcd457ef9
+20140831175336.MTS                             4d6571d142491a95d8e020bbe7879cb8
+20140901091801.MTS                             fbe8f07c07ed06f930965fea0e796a93
+20140901091842.MTS                             268019bf6c81cfebdcf0455b18bbb483
+20140901095115.MTS                             7c7fe402ac61ef308691798c0eb41f0d
+20140901102200.MTS                             e9f7ee943e21931a904f4761d9f47769
+20140901102312.MTS                             1c3f80b2fe62c8fbda29fe53aaa4102e
+20140901103539.MTS                             b017457beea8abb07661521b4d12bd23
+20140901173436.MTS                             7595184a29f7f35c17f7982b7a203799
+20140901173923.MTS                             6729971be8e3706c1a88ef5536ef24f2
+20140902085126.MTS                             cee8322b1a437bf11b64e5774a028302
+20140902085232.MTS                             6bd01e44e1b14836fc05ab4418095e83
+20140903101119.MTS                             c567e84b7179b18a28d0ab40eb9aa0cb
+20140903112509.MTS                             17d9b89593053c3e60f9d410b2d48652
+20140903112851.MTS                             b258cae2d24ad01c03741aaddd5f9585
+20140903113542.MTS                             4d510cfea8b824c278c4dd737f949610
+20140903120141.MTS                             970019c030a0d20404a55ce8b192dc89
+20140904101203.MTS                             b671c1e714eb034fb8349992cfb8264f
+20140904104140.MTS                             6dcb8a521430bd662edd497bd212693b
+IMG_0234.MOV                                   293054c137c13a0ee6daf53f251a95a6
+IMG_0260.MOV                                   00f10b98ce366e7a7ff0dce5e2986bbc
+IMG_0321.MOV                                   14283f832c9dc82141f059bd93f95256
+IMG_0322.MOV                                   553379012e48eb183e15ddb3e12c1c11
+IMG_0323.MOV                                   4658316603faaaaed895d6f18daca8cd
+IMG_0374.MOV                                   23cd9fedfb405cb3fb11887447c8d4cb
+IMG_0375.MOV                                   b04c9f75349dbf27908b3b0ca195f7f6
+IMG_0376.MOV                                   806ba0f2dddbbb4b7af7ba64807e57e6
+IMG_0379.MOV                                   fe582277502cfce231d9240c29be98a8
+IMG_0380.MOV                                   be862858494088a39f36c4500fec4084
+md5sums.txt                                    d582da61378fed76f3c0d7e81676fd8b
+MVI_1587.AVI                                   80075fe3d589ac9844f5475e77683c30
+MVI_1587.THM                                   ef6fc4aca76986689515e8aeb131ac2f
+MVI_1613.AVI                                   ee8ffde97f5c5f75fa2c6b474b2cef62
+MVI_1613.THM                                   9b6f4137677de7fc4405bd1097937fdb
+Thumbs.db                                      0b6519d130066eb7635adb0a3142f2ed
+video-2012-07-14-16-12-34.mp4                  7edf71bb3be63e77f096e0e85a36fbd6
+video-2012-07-14-16-13-11.mp4                  24009353276c3abc7d003e9f651207e1
+video-2012-07-17-13-20-31.mp4                  bcb1e5d2191f0b0404fc2653b55ba9e1
