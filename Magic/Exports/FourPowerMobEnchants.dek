@@ -16,36 +16,30 @@
   <Cards CatID="54074" Quantity="1" Sideboard="false" Name="Thornwood Falls" />
   <Cards CatID="50272" Quantity="2" Sideboard="false" Name="Temple of Mystery" />
   <Cards CatID="50398" Quantity="1" Sideboard="false" Name="Unknown Shores" />
-  <Cards CatID="50136" Quantity="1" Sideboard="false" Name="Boon Satyr" />
+  <Cards CatID="50136" Quantity="2" Sideboard="false" Name="Boon Satyr" />
   <Cards CatID="54118" Quantity="3" Sideboard="false" Name="Heir of the Wilds" />
-  <Cards CatID="53642" Quantity="2" Sideboard="false" Name="Quickling" />
   <Cards CatID="54186" Quantity="3" Sideboard="false" Name="Savage Knuckleblade" />
   <Cards CatID="50522" Quantity="1" Sideboard="false" Name="Stormbreath Dragon" />
   <Cards CatID="56192" Quantity="1" Sideboard="false" Name="Sarkhan Unbroken" />
   <Cards CatID="50578" Quantity="1" Sideboard="false" Name="Anger of the Gods" />
   <Cards CatID="50428" Quantity="1" Sideboard="false" Name="Destructive Revelry" />
   <Cards CatID="54390" Quantity="1" Sideboard="false" Name="Feed the Clan" />
-  <Cards CatID="54308" Quantity="2" Sideboard="false" Name="Stubborn Denial" />
+  <Cards CatID="49593" Quantity="1" Sideboard="false" Name="Quicken" />
   <Cards CatID="54440" Quantity="3" Sideboard="false" Name="Temur Ascendancy" />
-  <Cards CatID="54132" Quantity="2" Sideboard="false" Name="Temur Charm" />
-  <Cards CatID="55918" Quantity="1" Sideboard="false" Name="Tormenting Voice" />
+  <Cards CatID="54132" Quantity="1" Sideboard="false" Name="Temur Charm" />
+  <Cards CatID="54022" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
   <Cards CatID="55602" Quantity="1" Sideboard="false" Name="Arcbond" />
   <Cards CatID="51797" Quantity="1" Sideboard="false" Name="Whelming Wave" />
-  <Cards CatID="54108" Quantity="1" Sideboard="false" Name="Monastery Swiftspear" />
+  <Cards CatID="54108" Quantity="2" Sideboard="false" Name="Monastery Swiftspear" />
   <Cards CatID="51851" Quantity="2" Sideboard="false" Name="Courser of Kruphix" />
-  <Cards CatID="52186" Quantity="1" Sideboard="false" Name="Hypnotic Siren" />
   <Cards CatID="55440" Quantity="1" Sideboard="false" Name="Outpost Siege" />
-  <Cards CatID="52198" Quantity="1" Sideboard="false" Name="Strength from the Fallen" />
-  <Cards CatID="50342" Quantity="2" Sideboard="false" Name="Dragon Mantle" />
+  <Cards CatID="29793" Quantity="4" Sideboard="false" Name="Giantbaiting" />
   <Cards CatID="56296" Quantity="1" Sideboard="false" Name="Thunderbreak Regent" />
   <Cards CatID="55496" Quantity="1" Sideboard="false" Name="Winds of Qal Sisma" />
-  <Cards CatID="51998" Quantity="1" Sideboard="false" Name="Riptide Chimera" />
   <Cards CatID="49133" Quantity="1" Sideboard="false" Name="Negate" />
   <Cards CatID="51639" Quantity="1" Sideboard="false" Name="Fall of the Hammer" />
-  <Cards CatID="53434" Quantity="1" Sideboard="false" Name="Verdant Haven" />
   <Cards CatID="55358" Quantity="1" Sideboard="false" Name="Cloudform" />
   <Cards CatID="53731" Quantity="1" Sideboard="false" Name="Military Intelligence" />
-  <Cards CatID="51595" Quantity="2" Sideboard="false" Name="Stratus Walk" />
   <Cards CatID="53632" Quantity="1" Sideboard="false" Name="Hammerhand" />
   <Cards CatID="50428" Quantity="1" Sideboard="true" Name="Destructive Revelry" />
   <Cards CatID="50230" Quantity="1" Sideboard="true" Name="Magma Jet" />
