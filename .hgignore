@@ -8,18 +8,24 @@ TestResults/
 _UpgradeReport_Files/
 (?i)\.avi
 (?i)\.Cache
+(?i)\.cpi
 (?i)\.flac
 (?i)\.jpg
 (?i)\.m4a
+(?i)\.mdb
 (?i)\.mid
 (?i)\.mov
 (?i)\.mp3
+(?i)\.mp4
+(?i)\.mpeg
 (?i)\.mts
 (?i)\.nar
 (?i)\.ogg
+(?i)\.wav
 (?i)\.wma
 
 syntax: glob
+thumbs.db
 *.suo
 *.csproj.user
 *.user
@@ -31,8 +37,8 @@ _ReSharper.*
 *.ini
 *.exe
 *.git
-*.mp4
 *.mot
+*.nrg
 *.orig
 *.cache
 *.resources
