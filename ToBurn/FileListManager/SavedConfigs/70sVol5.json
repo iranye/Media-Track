@@ -3,8 +3,16 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "TotalMegaBytes": 86,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Steely Dan\\_SteelyDan-ShortList.m3u"
+      "TotalMegaBytes": 8,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\70's Pop\\_70sPop-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 65,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Frampton, Peter\\_PeterFrampton-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 54,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\MichaelJackson\\_MichaelJackson-ShortList.m3u"
     },
     {
       "TotalMegaBytes": 118,
