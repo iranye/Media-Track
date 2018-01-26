@@ -1,0 +1,22 @@
+{
+  "Name": "MetalVol2",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "TotalMegaBytes": 45,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Black Sabbath\\_BlackSabbath-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 330,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Judas Priest\\_JudasPriest-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 74,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Pantera\\_Pantera-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 109,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Scorpions\\_Scorpions-ShortList.m3u"
+    }
+  ]
+}
