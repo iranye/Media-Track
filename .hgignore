@@ -9,6 +9,7 @@ _UpgradeReport_Files/
 (?i)\.avi
 (?i)\.Cache
 (?i)\.cpi
+(?i)\.doc
 (?i)\.flac
 (?i)\.jpg
 (?i)\.m4a
@@ -21,6 +22,7 @@ _UpgradeReport_Files/
 (?i)\.mts
 (?i)\.nar
 (?i)\.ogg
+(?i)\.pdf
 (?i)\.wav
 (?i)\.wma
 
