@@ -1,0 +1,35 @@
+** Review ShortList(s) **
+Megadeth
+Metallica
+Pantera
+Scorpions
+Smashing Pumpkins
+Rammstein
+
+
+** To Catenate **
+* JudasPriest *
+First 2 songs of Screaming for Vengance
+Heavy Duty & Defenders of the Faith
+
+* Led Zeppelin *
+
+* RHCP *
+Suck My Kiss & I Could Have Lied
+
+* Who *
+
+
+* Need fillers for *
+70sVol4
+70sVol5
+
+
+** Fix or Flatten Files **
+C:\MediaTracker\Music\MP3s\Journey
+
+* Remove *
+Shannon by Henry Gross
+
+* Make sure I have *
+In the Dark by Billy Squire

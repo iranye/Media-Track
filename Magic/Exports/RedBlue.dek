@@ -42,6 +42,8 @@
   <Cards CatID="49339" Quantity="2" Sideboard="false" Name="Trading Post" />
   <Cards CatID="53612" Quantity="1" Sideboard="false" Name="Nightfire Giant" />
   <Cards CatID="53610" Quantity="1" Sideboard="false" Name="Soul of Shandalar" />
+  <Cards CatID="54022" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
+  <Cards CatID="55532" Quantity="3" Sideboard="false" Name="Swiftwater Cliffs" />
   <Cards CatID="49421" Quantity="1" Sideboard="true" Name="Mindsparker" />
   <Cards CatID="46587" Quantity="1" Sideboard="true" Name="Dispel" />
   <Cards CatID="50614" Quantity="1" Sideboard="true" Name="Gainsay" />
