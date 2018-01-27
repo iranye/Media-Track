@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="F:\Media-Tracker\MakeMKV-Movies\CURIOUS_GEORGE_3">
+  <FileItemList>
+    <FileItem name="CURIOUS_GEORGE_3.mkv">
+      <Size>5279360111</Size>
+      <MD5Hash>0x547A2644777ECB470C0A0AA1AFD4F924</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

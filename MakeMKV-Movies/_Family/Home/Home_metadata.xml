@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="F:\Media-Tracker\MakeMKV-Movies\Home">
+  <FileItemList>
+    <FileItem name="Home.mkv">
+      <Size>4738517028</Size>
+      <MD5Hash>0xF42B6AE7948B924B4276212FB653E5B8</MD5Hash>
+    </FileItem>
+    <FileItem name="Home_t01.mkv">
+      <Size>67181311</Size>
+      <MD5Hash>0x153C76AB667975781A705100FD37DA23</MD5Hash>
+    </FileItem>
+    <FileItem name="Home_t02.mkv">
+      <Size>135953270</Size>
+      <MD5Hash>0x2CD35A598F21E28F53BF31AA9FD95803</MD5Hash>
+    </FileItem>
+    <FileItem name="Home_t03.mkv">
+      <Size>97834403</Size>
+      <MD5Hash>0xE6C945C471AA9F626288F6C51C576D1C</MD5Hash>
+    </FileItem>
+    <FileItem name="Home_t04.mkv">
+      <Size>81486790</Size>
+      <MD5Hash>0xC097AE1D234536D9B7E3B5868177CC36</MD5Hash>
+    </FileItem>
+    <FileItem name="Home_t05.mkv">
+      <Size>82401864</Size>
+      <MD5Hash>0x6D459B6321E3890988E355B2373F81D0</MD5Hash>
+    </FileItem>
+    <FileItem name="Home_t06.mkv">
+      <Size>176511703</Size>
+      <MD5Hash>0xC1E4234AE03232676624D8CCBD3F42D8</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>

@@ -9,6 +9,7 @@ Thumbs.db
 *.aps
 *.bak
 *.cache
+*.dvr-ms
 *.ilk
 *.ini
 *.log
@@ -17,10 +18,12 @@ Thumbs.db
 *.pch
 *.sbr
 *.suo
+*.ts
 *.user
 *.vspscc
 [Rr]elease*/
 _ReSharper*/
+TempRec/
 *.dll
 *.exe
 *.manifest

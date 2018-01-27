@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="F:\Media-Tracker\MakeMKV-Movies\Open_Season">
+  <FileItemList>
+    <FileItem name="Open_Season.mkv">
+      <Size>3477886092</Size>
+      <MD5Hash>0x63C911C1611FFCCEE423D98CF3EBE71D</MD5Hash>
+    </FileItem>
+    <FileItem name="Open_Season_t01.mkv">
+      <Size>153062045</Size>
+      <MD5Hash>0x6472A9A2CF597BD72F624E34B3BA4D1E</MD5Hash>
+    </FileItem>
+    <FileItem name="Open_Season_t02.mkv">
+      <Size>531450489</Size>
+      <MD5Hash>0x54EC03C9515C175EEC75A4F0D92DFEC6</MD5Hash>
+    </FileItem>
+    <FileItem name="Open_Season_t03.mkv">
+      <Size>262907378</Size>
+      <MD5Hash>0x10428B0451E65DBF350652DA97393F2C</MD5Hash>
+    </FileItem>
+    <FileItem name="Open_Season_t04.mkv">
+      <Size>79150153</Size>
+      <MD5Hash>0x7ACF622B7B904DB49C4A88EC7AF0DE41</MD5Hash>
+    </FileItem>
+    <FileItem name="Open_Season_t05.mkv">
+      <Size>98214351</Size>
+      <MD5Hash>0x37552CFAA0B44F787E636A7260E56CCD</MD5Hash>
+    </FileItem>
+    <FileItem name="Open_Season_t10.mkv">
+      <Size>81354129</Size>
+      <MD5Hash>0x642097A0019248EFBCDA9876794F0013</MD5Hash>
+    </FileItem>
+    <FileItem name="Open_Season_t11.mkv">
+      <Size>88053853</Size>
+      <MD5Hash>0xCC700308D152DECD9752FD220125BCD1</MD5Hash>
+    </FileItem>
+    <FileItem name="Open_Season_t12.mkv">
+      <Size>85603607</Size>
+      <MD5Hash>0x761491B55F1AF7D04EAB079D090D819A</MD5Hash>
+    </FileItem>
+    <FileItem name="Open_Season_t13.mkv">
+      <Size>93232592</Size>
+      <MD5Hash>0x922884EFADBAB828A151CB1FABF0D0C0</MD5Hash>
+    </FileItem>
+    <FileItem name="Open_Season_t14.mkv">
+      <Size>85239457</Size>
+      <MD5Hash>0xEC3CA21787DD97E4B061E942B37A4FDE</MD5Hash>
+    </FileItem>
+    <FileItem name="Open_Season_t15.mkv">
+      <Size>100806476</Size>
+      <MD5Hash>0x8B772F87DA8732EB69050754333F6D73</MD5Hash>
+    </FileItem>
+  </FileItemList>
+</FileItems>
