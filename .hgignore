@@ -4,16 +4,22 @@ bin/
 obj/
 /packages/
 /TBD/
+/TempRec/
 TestResults/
 _UpgradeReport_Files/
 (?i)\.avi
 (?i)\.Cache
 (?i)\.cpi
+(?i)\.doc
+(?i)\.dvr-ms
 (?i)\.flac
+(?i)\.gif
 (?i)\.jpg
+(?i)\.lst
 (?i)\.m4a
 (?i)\.mdb
 (?i)\.mid
+(?i)\.mkv
 (?i)\.mov
 (?i)\.mp3
 (?i)\.mp4
@@ -21,8 +27,11 @@ _UpgradeReport_Files/
 (?i)\.mts
 (?i)\.nar
 (?i)\.ogg
+(?i)\.pdf
+(?i)\.ts
 (?i)\.wav
 (?i)\.wma
+(?i)\.wtv
 
 syntax: glob
 thumbs.db
