@@ -1,11 +1,30 @@
 ** Review ShortList(s) **
-Megadeth
-Metallica
-Pantera
-Scorpions
-Smashing Pumpkins
 Rammstein
 
+Beck
+Megadeth
+Metallica
+Monster Magnet
+NoAlternative
+Pantera
+Rob Zombie
+Smashing Pumpkins
+Soundtrack_SleeplessSeattle
+Soundtrack_BabyDriver
+Soundtrack_Coneheads
+Soundtrack_Descendants
+Soundtrack_HowardStern
+Soundtrack_Minions
+Soundtrack_PulpFiction
+Soundtrack_SFW
+Soundtrack_SoundOfMusic
+Sountrack_ForrestGump
+Sountrack_Spawn
+Spin Doctors
+Spiritof60s
+Stone Roses
+Summer Oldies
+Tribute to Slayer
 
 ** To Catenate **
 * JudasPriest *
