@@ -1,0 +1,22 @@
+{
+  "Name": "MetalVol3_EXP",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "TotalMegaBytes": 70,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Ministry\\_Ministry-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 74,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Pantera\\_Pantera-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 68,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Rage Against the Machine\\_RageAgainstTheMachine-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 82,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Slipknot\\_Slipknot-ShortList.m3u"
+    }
+  ]
+}

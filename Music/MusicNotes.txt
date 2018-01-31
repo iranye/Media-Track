@@ -1,13 +1,13 @@
 ** Review ShortList(s) **
-Rammstein
 
 Beck
-Megadeth
+Linkin Park
 Metallica
+Minor Threat
 Monster Magnet
 NoAlternative
-Pantera
-Rob Zombie
+Sheryl Crow
+Slipknot (EXPLICIT)
 Smashing Pumpkins
 Soundtrack_SleeplessSeattle
 Soundtrack_BabyDriver
@@ -30,6 +30,8 @@ Tribute to Slayer
 * JudasPriest *
 First 2 songs of Screaming for Vengance
 Heavy Duty & Defenders of the Faith
+
+Rob Zombie_01_Call of the Zombie.mp3 & Rob Zombie_02_Superbeast.mp3
 
 * Led Zeppelin *
 
