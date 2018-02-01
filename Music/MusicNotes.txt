@@ -1,13 +1,9 @@
 ** Review ShortList(s) **
 
 Beck
-Linkin Park
-Metallica
 Minor Threat
-Monster Magnet
 NoAlternative
 Sheryl Crow
-Slipknot (EXPLICIT)
 Smashing Pumpkins
 Soundtrack_SleeplessSeattle
 Soundtrack_BabyDriver
@@ -18,13 +14,15 @@ Soundtrack_Minions
 Soundtrack_PulpFiction
 Soundtrack_SFW
 Soundtrack_SoundOfMusic
+
+* SHOULD BE Soundtrack (not Sountrack) *
 Sountrack_ForrestGump
 Sountrack_Spawn
+
 Spin Doctors
 Spiritof60s
 Stone Roses
 Summer Oldies
-Tribute to Slayer
 
 ** To Catenate **
 * JudasPriest *
