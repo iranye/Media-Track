@@ -1,3 +1,16 @@
+** File Sync **
+RIPPED Unleashed in the East *.mp3 => JudasPriest
+BabyDriverSoundtrack => Soundtrack_BabyDriver
+SoundofMusicSoundtrack\*.mp3 => Soundtrack_SoundOfMusic
+ConeheadsSoundtrack => Soundtrack_Coneheads
+=> Soundtrack_Descendants
+=> Sountrack_ForrestGump
+=> Soundtrack_HowardStern
+=> Soundtrack_PulpFiction
+RIPPED *.mp3 => Soundtrack_LostHighway
+=> Sountrack_Spawn
+=> Soundtrack_SleeplessSeattle
+
 ** Review ShortList(s) **
 
 Beck
