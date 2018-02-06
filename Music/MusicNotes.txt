@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 ** To Fix **
 1989-040 Fine Young Cannibals - Good Thing.mp3 ** SONG GETS SKIPPED IN IPOD **
 1989-047 B-52's - Love Shack.mp3 ** SONG IS A SHORTENED VERSION **
 1989-058 Tears For Fears - Sowing The Seeds Of Love.mp3 ** SONG GETS SKIPPED IN IPOD **
 1989-068 The Cure - Love Song.mp3 ** blips **
-=======
+
 ** File Sync **
 RIPPED Unleashed in the East *.mp3 => JudasPriest
 BabyDriverSoundtrack => Soundtrack_BabyDriver
@@ -17,7 +16,6 @@ ConeheadsSoundtrack => Soundtrack_Coneheads
 RIPPED *.mp3 => Soundtrack_LostHighway
 => Sountrack_Spawn
 => Soundtrack_SleeplessSeattle
->>>>>>> cd5efd567a5c9a27018809d499d622259853c53f
 
 ** Review ShortList(s) **
 
@@ -29,15 +27,12 @@ Soundtrack_SleeplessSeattle
 Soundtrack_BabyDriver
 Soundtrack_Coneheads
 Soundtrack_Descendants
+Soundtrack_ForrestGump
 Soundtrack_HowardStern
 Soundtrack_Minions
 Soundtrack_PulpFiction
 Soundtrack_SFW
 Soundtrack_SoundOfMusic
-
-* SHOULD BE Soundtrack (not Sountrack) *
-Sountrack_ForrestGump
-Sountrack_Spawn
 
 Spin Doctors
 Spiritof60s
