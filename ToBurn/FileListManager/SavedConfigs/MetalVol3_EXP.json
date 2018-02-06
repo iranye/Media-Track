@@ -3,6 +3,10 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
+      "TotalMegaBytes": 64,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Korn\\_Korn-ShortList.m3u"
+    },
+    {
       "TotalMegaBytes": 34,
       "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Ministry\\_Ministry-ShortList.m3u"
     },
