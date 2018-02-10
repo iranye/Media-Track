@@ -1,16 +1,50 @@
-** Review ShortList(s) **
-Megadeth
-Metallica
-Pantera
-Scorpions
-Smashing Pumpkins
-Rammstein
+** To Fix **
+1989-040 Fine Young Cannibals - Good Thing.mp3 ** SONG GETS SKIPPED IN IPOD **
+1989-047 B-52's - Love Shack.mp3 ** SONG IS A SHORTENED VERSION **
+1989-058 Tears For Fears - Sowing The Seeds Of Love.mp3 ** SONG GETS SKIPPED IN IPOD **
+1989-068 The Cure - Love Song.mp3 ** blips **
 
+** File Sync **
+RIPPED Unleashed in the East *.mp3 => JudasPriest
+BabyDriverSoundtrack => Soundtrack_BabyDriver
+SoundofMusicSoundtrack\*.mp3 => Soundtrack_SoundOfMusic
+ConeheadsSoundtrack => Soundtrack_Coneheads
+=> Soundtrack_Descendants
+=> Sountrack_ForrestGump
+=> Soundtrack_HowardStern
+=> Soundtrack_PulpFiction
+RIPPED *.mp3 => Soundtrack_LostHighway
+=> Sountrack_Spawn
+=> Soundtrack_SleeplessSeattle
+
+** Review ShortList(s) **
+
+Minor Threat
+NoAlternative
+Sheryl Crow
+Smashing Pumpkins
+Soundtrack_SleeplessSeattle
+Soundtrack_BabyDriver
+Soundtrack_Coneheads
+Soundtrack_Descendants
+Soundtrack_ForrestGump
+Soundtrack_HowardStern
+Soundtrack_Minions
+Soundtrack_PulpFiction
+Soundtrack_SFW
+Soundtrack_SoundOfMusic
+
+Spin Doctors
+Spiritof60s
+Stone Roses
+Summer Oldies
 
 ** To Catenate **
 * JudasPriest *
 First 2 songs of Screaming for Vengance
 Heavy Duty & Defenders of the Faith
+
+Rob Zombie_01_Call of the Zombie.mp3 & Rob Zombie_02_Superbeast.mp3
 
 * Led Zeppelin *
 

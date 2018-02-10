@@ -3,12 +3,36 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "TotalMegaBytes": 0,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\The Fixx\\_TheFixx-ShortList.m3u"
+      "TotalMegaBytes": 17,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Alan Parsons Project\\_AlanParson.m3u"
     },
     {
-      "TotalMegaBytes": 164,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Yes\\_Yes_ShortList.m3u"
+      "TotalMegaBytes": 109,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Allman Brothers Band\\_AllmanBros.m3u"
+    },
+    {
+      "TotalMegaBytes": 68,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Billy Idol\\_BillyIdol.m3u"
+    },
+    {
+      "TotalMegaBytes": 139,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Bob Seger & the Silver Bullet Band\\_BobSeger-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 119,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Cars\\_Cars-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 77,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Cheap Trick\\_CheapTrick-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 94,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Creedence Clearwater Revival\\_CCR-ShortList.m3u"
+    },
+    {
+      "TotalMegaBytes": 63,
+      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Doobie Brothers\\_DoobieBrothers-ShortList.m3u"
     }
   ]
 }
