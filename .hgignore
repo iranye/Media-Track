@@ -24,6 +24,7 @@ _UpgradeReport_Files/
 (?i)\.mp3
 (?i)\.mp4
 (?i)\.mpeg
+(?i)\.mpg
 (?i)\.mts
 (?i)\.nar
 (?i)\.ogg
