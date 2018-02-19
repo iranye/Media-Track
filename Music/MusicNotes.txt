@@ -1,30 +1,44 @@
+** To Fix **
+1989-040 Fine Young Cannibals - Good Thing.mp3 ** SONG GETS SKIPPED IN IPOD **
+1989-047 B-52's - Love Shack.mp3 ** SONG IS A SHORTENED VERSION **
+1989-058 Tears For Fears - Sowing The Seeds Of Love.mp3 ** SONG GETS SKIPPED IN IPOD **
+1989-068 The Cure - Love Song.mp3 ** blips **
+1981-076 Billy Squier - The Stroke.mp3 bad sound quality
+
+** File Sync **
+RIPPED Unleashed in the East *.mp3 => JudasPriest
+BabyDriverSoundtrack => Soundtrack_BabyDriver
+SoundofMusicSoundtrack\*.mp3 => Soundtrack_SoundOfMusic
+ConeheadsSoundtrack => Soundtrack_Coneheads
+=> Soundtrack_Descendants
+=> Sountrack_ForrestGump
+=> Soundtrack_HowardStern
+=> Soundtrack_PulpFiction
+RIPPED *.mp3 => Soundtrack_LostHighway
+=> Sountrack_Spawn
+=> Soundtrack_SleeplessSeattle
+
 ** Review ShortList(s) **
 
-Beck
-Linkin Park
-Metallica
 Minor Threat
-Monster Magnet
 NoAlternative
 Sheryl Crow
-Slipknot (EXPLICIT)
 Smashing Pumpkins
 Soundtrack_SleeplessSeattle
 Soundtrack_BabyDriver
 Soundtrack_Coneheads
 Soundtrack_Descendants
+Soundtrack_ForrestGump
 Soundtrack_HowardStern
 Soundtrack_Minions
 Soundtrack_PulpFiction
 Soundtrack_SFW
 Soundtrack_SoundOfMusic
-Sountrack_ForrestGump
-Sountrack_Spawn
+
 Spin Doctors
 Spiritof60s
 Stone Roses
 Summer Oldies
-Tribute to Slayer
 
 ** To Catenate **
 * JudasPriest *
