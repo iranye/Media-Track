@@ -3,24 +3,24 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "TotalMegaBytes": 8,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\70's Pop\\_70sPop-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\70's Pop\\_70sPop-ShortList.m3u",
+      "TotalMegaBytes": 8
     },
     {
-      "TotalMegaBytes": 65,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Frampton, Peter\\_PeterFrampton-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Frampton, Peter\\_PeterFrampton-ShortList.m3u",
+      "TotalMegaBytes": 65
     },
     {
-      "TotalMegaBytes": 54,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\MichaelJackson\\_MichaelJackson-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\MichaelJackson\\_MichaelJackson-ShortList.m3u",
+      "TotalMegaBytes": 54
     },
     {
-      "TotalMegaBytes": 118,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Stevie Wonder\\_StevieWonder.m3u"
+      "PartialPath": "Music\\MP3s\\Stevie Wonder\\_StevieWonder.m3u",
+      "TotalMegaBytes": 118
     },
     {
-      "TotalMegaBytes": 444,
-      "FullPath": "C:\\MediaTracker\\Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1979\\_1979-ShortList.m3u"
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1979\\_1979-ShortList.m3u",
+      "TotalMegaBytes": 444
     }
   ]
 }

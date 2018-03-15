@@ -3,80 +3,76 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "TotalMegaBytes": 104,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\David Bowie\\_DavidBowie-Changes.m3u"
+      "PartialPath": "Music\\MP3s\\David Bowie\\_DavidBowie-Changes.m3u",
+      "TotalMegaBytes": 104
     },
     {
-      "TotalMegaBytes": 92,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Fleetwood Mac\\_FleetwoodMac-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Fleetwood Mac\\_FleetwoodMac-ShortList.m3u",
+      "TotalMegaBytes": 92
     },
     {
-      "TotalMegaBytes": 50,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\foreigner\\_Foreigner-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\foreigner\\_Foreigner-ShortList.m3u",
+      "TotalMegaBytes": 50
     },
     {
-      "TotalMegaBytes": 62,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Hard_N_Heavy\\_HardAndHeavy.m3u"
+      "PartialPath": "Music\\MP3s\\Hard_N_Heavy\\_HardAndHeavy-ShortList.m3u",
+      "TotalMegaBytes": 62
     },
     {
-      "TotalMegaBytes": 33,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\jethro tull\\_JethroTull.m3u"
+      "PartialPath": "Music\\MP3s\\Jefferson Starship\\_JeffersonStarship-ShortList.m3u",
+      "TotalMegaBytes": 74
     },
     {
-      "TotalMegaBytes": 127,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\JimiHendrixExperience\\$JimiHendrixExperience.m3u"
+      "PartialPath": "Music\\MP3s\\JimiHendrixExperience\\$JimiHendrixExperience.m3u",
+      "TotalMegaBytes": 127
     },
     {
-      "TotalMegaBytes": 58,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\John Lennon\\$JohnLennon-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\John Lennon\\$JohnLennon-ShortList.m3u",
+      "TotalMegaBytes": 58
     },
     {
-      "TotalMegaBytes": 307,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\LedZeppelin\\$LedZeppelin-Shortlist.m3u"
+      "PartialPath": "Music\\MP3s\\LedZeppelin\\$LedZeppelin-Shortlist.m3u",
+      "TotalMegaBytes": 307
     },
     {
-      "TotalMegaBytes": 100,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Paul McCartney\\_PaulMccartney-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Paul McCartney\\_PaulMccartney-ShortList.m3u",
+      "TotalMegaBytes": 100
     },
     {
-      "TotalMegaBytes": 72,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Pete Townshend\\_PeteTownshend-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Pete Townshend\\_PeteTownshend-ShortList.m3u",
+      "TotalMegaBytes": 72
     },
     {
-      "TotalMegaBytes": 121,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Peter Gabriel\\_PeterGabriel-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Peter Gabriel\\_PeterGabriel-ShortList.m3u",
+      "TotalMegaBytes": 121
     },
     {
-      "TotalMegaBytes": 362,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Pink Floyd\\_PinkFloyd-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Ratt\\_Ratt_ShortList.m3u",
+      "TotalMegaBytes": 33
     },
     {
-      "TotalMegaBytes": 33,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Ratt\\_Ratt_ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Robert Plant\\_RobertPlant_ShorList.m3u",
+      "TotalMegaBytes": 41
     },
     {
-      "TotalMegaBytes": 41,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Robert Plant\\_RobertPlant_ShorList.m3u"
+      "PartialPath": "Music\\MP3s\\Rolling Stones\\_RollingStones-ShortList.m3u",
+      "TotalMegaBytes": 352
     },
     {
-      "TotalMegaBytes": 352,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Rolling Stones\\_RollingStones-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Rush\\_Rush-ShortList.m3u",
+      "TotalMegaBytes": 271
     },
     {
-      "TotalMegaBytes": 271,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Rush\\_Rush-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\The Fixx\\_TheFixx-ShortList.m3u",
+      "TotalMegaBytes": 62
     },
     {
-      "TotalMegaBytes": 100,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\The Fixx\\_TheFixx-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Who\\_Who-ShortList.m3u",
+      "TotalMegaBytes": 313
     },
     {
-      "TotalMegaBytes": 310,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Who\\_Who-ShortList.m3u"
-    },
-    {
-      "TotalMegaBytes": 181,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Yes\\_Yes_ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Yes\\_Yes_ShortList.m3u",
+      "TotalMegaBytes": 187
     }
   ]
 }

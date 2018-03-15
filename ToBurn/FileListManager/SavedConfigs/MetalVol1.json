@@ -3,28 +3,28 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "TotalMegaBytes": 122,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\AC-DC\\_AC-DC.m3u"
+      "PartialPath": "Music\\MP3s\\AC-DC\\_AC-DC.m3u",
+      "TotalMegaBytes": 122
     },
     {
-      "TotalMegaBytes": 45,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Black Sabbath\\_BlackSabbath-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Black Sabbath\\_BlackSabbath-ShortList.m3u",
+      "TotalMegaBytes": 45
     },
     {
-      "TotalMegaBytes": 57,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\DeepPurple\\_DeepPurple-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\DeepPurple\\_DeepPurple-ShortList.m3u",
+      "TotalMegaBytes": 57
     },
     {
-      "TotalMegaBytes": 23,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Foghat\\_Foghat-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Foghat\\_Foghat-ShortList.m3u",
+      "TotalMegaBytes": 23
     },
     {
-      "TotalMegaBytes": 131,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Kiss\\_Kiss-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Kiss\\_Kiss-ShortList.m3u",
+      "TotalMegaBytes": 131
     },
     {
-      "TotalMegaBytes": 275,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\OzzyOsbourne\\_OzzyOsbourne-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\OzzyOsbourne\\_OzzyOsbourne-ShortList.m3u",
+      "TotalMegaBytes": 275
     }
   ]
 }
