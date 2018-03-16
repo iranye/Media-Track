@@ -3,10 +3,6 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "PartialPath": "Music\\MP3s\\Alan Parsons Project\\_AlanParson-ShortList.m3u",
-      "TotalMegaBytes": 53
-    },
-    {
       "PartialPath": "Music\\MP3s\\Allman Brothers Band\\_AllmanBros.m3u",
       "TotalMegaBytes": 109
     },

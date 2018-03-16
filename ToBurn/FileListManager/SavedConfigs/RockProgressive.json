@@ -4,7 +4,7 @@
   "M3uFiles": [
     {
       "PartialPath": "Music\\MP3s\\Alan Parsons Project\\_AlanParson-ShortList.m3u",
-      "TotalMegaBytes": 59
+      "TotalMegaBytes": 53
     },
     {
       "PartialPath": "Music\\MP3s\\Art of Noise\\_ArtOfNoise-ShortList.m3u",
@@ -13,10 +13,6 @@
     {
       "PartialPath": "Music\\MP3s\\David Bowie\\_DavidBowie-Changes.m3u",
       "TotalMegaBytes": 104
-    },
-    {
-      "PartialPath": "Music\\MP3s\\DaysOfTheNew\\_DaysoftheNew-ShortList.m3u",
-      "TotalMegaBytes": 0
     },
     {
       "PartialPath": "Music\\MP3s\\Pink Floyd\\_PinkFloyd-ShortList.m3u",
