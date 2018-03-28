@@ -3,6 +3,18 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
+      "PartialPath": "Music\\MP3s\\Doobie Brothers\\_DoobieBrothers-ShortList.m3u",
+      "TotalMegaBytes": 63
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Grateful Dead\\_GratefulDead-ShortList.m3u",
+      "TotalMegaBytes": 47
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Kiss\\_Kiss-ShortList.m3u",
+      "TotalMegaBytes": 131
+    },
+    {
       "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1978\\_1978-ShortList.m3u",
       "TotalMegaBytes": 443
     }
