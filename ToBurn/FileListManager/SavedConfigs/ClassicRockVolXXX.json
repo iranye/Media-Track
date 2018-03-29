@@ -3,10 +3,6 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "PartialPath": "Music\\MP3s\\David Bowie\\_DavidBowie-Changes.m3u",
-      "TotalMegaBytes": 104
-    },
-    {
       "PartialPath": "Music\\MP3s\\Fleetwood Mac\\_FleetwoodMac-ShortList.m3u",
       "TotalMegaBytes": 92
     },
@@ -20,7 +16,7 @@
     },
     {
       "PartialPath": "Music\\MP3s\\Jefferson Starship\\_JeffersonStarship-ShortList.m3u",
-      "TotalMegaBytes": 74
+      "TotalMegaBytes": 56
     },
     {
       "PartialPath": "Music\\MP3s\\JimiHendrixExperience\\$JimiHendrixExperience.m3u",
@@ -68,7 +64,7 @@
     },
     {
       "PartialPath": "Music\\MP3s\\VanHalen\\_VanHalen-ShortList.m3u",
-      "TotalMegaBytes": 0
+      "TotalMegaBytes": 182
     },
     {
       "PartialPath": "Music\\MP3s\\Who\\_Who-ShortList.m3u",
