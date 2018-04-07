@@ -3,28 +3,28 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "TotalMegaBytes": 92,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Fleetwood Mac\\_FleetwoodMac-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Fleetwood Mac\\_FleetwoodMac-ShortList.m3u",
+      "TotalMegaBytes": 92
     },
     {
-      "TotalMegaBytes": 58,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\John Lennon\\$JohnLennon-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\John Lennon\\$JohnLennon-ShortList.m3u",
+      "TotalMegaBytes": 58
     },
     {
-      "TotalMegaBytes": 100,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Paul McCartney\\_PaulMccartney-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Paul McCartney\\_PaulMccartney-ShortList.m3u",
+      "TotalMegaBytes": 100
     },
     {
-      "TotalMegaBytes": 72,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Pete Townshend\\_PeteTownshend-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Pete Townshend\\_PeteTownshend-ShortList.m3u",
+      "TotalMegaBytes": 72
     },
     {
-      "TotalMegaBytes": 121,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Peter Gabriel\\_PeterGabriel-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Peter Gabriel\\_PeterGabriel-ShortList.m3u",
+      "TotalMegaBytes": 121
     },
     {
-      "TotalMegaBytes": 310,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Who\\_Who-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Who\\_Who-ShortList.m3u",
+      "TotalMegaBytes": 310
     }
   ]
 }

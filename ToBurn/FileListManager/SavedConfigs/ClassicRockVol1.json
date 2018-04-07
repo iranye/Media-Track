@@ -3,36 +3,28 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "TotalMegaBytes": 17,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Alan Parsons Project\\_AlanParson.m3u"
+      "PartialPath": "Music\\MP3s\\Allman Brothers Band\\_AllmanBros.m3u",
+      "TotalMegaBytes": 109
     },
     {
-      "TotalMegaBytes": 109,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Allman Brothers Band\\_AllmanBros.m3u"
+      "PartialPath": "Music\\MP3s\\Billy Idol\\_BillyIdol-ShortList.m3u",
+      "TotalMegaBytes": 38
     },
     {
-      "TotalMegaBytes": 38,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Billy Idol\\_BillyIdol-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Bob Seger & the Silver Bullet Band\\_BobSeger-ShortList.m3u",
+      "TotalMegaBytes": 126
     },
     {
-      "TotalMegaBytes": 126,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Bob Seger & the Silver Bullet Band\\_BobSeger-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Cars\\_Cars-ShortList.m3u",
+      "TotalMegaBytes": 119
     },
     {
-      "TotalMegaBytes": 119,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Cars\\_Cars-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Cheap Trick\\_CheapTrick-ShortList.m3u",
+      "TotalMegaBytes": 77
     },
     {
-      "TotalMegaBytes": 77,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Cheap Trick\\_CheapTrick-ShortList.m3u"
-    },
-    {
-      "TotalMegaBytes": 94,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Creedence Clearwater Revival\\_CCR-ShortList.m3u"
-    },
-    {
-      "TotalMegaBytes": 63,
-      "FullPath": "C:\\MediaTracker\\Music\\MP3s\\Doobie Brothers\\_DoobieBrothers-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Creedence Clearwater Revival\\_CCR-ShortList.m3u",
+      "TotalMegaBytes": 94
     }
   ]
 }

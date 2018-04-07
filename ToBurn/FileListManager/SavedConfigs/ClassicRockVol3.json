@@ -1,0 +1,22 @@
+{
+  "Name": "ClassicRockVol3",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\JimiHendrixExperience\\$JimiHendrixExperience.m3u",
+      "TotalMegaBytes": 127
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Robert Plant\\_RobertPlant_ShorList.m3u",
+      "TotalMegaBytes": 41
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Rolling Stones\\_RollingStones-ShortList.m3u",
+      "TotalMegaBytes": 352
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Tom Petty\\_TomPetty-ShortList.m3u",
+      "TotalMegaBytes": 156
+    }
+  ]
+}
