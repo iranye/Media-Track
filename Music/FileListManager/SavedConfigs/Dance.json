@@ -4,7 +4,7 @@
   "M3uFiles": [
     {
       "PartialPath": "Music\\MP3s\\bepka\\_Bepka-ShortList.m3u",
-      "TotalMegaBytes": 75
+      "TotalMegaBytes": 61
     },
     {
       "PartialPath": "Music\\MP3s\\Lady Gaga\\_LadyGaga.m3u",
@@ -24,15 +24,15 @@
     },
     {
       "PartialPath": "Music\\MP3s\\Rammstein\\_Rammstein-ShortList.m3u",
-      "TotalMegaBytes": 285
+      "TotalMegaBytes": 251
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Soundtrack_Trolls\\_Soundtrack_Trolls_ShortList.m3u",
+      "TotalMegaBytes": 38
     },
     {
       "PartialPath": "Music\\MP3s\\Tina Turner\\_TinaTurner_ShortList.m3u",
       "TotalMegaBytes": 56
-    },
-    {
-      "PartialPath": "Music\\MP3s\\ToriAmos\\_ToriAmos_ShortList.m3u",
-      "TotalMegaBytes": 9
     }
   ]
 }

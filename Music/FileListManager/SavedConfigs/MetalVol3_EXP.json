@@ -15,10 +15,6 @@
       "TotalMegaBytes": 63
     },
     {
-      "PartialPath": "Music\\MP3s\\Pantera\\_Pantera-ShortList.m3u",
-      "TotalMegaBytes": 74
-    },
-    {
       "PartialPath": "Music\\MP3s\\PerfectCircle\\_PerfectCircle-ShortList.m3u",
       "TotalMegaBytes": 15
     },
@@ -29,6 +25,14 @@
     {
       "PartialPath": "Music\\MP3s\\Slipknot\\_Slipknot-ShortList.m3u",
       "TotalMegaBytes": 37
+    },
+    {
+      "PartialPath": "Music\\MP3s\\TenaciousD\\_TenaciousD.m3u",
+      "TotalMegaBytes": 70
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Tool\\$Tool-ShortList.m3u",
+      "TotalMegaBytes": 311
     }
   ]
 }

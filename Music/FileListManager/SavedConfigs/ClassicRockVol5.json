@@ -1,10 +1,10 @@
 {
-  "Name": "BritishRockVol1",
+  "Name": "ClassicRockVol5",
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "PartialPath": "Music\\MP3s\\Fleetwood Mac\\_FleetwoodMac-ShortList.m3u",
-      "TotalMegaBytes": 92
+      "PartialPath": "Music\\MP3s\\Hard_N_Heavy\\_HardAndHeavy-ShortList.m3u",
+      "TotalMegaBytes": 62
     },
     {
       "PartialPath": "Music\\MP3s\\John Lennon\\$JohnLennon-ShortList.m3u",
@@ -15,16 +15,16 @@
       "TotalMegaBytes": 100
     },
     {
-      "PartialPath": "Music\\MP3s\\Pete Townshend\\_PeteTownshend-ShortList.m3u",
-      "TotalMegaBytes": 72
-    },
-    {
       "PartialPath": "Music\\MP3s\\Peter Gabriel\\_PeterGabriel-ShortList.m3u",
       "TotalMegaBytes": 121
     },
     {
-      "PartialPath": "Music\\MP3s\\Who\\_Who-ShortList.m3u",
-      "TotalMegaBytes": 310
+      "PartialPath": "Music\\MP3s\\Ratt\\_Ratt_ShortList.m3u",
+      "TotalMegaBytes": 33
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Rush\\_Rush-ShortList.m3u",
+      "TotalMegaBytes": 271
     }
   ]
 }

@@ -8,23 +8,19 @@
     },
     {
       "PartialPath": "Music\\MP3s\\Dave Matthews Band\\_DaveMatthewsand-ShortList.m3u",
-      "TotalMegaBytes": 0
-    },
-    {
-      "PartialPath": "Music\\MP3s\\Phantogram\\_Phantogram-ShortList.m3u",
-      "TotalMegaBytes": 0
+      "TotalMegaBytes": 79
     },
     {
       "PartialPath": "Music\\MP3s\\Sheryl Crow\\_SherylCrow-ShortList.m3u",
-      "TotalMegaBytes": 0
+      "TotalMegaBytes": 220
     },
     {
       "PartialPath": "Music\\MP3s\\Smashing Pumpkins\\_SmashingPumpkins-ShortList.m3u",
-      "TotalMegaBytes": 261
+      "TotalMegaBytes": 268
     },
     {
       "PartialPath": "Music\\MP3s\\Spin Doctors\\_SpinDoctors-ShortList.m3u",
-      "TotalMegaBytes": 0
+      "TotalMegaBytes": 18
     }
   ]
 }

@@ -3,24 +3,20 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "PartialPath": "Music\\MP3s\\Billy Idol\\_BillyIdol-ShortList.m3u",
-      "TotalMegaBytes": 38
-    },
-    {
       "PartialPath": "Music\\MP3s\\Dire Straits\\_DireStraits-ShortList.m3u",
-      "TotalMegaBytes": 46
+      "TotalMegaBytes": 38
     },
     {
       "PartialPath": "Music\\MP3s\\Fleetwood Mac\\_FleetwoodMac-ShortList.m3u",
       "TotalMegaBytes": 92
     },
     {
-      "PartialPath": "Music\\MP3s\\foreigner\\_Foreigner-ShortList.m3u",
-      "TotalMegaBytes": 50
+      "PartialPath": "Music\\MP3s\\Foreigner\\_Foreigner-ShortList.m3u",
+      "TotalMegaBytes": 91
     },
     {
       "PartialPath": "Music\\MP3s\\Frampton, Peter\\_PeterFrampton-ShortList.m3u",
-      "TotalMegaBytes": 65
+      "TotalMegaBytes": 62
     },
     {
       "PartialPath": "Music\\MP3s\\The Fixx\\_TheFixx-ShortList.m3u",

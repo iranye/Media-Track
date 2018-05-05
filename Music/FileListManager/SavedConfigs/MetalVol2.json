@@ -3,10 +3,6 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "PartialPath": "Music\\MP3s\\AC-DC\\_AC-DC-ShortList.m3u",
-      "TotalMegaBytes": 106
-    },
-    {
       "PartialPath": "Music\\MP3s\\Helmet\\$Helmet.m3u",
       "TotalMegaBytes": 54
     },
@@ -17,10 +13,6 @@
     {
       "PartialPath": "Music\\MP3s\\Judas Priest\\_JudasPriest-ShortList.m3u",
       "TotalMegaBytes": 330
-    },
-    {
-      "PartialPath": "Music\\MP3s\\PerfectCircle\\_PerfectCircle-ShortList.m3u",
-      "TotalMegaBytes": 15
     },
     {
       "PartialPath": "Music\\MP3s\\Rob Zombie\\_RobZombie-ShortList.m3u",
