@@ -3,6 +3,7 @@ syntax: regexp
 bin/
 obj/
 /packages/
+.SynologyWorkingDirectory/
 /TBD/
 /TempRec/
 TestResults/
