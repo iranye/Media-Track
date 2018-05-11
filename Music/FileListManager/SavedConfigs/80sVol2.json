@@ -3,12 +3,16 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "TotalMegaBytes": 390,
-      "FullPath": "C:\\MediaTracker\\Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1980\\_1980-ShortList.m3u"
+      "PartialPath": "Music\\MP3s\\Def Leppard\\_DefLeppard-ShortList.m3u",
+      "TotalMegaBytes": 99
     },
     {
-      "TotalMegaBytes": 248,
-      "FullPath": "C:\\MediaTracker\\Music\\SimpleDriveMusic\\0_Compilations\\Like Omigod - The '80s Pop Culture Box\\_80sPopCultureBox-ShortList_Sublist1.m3u"
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1980\\_1980-ShortList.m3u",
+      "TotalMegaBytes": 356
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Like Omigod - The '80s Pop Culture Box\\_80sPopCultureBox-ShortList_Sublist1.m3u",
+      "TotalMegaBytes": 248
     }
   ]
 }
