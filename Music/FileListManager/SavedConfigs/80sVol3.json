@@ -3,8 +3,12 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "TotalMegaBytes": 677,
-      "FullPath": "C:\\MediaTracker\\Music\\SimpleDriveMusic\\0_Compilations\\Like Omigod - The '80s Pop Culture Box\\_80sPopCultureBox-ShortList_Sublist2.m3u"
+      "PartialPath": "Music\\MP3s\\Whitesnake\\_Whitesnake-ShortList.m3u",
+      "TotalMegaBytes": 0
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Like Omigod - The '80s Pop Culture Box\\_80sPopCultureBox-ShortList_Sublist2.m3u",
+      "TotalMegaBytes": 0
     }
   ]
 }
