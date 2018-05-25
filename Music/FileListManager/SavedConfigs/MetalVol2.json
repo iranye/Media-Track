@@ -3,6 +3,10 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
+      "PartialPath": "Music\\MP3s\\Def Leppard\\_DefLeppard-ShortList.m3u",
+      "TotalMegaBytes": 82
+    },
+    {
       "PartialPath": "Music\\MP3s\\Helmet\\$Helmet.m3u",
       "TotalMegaBytes": 54
     },
