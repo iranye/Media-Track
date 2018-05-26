@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="F:\Media-Tracker\MakeMKV-Movies\INSIDE_OUT">
-  <FileItemList>
-    <FileItem name="INSIDE_OUT.mkv">
-      <Size>5589064936</Size>
-      <MD5Hash>0xBE1B1889ECB4D5A38111D7D8360D378F</MD5Hash>
-    </FileItem>
-  </FileItemList>
-</FileItems>

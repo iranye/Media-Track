@@ -33,6 +33,7 @@ TempRec/
 [Dd]ebug*/
 obj/
 packages/
+ToBurn/
 
 *.avi
 *.bdm
