@@ -1,18 +1,5 @@
 {
   "Name": "ClassicRockVol6",
   "CopyDirectories": true,
-  "M3uFiles": [
-    {
-      "PartialPath": "Music\\MP3s\\Journey\\_Journey-ShortList.m3u",
-      "TotalMegaBytes": 148
-    },
-    {
-      "PartialPath": "Music\\MP3s\\Lynyrd Skynyrd\\_LynyrdSkynyrd-ShortList.m3u",
-      "TotalMegaBytes": 87
-    },
-    {
-      "PartialPath": "Music\\MP3s\\U2\\$U2.m3u",
-      "TotalMegaBytes": 311
-    }
-  ]
+  "M3uFiles": []
 }
