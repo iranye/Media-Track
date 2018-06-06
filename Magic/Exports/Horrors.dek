@@ -5,7 +5,7 @@
   <Cards CatID="58659" Quantity="2" Sideboard="false" Name="Sunken Hollow" />
   <Cards CatID="58527" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="53316" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
-  <Cards CatID="50440" Quantity="3" Sideboard="false" Name="Swan Song" />
+  <Cards CatID="50440" Quantity="2" Sideboard="false" Name="Swan Song" />
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
   <Cards CatID="38155" Quantity="1" Sideboard="false" Name="Psychic Miasma" />
@@ -13,7 +13,6 @@
   <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="58809" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="58807" Quantity="1" Sideboard="false" Name="Island" />
-  <Cards CatID="59778" Quantity="1" Sideboard="false" Name="Brain in a Jar" />
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="60072" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="58835" Quantity="1" Sideboard="false" Name="Swamp" />
@@ -24,14 +23,13 @@
   <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
   <Cards CatID="49593" Quantity="1" Sideboard="false" Name="Quicken" />
   <Cards CatID="54102" Quantity="2" Sideboard="false" Name="Despise" />
-  <Cards CatID="46767" Quantity="1" Sideboard="false" Name="Nivmagus Elemental" />
   <Cards CatID="36360" Quantity="2" Sideboard="false" Name="Inquisition of Kozilek" />
   <Cards CatID="59868" Quantity="4" Sideboard="false" Name="Thing in the Ice" />
   <Cards CatID="42436" Quantity="2" Sideboard="false" Name="Delver of Secrets" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="47837" Quantity="1" Sideboard="false" Name="Devour Flesh" />
   <Cards CatID="39447" Quantity="1" Sideboard="false" Name="Go for the Throat" />
-  <Cards CatID="22857" Quantity="1" Sideboard="false" Name="Will-o'-the-Wisp" />
+  <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
   <Cards CatID="23174" Quantity="1" Sideboard="false" Name="Remand" />
   <Cards CatID="23384" Quantity="4" Sideboard="false" Name="Hunted Horror" />
   <Cards CatID="45274" Quantity="1" Sideboard="false" Name="Unsummon" />
@@ -40,24 +38,20 @@
   <Cards CatID="45244" Quantity="1" Sideboard="false" Name="Rewind" />
   <Cards CatID="61845" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="20956" Quantity="1" Sideboard="false" Name="Serum Visions" />
-  <Cards CatID="21807" Quantity="1" Sideboard="false" Name="Kaijin of the Vanishing Touch" />
-  <Cards CatID="50376" Quantity="1" Sideboard="false" Name="Prognostic Sphinx" />
   <Cards CatID="65142" Quantity="1" Sideboard="false" Name="Opt" />
-  <Cards CatID="47685" Quantity="2" Sideboard="false" Name="Aetherize" />
+  <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
   <Cards CatID="50378" Quantity="2" Sideboard="false" Name="Curse of the Swine" />
-  <Cards CatID="36722" Quantity="1" Sideboard="false" Name="Echo Mage" />
-  <Cards CatID="50164" Quantity="1" Sideboard="false" Name="Baleful Eidolon" />
+  <Cards CatID="57984" Quantity="1" Sideboard="false" Name="Dark Dabbling" />
   <Cards CatID="20363" Quantity="3" Sideboard="false" Name="Echoing Truth" />
   <Cards CatID="34520" Quantity="1" Sideboard="false" Name="Gatekeeper of Malakir" />
-  <Cards CatID="66083" Quantity="1" Sideboard="false" Name="Phyrexian Rager" />
-  <Cards CatID="62653" Quantity="1" Sideboard="false" Name="Baral, Chief of Compliance" />
   <Cards CatID="48428" Quantity="1" Sideboard="false" Name="Aetherling" />
-  <Cards CatID="55616" Quantity="1" Sideboard="false" Name="Archfiend of Depravity" />
   <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
   <Cards CatID="59535" Quantity="1" Sideboard="false" Name="Flaying Tendrils" />
-  <Cards CatID="64796" Quantity="1" Sideboard="false" Name="Claim/Fame" />
   <Cards CatID="53570" Quantity="1" Sideboard="false" Name="Jace, the Living Guildpact" />
-  <Cards CatID="49117" Quantity="2" Sideboard="true" Name="Essence Scatter" />
+  <Cards CatID="53408" Quantity="2" Sideboard="false" Name="Illusory Angel" />
+  <Cards CatID="66055" Quantity="1" Sideboard="false" Name="Duress" />
+  <Cards CatID="53628" Quantity="2" Sideboard="false" Name="Chasm Skulker" />
+  <Cards CatID="49117" Quantity="1" Sideboard="true" Name="Essence Scatter" />
   <Cards CatID="53382" Quantity="2" Sideboard="true" Name="Dissipate" />
   <Cards CatID="50622" Quantity="2" Sideboard="true" Name="Dark Betrayal" />
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
@@ -67,4 +61,5 @@
   <Cards CatID="53982" Quantity="2" Sideboard="true" Name="Disdainful Stroke" />
   <Cards CatID="46325" Quantity="1" Sideboard="true" Name="Cremate" />
   <Cards CatID="39447" Quantity="1" Sideboard="true" Name="Go for the Throat" />
+  <Cards CatID="22857" Quantity="1" Sideboard="true" Name="Will-o'-the-Wisp" />
 </Deck>
