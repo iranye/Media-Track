@@ -1,0 +1,82 @@
+{
+  "Name": "ClassicRockVolXXX",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\Fleetwood Mac\\_FleetwoodMac-ShortList.m3u",
+      "TotalMegaBytes": 92
+    },
+    {
+      "PartialPath": "Music\\MP3s\\foreigner\\_Foreigner-ShortList.m3u",
+      "TotalMegaBytes": 50
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Hard_N_Heavy\\_HardAndHeavy-ShortList.m3u",
+      "TotalMegaBytes": 62
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Jefferson Starship\\_JeffersonStarship-ShortList.m3u",
+      "TotalMegaBytes": 56
+    },
+    {
+      "PartialPath": "Music\\MP3s\\JimiHendrixExperience\\$JimiHendrixExperience.m3u",
+      "TotalMegaBytes": 127
+    },
+    {
+      "PartialPath": "Music\\MP3s\\John Lennon\\$JohnLennon-ShortList.m3u",
+      "TotalMegaBytes": 58
+    },
+    {
+      "PartialPath": "Music\\MP3s\\LedZeppelin\\$LedZeppelin-Shortlist.m3u",
+      "TotalMegaBytes": 307
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Paul McCartney\\_PaulMccartney-ShortList.m3u",
+      "TotalMegaBytes": 100
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Pete Townshend\\_PeteTownshend-ShortList.m3u",
+      "TotalMegaBytes": 72
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Peter Gabriel\\_PeterGabriel-ShortList.m3u",
+      "TotalMegaBytes": 121
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Ratt\\_Ratt_ShortList.m3u",
+      "TotalMegaBytes": 33
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Robert Plant\\_RobertPlant_ShorList.m3u",
+      "TotalMegaBytes": 41
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Rolling Stones\\_RollingStones-ShortList.m3u",
+      "TotalMegaBytes": 352
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Rush\\_Rush-ShortList.m3u",
+      "TotalMegaBytes": 271
+    },
+    {
+      "PartialPath": "Music\\MP3s\\The Fixx\\_TheFixx-ShortList.m3u",
+      "TotalMegaBytes": 62
+    },
+    {
+      "PartialPath": "Music\\MP3s\\U2\\$U2.m3u",
+      "TotalMegaBytes": 311
+    },
+    {
+      "PartialPath": "Music\\MP3s\\VanHalen\\_VanHalen-ShortList.m3u",
+      "TotalMegaBytes": 182
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Who\\_Who-ShortList.m3u",
+      "TotalMegaBytes": 313
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Yes\\_Yes_ShortList.m3u",
+      "TotalMegaBytes": 187
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "AltNewVol1",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\Capital Cities\\$Capital Cities.m3u",
+      "TotalMegaBytes": 60
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Death Cab For Cutie\\_DeathCabForCutie-ShortList.m3u",
+      "TotalMegaBytes": 200
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Foster the People\\_FosterThePeople.m3u",
+      "TotalMegaBytes": 53
+    },
+    {
+      "PartialPath": "Music\\MP3s\\The Sounds\\_TheSounds-ShortList.m3u",
+      "TotalMegaBytes": 30
+    },
+    {
+      "PartialPath": "Music\\MP3s\\VampireWeekend\\_VampireWeekend-ShortList.m3u",
+      "TotalMegaBytes": 98
+    },
+    {
+      "PartialPath": "Music\\MP3s\\WhiteStripes\\_WhiteStripes-ShortList.m3u",
+      "TotalMegaBytes": 252
+    }
+  ]
+}

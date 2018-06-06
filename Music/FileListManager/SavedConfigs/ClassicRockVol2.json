@@ -1,0 +1,30 @@
+{
+  "Name": "ClassicRockVol2",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\Dire Straits\\_DireStraits-ShortList.m3u",
+      "TotalMegaBytes": 38
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Fleetwood Mac\\_FleetwoodMac-ShortList.m3u",
+      "TotalMegaBytes": 92
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Foreigner\\_Foreigner-ShortList.m3u",
+      "TotalMegaBytes": 91
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Frampton, Peter\\_PeterFrampton-ShortList.m3u",
+      "TotalMegaBytes": 62
+    },
+    {
+      "PartialPath": "Music\\MP3s\\The Fixx\\_TheFixx-ShortList.m3u",
+      "TotalMegaBytes": 62
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Who\\_Who-ShortList.m3u",
+      "TotalMegaBytes": 313
+    }
+  ]
+}

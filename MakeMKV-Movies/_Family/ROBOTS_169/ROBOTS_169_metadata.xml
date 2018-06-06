@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="F:\Media-Tracker\MakeMKV-Movies\ROBOTS_169">
-  <FileItemList>
-    <FileItem name="ROBOTS.mkv">
-      <Size>4504646589</Size>
-      <MD5Hash>0x4FE7AC67CCCB44E07319E33EB243FC0A</MD5Hash>
-    </FileItem>
-  </FileItemList>
-</FileItems>

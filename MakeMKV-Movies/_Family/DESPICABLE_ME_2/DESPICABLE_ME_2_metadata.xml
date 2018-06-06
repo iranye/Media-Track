@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="F:\Media-Tracker\MakeMKV-Movies\DESPICABLE_ME_2">
-  <FileItemList>
-    <FileItem name="DESPICABLE_ME_2.mkv">
-      <Size>3870450555</Size>
-      <MD5Hash>0x585E7316F063EF4B1D3CCEFD04E7ED4A</MD5Hash>
-    </FileItem>
-  </FileItemList>
-</FileItems>

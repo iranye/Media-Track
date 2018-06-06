@@ -1,0 +1,42 @@
+{
+  "Name": "MellowVol1",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\Natalie Merchant\\$Natalie Merchant-Tigerlilly.m3u",
+      "TotalMegaBytes": 72
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Paul Simon\\_PaulSimon.m3u",
+      "TotalMegaBytes": 58
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Raconteurs\\_Raconteurs.m3u",
+      "TotalMegaBytes": 32
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Roxy Music\\_RoxyMusic_ShortList.m3u",
+      "TotalMegaBytes": 13
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Simon & Garfunkel\\_SimonAndGarfunkel.m3u",
+      "TotalMegaBytes": 105
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Sinéad O'Connor\\_SineadOConnor_ShortList.m3u",
+      "TotalMegaBytes": 15
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Soundtrack_SleeplessSeattle\\_Soundtrack_SleeplessSeattle-ShortList.m3u",
+      "TotalMegaBytes": 51
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Talking Heads\\$Talking Heads.m3u",
+      "TotalMegaBytes": 196
+    },
+    {
+      "PartialPath": "Music\\MP3s\\toriamos\\_ToriAmos_ShortList.m3u",
+      "TotalMegaBytes": 9
+    }
+  ]
+}

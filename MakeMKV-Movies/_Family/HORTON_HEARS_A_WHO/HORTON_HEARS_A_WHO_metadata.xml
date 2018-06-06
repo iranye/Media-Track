@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<FileItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PathToDirectory="F:\Media-Tracker\MakeMKV-Movies\HORTON_HEARS_A_WHO">
-  <FileItemList>
-    <FileItem name="HORTON_HEARS_A_WHO.mkv">
-      <Size>3759336164</Size>
-      <MD5Hash>0x8449173EC6E978C0CCA1AD3F681A69F9</MD5Hash>
-    </FileItem>
-  </FileItemList>
-</FileItems>

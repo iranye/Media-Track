@@ -1,0 +1,26 @@
+{
+  "Name": "RockProgressive",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\Alan Parsons Project\\_AlanParson-ShortList.m3u",
+      "TotalMegaBytes": 53
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Art of Noise\\_ArtOfNoise-ShortList.m3u",
+      "TotalMegaBytes": 48
+    },
+    {
+      "PartialPath": "Music\\MP3s\\David Bowie\\_DavidBowie-Changes.m3u",
+      "TotalMegaBytes": 104
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Pink Floyd\\_PinkFloyd-ShortList.m3u",
+      "TotalMegaBytes": 304
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Yes\\_Yes_ShortList.m3u",
+      "TotalMegaBytes": 187
+    }
+  ]
+}
