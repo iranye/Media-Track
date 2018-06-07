@@ -1,0 +1,1 @@
+copy "SimpleDriveMusic\0_Compilations\Billboard Hits 1946-2004\1964\1964-095 Beatles - I Saw Her Standing There.mp3" "MP3s\Beatles\00_00_Beatles_I Saw Her Standing There.mp3"
