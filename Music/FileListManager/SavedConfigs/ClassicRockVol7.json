@@ -3,16 +3,12 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "PartialPath": "Music\\MP3s\\Badfinger\\_Badfinger-ShortList.m3u",
-      "TotalMegaBytes": 82
+      "PartialPath": "Music\\MP3s\\Faith\\_Faith-ShortList.m3u",
+      "TotalMegaBytes": 34
     },
     {
-      "PartialPath": "Music\\MP3s\\Beatles\\_Beatles-ShortList.m3u",
-      "TotalMegaBytes": 544
-    },
-    {
-      "PartialPath": "Music\\MP3s\\Elvis Costello & the Attractions\\_ElvisCostello-ShortList.m3u",
-      "TotalMegaBytes": 60
+      "PartialPath": "Music\\MP3s\\Tesla\\_Tesla-ShortList.m3u",
+      "TotalMegaBytes": 104
     }
   ]
 }
