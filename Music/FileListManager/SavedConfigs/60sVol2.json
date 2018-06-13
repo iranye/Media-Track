@@ -4,7 +4,19 @@
   "M3uFiles": [
     {
       "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1962\\_1962-ShortList.m3u",
-      "TotalMegaBytes": 96
+      "TotalMegaBytes": 87
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1963\\_1963-ShortList.m3u",
+      "TotalMegaBytes": 294
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1964\\_1964-ShortList.m3u",
+      "TotalMegaBytes": 226
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1965\\_1965-ShortList.m3u",
+      "TotalMegaBytes": 272
     }
   ]
 }
