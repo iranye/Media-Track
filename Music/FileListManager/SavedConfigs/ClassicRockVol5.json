@@ -3,10 +3,6 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "PartialPath": "Music\\MP3s\\Hard_N_Heavy\\_HardAndHeavy-ShortList.m3u",
-      "TotalMegaBytes": 62
-    },
-    {
       "PartialPath": "Music\\MP3s\\John Lennon\\$JohnLennon-ShortList.m3u",
       "TotalMegaBytes": 58
     },
@@ -19,12 +15,8 @@
       "TotalMegaBytes": 121
     },
     {
-      "PartialPath": "Music\\MP3s\\Ratt\\_Ratt_ShortList.m3u",
-      "TotalMegaBytes": 33
-    },
-    {
-      "PartialPath": "Music\\MP3s\\Rush\\_Rush-ShortList.m3u",
-      "TotalMegaBytes": 271
+      "PartialPath": "Music\\MP3s\\U2\\_U2-ShortList.m3u",
+      "TotalMegaBytes": 324
     }
   ]
 }
