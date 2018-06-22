@@ -1,0 +1,30 @@
+{
+  "Name": "HeavyRockVol1",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\AC-DC\\_AC-DC-ShortList.m3u",
+      "TotalMegaBytes": 86
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Black Sabbath\\_BlackSabbath-ShortList.m3u",
+      "TotalMegaBytes": 45
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Def Leppard\\_DefLeppard-ShortList.m3u",
+      "TotalMegaBytes": 126
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Hard_N_Heavy\\_HardAndHeavy-ShortList.m3u",
+      "TotalMegaBytes": 62
+    },
+    {
+      "PartialPath": "Music\\MP3s\\OzzyOsbourne\\_OzzyOsbourne-ShortList.m3u",
+      "TotalMegaBytes": 275
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Rob Zombie\\_RobZombie-ShortList.m3u",
+      "TotalMegaBytes": 17
+    }
+  ]
+}

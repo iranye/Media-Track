@@ -3,12 +3,8 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "PartialPath": "Music\\MP3s\\Faith\\_Faith-ShortList.m3u",
-      "TotalMegaBytes": 0
-    },
-    {
-      "PartialPath": "Music\\MP3s\\Tesla\\_Tesla-ShortList.m3u",
-      "TotalMegaBytes": 104
+      "PartialPath": "Music\\MP3s\\ZZ Top\\_ZZTop-ShortList.m3u",
+      "TotalMegaBytes": 351
     }
   ]
 }
