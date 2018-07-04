@@ -10,6 +10,7 @@ TestResults/
 ToBurn/
 _UpgradeReport_Files/
 (?i)\.avi
+(?i)\.bin
 (?i)\.Cache
 (?i)\.cpi
 (?i)\.doc

@@ -8,6 +8,7 @@ Thumbs.db
 *_p.c
 *.aps
 *.bak
+*.bin
 *.cache
 *.dvr-ms
 *.ilk
