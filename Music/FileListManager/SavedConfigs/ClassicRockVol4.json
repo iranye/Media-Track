@@ -4,7 +4,7 @@
   "M3uFiles": [
     {
       "PartialPath": "Music\\MP3s\\Jefferson Starship\\_JeffersonStarship-ShortList.m3u",
-      "TotalMegaBytes": 74
+      "TotalMegaBytes": 56
     },
     {
       "PartialPath": "Music\\MP3s\\LedZeppelin\\$LedZeppelin-Shortlist.m3u",
@@ -16,7 +16,7 @@
     },
     {
       "PartialPath": "Music\\MP3s\\VanHalen\\_VanHalen-ShortList.m3u",
-      "TotalMegaBytes": 182
+      "TotalMegaBytes": 210
     }
   ]
 }
