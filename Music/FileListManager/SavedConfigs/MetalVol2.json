@@ -3,10 +3,6 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "PartialPath": "Music\\MP3s\\Def Leppard\\_DefLeppard-ShortList.m3u",
-      "TotalMegaBytes": 82
-    },
-    {
       "PartialPath": "Music\\MP3s\\Helmet\\$Helmet.m3u",
       "TotalMegaBytes": 54
     },
@@ -16,11 +12,7 @@
     },
     {
       "PartialPath": "Music\\MP3s\\Judas Priest\\_JudasPriest-ShortList.m3u",
-      "TotalMegaBytes": 330
-    },
-    {
-      "PartialPath": "Music\\MP3s\\Rob Zombie\\_RobZombie-ShortList.m3u",
-      "TotalMegaBytes": 17
+      "TotalMegaBytes": 324
     },
     {
       "PartialPath": "Music\\MP3s\\Scorpions\\_Scorpions-ShortList.m3u",
