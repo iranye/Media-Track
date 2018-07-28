@@ -1,0 +1,30 @@
+{
+  "Name": "AltOldiesVol3_EXP",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\Alice in Chains\\_AliceInChains-ShortList.m3u",
+      "TotalMegaBytes": 253
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Jackyl\\_Jackyl_ShortList.m3u",
+      "TotalMegaBytes": 58
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Kings of Leon\\_KingsOfLeon-ShortList.m3u",
+      "TotalMegaBytes": 160
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Soundgarden\\_Soundgarden-ShortList.m3u",
+      "TotalMegaBytes": 138
+    },
+    {
+      "PartialPath": "Music\\MP3s\\TempleOfTheDog\\_TempleOfTheDog-ShortList.m3u",
+      "TotalMegaBytes": 15
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Weezer\\_Weezer-ShortList.m3u",
+      "TotalMegaBytes": 46
+    }
+  ]
+}

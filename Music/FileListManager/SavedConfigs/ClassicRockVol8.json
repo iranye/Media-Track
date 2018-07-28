@@ -3,8 +3,21 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
+<<<<<<< HEAD
       "PartialPath": "Music\\MP3s\\ZZ Top\\_ZZTop-ShortList.m3u",
       "TotalMegaBytes": 260
+=======
+      "PartialPath": "Music\\MP3s\\Gary Hoey\\_GaryHoey-ShortList.m3u",
+      "TotalMegaBytes": 23
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Joe Satriani\\_JoeSatriani_ShortList.m3u",
+      "TotalMegaBytes": 50
+    },
+    {
+      "PartialPath": "Music\\MP3s\\ZZ Top\\_ZZTop-ShortList.m3u",
+      "TotalMegaBytes": 221
+>>>>>>> 3ef8faa5badc22415c4b4275de7e3dd3c45fa38d
     }
   ]
 }
