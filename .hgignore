@@ -49,6 +49,7 @@ _ReSharper.*
 *.bak
 *.bak.*
 *.baml
+*.bin
 *.ini
 *.exe
 *.git

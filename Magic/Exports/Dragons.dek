@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="50578" Quantity="1" Sideboard="false" Name="Anger of the Gods" MultiverseID="0" />
+  <Cards CatID="50578" Quantity="1" Sideboard="true" Name="Anger of the Gods" MultiverseID="0" />
+  <Cards CatID="56040" Quantity="1" Sideboard="true" Name="Atarka's Command" MultiverseID="0" />
+  <Cards CatID="51851" Quantity="2" Sideboard="false" Name="Courser of Kruphix" MultiverseID="0" />
+  <Cards CatID="54456" Quantity="2" Sideboard="true" Name="Cranial Archive" MultiverseID="0" />
+  <Cards CatID="50428" Quantity="1" Sideboard="false" Name="Destructive Revelry" MultiverseID="0" />
+  <Cards CatID="50428" Quantity="1" Sideboard="true" Name="Destructive Revelry" MultiverseID="0" />
+  <Cards CatID="50360" Quantity="1" Sideboard="true" Name="Dissolve" MultiverseID="0" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" MultiverseID="0" />
+  <Cards CatID="51639" Quantity="1" Sideboard="false" Name="Fall of the Hammer" MultiverseID="0" />
+  <Cards CatID="54390" Quantity="1" Sideboard="false" Name="Feed the Clan" MultiverseID="0" />
+  <Cards CatID="52220" Quantity="1" Sideboard="true" Name="Fleetfeather Cockatrice" MultiverseID="0" />
+  <Cards CatID="54240" Quantity="1" Sideboard="false" Name="Forest" MultiverseID="0" />
+  <Cards CatID="54242" Quantity="1" Sideboard="false" Name="Forest" MultiverseID="0" />
+  <Cards CatID="54168" Quantity="4" Sideboard="false" Name="Frontier Bivouac" MultiverseID="0" />
+  <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" MultiverseID="0" />
+  <Cards CatID="29793" Quantity="4" Sideboard="false" Name="Giantbaiting" MultiverseID="0" />
+  <Cards CatID="53632" Quantity="1" Sideboard="false" Name="Hammerhand" MultiverseID="0" />
+  <Cards CatID="54118" Quantity="3" Sideboard="false" Name="Heir of the Wilds" MultiverseID="0" />
+  <Cards CatID="54218" Quantity="1" Sideboard="false" Name="Island" MultiverseID="0" />
+  <Cards CatID="50230" Quantity="1" Sideboard="true" Name="Magma Jet" MultiverseID="0" />
+  <Cards CatID="53731" Quantity="1" Sideboard="false" Name="Military Intelligence" MultiverseID="0" />
+  <Cards CatID="54108" Quantity="2" Sideboard="false" Name="Monastery Swiftspear" MultiverseID="0" />
+  <Cards CatID="54234" Quantity="1" Sideboard="false" Name="Mountain" MultiverseID="0" />
+  <Cards CatID="49133" Quantity="1" Sideboard="false" Name="Negate" MultiverseID="0" />
+  <Cards CatID="55440" Quantity="1" Sideboard="false" Name="Outpost Siege" MultiverseID="0" />
+  <Cards CatID="49219" Quantity="1" Sideboard="true" Name="Plummet" MultiverseID="0" />
+  <Cards CatID="50470" Quantity="1" Sideboard="true" Name="Polis Crusher" MultiverseID="0" />
+  <Cards CatID="53398" Quantity="1" Sideboard="true" Name="Ranger's Guile" MultiverseID="0" />
+  <Cards CatID="54470" Quantity="3" Sideboard="false" Name="Rugged Highlands" MultiverseID="0" />
+  <Cards CatID="56192" Quantity="1" Sideboard="false" Name="Sarkhan Unbroken" MultiverseID="0" />
+  <Cards CatID="50522" Quantity="1" Sideboard="false" Name="Stormbreath Dragon" MultiverseID="0" />
+  <Cards CatID="54254" Quantity="2" Sideboard="true" Name="Surrak Dragonclaw" MultiverseID="0" />
+  <Cards CatID="55532" Quantity="2" Sideboard="false" Name="Swiftwater Cliffs" MultiverseID="0" />
+  <Cards CatID="50260" Quantity="2" Sideboard="false" Name="Sylvan Caryatid" MultiverseID="0" />
+  <Cards CatID="50266" Quantity="3" Sideboard="false" Name="Temple of Abandon" MultiverseID="0" />
+  <Cards CatID="51966" Quantity="2" Sideboard="false" Name="Temple of Epiphany" MultiverseID="0" />
+  <Cards CatID="50272" Quantity="2" Sideboard="false" Name="Temple of Mystery" MultiverseID="0" />
+  <Cards CatID="54440" Quantity="3" Sideboard="false" Name="Temur Ascendancy" MultiverseID="0" />
+  <Cards CatID="54132" Quantity="1" Sideboard="false" Name="Temur Charm" MultiverseID="0" />
+  <Cards CatID="54074" Quantity="1" Sideboard="false" Name="Thornwood Falls" MultiverseID="0" />
+  <Cards CatID="56296" Quantity="1" Sideboard="false" Name="Thunderbreak Regent" MultiverseID="0" />
+  <Cards CatID="54022" Quantity="2" Sideboard="false" Name="Tormenting Voice" MultiverseID="0" />
+  <Cards CatID="50398" Quantity="1" Sideboard="false" Name="Unknown Shores" MultiverseID="0" />
+  <Cards CatID="51797" Quantity="1" Sideboard="false" Name="Whelming Wave" MultiverseID="0" />
+  <Cards CatID="55496" Quantity="1" Sideboard="false" Name="Winds of Qal Sisma" MultiverseID="0" />
+</Deck>

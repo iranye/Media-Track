@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53542" Quantity="1" Sideboard="false" Name="Ætherspouts" MultiverseID="0" />
+  <Cards CatID="50390" Quantity="1" Sideboard="false" Name="Akroan Horse" MultiverseID="0" />
+  <Cards CatID="50456" Quantity="1" Sideboard="false" Name="Aqueous Form" MultiverseID="0" />
+  <Cards CatID="50412" Quantity="1" Sideboard="false" Name="Bow of Nylea" MultiverseID="0" />
+  <Cards CatID="53742" Quantity="1" Sideboard="false" Name="Chord of Calling" MultiverseID="0" />
+  <Cards CatID="51851" Quantity="1" Sideboard="false" Name="Courser of Kruphix" MultiverseID="0" />
+  <Cards CatID="52228" Quantity="2" Sideboard="false" Name="Daring Thief" MultiverseID="0" />
+  <Cards CatID="50622" Quantity="1" Sideboard="true" Name="Dark Betrayal" MultiverseID="0" />
+  <Cards CatID="53982" Quantity="1" Sideboard="false" Name="Disdainful Stroke" MultiverseID="0" />
+  <Cards CatID="50360" Quantity="2" Sideboard="false" Name="Dissolve" MultiverseID="0" />
+  <Cards CatID="54302" Quantity="1" Sideboard="false" Name="Dragon's Eye Savants" MultiverseID="0" />
+  <Cards CatID="51549" Quantity="1" Sideboard="false" Name="Ephara, God of the Polis" MultiverseID="0" />
+  <Cards CatID="53960" Quantity="1" Sideboard="true" Name="Erase" MultiverseID="0" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" MultiverseID="0" />
+  <Cards CatID="53316" Quantity="1" Sideboard="true" Name="Evolving Wilds" MultiverseID="0" />
+  <Cards CatID="52174" Quantity="1" Sideboard="true" Name="Feast of Dreams" MultiverseID="0" />
+  <Cards CatID="52008" Quantity="1" Sideboard="false" Name="Font of Fortunes" MultiverseID="0" />
+  <Cards CatID="53478" Quantity="2" Sideboard="false" Name="Forest" MultiverseID="0" />
+  <Cards CatID="54242" Quantity="4" Sideboard="false" Name="Forest" MultiverseID="0" />
+  <Cards CatID="50614" Quantity="3" Sideboard="true" Name="Gainsay" MultiverseID="0" />
+  <Cards CatID="50479" Quantity="1" Sideboard="true" Name="Gods Willing" MultiverseID="0" />
+  <Cards CatID="54150" Quantity="1" Sideboard="false" Name="Icefeather Aven" MultiverseID="0" />
+  <Cards CatID="53482" Quantity="3" Sideboard="false" Name="Island" MultiverseID="0" />
+  <Cards CatID="54218" Quantity="4" Sideboard="false" Name="Island" MultiverseID="0" />
+  <Cards CatID="53570" Quantity="2" Sideboard="false" Name="Jace, the Living Guildpact" MultiverseID="0" />
+  <Cards CatID="53588" Quantity="1" Sideboard="true" Name="Jalira, Master Polymorphist" MultiverseID="0" />
+  <Cards CatID="51709" Quantity="2" Sideboard="false" Name="Kiora's Follower" MultiverseID="0" />
+  <Cards CatID="50550" Quantity="1" Sideboard="false" Name="Master of Waves" MultiverseID="0" />
+  <Cards CatID="49133" Quantity="2" Sideboard="false" Name="Negate" MultiverseID="0" />
+  <Cards CatID="53594" Quantity="1" Sideboard="false" Name="Nissa's Expedition" MultiverseID="0" />
+  <Cards CatID="50152" Quantity="2" Sideboard="false" Name="Omenspeaker" MultiverseID="0" />
+  <Cards CatID="53412" Quantity="1" Sideboard="false" Name="Peel from Reality" MultiverseID="0" />
+  <Cards CatID="53372" Quantity="1" Sideboard="false" Name="Plains" MultiverseID="0" />
+  <Cards CatID="53484" Quantity="1" Sideboard="true" Name="Plains" MultiverseID="0" />
+  <Cards CatID="53332" Quantity="2" Sideboard="true" Name="Plummet" MultiverseID="0" />
+  <Cards CatID="50618" Quantity="1" Sideboard="false" Name="Prophet of Kruphix" MultiverseID="0" />
+  <Cards CatID="53398" Quantity="2" Sideboard="false" Name="Ranger's Guile" MultiverseID="0" />
+  <Cards CatID="53606" Quantity="1" Sideboard="true" Name="Reclamation Sage" MultiverseID="0" />
+  <Cards CatID="52196" Quantity="1" Sideboard="false" Name="Reviving Melody" MultiverseID="0" />
+  <Cards CatID="51643" Quantity="2" Sideboard="false" Name="Satyr Wayfinder" MultiverseID="0" />
+  <Cards CatID="51871" Quantity="2" Sideboard="false" Name="Springleaf Drum" MultiverseID="0" />
+  <Cards CatID="54446" Quantity="1" Sideboard="true" Name="Sultai Ascendancy" MultiverseID="0" />
+  <Cards CatID="53486" Quantity="1" Sideboard="true" Name="Swamp" MultiverseID="0" />
+  <Cards CatID="50260" Quantity="4" Sideboard="false" Name="Sylvan Caryatid" MultiverseID="0" />
+  <Cards CatID="50272" Quantity="4" Sideboard="false" Name="Temple of Mystery" MultiverseID="0" />
+  <Cards CatID="50306" Quantity="2" Sideboard="false" Name="Thassa, God of the Sea" MultiverseID="0" />
+  <Cards CatID="54074" Quantity="2" Sideboard="false" Name="Thornwood Falls" MultiverseID="0" />
+  <Cards CatID="51665" Quantity="2" Sideboard="false" Name="Vortex Elemental" MultiverseID="0" />
+  <Cards CatID="50160" Quantity="1" Sideboard="false" Name="Voyage's End" MultiverseID="0" />
+  <Cards CatID="53292" Quantity="1" Sideboard="false" Name="Wall of Frost" MultiverseID="0" />
+  <Cards CatID="53986" Quantity="1" Sideboard="false" Name="Weave Fate" MultiverseID="0" />
+  <Cards CatID="53352" Quantity="3" Sideboard="false" Name="Yavimaya Coast" MultiverseID="0" />
+  <Cards CatID="53652" Quantity="2" Sideboard="false" Name="Yisan, the Wanderer Bard" MultiverseID="0" />
+</Deck>
