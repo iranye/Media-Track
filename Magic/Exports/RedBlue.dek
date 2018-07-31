@@ -5,9 +5,9 @@
   <Cards CatID="46429" Quantity="4" Sideboard="false" Name="Izzet Staticaster" />
   <Cards CatID="50280" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="49307" Quantity="1" Sideboard="false" Name="Island" />
-  <Cards CatID="48376" Quantity="3" Sideboard="false" Name="Izzet Guildgate" />
+  <Cards CatID="67681" Quantity="1" Sideboard="false" Name="Torgaar, Famine Incarnate" />
   <Cards CatID="49547" Quantity="1" Sideboard="false" Name="Mountain" />
-  <Cards CatID="46455" Quantity="1" Sideboard="false" Name="Tablet of the Guilds" />
+  <Cards CatID="19979" Quantity="2" Sideboard="false" Name="Fractured Loyalty" />
   <Cards CatID="46307" Quantity="1" Sideboard="false" Name="Mizzium Skin" />
   <Cards CatID="50292" Quantity="1" Sideboard="false" Name="Mountain" />
   <Cards CatID="51966" Quantity="4" Sideboard="false" Name="Temple of Epiphany" />
@@ -26,8 +26,8 @@
   <Cards CatID="50208" Quantity="1" Sideboard="false" Name="Traveler's Amulet" />
   <Cards CatID="47921" Quantity="2" Sideboard="false" Name="Boros Reckoner" />
   <Cards CatID="48264" Quantity="2" Sideboard="false" Name="Master of Cruelties" />
-  <Cards CatID="47539" Quantity="1" Sideboard="false" Name="Prophetic Prism" />
-  <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="67933" Quantity="1" Sideboard="false" Name="Traxos, Scourge of Kroog" />
+  <Cards CatID="67959" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
   <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
   <Cards CatID="52160" Quantity="1" Sideboard="false" Name="Aspect of Gorgon" />
   <Cards CatID="48532" Quantity="1" Sideboard="false" Name="Turn/Burn" />
@@ -36,14 +36,22 @@
   <Cards CatID="52094" Quantity="1" Sideboard="false" Name="Disciple of Deceit" />
   <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
   <Cards CatID="53540" Quantity="1" Sideboard="false" Name="Altac Bloodseeker" />
-  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="45366" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
-  <Cards CatID="53628" Quantity="1" Sideboard="false" Name="Chasm Skulker" />
+  <Cards CatID="67931" Quantity="1" Sideboard="false" Name="Thran Temporal Gateway" />
   <Cards CatID="49339" Quantity="2" Sideboard="false" Name="Trading Post" />
   <Cards CatID="53612" Quantity="1" Sideboard="false" Name="Nightfire Giant" />
   <Cards CatID="20009" Quantity="1" Sideboard="false" Name="Granite Shard" />
   <Cards CatID="54022" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
-  <Cards CatID="55532" Quantity="3" Sideboard="false" Name="Swiftwater Cliffs" />
+  <Cards CatID="23384" Quantity="1" Sideboard="false" Name="Hunted Horror" />
+  <Cards CatID="35515" Quantity="2" Sideboard="false" Name="Bojuka Bog" />
+  <Cards CatID="68369" Quantity="1" Sideboard="false" Name="Isareth the Awakener" />
+  <Cards CatID="67549" Quantity="1" Sideboard="false" Name="The Antiquities War" />
+  <Cards CatID="67669" Quantity="1" Sideboard="false" Name="Rite of Belzenlok" />
+  <Cards CatID="58659" Quantity="2" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="64604" Quantity="1" Sideboard="false" Name="Bontu's Last Reckoning" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
+  <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
+  <Cards CatID="54156" Quantity="1" Sideboard="false" Name="Heart-Piercer Bow" />
   <Cards CatID="49421" Quantity="1" Sideboard="true" Name="Mindsparker" />
   <Cards CatID="46587" Quantity="1" Sideboard="true" Name="Dispel" />
   <Cards CatID="50614" Quantity="1" Sideboard="true" Name="Gainsay" />
