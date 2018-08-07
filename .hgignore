@@ -41,12 +41,15 @@ syntax: glob
 thumbs.db
 *.suo
 *.csproj.user
+Exports/*.xml
+Collections/*.xml
 *.user
 ~*.*
 _ReSharper.*
 *.bak
 *.bak.*
 *.baml
+*.bin
 *.ini
 *.exe
 *.git
