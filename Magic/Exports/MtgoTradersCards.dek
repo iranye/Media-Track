@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="68589" Quantity="1" Sideboard="false" Name="Chromium, the Mutable" />
+  <Cards CatID="68369" Quantity="4" Sideboard="false" Name="Isareth the Awakener" />
+  <Cards CatID="67933" Quantity="4" Sideboard="false" Name="Traxos, Scourge of Kroog" />
+  <Cards CatID="67931" Quantity="4" Sideboard="false" Name="Thran Temporal Gateway" />
+  <Cards CatID="67549" Quantity="4" Sideboard="false" Name="The Antiquities War" />
+  <Cards CatID="67811" Quantity="4" Sideboard="false" Name="The Mending of Dominaria" />
+  <Cards CatID="67669" Quantity="4" Sideboard="false" Name="Rite of Belzenlok" />
+  <Cards CatID="67587" Quantity="4" Sideboard="false" Name="Precognition Field" />
+  <Cards CatID="67535" Quantity="4" Sideboard="false" Name="Shalai, Voice of Plenty" />
+  <Cards CatID="67863" Quantity="1" Sideboard="false" Name="Muldrotha, the Gravetide" />
+  <Cards CatID="67537" Quantity="4" Sideboard="false" Name="Teshar, Ancestor's Apostle" />
+  <Cards CatID="67829" Quantity="1" Sideboard="false" Name="Steel Leaf Champion" />
+  <Cards CatID="67757" Quantity="4" Sideboard="false" Name="Squee, the Immortal" />
+  <Cards CatID="67751" Quantity="4" Sideboard="false" Name="Siege-Gang Commander" />
+  <Cards CatID="67867" Quantity="4" Sideboard="false" Name="Primevals' Glorious Rebirth" />
+  <Cards CatID="67865" Quantity="4" Sideboard="false" Name="Oath of Teferi" />
+  <Cards CatID="67581" Quantity="4" Sideboard="false" Name="Naban, Dean of Iteration" />
+  <Cards CatID="67859" Quantity="4" Sideboard="false" Name="Jhoira, Weatherlight Captain" />
+  <Cards CatID="67861" Quantity="4" Sideboard="false" Name="Jodah, Archmage Eternal" />
+  <Cards CatID="67899" Quantity="4" Sideboard="false" Name="Helm of the Host" />
+  <Cards CatID="38447" Quantity="4" Sideboard="false" Name="Argentum Armor" />
+  <Cards CatID="35695" Quantity="4" Sideboard="false" Name="Basilisk Collar" />
+</Deck>

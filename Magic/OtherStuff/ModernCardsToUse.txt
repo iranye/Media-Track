@@ -1,15 +1,15 @@
-Wurmcoil Engine
+Firesong and Sunspeaker
 Voltaic Key
-Go for the Throat
-Bojuka Bog
+Wurmcoil Engine
+
 Arcbound Ravager
 Pyroclasm
-Grand Abolisher
 Siege-Gang Commander
 Sword of Fire and Ice
 Swiftfoot Boot
 Maelstrom Pulse
 Memnarch
+Firesong and Suns
 Form of the Dragon
 Duplicant
 Gilded Lotus
@@ -20,3 +20,8 @@ Auriok Champion
 Banshee's Blade
 Circle of Affliction
 
+*** Dragons ***
+
+
+*** Specters ***
+Thassa

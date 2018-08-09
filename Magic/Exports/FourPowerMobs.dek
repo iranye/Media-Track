@@ -29,11 +29,10 @@
   <Cards CatID="34792" Quantity="1" Sideboard="false" Name="Whiplash Trap" />
   <Cards CatID="59934" Quantity="1" Sideboard="false" Name="Fiery Temper" />
   <Cards CatID="57630" Quantity="1" Sideboard="false" Name="Elvish Visionary" />
-  <Cards CatID="57814" Quantity="1" Sideboard="false" Name="Elemental Bond" />
   <Cards CatID="55440" Quantity="1" Sideboard="false" Name="Outpost Siege" />
   <Cards CatID="29773" Quantity="1" Sideboard="false" Name="Ghastly Discovery" />
   <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
-  <Cards CatID="55372" Quantity="3" Sideboard="false" Name="Frost Walker" />
+  <Cards CatID="55372" Quantity="1" Sideboard="false" Name="Frost Walker" />
   <Cards CatID="26435" Quantity="1" Sideboard="false" Name="Reckless Wurm" />
   <Cards CatID="54366" Quantity="1" Sideboard="false" Name="Dragon Grip" />
   <Cards CatID="60112" Quantity="1" Sideboard="false" Name="Lambholt Pacifist" />

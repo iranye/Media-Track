@@ -5,55 +5,60 @@
   <Cards CatID="46429" Quantity="4" Sideboard="false" Name="Izzet Staticaster" />
   <Cards CatID="50280" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="49307" Quantity="1" Sideboard="false" Name="Island" />
-  <Cards CatID="48376" Quantity="3" Sideboard="false" Name="Izzet Guildgate" />
   <Cards CatID="49547" Quantity="1" Sideboard="false" Name="Mountain" />
-  <Cards CatID="46455" Quantity="1" Sideboard="false" Name="Tablet of the Guilds" />
+  <Cards CatID="19979" Quantity="2" Sideboard="false" Name="Fractured Loyalty" />
   <Cards CatID="46307" Quantity="1" Sideboard="false" Name="Mizzium Skin" />
   <Cards CatID="50292" Quantity="1" Sideboard="false" Name="Mountain" />
   <Cards CatID="51966" Quantity="4" Sideboard="false" Name="Temple of Epiphany" />
   <Cards CatID="46723" Quantity="2" Sideboard="false" Name="Rogue's Passage" />
-  <Cards CatID="47785" Quantity="1" Sideboard="false" Name="Five-Alarm Fire" />
-  <Cards CatID="51559" Quantity="3" Sideboard="false" Name="Gorgon's Head" />
-  <Cards CatID="46427" Quantity="2" Sideboard="false" Name="Frostburn Weird" />
+  <Cards CatID="52288" Quantity="1" Sideboard="false" Name="Prophetic Flamespeaker" />
+  <Cards CatID="51559" Quantity="2" Sideboard="false" Name="Gorgon's Head" />
+  <Cards CatID="46427" Quantity="3" Sideboard="false" Name="Frostburn Weird" />
   <Cards CatID="50306" Quantity="2" Sideboard="false" Name="Thassa, God of the Sea" />
-  <Cards CatID="46805" Quantity="3" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="46805" Quantity="2" Sideboard="false" Name="Steam Vents" />
   <Cards CatID="52102" Quantity="1" Sideboard="false" Name="Keranos, God of Storms" />
-  <Cards CatID="49545" Quantity="2" Sideboard="false" Name="Vial of Poison" />
-  <Cards CatID="50578" Quantity="1" Sideboard="false" Name="Anger of the Gods" />
+  <Cards CatID="20007" Quantity="1" Sideboard="false" Name="Crystal Shard" />
+  <Cards CatID="50578" Quantity="2" Sideboard="false" Name="Anger of the Gods" />
   <Cards CatID="50440" Quantity="2" Sideboard="false" Name="Swan Song" />
-  <Cards CatID="50420" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="50206" Quantity="1" Sideboard="false" Name="Anvilwrought Raptor" />
   <Cards CatID="50424" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="50208" Quantity="1" Sideboard="false" Name="Traveler's Amulet" />
-  <Cards CatID="47921" Quantity="2" Sideboard="false" Name="Boros Reckoner" />
+  <Cards CatID="57618" Quantity="1" Sideboard="false" Name="Negate" />
   <Cards CatID="48264" Quantity="2" Sideboard="false" Name="Master of Cruelties" />
-  <Cards CatID="47539" Quantity="1" Sideboard="false" Name="Prophetic Prism" />
-  <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="67933" Quantity="2" Sideboard="false" Name="Traxos, Scourge of Kroog" />
+  <Cards CatID="67959" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
   <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
-  <Cards CatID="52160" Quantity="1" Sideboard="false" Name="Aspect of Gorgon" />
-  <Cards CatID="48532" Quantity="1" Sideboard="false" Name="Turn/Burn" />
+  <Cards CatID="58489" Quantity="2" Sideboard="false" Name="Herald of Kozilek" />
   <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
   <Cards CatID="53284" Quantity="2" Sideboard="false" Name="Shrapnel Blast" />
   <Cards CatID="52094" Quantity="1" Sideboard="false" Name="Disciple of Deceit" />
   <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
-  <Cards CatID="53540" Quantity="1" Sideboard="false" Name="Altac Bloodseeker" />
-  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="45366" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
-  <Cards CatID="53628" Quantity="1" Sideboard="false" Name="Chasm Skulker" />
-  <Cards CatID="49339" Quantity="2" Sideboard="false" Name="Trading Post" />
+  <Cards CatID="49339" Quantity="3" Sideboard="false" Name="Trading Post" />
   <Cards CatID="53612" Quantity="1" Sideboard="false" Name="Nightfire Giant" />
-  <Cards CatID="53610" Quantity="1" Sideboard="false" Name="Soul of Shandalar" />
   <Cards CatID="54022" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
-  <Cards CatID="55532" Quantity="3" Sideboard="false" Name="Swiftwater Cliffs" />
+  <Cards CatID="47539" Quantity="1" Sideboard="false" Name="Prophetic Prism" />
+  <Cards CatID="35515" Quantity="2" Sideboard="false" Name="Bojuka Bog" />
+  <Cards CatID="68661" Quantity="1" Sideboard="false" Name="Detection Tower" />
+  <Cards CatID="58659" Quantity="2" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
+  <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
+  <Cards CatID="35695" Quantity="2" Sideboard="false" Name="Basilisk Collar" />
+  <Cards CatID="63291" Quantity="1" Sideboard="false" Name="Shimmering Grotto" />
+  <Cards CatID="47813" Quantity="1" Sideboard="false" Name="Glaring Spotlight" />
+  <Cards CatID="67615" Quantity="1" Sideboard="false" Name="Wizard's Retort" />
+  <Cards CatID="20009" Quantity="1" Sideboard="false" Name="Granite Shard" />
+  <Cards CatID="31213" Quantity="2" Sideboard="false" Name="Etherium Sculptor" />
   <Cards CatID="49421" Quantity="1" Sideboard="true" Name="Mindsparker" />
-  <Cards CatID="46587" Quantity="1" Sideboard="true" Name="Dispel" />
-  <Cards CatID="50614" Quantity="1" Sideboard="true" Name="Gainsay" />
-  <Cards CatID="47813" Quantity="3" Sideboard="true" Name="Glaring Spotlight" />
-  <Cards CatID="48516" Quantity="1" Sideboard="true" Name="Armed/Dangerous" />
+  <Cards CatID="50614" Quantity="3" Sideboard="true" Name="Gainsay" />
+  <Cards CatID="47813" Quantity="2" Sideboard="true" Name="Glaring Spotlight" />
+  <Cards CatID="39447" Quantity="1" Sideboard="true" Name="Go for the Throat" />
   <Cards CatID="46441" Quantity="1" Sideboard="true" Name="Rakdos Charm" />
   <Cards CatID="46465" Quantity="1" Sideboard="true" Name="Rakdos Keyrune" />
   <Cards CatID="49217" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
-  <Cards CatID="50115" Quantity="1" Sideboard="true" Name="Bident of Thassa" />
-  <Cards CatID="52094" Quantity="1" Sideboard="true" Name="Disciple of Deceit" />
-  <Cards CatID="52282" Quantity="1" Sideboard="true" Name="Sigiled Starfish" />
+  <Cards CatID="35503" Quantity="1" Sideboard="true" Name="Lightning Greaves" />
+  <Cards CatID="57618" Quantity="1" Sideboard="true" Name="Negate" />
   <Cards CatID="48198" Quantity="1" Sideboard="true" Name="Ral Zarek" />
+  <Cards CatID="46427" Quantity="1" Sideboard="true" Name="Frostburn Weird" />
+  <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
 </Deck>

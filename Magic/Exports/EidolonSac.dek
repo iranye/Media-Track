@@ -28,7 +28,7 @@
   <Cards CatID="54126" Quantity="3" Sideboard="false" Name="Abzan Charm" />
   <Cards CatID="52214" Quantity="2" Sideboard="false" Name="Banishing Light" />
   <Cards CatID="53840" Quantity="1" Sideboard="false" Name="Banishing Light" />
-  <Cards CatID="54170" Quantity="1" Sideboard="false" Name="End Hostilities" />
+  <Cards CatID="34552" Quantity="1" Sideboard="false" Name="Day of Judgment" />
   <Cards CatID="50374" Quantity="4" Sideboard="false" Name="Gift of Immortality" />
   <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
   <Cards CatID="52222" Quantity="1" Sideboard="false" Name="Skybind" />
@@ -46,8 +46,9 @@
   <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="35633" Quantity="1" Sideboard="false" Name="Amulet of Vigor" />
   <Cards CatID="55600" Quantity="1" Sideboard="false" Name="Valorous Stance" />
-  <Cards CatID="62777" Quantity="4" Sideboard="false" Name="Unbridled Growth" />
+  <Cards CatID="62777" Quantity="3" Sideboard="false" Name="Unbridled Growth" />
   <Cards CatID="63513" Quantity="1" Sideboard="false" Name="Cavern of Souls" />
+  <Cards CatID="63618" Quantity="2" Sideboard="false" Name="Cast Out" />
   <Cards CatID="52256" Quantity="2" Sideboard="true" Name="Aegis of the Gods" />
   <Cards CatID="50164" Quantity="1" Sideboard="true" Name="Baleful Eidolon" />
   <Cards CatID="50622" Quantity="2" Sideboard="true" Name="Dark Betrayal" />

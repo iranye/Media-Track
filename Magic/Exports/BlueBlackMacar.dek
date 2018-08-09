@@ -4,13 +4,13 @@
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="52114" Quantity="2" Sideboard="false" Name="King Macar, the Gold-Cursed" />
   <Cards CatID="50164" Quantity="1" Sideboard="false" Name="Baleful Eidolon" />
-  <Cards CatID="50224" Quantity="1" Sideboard="false" Name="Ordeal of Erebos" />
+  <Cards CatID="35515" Quantity="2" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="46767" Quantity="3" Sideboard="false" Name="Nivmagus Elemental" />
   <Cards CatID="51817" Quantity="2" Sideboard="false" Name="Bile Blight" />
   <Cards CatID="47837" Quantity="2" Sideboard="false" Name="Devour Flesh" />
-  <Cards CatID="51779" Quantity="1" Sideboard="false" Name="Crypsis" />
+  <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
   <Cards CatID="48520" Quantity="1" Sideboard="false" Name="Far/Away" />
-  <Cards CatID="48260" Quantity="4" Sideboard="false" Name="Hidden Strings" />
+  <Cards CatID="48260" Quantity="3" Sideboard="false" Name="Hidden Strings" />
   <Cards CatID="50358" Quantity="1" Sideboard="false" Name="Triton Tactics" />
   <Cards CatID="46307" Quantity="1" Sideboard="false" Name="Mizzium Skin" />
   <Cards CatID="49593" Quantity="1" Sideboard="false" Name="Quicken" />
@@ -25,40 +25,41 @@
   <Cards CatID="46723" Quantity="1" Sideboard="false" Name="Rogue's Passage" />
   <Cards CatID="47471" Quantity="4" Sideboard="false" Name="Watery Grave" />
   <Cards CatID="48380" Quantity="4" Sideboard="false" Name="Dimir Guildgate" />
-  <Cards CatID="47539" Quantity="1" Sideboard="false" Name="Prophetic Prism" />
+  <Cards CatID="64892" Quantity="1" Sideboard="false" Name="Survivors' Encampment" />
   <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
   <Cards CatID="49133" Quantity="1" Sideboard="false" Name="Negate" />
   <Cards CatID="50440" Quantity="1" Sideboard="false" Name="Swan Song" />
-  <Cards CatID="46455" Quantity="1" Sideboard="false" Name="Tablet of the Guilds" />
+  <Cards CatID="59609" Quantity="2" Sideboard="false" Name="Holdout Settlement" />
   <Cards CatID="47591" Quantity="1" Sideboard="false" Name="Gift of Orzhova" />
-  <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
-  <Cards CatID="50416" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="52228" Quantity="2" Sideboard="false" Name="Daring Thief" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="50596" Quantity="2" Sideboard="false" Name="Hero's Downfall" />
   <Cards CatID="51813" Quantity="2" Sideboard="false" Name="Pain Seer" />
-  <Cards CatID="51561" Quantity="1" Sideboard="false" Name="Temple of Enlightenment" />
-  <Cards CatID="50268" Quantity="1" Sideboard="false" Name="Temple of Silence" />
-  <Cards CatID="50479" Quantity="1" Sideboard="false" Name="Gods Willing" />
-  <Cards CatID="53774" Quantity="1" Sideboard="false" Name="Darksteel Citadel" />
+  <Cards CatID="49181" Quantity="1" Sideboard="false" Name="Duress" />
+  <Cards CatID="50448" Quantity="1" Sideboard="false" Name="Breaching Hippocamp" />
+  <Cards CatID="27516" Quantity="1" Sideboard="false" Name="Arcanis the Omnipotent" />
+  <Cards CatID="20363" Quantity="1" Sideboard="false" Name="Echoing Truth" />
   <Cards CatID="53570" Quantity="1" Sideboard="false" Name="Jace, the Living Guildpact" />
   <Cards CatID="49217" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
   <Cards CatID="51871" Quantity="2" Sideboard="false" Name="Springleaf Drum" />
-  <Cards CatID="47749" Quantity="1" Sideboard="false" Name="Merciless Eviction" />
-  <Cards CatID="52094" Quantity="2" Sideboard="false" Name="Disciple of Deceit" />
+  <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
+  <Cards CatID="50530" Quantity="1" Sideboard="false" Name="Artisan of Forms" />
   <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
-  <Cards CatID="50374" Quantity="1" Sideboard="false" Name="Gift of Immortality" />
+  <Cards CatID="54102" Quantity="1" Sideboard="false" Name="Despise" />
   <Cards CatID="50306" Quantity="1" Sideboard="false" Name="Thassa, God of the Sea" />
-  <Cards CatID="50208" Quantity="1" Sideboard="false" Name="Traveler's Amulet" />
+  <Cards CatID="29545" Quantity="1" Sideboard="false" Name="Augury Adept" />
   <Cards CatID="53296" Quantity="2" Sideboard="false" Name="Sign in Blood" />
+  <Cards CatID="67903" Quantity="1" Sideboard="false" Name="Icy Manipulator" />
+  <Cards CatID="50256" Quantity="1" Sideboard="false" Name="Thoughtseize" />
+  <Cards CatID="30140" Quantity="1" Sideboard="false" Name="Raven's Crime" />
   <Cards CatID="49449" Quantity="1" Sideboard="true" Name="Lifebane Zombie" />
   <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
   <Cards CatID="52046" Quantity="1" Sideboard="true" Name="Bloodcrazed Hoplite" />
   <Cards CatID="51815" Quantity="1" Sideboard="true" Name="Fate Unraveler" />
-  <Cards CatID="47561" Quantity="1" Sideboard="true" Name="Thrull Parasite" />
+  <Cards CatID="54102" Quantity="2" Sideboard="true" Name="Despise" />
   <Cards CatID="50544" Quantity="1" Sideboard="true" Name="Nighthowler" />
   <Cards CatID="50622" Quantity="2" Sideboard="true" Name="Dark Betrayal" />
-  <Cards CatID="50478" Quantity="1" Sideboard="true" Name="Gods Willing" />
-  <Cards CatID="50608" Quantity="1" Sideboard="true" Name="Soldier of the Pantheon" />
-  <Cards CatID="49283" Quantity="1" Sideboard="true" Name="Sensory Deprivation" />
+  <Cards CatID="66055" Quantity="1" Sideboard="true" Name="Duress" />
   <Cards CatID="53278" Quantity="1" Sideboard="true" Name="Tormod's Crypt" />
   <Cards CatID="49159" Quantity="1" Sideboard="true" Name="Doom Blade" />
 </Deck>
