@@ -354,6 +354,22 @@ Dismember
     Winterflame
   </Twiddle>
 </General>
+<Activation>
+Aerie Worshippers
+Angel of Condemnation
+Aryel, Knight of Windgrace
+Gilder Bairn
+Hada Spy Patrol
+Izzet Guildmage
+Kabira Vindicator
+Kazandu Tuskcaller
+Knight of Cliffhaven
+Nirkana Cutthroat
+Null Champion
+Student of Warfare
+Training Grounds
+Venerated Teacher
+</Activation>
 <Arty strat="Re-cast permanents that give artifact tokens on enter battlefield">
   Dispeller's Capsule
   Inventor's Fair
@@ -1124,6 +1140,13 @@ Dismember
   Vapor Snare
   Wispmare
 </Enchants>
+<FiveColor>
+  Bloom Tender
+  Clearwater Goblet
+  Door to Nothingness  
+  Prosperous Pirates
+  Scion of the Ur-Dragon
+</FiveColor>
 <ForceAttacks>
   Bident of Thassa
   Bloodshed Fever
@@ -1603,6 +1626,7 @@ Heliod
   Primeval Bounty
   Primeval Titan ($11+)
   Progenitor Mimic
+  Protean Hydra
   Rampant Growth
   Rampaging Baloths
   Rishkar, Peema Renegade

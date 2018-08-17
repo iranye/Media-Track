@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -61,4 +61,5 @@
   <Cards CatID="48198" Quantity="1" Sideboard="true" Name="Ral Zarek" />
   <Cards CatID="46427" Quantity="1" Sideboard="true" Name="Frostburn Weird" />
   <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
+  <Cards CatID="26077" Quantity="1" Sideboard="false" Name="Shadow Guildmage" />
 </Deck>

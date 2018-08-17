@@ -24,4 +24,8 @@
   <Cards CatID="67899" Quantity="4" Sideboard="false" Name="Helm of the Host" />
   <Cards CatID="38447" Quantity="4" Sideboard="false" Name="Argentum Armor" />
   <Cards CatID="35695" Quantity="4" Sideboard="false" Name="Basilisk Collar" />
+  <Cards CatID="43423" Quantity="1" Sideboard="false" Name="Havengul Lich" />
+  <Cards CatID="39321" Quantity="4" Sideboard="false" Name="Mortarpod" />
+  <Cards CatID="57608" Quantity="4" Sideboard="false" Name="Mizzium Meddler" />
+  <Cards CatID="61915" Quantity="4" Sideboard="false" Name="Dramatic Reversal" />
 </Deck>
