@@ -355,20 +355,20 @@ Dismember
   </Twiddle>
 </General>
 <Activation>
-Aerie Worshippers
-Angel of Condemnation
-Aryel, Knight of Windgrace
-Gilder Bairn
-Hada Spy Patrol
-Izzet Guildmage
-Kabira Vindicator
-Kazandu Tuskcaller
-Knight of Cliffhaven
-Nirkana Cutthroat
-Null Champion
-Student of Warfare
-Training Grounds
-Venerated Teacher
+  Aerie Worshippers
+  Angel of Condemnation
+  Aryel, Knight of Windgrace
+  Gilder Bairn
+  Hada Spy Patrol
+  Izzet Guildmage
+  Kabira Vindicator
+  Kazandu Tuskcaller
+  Knight of Cliffhaven
+  Nirkana Cutthroat
+  Null Champion
+  Student of Warfare
+  Training Grounds
+  Venerated Teacher
 </Activation>
 <Arty strat="Re-cast permanents that give artifact tokens on enter battlefield">
   Dispeller's Capsule
@@ -804,9 +804,6 @@ Venerated Teacher
   Odric, Lunarch Marshal
   Sram, Senior Edificer
 </Duffs>
-<Duffs>
-  Pestermite
-</Duffs>
 <EidolonSac>
   Acidic Slime
   Angelic Gift
@@ -1089,28 +1086,111 @@ Venerated Teacher
   Vapor Snag
 </EliteIsochron>
 <EmpyrialArch>
+  <Defender>
+    Arcades, the Strategist
+    Angelic Wall
+    Dragon's Eye Sentry
+    Fog Bank
+    Gatecreeper Vine
+    Hornet Nest
+    Jeskai Barricade
+    Kaijin of the Vanishing Touch
+    Ludevic's Test Subject
+    Mnemonic Wall
+    Novice Knight
+    Order of the Stars
+    Perimeter Captain
+    Phantasmal Abomination
+    Plumeveil
+    Soulsworn Jury
+    Sylvan Caryatid
+    Wall of Denial
+    Wall of Frost
+    Wall of Mulch
+    Wall of Omens
+    Wall of Reverence
+    Wall of Roots
+    Woolly Razorback
+  </Defender>
+  Altered Ego
   Angel's Herald
-  Arcades, the Strategist
+  Azor's Elocutors
+  Azorius Guildmage
   Bant Charm
   Bant Sojourners
+  Bant Sureblade
+  Biovisionary
+  Birds of Paradise
+  Blind Obedience
+  Bloom Tender
+  Bound // Determined
+  Bounding Krasis
+  Bounty of the Luxa
+  Cascading Cataracts
   Clarion Ultimatum
+  Cloud Key
+  Coiling Oracle
+  Curse of the Swine
+  Cytoshape
+  Daxos of Meletis
+  Dovescape
+  Dovin Baan
+  Dragonlord Ojutai
+  Drogskol Reaver
   Empyrial Archangel
+  Esper Stormblade
+  Fable of Wolf and Owl
+  Fall of the Gavel
   Fleecemane Lion
-  Flurry of Wings
+  Flurry of Wings  
+  Geist of Saint Traft
   Giltspire Avenger
+  Glade Watcher
+  Grand Arbiter Augustin IV
+  Guard Gomazoa
+  Guardians of Akrasa
+  Heliod, God of the Sun
+  Icy Manipulator
+  Invert the Skies
   Jenara, Asura of War
+  Judge's Familiar
+  Kiora, the Crashing Wave
+  Kiora's Follower  
+  Knight of New Alara
+  Kruphix, God of Horizons
+  Leafdrake Roost
   Loxodon Smiter
   Messenger Falcons
   Mulldrifter
+  Murkfiend Liege
+  Mystic Genesis
+  Nissa, Steward of Elements
+  Oath of Teferi
+  Ojutai, Soul of Winter
   Qasali Pridemage
+  Quicksilver Amulet
   Painter's Servant
+  Plasm Capture
+  Progenitor Mimic
+  Prophet of Kruphix
   Rafiq of the Many
+  Reflector Mage
   Rhox War Monk
+  River Hoopoe
+  Sagu Mauler
+  Selfless Spirit  
+  Shapers of Nature
+  Shorecrasher Mimic
+  Simic Charm
   Skyward Eye Prophets
   Stoic Angel
+  Supply/Demand
   Tamiyo, Field Researcher
   Training Grounds
   Transguild Courier
+  Trygon Predator
+  Unexpected Results
+  Urban Evolution
   Wargate
 </EmpyrialArch>
 <Enchants>
@@ -1176,6 +1256,7 @@ Venerated Teacher
   Genju of the Realm
   Horde of Notions
   Maelstrom Archangel
+  Plasm Capture
   Prosperous Pirates
   Scion of the Ur-Dragon
 </FiveColor>
@@ -1448,6 +1529,9 @@ Vedalken Mastermind
   Haunted Plate Mail
   Lethal Vapors
 </Haunted>
+<Horrors>
+  Ludevic's Test
+</Horrors>
 <LandDestruct>
 Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
 
