@@ -1137,6 +1137,7 @@ Dismember
   Dovin Baan
   Dragonlord Ojutai
   Drogskol Reaver
+  Elixir of Immortality
   Empyrial Archangel
   Esper Stormblade
   Fable of Wolf and Owl
@@ -1160,6 +1161,7 @@ Dismember
   Kruphix, God of Horizons
   Leafdrake Roost
   Loxodon Smiter
+  Manamorphose
   Messenger Falcons
   Mulldrifter
   Murkfiend Liege
@@ -1170,11 +1172,15 @@ Dismember
   Qasali Pridemage
   Quicksilver Amulet
   Painter's Servant
+  Pestermite
+  Pithing Needle
   Plasm Capture
+  Plumeveil
   Progenitor Mimic
   Prophet of Kruphix
   Rafiq of the Many
   Reflector Mage
+  Repel Intruders
   Rhox War Monk
   River Hoopoe
   Sagu Mauler
@@ -1182,10 +1188,13 @@ Dismember
   Shapers of Nature
   Shorecrasher Mimic
   Simic Charm
+  Sky Hussar
   Skyward Eye Prophets
+  Sphinx's Revelation
   Stoic Angel
   Supply/Demand
   Tamiyo, Field Researcher
+  Thalia, Heretic
   Training Grounds
   Transguild Courier
   Trygon Predator
@@ -1528,9 +1537,11 @@ Vedalken Mastermind
 <Haunted>
   Haunted Plate Mail
   Lethal Vapors
+  Manamorphose
 </Haunted>
 <Horrors>
   Ludevic's Test
+  Spellskite
 </Horrors>
 <LandDestruct>
 Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
