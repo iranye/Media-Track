@@ -62,4 +62,8 @@
   <Cards CatID="46427" Quantity="1" Sideboard="true" Name="Frostburn Weird" />
   <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
   <Cards CatID="26077" Quantity="1" Sideboard="false" Name="Shadow Guildmage" />
+  <Cards CatID="61807" Quantity="1" Sideboard="false" Name="Metalwork Colossus" />
+  <Cards CatID="61857" Quantity="1" Sideboard="false" Name="Inventors' Fair" />
+  <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
+  <Cards CatID="32360" Quantity="1" Sideboard="false" Name="Thraximundar" />
 </Deck>

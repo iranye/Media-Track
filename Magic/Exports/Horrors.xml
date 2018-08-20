@@ -63,5 +63,6 @@
     <Cards CatID="46325" Quantity="1" Sideboard="true" Name="Cremate" />
     <Cards CatID="39447" Quantity="1" Sideboard="true" Name="Go for the Throat" />
     <Cards CatID="22857" Quantity="1" Sideboard="true" Name="Will-o'-the-Wisp" />
+    <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
   </CardStack>
 </Deck>
