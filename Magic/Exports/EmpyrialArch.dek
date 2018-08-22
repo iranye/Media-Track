@@ -31,7 +31,6 @@
   <Cards CatID="50414" Quantity="1" Sideboard="false" Name="Plains" />
   <Cards CatID="50416" Quantity="1" Sideboard="false" Name="Plains" />
   <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
-  <Cards CatID="51663" Quantity="1" Sideboard="false" Name="Revoke Existence" />
   <Cards CatID="36450" Quantity="3" Sideboard="false" Name="Training Grounds" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
   <Cards CatID="23054" Quantity="1" Sideboard="false" Name="Birds of Paradise" />
@@ -67,7 +66,6 @@
   <Cards CatID="47897" Quantity="1" Sideboard="true" Name="Blind Obedience" />
   <Cards CatID="50360" Quantity="1" Sideboard="true" Name="Dissolve" />
   <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
-  <Cards CatID="51663" Quantity="1" Sideboard="true" Name="Revoke Existence" />
   <Cards CatID="46413" Quantity="1" Sideboard="true" Name="Vitu-Ghazi Guildmage" />
   <Cards CatID="50608" Quantity="2" Sideboard="true" Name="Soldier of the Pantheon" />
   <Cards CatID="46483" Quantity="1" Sideboard="true" Name="Supreme Verdict" />
@@ -110,4 +108,8 @@
   <Cards CatID="63644" Quantity="1" Sideboard="false" Name="Oketra the True" />
   <Cards CatID="46477" Quantity="1" Sideboard="false" Name="Loxodon Smiter" />
   <Cards CatID="64128" Quantity="1" Sideboard="false" Name="Oketra's Monument" />
+  <Cards CatID="46559" Quantity="1" Sideboard="false" Name="Sphinx's Revelation" />
+  <Cards CatID="45390" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
+  <Cards CatID="35513" Quantity="1" Sideboard="false" Name="Khalni Garden" />
+  <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
 </Deck>
