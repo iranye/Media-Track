@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -29,7 +29,6 @@
   <Cards CatID="50414" Quantity="1" Sideboard="false" Name="Plains" />
   <Cards CatID="50416" Quantity="1" Sideboard="false" Name="Plains" />
   <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
-  <Cards CatID="51663" Quantity="1" Sideboard="false" Name="Revoke Existence" />
   <Cards CatID="36450" Quantity="3" Sideboard="false" Name="Training Grounds" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
   <Cards CatID="23054" Quantity="1" Sideboard="false" Name="Birds of Paradise" />
@@ -57,6 +56,17 @@
   <Cards CatID="48302" Quantity="3" Sideboard="false" Name="Voice of Resurgence" />
   <Cards CatID="29493" Quantity="2" Sideboard="false" Name="Mystic Gate" />
   <Cards CatID="46553" Quantity="1" Sideboard="false" Name="Trostani, Selesnya's Voice" />
+  <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
+  <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
+  <Cards CatID="47897" Quantity="1" Sideboard="true" Name="Blind Obedience" />
+  <Cards CatID="50360" Quantity="1" Sideboard="true" Name="Dissolve" />
+  <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
+  <Cards CatID="46413" Quantity="1" Sideboard="true" Name="Vitu-Ghazi Guildmage" />
+  <Cards CatID="50608" Quantity="2" Sideboard="true" Name="Soldier of the Pantheon" />
+  <Cards CatID="46483" Quantity="1" Sideboard="true" Name="Supreme Verdict" />
+  <Cards CatID="49493" Quantity="1" Sideboard="true" Name="Tidebinder Mage" />
+  <Cards CatID="55600" Quantity="1" Sideboard="true" Name="Valorous Stance" />
+  <Cards CatID="54925" Quantity="2" Sideboard="true" Name="Grand Abolisher" />
   <Cards CatID="51739" Quantity="1" Sideboard="false" Name="Brimaz, King of Oreskos" />
   <Cards CatID="32328" Quantity="1" Sideboard="false" Name="Wall of Denial" />
   <Cards CatID="45626" Quantity="1" Sideboard="false" Name="Fog Bank" />
@@ -90,17 +100,8 @@
   <Cards CatID="63644" Quantity="1" Sideboard="false" Name="Oketra the True" />
   <Cards CatID="46477" Quantity="1" Sideboard="false" Name="Loxodon Smiter" />
   <Cards CatID="64128" Quantity="1" Sideboard="false" Name="Oketra's Monument" />
-  <Cards CatID="32285" Quantity="2" Sideboard="false" Name="Qasali Pridemage" />
-  <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
-  <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
-  <Cards CatID="47897" Quantity="1" Sideboard="true" Name="Blind Obedience" />
-  <Cards CatID="50360" Quantity="1" Sideboard="true" Name="Dissolve" />
-  <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
-  <Cards CatID="51663" Quantity="1" Sideboard="true" Name="Revoke Existence" />
-  <Cards CatID="46413" Quantity="1" Sideboard="true" Name="Vitu-Ghazi Guildmage" />
-  <Cards CatID="50608" Quantity="2" Sideboard="true" Name="Soldier of the Pantheon" />
-  <Cards CatID="46483" Quantity="1" Sideboard="true" Name="Supreme Verdict" />
-  <Cards CatID="49493" Quantity="1" Sideboard="true" Name="Tidebinder Mage" />
-  <Cards CatID="55600" Quantity="1" Sideboard="true" Name="Valorous Stance" />
-  <Cards CatID="60811" Quantity="2" Sideboard="true" Name="Trygon Predator" />
+  <Cards CatID="46559" Quantity="1" Sideboard="false" Name="Sphinx's Revelation" />
+  <Cards CatID="45390" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
+  <Cards CatID="35513" Quantity="1" Sideboard="false" Name="Khalni Garden" />
+  <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
 </Deck>

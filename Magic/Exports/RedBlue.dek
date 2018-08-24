@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -70,7 +70,13 @@
   <Cards CatID="48198" Quantity="1" Sideboard="true" Name="Ral Zarek" />
   <Cards CatID="46427" Quantity="1" Sideboard="true" Name="Frostburn Weird" />
   <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
-  <Cards CatID="68661" Quantity="1" Sideboard="true" Name="Detection Tower" />
-  <Cards CatID="20363" Quantity="1" Sideboard="true" Name="Echoing Truth" />
-  <Cards CatID="46499" Quantity="1" Sideboard="true" Name="Pithing Needle" />
+  <Cards CatID="26077" Quantity="1" Sideboard="false" Name="Shadow Guildmage" />
+  <Cards CatID="61807" Quantity="1" Sideboard="false" Name="Metalwork Colossus" />
+  <Cards CatID="61857" Quantity="1" Sideboard="false" Name="Inventors' Fair" />
+  <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
+  <Cards CatID="32360" Quantity="1" Sideboard="false" Name="Thraximundar" />
+  <Cards CatID="31183" Quantity="2" Sideboard="false" Name="Crumbling Necropolis" />
+  <Cards CatID="30869" Quantity="1" Sideboard="false" Name="Grixis Charm" />
+  <Cards CatID="65492" Quantity="1" Sideboard="false" Name="Dowsing Dagger" />
+  <Cards CatID="55426" Quantity="1" Sideboard="false" Name="Hooded Assassin" />
 </Deck>

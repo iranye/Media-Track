@@ -1175,7 +1175,9 @@ Dismember
   Pestermite
   Pithing Needle
   Plasm Capture
+  Plaxcaster
   Plumeveil
+  Predator Ooze
   Progenitor Mimic
   Prophet of Kruphix
   Rafiq of the Many
@@ -1184,12 +1186,14 @@ Dismember
   Repel Intruders
   Rhox War Monk
   River Hoopoe
+  Roil Spout
   Sagu Mauler
   Selfless Spirit  
   Shapers of Nature
   Shorecrasher Mimic
   Simic Charm
   Sky Hussar
+  Skyrider Elf
   Skyward Eye Prophets
   Sphinx's Revelation
   Stoic Angel
@@ -1201,6 +1205,7 @@ Dismember
   Trygon Predator
   Unexpected Results
   Urban Evolution
+  Vassal Soul
   Wargate
 </EmpyrialArch>
 <Enchants>
@@ -1937,6 +1942,9 @@ NON-CREATURES:
   Vorapede
   Wolfbriar Elemental
 </RedGrDevotion-0>
+<Spectres>
+  Exotic Orchard
+</Spectres>
 <Tokens>
 	<Madness>
     Llanowar Mentor
