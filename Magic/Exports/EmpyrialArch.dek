@@ -6,13 +6,11 @@
   <Cards CatID="30915" Quantity="1" Sideboard="false" Name="Bant Panorama" />
   <Cards CatID="31217" Quantity="3" Sideboard="false" Name="Angel's Herald" />
   <Cards CatID="23993" Quantity="1" Sideboard="false" Name="Omnibian" />
-  <Cards CatID="49381" Quantity="1" Sideboard="false" Name="Celestial Flare" />
   <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
   <Cards CatID="50532" Quantity="1" Sideboard="false" Name="Daxos of Meletis" />
   <Cards CatID="46423" Quantity="2" Sideboard="false" Name="Detention Sphere" />
   <Cards CatID="53294" Quantity="1" Sideboard="false" Name="Divination" />
   <Cards CatID="56048" Quantity="1" Sideboard="false" Name="Dragonlord Ojutai" />
-  <Cards CatID="63393" Quantity="1" Sideboard="false" Name="Druid's Deliverance" />
   <Cards CatID="67945" Quantity="1" Sideboard="false" Name="Hinterland Harbor" />
   <Cards CatID="30260" Quantity="2" Sideboard="false" Name="Bloom Tender" />
   <Cards CatID="32817" Quantity="2" Sideboard="false" Name="Glacial Fortress" />
@@ -36,7 +34,7 @@
   <Cards CatID="23054" Quantity="1" Sideboard="false" Name="Birds of Paradise" />
   <Cards CatID="46483" Quantity="1" Sideboard="false" Name="Supreme Verdict" />
   <Cards CatID="58529" Quantity="2" Sideboard="false" Name="Lumbering Falls" />
-  <Cards CatID="51561" Quantity="4" Sideboard="false" Name="Temple of Enlightenment" />
+  <Cards CatID="51561" Quantity="3" Sideboard="false" Name="Temple of Enlightenment" />
   <Cards CatID="61853" Quantity="1" Sideboard="false" Name="Botanical Sanctum" />
   <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="45320" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
@@ -44,22 +42,19 @@
   <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
   <Cards CatID="50272" Quantity="1" Sideboard="false" Name="Temple of Mystery" />
   <Cards CatID="51565" Quantity="1" Sideboard="false" Name="Temple of Plenty" />
-  <Cards CatID="50306" Quantity="2" Sideboard="false" Name="Thassa, God of the Sea" />
+  <Cards CatID="50306" Quantity="1" Sideboard="false" Name="Thassa, God of the Sea" />
   <Cards CatID="46411" Quantity="2" Sideboard="false" Name="Dryad Militant" />
   <Cards CatID="30166" Quantity="1" Sideboard="false" Name="Murkfiend Liege" />
   <Cards CatID="46417" Quantity="2" Sideboard="false" Name="Judge's Familiar" />
   <Cards CatID="57876" Quantity="1" Sideboard="false" Name="Kytheon, Hero of Akros" />
   <Cards CatID="29535" Quantity="1" Sideboard="false" Name="Rhys the Redeemed" />
-  <Cards CatID="22373" Quantity="1" Sideboard="false" Name="Soul Warden" />
   <Cards CatID="50618" Quantity="1" Sideboard="false" Name="Prophet of Kruphix" />
-  <Cards CatID="46633" Quantity="1" Sideboard="false" Name="Druid's Deliverance" />
   <Cards CatID="32468" Quantity="1" Sideboard="false" Name="Bant Sureblade" />
   <Cards CatID="46413" Quantity="1" Sideboard="false" Name="Vitu-Ghazi Guildmage" />
   <Cards CatID="24369" Quantity="1" Sideboard="false" Name="Supply/Demand" />
-  <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
-  <Cards CatID="45286" Quantity="1" Sideboard="false" Name="Acidic Slime" />
+  <Cards CatID="68717" Quantity="1" Sideboard="false" Name="Forest" />
   <Cards CatID="48302" Quantity="3" Sideboard="false" Name="Voice of Resurgence" />
-  <Cards CatID="51747" Quantity="1" Sideboard="false" Name="Karametra, God of Harvests" />
+  <Cards CatID="29493" Quantity="2" Sideboard="false" Name="Mystic Gate" />
   <Cards CatID="46553" Quantity="1" Sideboard="false" Name="Trostani, Selesnya's Voice" />
   <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
@@ -80,30 +75,27 @@
   <Cards CatID="40757" Quantity="2" Sideboard="false" Name="Azorius Guildmage" />
   <Cards CatID="24119" Quantity="1" Sideboard="false" Name="Plaxmanta" />
   <Cards CatID="42694" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
-  <Cards CatID="29665" Quantity="3" Sideboard="false" Name="Plumeveil" />
+  <Cards CatID="29665" Quantity="2" Sideboard="false" Name="Plumeveil" />
   <Cards CatID="61308" Quantity="1" Sideboard="false" Name="Thalia, Heretic Cathar" />
   <Cards CatID="31255" Quantity="1" Sideboard="false" Name="Stoic Angel" />
   <Cards CatID="63157" Quantity="2" Sideboard="false" Name="Stoic Angel" />
   <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
   <Cards CatID="63147" Quantity="1" Sideboard="false" Name="Rhox War Monk" />
   <Cards CatID="61262" Quantity="1" Sideboard="false" Name="Tamiyo, Field Researcher" />
-  <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
+  <Cards CatID="30136" Quantity="1" Sideboard="false" Name="Flooded Grove" />
   <Cards CatID="59587" Quantity="1" Sideboard="false" Name="Reflector Mage" />
   <Cards CatID="63507" Quantity="1" Sideboard="false" Name="Ranger of Eos" />
   <Cards CatID="48362" Quantity="1" Sideboard="false" Name="Plasm Capture" />
   <Cards CatID="28241" Quantity="1" Sideboard="false" Name="Pestermite" />
-  <Cards CatID="32285" Quantity="4" Sideboard="true" Name="Qasali Pridemage" />
-  <Cards CatID="60811" Quantity="2" Sideboard="true" Name="Trygon Predator" />
   <Cards CatID="50262" Quantity="1" Sideboard="false" Name="Fleecemane Lion" />
   <Cards CatID="58104" Quantity="1" Sideboard="false" Name="Bounding Krasis" />
   <Cards CatID="63994" Quantity="1" Sideboard="false" Name="Bounty of the Luxa" />
-  <Cards CatID="64142" Quantity="1" Sideboard="false" Name="Cascading Cataracts" />
   <Cards CatID="28345" Quantity="1" Sideboard="false" Name="Mosswort Bridge" />
   <Cards CatID="67885" Quantity="1" Sideboard="false" Name="Amaranthine Wall" />
   <Cards CatID="27298" Quantity="1" Sideboard="false" Name="Pariah" />
   <Cards CatID="54082" Quantity="1" Sideboard="false" Name="Dazzling Ramparts" />
   <Cards CatID="50261" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
-  <Cards CatID="21001" Quantity="1" Sideboard="false" Name="Eight-and-a-Half-Tails" />
+  <Cards CatID="63145" Quantity="2" Sideboard="false" Name="Seaside Citadel" />
   <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
   <Cards CatID="63644" Quantity="1" Sideboard="false" Name="Oketra the True" />
   <Cards CatID="46477" Quantity="1" Sideboard="false" Name="Loxodon Smiter" />
