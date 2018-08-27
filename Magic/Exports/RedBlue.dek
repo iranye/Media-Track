@@ -59,7 +59,6 @@
   <Cards CatID="61807" Quantity="1" Sideboard="false" Name="Metalwork Colossus" />
   <Cards CatID="49421" Quantity="1" Sideboard="false" Name="Mindsparker" />
   <Cards CatID="50310" Quantity="1" Sideboard="false" Name="Ashiok, Nightmare Weaver" />
-  <Cards CatID="67723" Quantity="1" Sideboard="false" Name="Goblin Chainwhirler" />
   <Cards CatID="45390" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
   <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
   <Cards CatID="47813" Quantity="2" Sideboard="true" Name="Glaring Spotlight" />
@@ -92,4 +91,24 @@
   <Cards CatID="32246" Quantity="1" Sideboard="false" Name="Mistvein Borderpost" />
   <Cards CatID="44864" Quantity="1" Sideboard="false" Name="Whispersilk Cloak" />
   <Cards CatID="31741" Quantity="1" Sideboard="false" Name="Master Transmuter" />
+  <Cards CatID="56082" Quantity="1" Sideboard="false" Name="Kolaghan's Command" />
+  <Cards CatID="23286" Quantity="1" Sideboard="false" Name="Dimir Infiltrator" />
+  <Cards CatID="67853" Quantity="1" Sideboard="false" Name="Garna, the Bloodflame" />
+  <Cards CatID="32492" Quantity="1" Sideboard="false" Name="Unscythe, Killer of Kings" />
+  <Cards CatID="29621" Quantity="1" Sideboard="false" Name="Ghastlord of Fugue" />
+  <Cards CatID="23831" Quantity="1" Sideboard="false" Name="Goblin Flectomancer" />
+  <Cards CatID="43423" Quantity="1" Sideboard="false" Name="Havengul Lich" />
+  <Cards CatID="65466" Quantity="1" Sideboard="false" Name="Hostage Taker" />
+  <Cards CatID="67859" Quantity="1" Sideboard="false" Name="Jhoira, Weatherlight Captain" />
+  <Cards CatID="25647" Quantity="1" Sideboard="false" Name="Kaervek the Merciless" />
+  <Cards CatID="47793" Quantity="1" Sideboard="false" Name="Lazav, Dimir Mastermind" />
+  <Cards CatID="46769" Quantity="1" Sideboard="false" Name="Mercurial Chemister" />
+  <Cards CatID="51743" Quantity="1" Sideboard="false" Name="Mogis, God of Slaughter" />
+  <Cards CatID="47751" Quantity="1" Sideboard="false" Name="Nightveil Specter" />
+  <Cards CatID="66795" Quantity="1" Sideboard="false" Name="Protean Raider" />
+  <Cards CatID="64762" Quantity="1" Sideboard="false" Name="The Locust God" />
+  <Cards CatID="41373" Quantity="1" Sideboard="false" Name="Furyborn Hellkite" />
+  <Cards CatID="61765" Quantity="1" Sideboard="false" Name="Contraband Kingpin" />
+  <Cards CatID="9199" Quantity="1" Sideboard="false" Name="Fire Whip" />
+  <Cards CatID="45698" Quantity="1" Sideboard="false" Name="Staff of Nin" />
 </Deck>
