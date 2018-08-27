@@ -64,4 +64,8 @@
   <Cards CatID="22857" Quantity="1" Sideboard="true" Name="Will-o'-the-Wisp" />
   <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
   <Cards CatID="39808" Quantity="1" Sideboard="false" Name="Vapor Snag" />
+  <Cards CatID="68657" Quantity="1" Sideboard="false" Name="Transmogrifying Wand" />
+  <Cards CatID="62637" Quantity="1" Sideboard="false" Name="Trophy Mage" />
+  <Cards CatID="20007" Quantity="1" Sideboard="false" Name="Crystal Shard" />
+  <Cards CatID="32246" Quantity="1" Sideboard="false" Name="Mistvein Borderpost" />
 </Deck>

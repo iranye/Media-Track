@@ -112,4 +112,9 @@
   <Cards CatID="45390" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
   <Cards CatID="35513" Quantity="1" Sideboard="false" Name="Khalni Garden" />
   <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
+  <Cards CatID="47495" Quantity="1" Sideboard="false" Name="Simic Keyrune" />
+  <Cards CatID="30266" Quantity="1" Sideboard="false" Name="Noggle Hedge-Mage" />
+  <Cards CatID="60276" Quantity="1" Sideboard="false" Name="Always Watching" />
+  <Cards CatID="54048" Quantity="1" Sideboard="false" Name="Brave the Sands" />
+  <Cards CatID="67823" Quantity="1" Sideboard="false" Name="Song of Freyalise" />
 </Deck>

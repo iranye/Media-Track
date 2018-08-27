@@ -371,6 +371,8 @@ Dismember
   Venerated Teacher
 </Activation>
 <Arty strat="Re-cast permanents that give artifact tokens on enter battlefield">
+  Avarice Amulet
+  Brass Squire
   Dispeller's Capsule
   Inventor's Fair
   Key to the City
@@ -1113,6 +1115,7 @@ Dismember
     Woolly Razorback
   </Defender>
   Altered Ego
+  Akroma's Memorial
   Angel's Herald
   Azor's Elocutors
   Azorius Guildmage
@@ -1142,8 +1145,10 @@ Dismember
   Esper Stormblade
   Fable of Wolf and Owl
   Fall of the Gavel
+  Fieldmist Borderpost
   Fleecemane Lion
-  Flurry of Wings  
+  Flurry of Wings
+  Forebear's Blade
   Geist of Saint Traft
   Giltspire Avenger
   Glade Watcher
@@ -1185,6 +1190,7 @@ Dismember
   Reflector Mage
   Repel Intruders
   Rhox War Monk
+  Rings of Brighthearth
   River Hoopoe
   Roil Spout
   Sagu Mauler
@@ -1192,10 +1198,12 @@ Dismember
   Shapers of Nature
   Shorecrasher Mimic
   Simic Charm
+  Skill Borrower
   Sky Hussar
   Skyrider Elf
   Skyward Eye Prophets
   Sphinx's Revelation
+  Start/Finish
   Stoic Angel
   Supply/Demand
   Tamiyo, Field Researcher
@@ -1206,6 +1214,7 @@ Dismember
   Unexpected Results
   Urban Evolution
   Vassal Soul
+  Vessel of Endless Rest
   Wargate
 </EmpyrialArch>
 <Enchants>
@@ -1546,8 +1555,10 @@ Vedalken Mastermind
   Manamorphose
 </Haunted>
 <Horrors>
+  Gelectrode
   Ludevic's Test
   Spellskite
+  Transmogrifying Wand
 </Horrors>
 <LandDestruct>
 Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
@@ -1894,11 +1905,17 @@ NON-CREATURES:
   Curse of Stalked Prey
   Fire Whip
   Izzet Boilerworks
+  Piston Sledge
   Reclusive Artificer
+  Rings of Brighthearth
   Royal Assasin
+  Skeleton Shard
+  Skill Borrower
   Sunbeam Spellbomb
   Sword of Kaldra
+  Thunderstaff
   Viridian Longbow
+  Wall of Spears
 </RedBlueIzzet>
 <RedGrDevotion-0>
   Arlinn Kord
@@ -1944,6 +1961,7 @@ NON-CREATURES:
 </RedGrDevotion-0>
 <Spectres>
   Exotic Orchard
+  Sedraxis Specter
 </Spectres>
 <Tokens>
 	<Madness>

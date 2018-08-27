@@ -55,7 +55,7 @@
   <Cards CatID="39447" Quantity="1" Sideboard="true" Name="Go for the Throat" />
   <Cards CatID="46441" Quantity="1" Sideboard="true" Name="Rakdos Charm" />
   <Cards CatID="46465" Quantity="1" Sideboard="true" Name="Rakdos Keyrune" />
-  <Cards CatID="49217" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
+  <Cards CatID="49217" Quantity="2" Sideboard="true" Name="Elixir of Immortality" />
   <Cards CatID="35503" Quantity="1" Sideboard="true" Name="Lightning Greaves" />
   <Cards CatID="57618" Quantity="1" Sideboard="true" Name="Negate" />
   <Cards CatID="48198" Quantity="1" Sideboard="true" Name="Ral Zarek" />
@@ -70,4 +70,17 @@
   <Cards CatID="30869" Quantity="1" Sideboard="false" Name="Grixis Charm" />
   <Cards CatID="65492" Quantity="1" Sideboard="false" Name="Dowsing Dagger" />
   <Cards CatID="55426" Quantity="1" Sideboard="false" Name="Hooded Assassin" />
+  <Cards CatID="35607" Quantity="1" Sideboard="false" Name="Cunning Sparkmage" />
+  <Cards CatID="67723" Quantity="1" Sideboard="false" Name="Goblin Chainwhirler" />
+  <Cards CatID="46561" Quantity="1" Sideboard="false" Name="Niv-Mizzet, Dracogenius" />
+  <Cards CatID="55576" Quantity="1" Sideboard="false" Name="Shaman of the Great Hunt" />
+  <Cards CatID="62637" Quantity="1" Sideboard="false" Name="Trophy Mage" />
+  <Cards CatID="28241" Quantity="1" Sideboard="false" Name="Pestermite" />
+  <Cards CatID="53692" Quantity="1" Sideboard="false" Name="Avarice Amulet" />
+  <Cards CatID="45560" Quantity="1" Sideboard="false" Name="Gem of Becoming" />
+  <Cards CatID="38191" Quantity="1" Sideboard="false" Name="Mimic Vat" />
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="32246" Quantity="1" Sideboard="false" Name="Mistvein Borderpost" />
+  <Cards CatID="44864" Quantity="1" Sideboard="false" Name="Whispersilk Cloak" />
+  <Cards CatID="31741" Quantity="1" Sideboard="false" Name="Master Transmuter" />
 </Deck>

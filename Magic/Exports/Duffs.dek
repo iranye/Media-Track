@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -83,4 +83,5 @@
   <Cards CatID="50324" Quantity="3" Sideboard="true" Name="Last Breath" />
   <Cards CatID="62051" Quantity="1" Sideboard="true" Name="Inventor's Goggles" />
   <Cards CatID="51559" Quantity="1" Sideboard="true" Name="Gorgon's Head" />
+  <Cards CatID="62905" Quantity="1" Sideboard="false" Name="Peacewalker Colossus" />
 </Deck>
