@@ -1,0 +1,2323 @@
+For Clerics deck:
+Athreos
+Auriok Champion
+Cleric of the Forward Order (use w/ Mirrorweave)
+Clockwork Hydra
+Cloudstone Curio
+Harm's Way
+Stoneforge Masterwork
+Suture Priest
+
+EliteIsochron:
+Ring of blue island
+
+
+Landfall:
+Black Sun's Zenith
+Bounding Krasis
+Calcite Snapper
+Cloudstone Curio
+Dream Stalker
+Fathom Seer
+Khalni Gem
+Oboro
+Noggle Bridgebreaker
+Thrummingbird
+Tragic Lesson
+
+Other:
+Black Sun's Zenith
+Dismember
+
+<?xml version="1.0" encoding="utf-8"?>
+<AllDecks>
+<TradersList>
+  <HaveAtLeastOne>
+    Doubling Season
+    Echo Mage
+    Extirpate 
+    Erebos's Titan
+    Glacial Fortress
+    Grimoire of the Dead
+    Leyline of the Meek
+    Lotus Bloom
+    Necrogen Mists
+    Thing in the Ice
+  </HaveAtLeastOne>
+  <HighPriced>
+    Aether Vial ($6+)
+    Batterskull ($26+)
+    Bloodghast ($15+)
+    Bloom Tender ($2+)
+    Cavern of Souls ($30+)
+    Celestial Colonnade ($28+)
+    Collected Company ($19+)
+    Crucible of Worlds ($25+)
+    Crumbling Vestige
+    Deathbringer Liege ($2+)
+    Fulminator Mage ($11+)
+    Gaddock Teeg ($4+)
+    Gemstone Mine ($10+)
+    Griselbrand ($30+)
+    Jace, Vryn's Prodigy ($30+)
+    Kira, Great Glass-Spinner ($3+)
+    Kitchen Finks ($4+)
+    Leyline of the Void ($5+)
+    Lighthouse Chronologist ($.50c+)
+    Lightning Greaves ($3+)
+    Lord of Extinction ($3+)
+    Lord of the Undead ($1+)
+    Lotus Cobra ($5+)
+    Massacre Wurm ($2+)
+    Master of the Wild Hunt ($4)
+    Meddling Mage (.50c+)
+    Misty Rainforest ($13+)
+    Nicol Bolas ($2+)
+    Nissa, Vastwood Seer ($15+)
+    Norin the Wary (.50c+)
+    Novablast Wurm
+    Obstinate Baloth ($4+)
+    Pact of Negation ($6+)
+    Painter's Servant ($3+)
+    Phantasmal Image ($1+)
+    Platinum Emperion ($2+)
+    Primalcrux ($1+)
+    Primordial Hydra ($2+)
+    Protean Hulk ($1+)
+    Puresteel Paladin ($3+)
+    Reaper King (> .50c)
+    Restoration Angel ($8+)
+    Snapcaster Mage ($15+)
+    Sphinx of the Steel Wind (.50c+)
+    Sublime Archangel ($3+)
+    Sword of Feast and Famine ($4+)
+    Thragtusk ($3+)
+    Thrun, the Last Troll ($15+)
+    Vexing Shusher ($1+)
+    Voice of Resurgence ($38+)
+    Wall of Roots ($1+)
+  </HighPriced>
+  Call of the Herd
+  Dark Confidant
+  Ghostly Prison
+  Grimoire Thief
+  Krark-Clan Ironworks
+  Needle Specter
+  Nevermaker
+  Spellweaver Helix
+</TradersList>
+<General>
+  <Bounce>
+    Abhorrent Overlord
+    Aegis Angel
+    Armament Corp
+    Ashen Rider
+    Gift of Immortality (Combine with Mardu Blazebringer)
+    Grim Guardian
+    Hornet Queen
+    Invasive Species
+    Lagonna-Band Elder
+    Nessian Demolok
+    Resolute Archangel
+    Skybind
+    Sidisi
+    Wingmate Roc
+    Triad of the Fates
+  </Bounce>
+  <Fetch>
+    Commune with the Gods
+  </Fetch>
+  <Clone>
+    Clever Impersonator
+  </Clone>
+  <Control>
+    Detention Spere
+    Statis Snare
+  </Control>
+  <CountersForCreatures>
+    Armament Corps
+    Blade of the Bloodchief
+    Dromoka, the Eternal
+    Ephara's Enlightenment
+    Ephara's Radiance
+    Gleam of Authority
+    Rakshasa Vizier
+    Retribution of the Ancients
+    Reap what is Sown
+    Sandsteppe Outcast
+  </CountersForCreatures>
+  <CounterSpell>
+    Clash of Wills
+    Dispel
+    Dissolve
+    Horribly Awry
+    Mindswipe
+    Negate
+    Stymied Hopes
+    Trap Essence
+  </CounterSpell>
+  <CreatureFlash>
+    Felhide Spiritbinder
+    Flame-Wreathed Phoenix
+    Prophet of Kruphix
+    Quickling
+    Roaring Primadox +++
+  </CreatureFlash>
+  <CreatureReturnToHand>
+    Cyclonic Rift
+    Icefeather Aven
+    Invasive Species
+    Narrow Escape
+    Peel from Reality
+    Vedalken Mastermind
+  </CreatureReturnToHand>
+  <DirectDamage>
+    Anger of the Gods
+    Arc Lightning
+    Fated Conflagration
+    Magma Jet
+    Shrapnel Blast
+  </DirectDamage>
+  <DrawCards>
+    Dig Through Time
+    Life's Legacy
+    Military Intelligence
+    Serum Visions
+    Warriors' Lesson
+  </DrawCards>
+  <GiantGrowth>
+    Dauntless Onslaught
+    Gather Courage
+  </GiantGrowth>
+  <Graveyard>
+    <Bonus>
+      Disciple of the Vault
+      Strength from the Fallen
+    </Bonus>
+    <PutInto>
+      Commune with the Gods
+      Kruphix's Insight
+      Nyx Weaver
+      Rakshasa's Secret
+      Satyr Wayfinder
+      Scout the Borders
+      See the Unwritten
+      Sidisi
+      Steam Augury
+      Sultai Ascendancy
+      Taigam's Scheming
+    </PutInto>
+    <Removal>
+      Beckon Apparition
+      Bioshift
+      Blessed Breath
+      Bojuka Bog
+      Boon of Erebos
+      Cranial Archive
+      Mardu Woe Reaper
+      Tormod's Crypt
+    </Removal>
+    <ReturnFrom>
+      Alesha, Who Smiles at Death
+      CorpseWeft
+      Doomed Necromancer
+      Dutiful Return
+      Endless Obedience
+      Font of Return
+      Foul Renewal
+      Ghastly Conscription
+      Griffin Dreamfinder
+      March of the Returned
+      Monastery Loremaster
+      Ordunos River Trawler
+      Palace Siege
+      Pharika, God of Affliction
+      Profound Journey
+      Rescue from the Underworld
+      Restock
+      Unmake the Graves
+      Whip of Erebos
+    </ReturnFrom>
+  </Graveyard>
+  <LifeGain>
+    Devour Flesh
+    Divine Favor
+    Feed the Clan
+    Pulse of the Fields
+  </LifeGain>
+  <Mana>
+    Amulet of Vigor
+    Dreadship Reef
+    Frontier Siege
+    Gift of Estates
+    Rupture Spire
+    Shaman of Forgotten Ways
+    Sheltered Aerie
+    Verdant Haven
+  </Mana>
+  <Morph>
+    Ainok Survivalist
+    Cloudform
+    Courser of Kruphix
+    Deathmist Raptor
+    Den Protector
+    Dragon's Eye Savants
+    Icefeather Aven
+    Mastery of the Unseen
+    Mistfire Weaver
+    Obscuring Ether
+    Reality Shift
+    Secret Plans
+    Stratus Dancer
+    Trail of Mystery
+  </Morph>
+  <Protection>
+    Archetype of Endurance
+    Ajani's Presence
+    Boon of Erebos
+    Ephemeral Shields
+    Feat of Resistance
+    Gods Willing
+    Molting Snakeskin
+    Necrobite
+    Ranger's Guile
+  </Protection>
+  <Removal>
+    <ArtifactEnchantmentRemoval>
+      Ainok Survivalist
+      Back to Nature
+      Destructive Revelry
+      Erase
+      Fade into Antiquity
+      Feast of Dreams
+      Mortal Obstinacy
+      Naturalize
+      Reclamation Sage
+      Ronom Unicorn
+      Vithian Renegades
+      Wispmare
+    </ArtifactEnchantmentRemoval>
+    Aetherspouts
+    Banishing Light
+    Bile Blight
+    Crackling Doom
+    Crstallization
+    Crux of Fate
+    Dark Betrayal
+    Death Frenzy
+    Devouring Light
+    Drown in Sorrow
+    End Hostilities
+    Erase
+    Excoriate
+    Hero's Downfall
+    Last Breath
+    Murderous Cut
+    Pacifism
+    Path to Exile
+    Plummet
+    Reality Shift
+    Silence the Believers
+    Silkwrap
+    Stain the Mind
+    Sultai Charm
+    Suspension Field
+    Ulcerate
+    Utter End
+    Vortex elemental
+    War Priest of Thune
+    Whelming Wave
+  </Removal>
+  <Twiddle>
+    Akroan Mastiff
+    Breaching Hippocamp
+    Black Oak of Odunos
+    Chord of Calling
+    Covenant of Blood (also get 4 life)
+    Crypsis
+    Cryptolith Rite
+    Dazzling Ramparts
+    Disciple of Kruphix
+    Glaring Aegis
+    Glimpse the Sun God
+    Icy Blast
+    Ivorytusk Fortress
+    Jeskai Ascendancy
+    Karametra's Favor
+    Kiora's Follower
+    Living Totem
+    Prophet of Kruphix
+    Siren Song Lyre
+    Springleaf Drum
+    Triton Tactics
+    Unmake the Graves
+    Winterflame
+  </Twiddle>
+</General>
+<Activation>
+  Aerie Worshippers
+  Angel of Condemnation
+  Aryel, Knight of Windgrace
+  Captivating Crew
+  Gilder Bairn
+  Hada Spy Patrol
+  Izzet Guildmage
+  Jhoira of the Ghitu
+  Kabira Vindicator
+  Kazandu Tuskcaller
+  Knight of Cliffhaven
+  The Locust God
+  Nirkana Cutthroat
+  Null Champion
+  Numot, the Devastator
+  Olivia Voldaren
+  Student of Warfare
+  Training Grounds
+  Venerated Teacher
+</Activation>
+<Arty strat="Re-cast permanents that give artifact tokens on enter battlefield">
+  Avarice Amulet
+  Brass Squire
+  Dispeller's Capsule
+  Inventor's Fair
+  Key to the City
+  Lotus Bloom
+  Mycosynth Wellspring
+  Phyrexian Core
+  Pyrite Spellbomb
+  Salvaging Station
+  Sunbeam Spellbomb
+</Arty>
+<BlackWhiteSac>
+  Shadow Guildmage
+  <Removal>
+    Angelic Purge
+    Bojuka Bog
+    Revoke Existence
+    Tragic Slip
+  </Removal>
+  <Contains>
+    Alms Beast
+    Athreos, God of Passage
+    Banisher Priest
+    Blasting Station
+    Blood Baron of Vizkopa
+    Blood-Cursed Knight
+    Boros Reckoner
+    Godless Shrine
+    Granite Shard
+    Heliod, God of the Sun
+    Immortal Servitude
+    Shambling Vent
+    Spirit Bonds
+    Strionic Resonator
+    Tidehollow Sculler
+  </Contains>
+  <Equipment>
+    Banshee's Blade
+    Brass Squire
+    Darksteel Plate
+    Gorgon's Head
+    Healer's Headdress
+    Mask of Avacyn
+    Mortarpod
+    Pathway Arrows
+    Ring of Xathrid
+    Vial of Poison
+    Viridian Longbow
+    Worldslayer
+  </EquipmentAuras>
+  <Blue>
+    Merieke Ri Berit
+    Ovinomancer
+  </Blue>
+  <Red>
+    Alesha, Who Smiles at Death
+    Boros Charm
+    Brimstone Mage
+    Dual Shot
+    Frostling
+    Iroas, God of Victory
+    Lightning Bolt
+    Lightning Helix
+    Master of Cruelties
+    Needle Drop
+    Prodigal Pyromancer
+    Spark Jolt
+    Stun Sniper
+    Taurean Mauler
+  </Red>
+  <GainLife>
+    Aerial Responder
+    Basilik Collar
+    Divinity of Pride
+    Fiendslayer Paladin
+    Loxodon Warhammer
+    Mourning Thrull
+    Scourge of the Nobilis
+    Vault Skirge
+    Whip of Erebos
+  </GainLife>
+  <Madness>  
+    Bloodhall Priest
+    Senseless Rage
+  </Madness>
+  <ReturnFromGrave>
+    Doomed Necromancer
+    Hell's Caretaker
+    Soul Stair Expedition
+  </ReturnFromGrave>
+  <Wipe>
+    Austere Command
+    Crux of Fate
+    Damnation
+    Day of Judgement
+    End Hostilities
+    Fumigate
+    Magus of the Disk
+    Merciless Eviction
+    Scourglass
+    Whipflare
+    Wrath of God
+  </Wipe>
+  <Auras>
+    Angelic Destiny
+    Angelic Gift
+    Arcane Teachings
+    Aspect of Gorgon
+    Blessing of Leeches
+    Bonds of Faith
+    Chosen by Heliod
+    Conviction
+    Curse of Exhaustion
+    Daybreak Coronet
+    Demonic Appetite
+    Detainment Spell
+    Divine Favor
+    Dragon Mantle
+    Edge of the Divinity
+    Eland Umbra
+    Ethereal Armor
+    Fallen Ideal
+    Fire Whip
+    Fractured Loyalty
+    Gift of Orzhova
+    Genju of the Fields
+    Gift of Granite
+    Gryff's Boon
+    Indestructibility
+    Indomitable Will
+    Infernal Scarring
+    Ironclad Slayer
+    Kumano's Blessing
+    Lightning Prowess
+    Lunarch Mantle
+    Mammoth Umbra
+    Mantle of Leadership
+    Mardu Runemark
+    Mutavault
+    Nimbus Wings
+    Oblivion Crown
+    Oppressive Rays
+    Orzhov Charm
+    Pariah
+    Pentarch Ward
+    Pillory of the Sleepless
+    Power of Fire
+    Predator's Gambit
+    Prison Term
+    Prophetic Ravings
+    Senseless Rage
+    Skeletal Grimace
+    Skin Invasion
+    Soul Tithe
+    Spectra Ward
+    Spirit Loop
+    Spirit Mantle
+    Spiteful Motives
+    Stab Wound
+    Tin Street Market
+    Triclopean Sight
+    Underworld Connections
+    Visions of Brutality
+    Weight of Conscience
+  </Auras>
+  <Clerics>
+    Adaptive Automaton
+    Ajani's Sunstriker
+    Arashin Cleric
+    Archangel of Tithes
+    Auriok Champion
+    Ayli, Eternal Pilgrim
+    Banisher Priest
+    Battletide Alchemist
+    Bloodhall Priest
+    Bygone Bishop
+    Cemetery Puca
+    D'Avenant Healer
+    Devout Chaplain
+    Devout Lightcaster
+    Eight-and-a-Half-Tails
+    Geist of Saint Traft
+    Geist of the Lonely Vigil
+    Goldnight Commander
+    Grand Abolisher
+    Hanweir Militia Captain
+    Heliod's Pilgrim
+    Kor Sanctifiers
+    Leonin Arbiter
+    Leonin Abunas
+    Liliana, Heretical Healer
+    Metallic Mimic
+    Mikaeus, the Lunarch
+    Nomad Mythmaker
+    Oracle of Nectars
+    Order of the Stars
+    Orzhov Pontiff
+    Ragamuffyn
+    Resplendent Mentor
+    Sanctum Guardian
+    Selfless Spirit
+    Setessan Battle Priest
+    Shadowborn Apostle
+    Sin Collector
+    Skirsdag Flayer
+    Skirsdag High Priest
+    Skirsdag Supplicant
+    Soltari Priest
+    Soul Warden
+    Soulmender
+    Suture Priest
+    Syndic of Tithes
+    Taurean Mauler
+    Tethmos High Priest
+    Thraben Doomsayer
+    Transcendent Master
+    True Believer
+    Underworld Coinsmith
+    Vampire Envoy
+    War Priest of Thune
+    Weathered Wayfarer
+    Westvale Abbey
+    Witch Hunter
+    Withered Wretch
+    Zealous Inquisitor
+  </Clerics>
+  Acolyte's Reward
+  Alley Evasion
+  Assemble the Legion
+  Blood Artist
+  Brave the Sands
+  Carom
+  Coat with Venom
+  Collateral Damage
+  Concealed Courtyard
+  Consulate Dreadnought
+  Crossbow Infantry
+  Dance with Devils
+  Daredevil Dragster
+  Dark Dabbling
+  Deathbringer Liege
+  Decommission
+  Deft Dismissal
+  Dictate of Erebos
+  Dovescape
+  Dutiful Attendant
+  Eidolon of Rhetoric
+  Endbringer
+  Erebos
+  Fallen Ideal
+  Ghostly Prison
+  Hidden Dragonslayer
+  Hidden Stockpile
+  Holdout Settlement  
+  Kambal, Consul of Allocation
+  Kari Zev's Expertise
+  Kemba, Kha Regent
+  KingPin's Pet
+  Kolaghan's Command
+  Kor Sanctifiers
+  Luminarch Ascension
+  Mardu Charm
+  Martyred Rusalka
+  Meekstone
+  Mentor of the Meek
+  Mesa Enchantress
+  Michiko Konda, Truth Seeker
+  Midnight Charm
+  Mikaeus, the Lunarch
+  Mirrorweave
+  Necrobite
+  Nomad Mythmaker
+  Oracle of Nectars
+  Order of Whiteclay
+  Outrider en-Kor
+  Pia's Revolution
+  Quest for the Gravelord
+  Quicksmith Rebel
+  Raise the Alarm
+  Recover
+  Renegade's Getaway
+  Resourceful Return
+  Rise of the Hobgoblins
+  Rush of Vitality
+  Secure the Wastes
+  Semblance Anvil
+  Seraph of the Sword
+  Sigarda's Aid
+  Sorin Markov
+  Sorin, Lord of Innistrad
+  Sorin, Solemn Visitor
+  Soul of New Phyrexia
+  Soul Stair Expedition
+  Spellskite
+  Spawning Pit
+  Stony Silence
+  Touch of Moonglove
+  Transcendent Master
+  Treasury Thrull
+  True Believer
+  Umbra Mystic
+  Untethered Express
+  Volatile Rig
+  Vampire Envoy
+  Will-o'-the-Wisp
+  Zealous Persecution
+  Zur the Enchanter
+</BlackWhiteSac>
+<ColorKill>
+  Devout Lightcaster
+  Eight-and-a-Half-Tails
+  Glamerdye
+  Hunted Horror
+  Mind Bend
+  Painter's Servant
+  Prismwake Merrow
+  Reaper King
+  Scuttlemutt
+  Western Paladin
+</ColorKill>
+<CountersForCreatures>
+  Abzan Ascendancy
+  Abzan Charm
+  Ajani Pridemate
+  Anafenza, Kin-Tree Spirit
+  Anafenza, the Foremost
+  Avatar of the Resolute
+  Bow of Nylea
+  Citadel Siege
+  Dragon Throne of Tarkir
+  Feast on the Fallen
+  Feat of Resistance
+  Forced Adaptation
+  Hardened Scales
+  High Sentinels of Arashin
+  Phalanx Leader
+  Pheres-Band Tromper
+  Solidarity of Heroes
+  Sunscorch Regent
+  Thalia's Lieutenant
+</CountersForCreatures>
+<DaringIceFeather>
+  Aura of Dominion
+  Bear Umbra
+  Burst of Strength
+  Canopy Cover
+  Clout of the Dominus
+  Cryptolith Rite
+  Curse of Chains
+  Deadlock Trap
+  Deceiver Exarch
+  Decomission
+  Fallowsage
+  Fatal Push
+  Felhide Spiritbinder
+  Gifted Aetherborn
+  Illusionist's Stratagem
+  Mobile Garrison
+  Reckless Racer
+  Rogue Refiner
+  Dramatic Reversal
+  Dream's Grip
+  Freed from the Real
+  Grimoire Thief
+  Holdout Settlement
+  King Macar, the Gold-Cursed
+  Loam Dryad
+  Master of Waves
+  Merieke Ri Berit
+  Minamo, School at Water's Edge
+  Mobile Garrison
+  Night Market Lookout
+  Ral Zarek
+</DaringIceFeather>
+<Discards>
+  Elemental Mastery
+  <Green>
+    Fruit of the First Tree
+  </Green>
+  <Madness>
+    Big Game Hunter
+  </Madness>
+  Angelic Purge
+  Ayli, Eternal Pilgrim
+  Bellowing Saddlebrute
+  Bloodghast
+  Bloom Tender
+  Devour Flesh
+  Doomed Necromancer
+  Dragonlord Kolaghan
+  Dragonskull Summit
+  Deathbringer Regent
+  Doomed Traveler
+  Elspeth Tirel
+  Fallen Ideal
+  Fulminator Mage
+  Gideon, Champion of Justice
+  Goblin Rabblemaster
+  Jeering Instigator
+  Kheru Bloodsucker
+  Kolaghan's Command
+  Mark of the Oni
+  Massacre Wurm
+  Merciless Resolve
+  Miren, the Moaning Well
+  Mob Rule
+  Mogg Fanatic
+  Morkrut Necropod
+  Palace Siege
+  Perilous Myr
+  Rakdos, Lord of Riots
+  Ravenous Rats
+  Sandstepp outcast
+  Secure the Wastes
+  Shadow Guildmage
+  Sin Collector
+  Terminate
+  Twilight Drover
+  Uncle Istvan
+  Valorous Stance
+  Vampiric Rites
+  Vengeful Pharaoh
+  Vulturous Aven
+  Wild-Field Scarecrow
+  Zurgo Helmsmasher
+</Discards>
+<Duffs>
+  Divine Offering
+  Genju of the Fields
+  Loxodon Warhammer
+  Mortarpod
+  Odric, Lunarch Marshal
+  Sram, Senior Edificer
+</Duffs>
+<EidolonSac>
+  Acidic Slime
+  Angelic Gift
+  Blessing of Leeches
+  Cloudshift
+  Cowed by Wisdom
+  Dark Confidant
+  Daybreak Coronet
+  Dead Weight
+  Death Cloud
+  Dictate of Erebos
+  Doomed Traveler
+  Fertile Ground
+  Flickerform
+  Ghostly Prison  
+  Grim Guardian
+  Kokusho, the Evening Star
+  Nether Traitor
+  Lotus-Eye Mystics
+  Pharika, God of Affliction
+  Primal Beyond
+  Rancor
+  Rattlechains  
+  Shadows of the Past
+  Shambling Vent
+  Spectral Shepherd
+  Sphere of Safety
+  Strength from the Fallen
+  Twilight Drover
+  Utopia Sprawl
+  Vampiric Rites
+</EidolonSac>
+<EliteIsochron>
+  __Prowess__
+  Academy Ruins
+  Æther Adept
+  Aether Spellbomb
+  Agony Warp
+  Augur of Bolas
+  Clutch of the Undercity
+  Countersquall
+  Cremate
+  Crook of Condemnation
+  Crypt Incursion
+  Cryptic Command
+  Dimir Infiltrator
+  Erebos, God
+  Mana Leak
+  Mana Vapors
+  Recover
+  Slith Bloodletter
+  <Red>
+    GutterSnipe
+  </Red>
+  <Green>
+    Abrupt Decay
+    Aggressive Urge
+    Golgari Charm
+  </Green>
+  <White>
+    Ajani's Presence
+    Angelsong
+    Awe Strike
+    Azorius Charm
+    Bathe in Light
+    Blessed Alliance
+    Blessed Reversal
+    Blinding Angel
+    Cathar's Companion
+    Dawn Charm
+    Deathless Angel
+    Double Cleave
+    Dramatic Rescue
+    Dromar's Cavern
+    Fieldmist Borderpost
+    Hide/Seek
+    Last Breath
+    Leave No Trace
+    Loyal Sentry
+    Magus of the Disk
+    Mangara of Corondor
+    Meddling Mage
+    Merieke Ri Berit
+    Myth Realized
+    Narset Transcendent
+    Orzhov Charm
+    Path to Exile
+    Pristine Skywise
+    Seeker of the Way
+    Sen Triplets
+    Send to Sleep
+    Shadow of Doubt
+    Shu Yun, the Silent Tempest
+    Sublime Archangel
+    Wispmare
+    Zur the Enchanter
+  </White>
+  <Creatures>
+    Æther Adept
+    Arcanis the Omnipotent
+    Ashling, the Extinguisher
+    Augur of Bolas
+    Augury Adept
+    Azami, Lady of Scrolls
+    Azorius Guildmage
+    Benthicore
+    Calcite Snapper
+    Cephalid Constable
+    Chronozoa
+    Cinderbones
+    Circu, Dimir Lobotomist
+    Crackleburr
+    Crafty Pathmage
+    Dakra Mystic
+    Delver of Secrets
+    Echo Mage
+    Elgaud Shieldmate
+    Erayo, Soratami Ascendant
+    Fatespinner
+    Fatestitcher
+    Floodbringer
+    Frost Walker
+    Ghastlord of Fugue
+    Guile
+    Hada Spy Patrol
+    Harbinger of the Tides
+    Jhessian Thief
+    Kira, Great Glass-Spinner
+    Lighthouse Chronologist
+    Living Tsunami
+    Lullmage Mentor
+    Magus of the Future
+    Necroskitter
+    Neurok Commando
+    Nivmagus Elemental
+    Nyxathid
+    Pain Seer
+    Pestermite
+    Plumeveil
+    Primal Plasma
+    Quicksilver Elemental
+    Riptide Pilferer
+    Roil Elemental
+    Rotted Hulk
+    Sage-Eye Avengers
+    Sage of Epityr
+    Sage of Fables
+    Scuttlemutt
+    Shadow Guildmage
+    Shell Skulkin
+    Shorecrasher Elemental
+    Sigil Tracer
+    Stonybrook Banneret
+    Teferi, Mage of Zhalfir
+    Thada Adel, Acquisitor
+    Thassa, God of the Sea
+    Thing in the Ice
+    Tideforce Elemental
+    Updraft Elemental
+    Vedalken Mastermind
+    Voidmage Prodigy
+    Wall of Air
+  </Creatures>
+  <Instants>
+    Abzan Advantage
+    Ætherize
+    Agony Warp
+    Azorius Charm
+    Awe Strike
+    Bandage
+    Banishing Knack
+    Beckon Apparition
+    Bile Blight
+    Boomerang
+    Boon of Erebos
+    Boros Charm
+    Clutch of the Undercity
+    Countersquall
+    Cremate
+    Cryptic Command
+    Cyclonic Rift
+    Dash Hopes
+    Dawn Charm
+    Deprive
+    Devour Flesh
+    Devour in Shadow
+    Dimir Charm
+    Disdainful Stroke
+    Dissipate
+    Dissolve
+    Dream Fracture
+    Early Frost
+    Essence Scatter
+    Extirpate
+    Faith's Shield
+    Far // Away
+    Flashfreeze
+    Esper Charm
+    Geth's Verdict
+    Go for the Throat
+    Gods Willing
+    Grixis Charm
+    Grotesque Mutation
+    Hinder
+    Hindering Light
+    Holy Day
+    Horribly Awry
+    Imp's Mischief
+    Inside Out
+    Intervention Pact
+    Make a Stand
+    Mana Leak
+    Midnight Charm
+    Mizzium Skin
+    Mystical Teachings
+    Outwit
+    Path to Exile
+    Peek
+    Perplex
+    Piracy Charm
+    Redirect
+    Render Silent
+    Retraction Helix
+    Rewind
+    Scout's Warning
+    Shadowfeed
+    Silence
+    Spell Pierce
+    Stubborn Denial
+    Swan Song
+    Thoughtbind
+    Tribute to Hunger
+    Trickbind
+    Triton Tactics
+    Turn Aside
+    Twiddle
+    Undying Evil
+    Unsummon
+    Voidslime
+    Valorous Stance
+  </Instants>
+  Brain in a Jar
+  Brass Squire
+  Call to the Kindred
+  Crystal Shard
+  Dynavolt Tower
+  Echo Mage
+  Esper Charm
+  Geth's Verdict
+  Grixis Charm
+  Guile
+  Horribly Awry
+  Hunted Horror
+  Imp's Mischief
+  Mana Leak
+  Midnight Charm
+  Mystical Teachings
+  Neurok Commando
+  Nyxathid
+  Peek
+  Perplex
+  Pestermite
+  Piracy Charm
+  Pulse of the Grid
+  Pulse of the Tangle
+  Redirect
+  Ring of Evos Isle
+  Sage-Eye Avengers
+  Sage of Epityr
+  Sage of Fables
+  Scuttlemutt
+  Shadow Guildmage
+  Shadowfeed
+  Shell Skulkin
+  Shorecrasher Elemental
+  Swan Song
+  Twiddle
+  Undying Evil
+  Unsummon
+  Vapor Snag
+</EliteIsochron>
+<EmpyrialArch>
+  <Defender>
+    Arcades, the Strategist
+    Angelic Wall
+    Dragon's Eye Sentry
+    Fog Bank
+    Gatecreeper Vine
+    Hornet Nest
+    Jeskai Barricade
+    Kaijin of the Vanishing Touch
+    Ludevic's Test Subject
+    Mnemonic Wall
+    Novice Knight
+    Order of the Stars
+    Perimeter Captain
+    Phantasmal Abomination
+    Plumeveil
+    Soulsworn Jury
+    Sylvan Caryatid
+    Wall of Denial
+    Wall of Frost
+    Wall of Mulch
+    Wall of Omens
+    Wall of Reverence
+    Wall of Roots
+    Woolly Razorback
+  </Defender>
+  Altered Ego
+  Akroma's Memorial
+  Angel's Herald
+  Azor's Elocutors
+  Azorius Guildmage
+  Bant Charm
+  Bant Sojourners
+  Bant Sureblade
+  Biovisionary
+  Birds of Paradise
+  Blind Obedience
+  Bloom Tender
+  Bound // Determined
+  Bounding Krasis
+  Bounty of the Luxa
+  Cascading Cataracts
+  Clarion Ultimatum
+  Cloud Key
+  Coiling Oracle
+  Curse of the Swine
+  Cytoshape
+  Daxos of Meletis
+  Dauntless Escort
+  Dovescape
+  Dovin Baan
+  Dragonlord Ojutai
+  Drogskol Reaver
+  Elixir of Immortality
+  Empyrial Archangel
+  Esper Stormblade
+  Fable of Wolf and Owl
+  Fall of the Gavel
+  Fieldmist Borderpost
+  Fleecemane Lion
+  Flurry of Wings
+  Forebear's Blade
+  Geist of Saint Traft
+  Giltspire Avenger
+  Glade Watcher
+  Grand Arbiter Augustin IV
+  Guard Gomazoa
+  Guardians of Akrasa
+  Heliod, God of the Sun
+  Icy Manipulator
+  Invert the Skies
+  Jenara, Asura of War
+  Judge's Familiar
+  Kiora, the Crashing Wave
+  Kiora's Follower
+  Knight of New Alara
+  Kruphix, God of Horizons
+  Leafdrake Roost
+  Loxodon Smiter
+  Manamorphose
+  Messenger Falcons
+  Mulldrifter
+  Murkfiend Liege
+  Mystic Genesis
+  Nissa, Steward of Elements
+  Oath of Teferi
+  Ojutai, Soul of Winter
+  Qasali Pridemage
+  Quicksilver Amulet
+  Painter's Servant
+  Pestermite
+  Pithing Needle
+  Plasm Capture
+  Plaxcaster
+  Plumeveil
+  Predator Ooze
+  Progenitor Mimic
+  Prophet of Kruphix
+  Rafiq of the Many
+  Ranger of Eos
+  Reflector Mage
+  Repel Intruders
+  Rhox War Monk
+  Rings of Brighthearth
+  River Hoopoe
+  Roil Spout
+  Sagu Mauler
+  Selfless Spirit  
+  Shapers of Nature
+  Shorecrasher Mimic
+  Simic Charm
+  Skill Borrower
+  Sky Hussar
+  Skyrider Elf
+  Skyward Eye Prophets
+  Sphinx's Revelation
+  Start/Finish
+  Stoic Angel
+  Supply/Demand
+  Tamiyo, Field Researcher
+  Thalia, Heretic
+  Training Grounds
+  Transguild Courier
+  Trygon Predator
+  Unexpected Results
+  Urban Evolution
+  Vassal Soul
+  Vessel of Endless Rest
+  Wargate
+</EmpyrialArch>
+<Enchants>
+  Aether Meltdown
+  Aetherling
+  Alley Evasion
+  Angelic Destiny
+  Arcanum Wings
+  Armament of Nyx
+  Azorius Æthermage
+  Azorius Chancery
+  Azorius Guildmage
+  Bygone Bishop
+  Centaur Omenreader
+  Cloudblazer
+  Clout of the Dominus
+  Conviction
+  Council of the Absolute
+  Court Hussar
+  Curse of Exhaustion
+  Darksteel Sentinel
+  Disappearing Act
+  Dragonlord Ojutai
+  Dust Elemental
+  Eiganjo Free-Riders
+  Fieldmist Borderpost
+  Flickerform
+  Floodtide Serpent
+  Glacial Fortress
+  Grand Arbiter Augustin IV
+  Herald of the Pantheon
+  Hindering Light
+  Invocation of Saint Traft
+  Kor Spiritdancer
+  Long Road Home
+  Meddling Mage
+  Mesa Enchantress
+  Panharmonicon
+  Plumes of Peace
+  Plumeveil
+  Pongify
+  Reality Acid
+  Repel Intruders
+  Roil Spout
+  Shaman of Spring
+  Sky Hussar
+  Spell Queller
+  Sphere of Safety
+  Sphinx's Revelation
+  Stasis Snare
+  Thran Golem
+  Vapor Snare
+  Wispmare
+</Enchants>
+<FiveColor>
+  Bloom Tender
+  Child of Alara
+  Chromanticore
+  Clearwater Goblet
+  Conflux
+  Door to Nothingness  
+  Fusion Elemental
+  Genju of the Realm
+  Horde of Notions
+  Maelstrom Archangel
+  Plasm Capture
+  Prosperous Pirates
+  Scion of the Ur-Dragon
+</FiveColor>
+<ForceAttacks>
+  Bident of Thassa
+  Bloodshed Fever
+  Contaminated Bond
+  Curse of the Nightly Hunt
+  Favor of the Woods
+  Furor of the Bitten
+  Hornet Nest
+</ForceAttacks>
+<FourPowerMobs>
+Arc Runner
+Bloodmad vampire
+Phantasmal Image
+Vedalken Mastermind
+  <Madness>
+    Avacyn's Judgment
+    Avalanche Tusker
+    Avatar of Discord
+    Chandra Ablaze
+    Chandra, Flamecaller
+    Force Away  1Blue (2) 
+    Forgotten Creation
+    Gathan Raiders  3RedRed (5) 
+    Geralf's Masterpiece
+    Ghastly Discovery
+    Ghostly Wings
+    Grimoire of the Dead
+    Incorrigible Youths
+    Jaya Ballard, Task Mage
+    Just the Wind
+    Razormane Masticore
+    Reckless Wurm
+    Vexing Sphinx
+  </Madness>
+  Ætherling  
+  Ancestral Statue
+  Arborback Stomper
+  Baloth Cage Trap (Sideboard)
+  Bear's Companion
+  Bloom Tender
+  Brackwater Elemental
+  Briarbridge Patrol
+  Briarhorn
+  Bristling Hydra
+  Changeling Berserker
+  Changeling Titan
+  Chronozoa
+  Cloudthresher
+  Collected Company
+  Crush of Tentacles
+  Cryptolith Rite
+  Disappearing Act
+  Dragon Grip
+  Eel Umbra
+  Eerie Interlude
+  Elemental Bond
+  Familiar's Ruse
+  Fanatic of Mogis
+  Felhide Spiritbinder
+  Flameshadow Conjuring
+  Followed Footsteps
+  Fool's Demise
+  Giant Solifuge
+  Goldnight Castigator
+  Groundbreaker
+  Hellion Crucible
+  Hellkite Charger
+  Hunted Troll
+  Inexorable Blob
+  Intet, the Dreamer
+  Kessig Wolf Run
+  Lavacore Elemental
+  Living Tsunami
+  Mantis Rider
+  Mimic Vat
+  Mind Sludge
+  Mirror Mockery
+  Mold Shambler
+  Mosswort Bridge
+  Narnan Renegade
+  Obsidian Fireheart
+  Obstinate Baloth
+  Pack Guardian
+  Pact of the Titan
+  Penumbra Spider
+  Precinct Captain
+  Primeval Bounty
+  Progenitor Mimic
+  Pyrewild Shaman
+  Rage Nimbus
+  Raise the Alarm
+  Riparian Tiger
+  Roil Spout
+  Rumbling Slum
+  Sabertooth Outrider
+  Sagu Mauler
+  Sarkhan the Mad
+  Savage Summoning
+  Scout the Borders
+  See the Unwritten
+  Self-Assembler
+  Sheltering Word
+  Snake of the Golden Grove
+  Tarox Bladewing
+  Tornado Elemental
+  Triumph of the Hordes
+  Troll Ascetic
+  Unbridled Growth
+  Unsubstantiate
+  Vedalken Mastermind
+  Vengevine
+  Vexing Devil
+  Voyage's End
+  War Elemental
+  <TOSORT>
+  -- Alternate Strategy(s)
+  Arcbond  
+  Anticipate
+  Fanatic of Mogis
+  Fanatic of Xenagos
+  Genesis Hydra
+  Impact Tremors
+  Shape the Sands
+  Sight of the Scalelords
+  Talara's Battalion
+  Winds of Qal Sisma
+  Xenagos, God of Revels
+  Yasova Dragonclaw
+  
+  +++:
+  SIDEBOARD:
+  Atarka's Command
+  Mistcutter Hydra
+  Neutralizing Blast
+  
+  Arcbond
+  Barrage of Boulders
+  Bear's Companion
+  Berzerkers' Onslaught
+  Bident of Thassa
+  Chord of Calling
+  Crater's Claws
+  Dragonlord Atarka
+  Dragon Whisperer
+  Fanatic of Xenagos
+  Genesis Hydra
+  Hour of Need
+  Hungering Yeti (+Flash)
+  Hydra Broodmaster
+  Icefall Regent
+  Illusory Angel
+  Mirror Mockery
+  Monastery Siege
+  Polukranos
+  Polymorphist's Jest
+  Profaner of the Dead
+  Searing Blood
+  Sedge Scorpion
+  Surrak, the Hunt Caller
+  Thunderbreak Regent
+  Archwing Dragon
+  
+  Comnmune with the Gods
+  
+  ADD 4-POWER CREATURES:
+  Alpine Grizzly
+  Ashcloud Phoenix
+  Bear's Companion
+  Benthic Giant
+  Bloodfire Enforcers
+  Boon Satyr (+Flash)  
+  Crystalline Nautilus
+  Destructor Dragon
+  Fanatic of Mogis
+  Garruk's Packleader
+  Kruphix, God
+  Meandering Towershell
+  Mercurial Pretender
+  Oracle of Bones
+  Pearl Lake Ancient (+Flash)
+  Phytotitan
+  Polis Crusher
+  Spellheart Chimer (Power=# instants and sorceries in graveyard)
+  Spirespine
+  Shaman of the Great Hunt
+  Stormbreath Dragon (1)
+  Stratus Dancer
+  Surrak Dragonclaw (+Flash) (1)
+  Temur Sabertooth +++ (0)
+  Twinflame
+  Vaultbreaker +++ (1)
+  Whirlwind Adept
+  Xenagos, God
+  Yasova Dragonclaw
+  
+  OTHER:
+  Clever Impersonator
+  Dragon Throne of Tarkir
+  Flamewake Phoenix
+  Hall of Triumph
+  Hammer of Purphoros
+  Heir of the Wilds
+  Howl of the Horde
+  Paragon of Fierce Defiance
+  Purphoros, God
+  Restock
+  Roar of Challenge
+  Sultai Flayer
+  
+  PLANESWALKERS:  
+  Ajani, Mentor of Heroes
+  Kiora, the Crashing Wave
+  Xenagos, the Reveler
+  </TOSORT>
+</FourPowerMobs>
+<FourPowerElementals>
+  Ashling the Extinguisher
+  Brackwater Elemental
+  Brighthearth Banneret
+  Duplicant
+  Foundry Champion
+  Lumbering Falls
+  Nova Chaser
+  Primal Plasma
+  Progenitor Mimic
+  Quicksilver Elemental
+  Rage Nimbus
+  Roil Spout
+  Rumbling Slum
+  Shorecrasher Elemental
+  Smokebraider
+  Soul of the Harvest
+  Taurean Mauler
+  Thornling
+  Timbermare
+  Unbridled Growth
+  Updraft Elemental
+  Vedalken Mastermind
+  Woodland Wanderer
+  
+</FourPowerElementals>
+<Goats>
+  __Changeling__ Spells
+  __Populate__ Spells
+  Coat of Arms
+  Doubling Season
+  Expedition Map
+  Explorer's Scope
+  Knight of the Reliquary
+  Mutavault
+  Parallel Lives
+  Primeval Titan
+  Reap and Sow
+  Scapeshift
+  Selective Memory
+  Springjack Pasture
+  Sylvan Scrying
+  Thriving Ibex
+  Trading Post
+  Ulvenwald Hydra
+  Void of Resurgence
+  Wayfaring Temple
+  Weathered Wayfarer
+  Westvale Abbey
+</Goats>
+<Haunted>
+  Haunted Plate Mail
+  Lethal Vapors
+  Manamorphose
+</Haunted>
+<Horrors>
+  Gelectrode
+  Ludevic's Test
+  Nucklavee
+  Spellskite
+  Transmogrifying Wand
+</Horrors>
+<LandDestruct>
+Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
+
+Lightform (2 WHT devotion) (also works w/ Jeskai charm: "put creature on top of library")
+Heliod
+</LandDestruct>
+<LandFall>
+  Calcite Snappera
+  Floodbringer
+  Roil Elemental
+  <Mana>
+    Blighted Woodland
+    Cavern of Souls
+    Celestial Colonnade ($20+)
+    Creeping Tar Pit ($9+)
+    Flooded Strand ($10+)
+    Halimar Depths
+    Khalni Gem
+    Kuldotha Flamefiend
+    Life from the Loam ($8+)
+    Llanowar Reborn
+    Lumbering Falls
+    Mana Confluence ($3+)
+    Mistvein Borderpost
+    Misty Rainforest ($14+)
+    Moonring Island
+    Mortuary Mire
+    Oran-Rief, the Vastwood
+    Primal Beyond
+    Prophetic Prism
+    Radiant Fountain
+    Simic Growth Chamber
+    Sylvan Caryatid
+    Terramorphic Expanse ($1+)
+    Transguild Promenade
+    Traveler's Amulet
+    Vivid Creek
+    Vivid Grove
+    Vivid Marsh
+    Windswept Heath
+    Witch-Maw Nephilim
+  </Mana>
+  <OtherColors>
+    <AllColors>
+      Bloodhall Ooze
+      Fusion Elemental
+      Genju of the Realm
+      Horde of Notions
+      Rupture Spire
+    </AllColors>
+    <Red>
+      Brighthearth Banneret
+      Ember Swallower
+      Embodiment of Fury
+      Firefiend Elemental
+      Flamekin Harbinger
+      Generator Servant
+      Grinning Ignus
+      Grove Rumbler
+      Nova Chaser
+      Omnath, Locus of Rage
+      Plated Geopede
+      Smokebraider
+      Temur Battle Rage
+    </Red>
+    <White>
+      Angelic Destiny
+      Archangel of Thune
+      Canopy Vista
+      Citadel Siege
+      Collective Effort
+      Dust Elemental
+      Gavony Township
+      Gift of Estates (and lands that are Plains)
+      Godless Shrine (need 3 more)
+      Juniper Order Ranger
+      Knight of the Reliquary
+      Ordeal of Heliod
+      Ruin Ghost
+      Sejiri Step
+      Selfless Spirit
+      Shambling Vent
+      Stirring Wildwood
+      Temple Garden (need 2)
+      Voice of Resurgence
+    </White>
+  </OtherColors>
+  <Madness>
+    Greenseeker
+  </Madness>
+  <Striker>
+    Asha's Favor (White)
+    Ashmouth Blade
+    Bladed Pinions
+    Chariot of Victory
+    Peregrine Mask
+    Sparring Collar
+    Surestrike Trident
+    Unscythe, Killer of Kings (Red)
+    Viridian Claw
+  </Striker>
+  <Proliferate>
+    Atraxa, Praetors' Voice
+    Fuel for the Cause
+    Steady Progress
+    Tezzeret's Gambit
+    Thrummingbird
+    
+    __suggested by lionel9191:
+    everflowing chalise
+    mage-ring network
+    pentad prism
+    
+  </Proliferate>
+  ___Awaken__ Spells 
+  ___Removal___ (Sideboard in Vortex Elemental with Nivmagus to deal with lots of big creatures).
+  Abrupt Decay ($4+)
+  Ageless Entity
+  Altered Ego
+  Amulet of Vigor ($1+)
+  Ancestral Vengeance
+  Animation Module
+  Architect of the Untamed
+  Ashiok, Nightmare Weaver
+  Awakening Zone
+  Avenger of Zendikar
+  Bant Panorama
+  Bassara Tower Archer
+  Bloodbriar
+  Blossoming Defense
+  Boundless Realms  
+  Bred for the Hunt
+  Budoka Gardener
+  Chameleon Colossus ($2+)
+  Changeling Berserker
+  Changeling Titan
+  Chronomaton
+  Clockwork Hydra
+  Cloud Key
+  Cloudfin Raptor
+  Cloudstone Curio
+  Cloudthresher
+  Clutch of Currents
+  Coat of Arms
+  Coiling Oracle
+  Commandeer
+  Conifer Strider
+  Corpsejack Menace
+  Courser of Kruphix
+  Corrupted Zendikon
+  Crawling Sensation
+  Cultivator's Caravan
+  Cyclone Sire
+  Deprive
+  Dimir Infiltrator
+  Doomgape
+  Door of Destinies
+  Doubling Season
+  Druidic Satchel
+  Elemental Mastery
+  Elemental Uprising
+  Embodiment of Insight
+  Embodiment of Spring
+  Etched Oracle
+  Eternity Vessel
+  Expedition Map
+  Experiment One
+  Explosive Vegetation
+  Force of Savagery (Add other creatures w/ Graft)
+  Gatecreeper Vine
+  Give/Take
+  Glade Watcher
+  Glimmer of Genius
+  Go for the Throat
+  Groundswell
+  Hardened Scales
+  Honored Hierarch
+  Horizon Spellbomb
+  Hydroform
+  Inspiring Call
+  Ior Ruin Expedition
+  Khalni Heart Expedition
+  Krark-Clan Ironworks ($2+)
+  Lavacore Elemental
+  Living Totem
+  Living Tsunami
+  Llanowar Reborn
+  Master Biomancer
+  Master of Waves
+  Mulldrifter
+  Mwonvuli Acid-Moss
+  Mycosynth Wellspring
+  Myr Retriever
+  Narnam Renegade
+  Nissa, Vastwood Seer
+  Nissa, Vital Force
+  Nissa, Worldwaker
+  Nissa's Expedition
+  Nykthos, Shrine to Nyx
+  Nylea, God of the Hunt
+  Oboro, Palace in the Clouds ($16+)
+  Oran-Rief Hydra
+  Ordeal of Thassa
+  Overgrown Tomb
+  Pearl Lake Ancient
+  Petrified Wood-Kin
+  Power Conduit
+  Primeval Bounty
+  Primeval Titan ($11+)
+  Progenitor Mimic
+  Protean Hydra
+  Rampant Growth
+  Rampaging Baloths
+  Rishkar, Peema Renegade
+  Retreat to Kazandu
+  Retribution of the Ancients
+  Rogue Refiner
+  Roil Elemental
+  Sakura-Tribe Elder ($2+)
+  Scapeshift ($26+)
+  Scythe Leopard
+  Seed Guardian
+  Search for Tomorrow
+  Sheltering Word
+  Shorecrasher Elemental
+  Simic Charm
+  Simic Manipulator
+  Slab Hammer
+  Soratami Rainshaper
+  Spawnwrithe
+  Steppe Lynx
+  Strionic Resonator
+  Sturdy Hatchling
+  Sultai Charm
+  Supreme Exemplar
+  Sword of the Animist
+  Sylvan Scrying
+  Tamiyo, Field Researcher
+  Tideforce Elemental
+  Timbermare
+  Tireless Tracker
+  Throne of Geth
+  Thrummingbird
+  Tireless Tracker
+  Torrent Elemental
+  Trade Routes
+  Undergrowth Champion
+  Unexpected Results
+  Undying Evil
+  Untethered Express
+  Vastwood Zendikon
+  Vigean Hydropon
+  Vigor
+  Villainous Wealth  
+  Void Grafter
+  Vortex Elemental
+  Wave-Wing Elemental
+  Wayfarer's Bauble
+  Wild-Field Scarecrow
+  Wind Zendikon
+  Witchstalker
+  Wolfbriar Elemental
+  Woodland Wanderer
+  Zameck Guildmage
+  Zendikar's Roil
+</LandFall>
+<LivingLore>
+  Crack the Earth
+  Ojutai's Command
+  
+LivingLore (White Blue Red):
+- Use graveyard-fill cards and Living Lore to get big threat and big spells
+- Use Eidolon of Great Revel and only 4+ casting cost cards and include lots of lands that can become 3/3 creatures w/ Hammer of Purphoros
+- Put in lots and lots of Planewalkers and Chain Veils
+- Need more Ojutai Monuments and other similar non-creatures-that-can-become-creatures
+
++++:
+Fall of the Hammer
+Flamespeaker's Will
+Godsend
+Haunted Plate Mail
+Profound Journey
+Sword of the Animist
+Stormrider Rig
+
+---:
+Fate Forgotten
+
+BIG SPELLS:
+- Chronostutter (6)
+- Clone Legion (9)
+- Dead Drop (10) [BLK]
+- Descent of the Dragons (6)
+- Feral Incarnation (9) [GRN]
+- Ojutai's Command (4)
+- Psychic Intrusion (5) [BLK]
+- Silumgar's Command (5) [BLK]
+- Supplant Form (6)
+- Temporal Trespass (11)
+- Volcanic Vision (7)
+
+NON-CREATURES:
+- Cunning Strike (5)
+- Divine Favor
+- Epiphany Storm
+- Friendly Fire
+- Hammer of Purphoros (use extra lands to create 3/3 colorless)
+- In Garruk's Wake (9) [BLK]
+- Jeskai Ascendancy
+- Military Intelligence
+- Monastery Siege
+- Myth Realized
+- Raise the Alarm
+- Riddle of Lightning (5)
+- Searing Blood
+- Shifting Loyalties
+- Steam Augury
+- Whims of the Fates (6)
+- Worst Fears (8) [BLK]
+
+</LivingLore>
+<Nibbler>
+  Courser of Kruphix
+  Crawling Sensation
+  Scrib Nibblers
+</Nibbler>
+<PackRats>
+  Doubling Season
+  Marrow-Gnawer
+  Pack Rat
+  Parallel Lives
+  *for 2+1BLACK, discard a card and put a Pack Rat token into play
+</PackRats>
+<Pyxis>
+  Moonring Island
+  Pyxis of Pandemonium
+</Pyxis>
+<RedBlueIzzet>
+  Aethertorch Renegade
+  Arcane Teachings
+  Chandra's Spitfire
+  Curiosity
+  Curse of Stalked Prey
+  Fire Whip
+  Izzet Boilerworks
+  Piston Sledge
+  Reclusive Artificer
+  Rings of Brighthearth
+  Royal Assasin
+  Skeleton Shard
+  Skill Borrower
+  Sunbeam Spellbomb
+  Sword of Kaldra
+  Thunderstaff
+  Viridian Longbow
+  Wall of Spears
+</RedBlueIzzet>
+<RedGrDevotion-0>
+  Arlinn Kord
+  Borborygmos Enraged
+  Boundless Realms
+  Cloudthresher
+  Curse of Stalked Prey
+  Decimator of the Provinces
+  Doomgape
+  Doubling Season
+  Electropotence
+  Furyborn Hellkite
+  Gravity Well (Sideboard)
+  Groundbreaker
+  Kalonian Behemoth
+  Kessig Wolf Run
+  Khalni Hydra
+  Leatherback Baloth
+  Lifecrafter's Bestiary
+  Living Hive
+  Mage Slayer
+  Monstrous Onslaught
+  Predator Ooze
+  Primalcrux
+  Primordial Hydra
+  Pyrewild Shaman
+  Regal Force
+  Reverent Hunter
+  Rumbling Slum
+  Savage Summoning
+  Savageborn Hydra
+  Sheltering Word
+  Timbermare
+  Trace of Abundance
+  Triumph of the Hordes
+  Troll Ascetic
+  Ulasht, the Hate Seed
+  Ulrich of the Krallenhorde
+  Unbridled Growth
+  Vigor
+  Vorapede
+  Wolfbriar Elemental
+</RedGrDevotion-0>
+<Spectres>
+  Exotic Orchard
+  Sedraxis Specter
+</Spectres>
+<Tokens>
+	<Madness>
+    Llanowar Mentor
+	</Madness>
+  Aether Vial
+  Angel of Jubilation (TAKE OUT: Awakening Zone, Trading Post)
+  Archangel of Tithes
+  Awakening Zone
+  Baloth Cage Trap (Sideboard)
+  Baru, Fist of Krosa
+  Beckon Apparition
+  Call of the Herd
+  Champion of Lambholt
+  Cobra Trap
+  Cogworker's Puzzleknot
+  Creakwood Liege
+  Dauntless Escort
+  Dromoka's Command
+  Doubling Season
+  Elspeth, Knight-Errant
+  Elspeth Tirel
+  Feral Incarnation
+  Garruk, Primal Hunter
+  Garruk Relentless
+  Garruk Wildspeaker
+  Gideon, Ally of Zendikar
+  Gideon, Champion of Justice
+  Godsire
+  Goldnight Commander
+  Hanweir Militia Captain
+  Herald of Anafenza
+  Hooded Hydra
+  Hornet Nest
+  Ichor Wellspring
+  Inexorable Blob
+  Intangible Virtue
+  Kazandu Tuskcaller
+  Khalni Garden
+  Launch the Fleet
+  Leyline of the Meek
+  Loyal Sentry
+  Luminarch Ascension
+  Mantle of Leadership
+  Mana Bloom
+  Master of the Wild Hunt
+  Miming Slime  
+  Mentor of the Meek
+  Mirrorpool
+  Mortarpod
+  Mycoloth
+  Nissa, Vastwood Seer
+  Nissa, Voice of Zendikar
+  Nuisance Engine
+  Oath of Ajani
+  Oran-Rief, the Vastwood
+  Parallel Lives
+  Prophetic Prism
+  Pulse of the Tangle
+  Raise the Alarm
+  Rancor
+  Renegade Rallier
+  Riftmarked Knight
+  Rhys the Redeemed
+  Rise of the Hobgoblins
+  Roc Egg
+  Ronom Unicorn
+  Rootborn Defenses
+  Saffi Eriksdotter
+  Second Harvest
+  Seed Spark
+  Selfless Spirit
+  Shrine of Loyal Legions
+  Sigil of the Nayan Gods
+  Skinshifter
+  Slate of Ancestry
+  Soul Foundry
+  Spawning Pit
+  Spawnwrithe
+  Spirit Bonds
+  Springjack Pasture
+  Sublime Archangel
+  Sundering Growth
+  Wolfbriar Elemental
+  Thragtusk
+  Tumble Magnet
+  Ulvenwald Mysteries
+  Unbridled Growth
+  Unruly Mob
+  Vessel of Malignity  1Black (2) 
+  Wall of Omens
+  Westvale Abbey
+  Windborn Muse
+  Wingmate Roc
+  Woolly Razorback
+</Tokens>
+<WasteNot>
+  <Green>
+    Abrupt Decay
+    Ana Battlemage
+    Horizon Chimera
+    Kheru Lich Lord  3BlackGreenBlue (6) 
+    Kruphix, God of Horizons
+    Prophet of Kruphix  3GreenBlue (5) 
+    Sidisi, Brood Tyrant  1BlackGreenBlue (4) 
+    Sultai Ascendancy  BlackGreenBlue (3) 
+    Sultai Charm  BlackGreenBlue (3) 
+    Villainous Wealth  Variable ColorlessBlackGreenBlue (3) 
+  </Green>
+  <White>
+    Esper Charm
+    Idyllic Tutor
+    Merciless Eviction
+    Zur the Enchanter  1WhiteBlueBlack (4) 
+  </White>
+  <Red>
+    Barbed Shocker
+    Blightning
+    Burning Inquiry
+    Cruel Ultimatum
+    Elder Mastery  3BlueBlackRed (6) 
+    Grixis Charm
+    Grixis Grimblade
+    Grixis Sojourners  1BlueBlackRed (4) 
+    Hypersonic Dragon
+    Nicol Bolas
+    Nicol Bolas, Planeswalker
+    Rakdos Augermage    
+    Resounding Scream
+    Rise // Fall
+    Sanity Gnawers
+    Sedraxis Specter
+    Sewn-Eye Drake
+    Skull Rend
+    Slavering Nulls
+  </Red>
+  <Madness>
+    <CauseDiscard>
+      Artificer's Epiphany
+      Avatar of Discord
+      Black Oak of Odunos
+      Bonded Fetch
+      Call the Bloodline
+      Catalog
+      Civilized Scholar
+      Compulsive Research
+      Creeping Dread
+      Deepcavern Imp
+      Demonic Collusion
+      Disciple of Deceit
+      Dreamscape Artist
+      Drekavac
+      Elusive Tormentor
+      Enclave Cryptologist
+      Enhanced Awareness
+      Erebos's Titan
+      Forgotten Creation
+      Geralf's Masterpiece
+      Ghastly Discovery
+      Ghostly Wings
+      Gibbering Descent
+      Grixis Battlemage
+      Heir of Falkenrath
+      Hidden Horror
+      Ideas Unbound
+      Jace, Vryn's Prodigy
+      Jace's Archivist
+      Jeskai Elder
+      Lightning Axe
+      Magus of the Jar
+      Mask of Memory
+      Mercurial Chemister (RED)
+      Merfolk Looter
+      Mindslicer
+      Monastery Siege      
+      Murderer's Axe
+      Necrogen Mists
+      Necromancer's Stockpile
+      Oblivion Crown
+      Pale Rider of Trostad
+      Persecute
+      Prognostic Sphinx
+      Pulse of the Grid
+      Ridged Kusite
+      Rix Maadi, Dungeon Palace
+      Sibsig Icebreakers
+      Skeleton Key
+      Skirk Ridge Exhumer
+      Skullmead Cauldron
+      Smallpox
+      Soratami Cloudskater
+      Stitchwing Skaab
+      Thought Courier
+      Tolarian Sentinel
+      Tormenting Voice (RED)
+      Trading Post
+      Undertaker  1Black (2) 
+    </CauseDiscard>
+    Alms of the Vein  2Black (3) 
+    Artificer's Epiphany  2Blue (3
+    Asylum Visitor
+    Big Game Hunter
+    Call to the Netherworld
+    Cemetery Recruitment
+    Consult the Necrosages
+    Dark Withering
+    Desecrated Earth
+    Dimir Guildmage
+    Diregraf Captain
+    Dimir Infiltrator
+    Disrupting Scepter
+    Dream Salvage
+    From Under the Floorboards
+    Gorgon Recluse
+    Grave Scrabbler
+    Guul Draz Specter
+    Ichor Slick
+    Just the Wind
+    Muck Drubb
+    Murderous Compulsion
+    Nagging Thoughts
+    Psychotic Episode
+    Scepter of Fugue
+    Shred Memory (Transmute 2)
+    Welcome to the Fold  2BlueBlue (4) 
+    Zephyr Scribe
+  </Madness>
+  Ã†therize
+  Augur of Skulls
+  Black Oak of Odunos
+  Brain in a Jar
+  Cry of Contrition
+  Crystal Shard
+  Curse of Oblivion
+  Death Cloud
+  Disrupting Scepter
+  Dream Fracture
+  Dragonlord Silumgar
+  Drunau Corpse Trawler
+  Elder Mastery
+  Elixir of Immortality
+  Empty the Pits
+  Endless Obedience
+  Extirpate
+  Far // Away
+  Fate Unraveler
+  Forbidden Alchemy
+  Frightful Delusion
+  Funeral Charm
+  Havengul Lich
+  Geth's Grimoire
+  Gibbering Descent
+  Gitaxian Probe
+  Gnat Miser
+  Haunting Hymn
+  Horrifying Revelation
+  Into the Roil
+  Lantern of Insight
+  Lazav, Dimir Mastermind
+  Leyline of Anticipation
+  Lich Lord of Unx
+  Lifebane Zombie
+  Liliana, Heretical Healer
+  Liliana of the Veil
+  Liliana's Caress
+  Lord of Extinction
+  Lord of the Undead
+  Mental Vapors
+  Mikokoro, Center of the Sea
+  Mind Slash
+  Mindstab
+  Mire's Toll
+  Mistmeadow Skulk
+  Muddle the Mixture
+  Mystical Teachings
+  Necromaster Dragon
+  Needle Specter
+  Nezumi Shortfang
+  Nightmare Incursion
+  Nip Gwyllion
+  Notion Thief
+  Oblivion Crown
+  Okiba-Gang Shinobi
+  Oona's Prowler
+  Ophidian Eye
+  Ordeal of Erebos
+  Painful Quandary
+  Panoptic Mirror
+  Persecute
+  Phantasmal Bear
+  Pick the Brain
+  Prized Amalgam
+  Psychic Miasma
+  Pulse of the Dross
+  Quest for the Nihil Stone
+  Ragged Veins
+  Raven's Crime
+  Reality Smasher
+  Relentless Dead
+  Riptide Pilferer
+  River's Grasp
+  Sever the Bloodline
+  Sign in Blood
+  Sink into Takenuma
+  Soul Ransom
+  Soul's Attendant
+  Stillmoon Cavalier
+  Stromgald Crusader
+  Stupor
+  Swan Song
+  Taigam's Scheming
+  Talara's Bane
+  Tamiyo, the Moon Sage
+  Teferi, Mage of Zhalfir
+  Thieving Magpie
+  Thing in the Ice
+  Tolaria West
+  Twisted Abomination
+  Vault Skirge
+  Venarian Glimmer
+  Venser, Shaper Savant
+  Vexing Sphinx
+  Warped Devotion
+  Weathered Wayfarer
+  Wheel of Fate
+  Whelming Wave
+  Wistful Thinking
+  Zombie Outlander
+</WasteNot>
+<WasteNotNew>
+  Agent of Masks
+  Archetype of Finality
+  Chimney Imp
+  Deathbringer Liege
+  Demon of Death's Gate
+  DragonLord Silumgar
+  Dread Slaver
+  Elixir of Immortality
+  Grave Titan
+  Harvester of Souls
+  Herald of Leshrac
+  Lord of the Void
+  Midnight Banshee
+  Ob Nixilis, Unshackled
+  Path to Exile
+  Rune-Scarred Demon
+  Teysa, Envoy of Ghosts
+  Westvale Abbey
+</WasteNotNew>
+
+
+</AllDecks>

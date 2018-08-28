@@ -29,15 +29,18 @@
   <Cards CatID="54132" Quantity="1" Sideboard="false" Name="Temur Charm" />
   <Cards CatID="54022" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
   <Cards CatID="55602" Quantity="1" Sideboard="false" Name="Arcbond" />
-  <Cards CatID="51797" Quantity="1" Sideboard="false" Name="Whelming Wave" />
+  <Cards CatID="47685" Quantity="2" Sideboard="false" Name="Aetherize" />
   <Cards CatID="54108" Quantity="2" Sideboard="false" Name="Monastery Swiftspear" />
   <Cards CatID="51851" Quantity="2" Sideboard="false" Name="Courser of Kruphix" />
   <Cards CatID="55440" Quantity="1" Sideboard="false" Name="Outpost Siege" />
   <Cards CatID="29793" Quantity="4" Sideboard="false" Name="Giantbaiting" />
+  <Cards CatID="35577" Quantity="1" Sideboard="false" Name="Explore" />
   <Cards CatID="56296" Quantity="1" Sideboard="false" Name="Thunderbreak Regent" />
   <Cards CatID="55496" Quantity="1" Sideboard="false" Name="Winds of Qal Sisma" />
-  <Cards CatID="49133" Quantity="1" Sideboard="false" Name="Negate" />
+  <Cards CatID="27598" Quantity="1" Sideboard="false" Name="Troll Ascetic" />
+  <Cards CatID="54308" Quantity="2" Sideboard="false" Name="Stubborn Denial" />
   <Cards CatID="51639" Quantity="1" Sideboard="false" Name="Fall of the Hammer" />
+  <Cards CatID="63215" Quantity="1" Sideboard="false" Name="Explore" />
   <Cards CatID="55358" Quantity="1" Sideboard="false" Name="Cloudform" />
   <Cards CatID="53731" Quantity="1" Sideboard="false" Name="Military Intelligence" />
   <Cards CatID="53632" Quantity="1" Sideboard="false" Name="Hammerhand" />

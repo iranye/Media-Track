@@ -192,7 +192,7 @@
   <Cards CatID="49319" Quantity="14" Sideboard="false" Name="Angelic Wall" />
   <Cards CatID="31217" Quantity="4" Sideboard="false" Name="Angel's Herald" />
   <Cards CatID="45306" Quantity="1" Sideboard="false" Name="Angel's Mercy" />
-  <Cards CatID="50578" Quantity="2" Sideboard="false" Name="Anger of the Gods" />
+  <Cards CatID="50578" Quantity="4" Sideboard="false" Name="Anger of the Gods" />
   <Cards CatID="65280" Quantity="4" Sideboard="false" Name="Angrath's Marauders" />
   <Cards CatID="62055" Quantity="1" Sideboard="false" Name="Animation Module" />
   <Cards CatID="54476" Quantity="4" Sideboard="false" Name="Ankle Shanker" />
@@ -287,6 +287,7 @@
   <Cards CatID="46745" Quantity="1" Sideboard="false" Name="Ash Zealot" />
   <Cards CatID="50570" Quantity="2" Sideboard="false" Name="Ashen Rider" />
   <Cards CatID="65014" Quantity="4" Sideboard="false" Name="Ashes of the Abhorrent" />
+  <Cards CatID="50310" Quantity="1" Sideboard="false" Name="Ashiok, Nightmare Weaver" />
   <Cards CatID="51807" Quantity="6" Sideboard="false" Name="Ashiok's Adept" />
   <Cards CatID="30002" Quantity="4" Sideboard="false" Name="Ashling, the Extinguisher" />
   <Cards CatID="52160" Quantity="11" Sideboard="false" Name="Aspect of Gorgon" />
@@ -327,7 +328,7 @@
   <Cards CatID="60398" Quantity="4" Sideboard="false" Name="Autumnal Gloom" />
   <Cards CatID="53578" Quantity="4" Sideboard="false" Name="Avacyn, Guardian Angel" />
   <Cards CatID="59882" Quantity="4" Sideboard="false" Name="Avacynian Missionaries" />
-  <Cards CatID="53692" Quantity="3" Sideboard="false" Name="Avarice Amulet" />
+  <Cards CatID="53692" Quantity="4" Sideboard="false" Name="Avarice Amulet" />
   <Cards CatID="56386" Quantity="2" Sideboard="false" Name="Avatar of the Resolute" />
   <Cards CatID="26796" Quantity="4" Sideboard="false" Name="Aven Augur" />
   <Cards CatID="32380" Quantity="4" Sideboard="false" Name="Aven Mimeomancer" />
@@ -396,7 +397,7 @@
   <Cards CatID="26864" Quantity="4" Sideboard="false" Name="Baru, Fist of Krosa" />
   <Cards CatID="47651" Quantity="4" Sideboard="false" Name="Basilica Guards" />
   <Cards CatID="47717" Quantity="5" Sideboard="false" Name="Basilica Screecher" />
-  <Cards CatID="35695" Quantity="2" Sideboard="false" Name="Basilisk Collar" />
+  <Cards CatID="35695" Quantity="4" Sideboard="false" Name="Basilisk Collar" />
   <Cards CatID="51970" Quantity="4" Sideboard="false" Name="Bassara Tower Archer" />
   <Cards CatID="62571" Quantity="4" Sideboard="false" Name="Bastion Enforcer" />
   <Cards CatID="62615" Quantity="4" Sideboard="false" Name="Bastion Inventor" />
@@ -529,7 +530,7 @@
   <Cards CatID="9185" Quantity="4" Sideboard="false" Name="Bloodrock Cyclops" />
   <Cards CatID="29851" Quantity="4" Sideboard="false" Name="Bloodshed Fever" />
   <Cards CatID="54172" Quantity="5" Sideboard="false" Name="Bloodsoaked Champion" />
-  <Cards CatID="54198" Quantity="2" Sideboard="false" Name="Bloodstained Mire" />
+  <Cards CatID="54198" Quantity="3" Sideboard="false" Name="Bloodstained Mire" />
   <Cards CatID="67695" Quantity="4" Sideboard="false" Name="Bloodstone Goblin" />
   <Cards CatID="67889" Quantity="4" Sideboard="false" Name="Bloodtallow Candle" />
   <Cards CatID="45370" Quantity="1" Sideboard="false" Name="Bloodthrone Vampire" />
@@ -552,7 +553,7 @@
   <Cards CatID="68423" Quantity="4" Sideboard="false" Name="Boggart Brute" />
   <Cards CatID="57802" Quantity="1" Sideboard="false" Name="Boggart Brute" />
   <Cards CatID="68335" Quantity="4" Sideboard="false" Name="Bogstomper" />
-  <Cards CatID="35515" Quantity="6" Sideboard="false" Name="Bojuka Bog" />
+  <Cards CatID="35515" Quantity="8" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="35641" Quantity="4" Sideboard="false" Name="Bojuka Brigand" />
   <Cards CatID="34504" Quantity="4" Sideboard="false" Name="Bold Defense" />
   <Cards CatID="51637" Quantity="7" Sideboard="false" Name="Bolt of Keranos" />
@@ -600,7 +601,7 @@
   <Cards CatID="24165" Quantity="4" Sideboard="false" Name="Brain Pry" />
   <Cards CatID="49289" Quantity="11" Sideboard="false" Name="Bramblecrush" />
   <Cards CatID="36414" Quantity="4" Sideboard="false" Name="Bramblesnap" />
-  <Cards CatID="39449" Quantity="3" Sideboard="false" Name="Brass Squire" />
+  <Cards CatID="39449" Quantity="4" Sideboard="false" Name="Brass Squire" />
   <Cards CatID="49189" Quantity="7" Sideboard="false" Name="Brave the Elements" />
   <Cards CatID="34540" Quantity="4" Sideboard="false" Name="Brave the Elements" />
   <Cards CatID="54048" Quantity="6" Sideboard="false" Name="Brave the Sands" />
@@ -997,7 +998,7 @@
   <Cards CatID="62675" Quantity="4" Sideboard="false" Name="Cruel Finality" />
   <Cards CatID="53596" Quantity="4" Sideboard="false" Name="Cruel Sadist" />
   <Cards CatID="58733" Quantity="2" Sideboard="false" Name="Crumble to Dust" />
-  <Cards CatID="31183" Quantity="2" Sideboard="false" Name="Crumbling Necropolis" />
+  <Cards CatID="31183" Quantity="4" Sideboard="false" Name="Crumbling Necropolis" />
   <Cards CatID="59321" Quantity="1" Sideboard="false" Name="Crumbling Vestige" />
   <Cards CatID="45540" Quantity="1" Sideboard="false" Name="Crusader of Odric" />
   <Cards CatID="35545" Quantity="4" Sideboard="false" Name="Crusher Zendikon" />
@@ -1014,7 +1015,7 @@
   <Cards CatID="63698" Quantity="4" Sideboard="false" Name="Cryptic Serpent" />
   <Cards CatID="61484" Quantity="4" Sideboard="false" Name="Cryptolith Fragment" />
   <Cards CatID="59792" Quantity="4" Sideboard="false" Name="Cryptolith Rite" />
-  <Cards CatID="20007" Quantity="3" Sideboard="false" Name="Crystal Shard" />
+  <Cards CatID="20007" Quantity="4" Sideboard="false" Name="Crystal Shard" />
   <Cards CatID="52030" Quantity="3" Sideboard="false" Name="Crystalline Nautilus" />
   <Cards CatID="58393" Quantity="2" Sideboard="false" Name="Culling Drone" />
   <Cards CatID="51653" Quantity="8" Sideboard="false" Name="Culling Mark" />
@@ -1038,7 +1039,7 @@
   <Cards CatID="56238" Quantity="6" Sideboard="false" Name="Custodian of the Trove" />
   <Cards CatID="50226" Quantity="8" Sideboard="false" Name="Cutthroat Maneuver" />
   <Cards CatID="59515" Quantity="1" Sideboard="false" Name="Cyclone Sire" />
-  <Cards CatID="46733" Quantity="3" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="46733" Quantity="4" Sideboard="false" Name="Cyclonic Rift" />
   <Cards CatID="51960" Quantity="4" Sideboard="false" Name="Cyclops of Eternal Fury" />
   <Cards CatID="51825" Quantity="9" Sideboard="false" Name="Cyclops of One-Eyed Pass" />
   <Cards CatID="49343" Quantity="8" Sideboard="false" Name="Cyclops Tyrant" />
@@ -1195,7 +1196,7 @@
   <Cards CatID="62727" Quantity="4" Sideboard="false" Name="Destructive Tampering" />
   <Cards CatID="55542" Quantity="5" Sideboard="false" Name="Destructor Dragon" />
   <Cards CatID="25745" Quantity="4" Sideboard="false" Name="Detainment Spell" />
-  <Cards CatID="68661" Quantity="3" Sideboard="false" Name="Detection Tower" />
+  <Cards CatID="68661" Quantity="4" Sideboard="false" Name="Detection Tower" />
   <Cards CatID="46423" Quantity="5" Sideboard="false" Name="Detention Sphere" />
   <Cards CatID="46327" Quantity="7" Sideboard="false" Name="Deviant Glee" />
   <Cards CatID="59874" Quantity="4" Sideboard="false" Name="Devilthorn Fox" />
@@ -1441,7 +1442,7 @@
   <Cards CatID="51727" Quantity="2" Sideboard="false" Name="Eater of Hope" />
   <Cards CatID="36722" Quantity="4" Sideboard="false" Name="Echo Mage" />
   <Cards CatID="56204" Quantity="4" Sideboard="false" Name="Echoes of the Kin Tree" />
-  <Cards CatID="20363" Quantity="2" Sideboard="false" Name="Echoing Truth" />
+  <Cards CatID="20363" Quantity="4" Sideboard="false" Name="Echoing Truth" />
   <Cards CatID="61863" Quantity="4" Sideboard="false" Name="Eddytrail Hawk" />
   <Cards CatID="36456" Quantity="4" Sideboard="false" Name="Eel Umbra" />
   <Cards CatID="60282" Quantity="4" Sideboard="false" Name="Eerie Interlude" />
@@ -1468,7 +1469,8 @@
   <Cards CatID="49523" Quantity="6" Sideboard="false" Name="Elite Arcanist" />
   <Cards CatID="55560" Quantity="5" Sideboard="false" Name="Elite Scaleguard" />
   <Cards CatID="51749" Quantity="6" Sideboard="false" Name="Elite Skirmisher" />
-  <Cards CatID="49217" Quantity="10" Sideboard="false" Name="Elixir of Immortality" />
+  <Cards CatID="49217" Quantity="11" Sideboard="false" Name="Elixir of Immortality" />
+  <Cards CatID="45390" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
   <Cards CatID="38337" Quantity="1" Sideboard="false" Name="Elspeth Tirel" />
   <Cards CatID="30927" Quantity="1" Sideboard="false" Name="Elspeth, Knight-Errant" />
   <Cards CatID="50304" Quantity="1" Sideboard="false" Name="Elspeth, Sun's Champion" />
@@ -1567,7 +1569,7 @@
   <Cards CatID="55492" Quantity="8" Sideboard="false" Name="Ethereal Ambush" />
   <Cards CatID="46571" Quantity="5" Sideboard="false" Name="Ethereal Armor" />
   <Cards CatID="60194" Quantity="4" Sideboard="false" Name="Ethereal Guidance" />
-  <Cards CatID="31213" Quantity="2" Sideboard="false" Name="Etherium Sculptor" />
+  <Cards CatID="31213" Quantity="4" Sideboard="false" Name="Etherium Sculptor" />
   <Cards CatID="51591" Quantity="7" Sideboard="false" Name="Evanescent Intellect" />
   <Cards CatID="50352" Quantity="5" Sideboard="false" Name="Evangel of Heliod" />
   <Cards CatID="60296" Quantity="1" Sideboard="false" Name="Ever After" />
@@ -1582,6 +1584,7 @@
   <Cards CatID="57650" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="55998" Quantity="7" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="53316" Quantity="4" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="45366" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="36440" Quantity="4" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="48248" Quantity="1" Sideboard="false" Name="Exava, Rakdos Blood Witch" />
   <Cards CatID="67499" Quantity="4" Sideboard="false" Name="Excavation Elephant" />
@@ -1589,7 +1592,7 @@
   <Cards CatID="51583" Quantity="7" Sideboard="false" Name="Excoriate" />
   <Cards CatID="47709" Quantity="6" Sideboard="false" Name="Executioner's Swing" />
   <Cards CatID="31939" Quantity="4" Sideboard="false" Name="Exotic Orchard" />
-  <Cards CatID="34832" Quantity="4" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="34832" Quantity="5" Sideboard="false" Name="Expedition Map" />
   <Cards CatID="59303" Quantity="1" Sideboard="false" Name="Expedition Raptor" />
   <Cards CatID="66527" Quantity="4" Sideboard="false" Name="Expel from Orazca" />
   <Cards CatID="24195" Quantity="4" Sideboard="false" Name="Experiment Kraj" />
@@ -1886,7 +1889,7 @@
   <Cards CatID="47529" Quantity="6" Sideboard="false" Name="Foundry Street Denizen" />
   <Cards CatID="68633" Quantity="4" Sideboard="false" Name="Fountain of Renewal" />
   <Cards CatID="62661" Quantity="4" Sideboard="false" Name="Fourth Bridge Prowler" />
-  <Cards CatID="19979" Quantity="2" Sideboard="false" Name="Fractured Loyalty" />
+  <Cards CatID="19979" Quantity="4" Sideboard="false" Name="Fractured Loyalty" />
   <Cards CatID="61625" Quantity="4" Sideboard="false" Name="Fragmentize" />
   <Cards CatID="68355" Quantity="4" Sideboard="false" Name="Fraying Omnipotence" />
   <Cards CatID="53780" Quantity="1" Sideboard="false" Name="Frenzied Goblin" />
@@ -1910,7 +1913,7 @@
   <Cards CatID="53598" Quantity="6" Sideboard="false" Name="Frost Lynx" />
   <Cards CatID="37354" Quantity="4" Sideboard="false" Name="Frost Titan" />
   <Cards CatID="55372" Quantity="7" Sideboard="false" Name="Frost Walker" />
-  <Cards CatID="46427" Quantity="4" Sideboard="false" Name="Frostburn Weird" />
+  <Cards CatID="46427" Quantity="7" Sideboard="false" Name="Frostburn Weird" />
   <Cards CatID="21861" Quantity="4" Sideboard="false" Name="Frostling" />
   <Cards CatID="20989" Quantity="1" Sideboard="false" Name="Frostwielder" />
   <Cards CatID="36430" Quantity="4" Sideboard="false" Name="Frostwind Invoker" />
@@ -1931,7 +1934,7 @@
   <Cards CatID="9407" Quantity="4" Sideboard="false" Name="Gaea's Blessing" />
   <Cards CatID="19451" Quantity="4" Sideboard="false" Name="Gaea's Herald" />
   <Cards CatID="67789" Quantity="4" Sideboard="false" Name="Gaea's Protector" />
-  <Cards CatID="50614" Quantity="4" Sideboard="false" Name="Gainsay" />
+  <Cards CatID="50614" Quantity="6" Sideboard="false" Name="Gainsay" />
   <Cards CatID="28353" Quantity="4" Sideboard="false" Name="Galepowder Mage" />
   <Cards CatID="49355" Quantity="1" Sideboard="false" Name="Galerider Sliver" />
   <Cards CatID="63710" Quantity="4" Sideboard="false" Name="Galestrike" />
@@ -1966,7 +1969,7 @@
   <Cards CatID="60174" Quantity="4" Sideboard="false" Name="Geistblast" />
   <Cards CatID="23703" Quantity="4" Sideboard="false" Name="Gelectrode" />
   <Cards CatID="45560" Quantity="1" Sideboard="false" Name="Gem of Becoming" />
-  <Cards CatID="9411" Quantity="3" Sideboard="false" Name="Gemstone Mine" />
+  <Cards CatID="9411" Quantity="4" Sideboard="false" Name="Gemstone Mine" />
   <Cards CatID="21453" Quantity="4" Sideboard="false" Name="General's Kabuto" />
   <Cards CatID="53712" Quantity="5" Sideboard="false" Name="Generator Servant" />
   <Cards CatID="20523" Quantity="4" Sideboard="false" Name="Genesis Chamber" />
@@ -2046,7 +2049,7 @@
   <Cards CatID="30106" Quantity="4" Sideboard="false" Name="Glamerdye" />
   <Cards CatID="50604" Quantity="6" Sideboard="false" Name="Glare of Heresy" />
   <Cards CatID="56376" Quantity="8" Sideboard="false" Name="Glaring Aegis" />
-  <Cards CatID="47813" Quantity="2" Sideboard="false" Name="Glaring Spotlight" />
+  <Cards CatID="47813" Quantity="5" Sideboard="false" Name="Glaring Spotlight" />
   <Cards CatID="61793" Quantity="4" Sideboard="false" Name="Glassblower's Puzzleknot" />
   <Cards CatID="48324" Quantity="2" Sideboard="false" Name="Gleam of Battle" />
   <Cards CatID="66821" Quantity="4" Sideboard="false" Name="Gleaming Barrier" />
@@ -2076,6 +2079,7 @@
   <Cards CatID="45654" Quantity="1" Sideboard="false" Name="Goblin Battle Jester" />
   <Cards CatID="55680" Quantity="4" Sideboard="false" Name="Goblin Boom Keg" />
   <Cards CatID="34388" Quantity="4" Sideboard="false" Name="Goblin Bushwhacker" />
+  <Cards CatID="67723" Quantity="1" Sideboard="false" Name="Goblin Chainwhirler" />
   <Cards CatID="49433" Quantity="5" Sideboard="false" Name="Goblin Diplomats" />
   <Cards CatID="46363" Quantity="5" Sideboard="false" Name="Goblin Electromancer" />
   <Cards CatID="23831" Quantity="4" Sideboard="false" Name="Goblin Flectomancer" />
@@ -2130,7 +2134,7 @@
   <Cards CatID="46607" Quantity="6" Sideboard="false" Name="Gore-House Chainwalker" />
   <Cards CatID="32907" Quantity="4" Sideboard="false" Name="Gorgon Flail" />
   <Cards CatID="25857" Quantity="4" Sideboard="false" Name="Gorgon Recluse" />
-  <Cards CatID="51559" Quantity="8" Sideboard="false" Name="Gorgon's Head" />
+  <Cards CatID="51559" Quantity="10" Sideboard="false" Name="Gorgon's Head" />
   <Cards CatID="56254" Quantity="4" Sideboard="false" Name="Graceblade Artisan" />
   <Cards CatID="63109" Quantity="1" Sideboard="false" Name="Graceful Reprieve" />
   <Cards CatID="29176" Quantity="3" Sideboard="false" Name="Graceful Reprieve" />
@@ -2138,7 +2142,7 @@
   <Cards CatID="54925" Quantity="2" Sideboard="false" Name="Grand Abolisher" />
   <Cards CatID="24157" Quantity="4" Sideboard="false" Name="Grand Arbiter Augustin IV" />
   <Cards CatID="38193" Quantity="1" Sideboard="false" Name="Grand Architect" />
-  <Cards CatID="20009" Quantity="3" Sideboard="false" Name="Granite Shard" />
+  <Cards CatID="20009" Quantity="4" Sideboard="false" Name="Granite Shard" />
   <Cards CatID="61230" Quantity="2" Sideboard="false" Name="Grapple with the Past" />
   <Cards CatID="35575" Quantity="4" Sideboard="false" Name="Grappler Spider" />
   <Cards CatID="66601" Quantity="4" Sideboard="false" Name="Grasping Scoundrel" />
@@ -2330,6 +2334,7 @@
   <Cards CatID="54282" Quantity="4" Sideboard="false" Name="Herald of Anafenza" />
   <Cards CatID="56184" Quantity="6" Sideboard="false" Name="Herald of Dromoka" />
   <Cards CatID="68187" Quantity="4" Sideboard="false" Name="Herald of Faith" />
+  <Cards CatID="58489" Quantity="2" Sideboard="false" Name="Herald of Kozilek" />
   <Cards CatID="61599" Quantity="4" Sideboard="false" Name="Herald of the Fair" />
   <Cards CatID="58050" Quantity="4" Sideboard="false" Name="Herald of the Pantheon" />
   <Cards CatID="51811" Quantity="4" Sideboard="false" Name="Herald of Torment" />
@@ -2391,7 +2396,7 @@
   <Cards CatID="47679" Quantity="5" Sideboard="false" Name="Homing Lightning" />
   <Cards CatID="41133" Quantity="4" Sideboard="false" Name="Honor of the Pure" />
   <Cards CatID="55486" Quantity="6" Sideboard="false" Name="Honor's Reward" />
-  <Cards CatID="55426" Quantity="4" Sideboard="false" Name="Hooded Assassin" />
+  <Cards CatID="55426" Quantity="5" Sideboard="false" Name="Hooded Assassin" />
   <Cards CatID="54410" Quantity="2" Sideboard="false" Name="Hooded Hydra" />
   <Cards CatID="54040" Quantity="7" Sideboard="false" Name="Hooting Mandrills" />
   <Cards CatID="59772" Quantity="4" Sideboard="false" Name="Hope Against Hope" />
@@ -2594,7 +2599,7 @@
   <Cards CatID="50420" Quantity="4" Sideboard="false" Name="Island" />
   <Cards CatID="50418" Quantity="10" Sideboard="false" Name="Island" />
   <Cards CatID="50282" Quantity="8" Sideboard="false" Name="Island" />
-  <Cards CatID="50280" Quantity="3" Sideboard="false" Name="Island" />
+  <Cards CatID="50280" Quantity="4" Sideboard="false" Name="Island" />
   <Cards CatID="49307" Quantity="23" Sideboard="false" Name="Island" />
   <Cards CatID="49301" Quantity="22" Sideboard="false" Name="Island" />
   <Cards CatID="49299" Quantity="21" Sideboard="false" Name="Island" />
@@ -2639,7 +2644,7 @@
   <Cards CatID="23791" Quantity="4" Sideboard="false" Name="Izzet Guildmage" />
   <Cards CatID="46463" Quantity="6" Sideboard="false" Name="Izzet Keyrune" />
   <Cards CatID="23679" Quantity="4" Sideboard="false" Name="Izzet Signet" />
-  <Cards CatID="46429" Quantity="2" Sideboard="false" Name="Izzet Staticaster" />
+  <Cards CatID="46429" Quantity="6" Sideboard="false" Name="Izzet Staticaster" />
   <Cards CatID="28469" Quantity="2" Sideboard="false" Name="Jace Beleren" />
   <Cards CatID="49253" Quantity="1" Sideboard="false" Name="Jace, Memory Adept" />
   <Cards CatID="53570" Quantity="2" Sideboard="false" Name="Jace, the Living Guildpact" />
@@ -2720,11 +2725,12 @@
   <Cards CatID="46283" Quantity="3" Sideboard="false" Name="Keening Apparition" />
   <Cards CatID="55962" Quantity="6" Sideboard="false" Name="Keeper of the Lens" />
   <Cards CatID="50362" Quantity="7" Sideboard="false" Name="Keepsake Gorgon" />
+  <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
   <Cards CatID="21127" Quantity="4" Sideboard="false" Name="Keiga, the Tide Star" />
   <Cards CatID="67733" Quantity="4" Sideboard="false" Name="Keldon Overseer" />
   <Cards CatID="67735" Quantity="4" Sideboard="false" Name="Keldon Raider" />
   <Cards CatID="67737" Quantity="4" Sideboard="false" Name="Keldon Warcaller" />
-  <Cards CatID="52102" Quantity="1" Sideboard="false" Name="Keranos, God of Storms" />
+  <Cards CatID="52102" Quantity="2" Sideboard="false" Name="Keranos, God of Storms" />
   <Cards CatID="59896" Quantity="4" Sideboard="false" Name="Kessig Dire Swine" />
   <Cards CatID="60402" Quantity="4" Sideboard="false" Name="Kessig Forgemaster" />
   <Cards CatID="61447" Quantity="1" Sideboard="false" Name="Kessig Prowler" />
@@ -2907,6 +2913,7 @@
   <Cards CatID="55974" Quantity="4" Sideboard="false" Name="Lightning Berserker" />
   <Cards CatID="37240" Quantity="4" Sideboard="false" Name="Lightning Bolt" />
   <Cards CatID="52150" Quantity="10" Sideboard="false" Name="Lightning Diadem" />
+  <Cards CatID="35503" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
   <Cards CatID="23154" Quantity="2" Sideboard="false" Name="Lightning Helix" />
   <Cards CatID="68463" Quantity="4" Sideboard="false" Name="Lightning Mare" />
   <Cards CatID="55500" Quantity="8" Sideboard="false" Name="Lightning Shrieker" />
@@ -2960,6 +2967,7 @@
   <Cards CatID="23210" Quantity="4" Sideboard="false" Name="Lore Broker" />
   <Cards CatID="56206" Quantity="8" Sideboard="false" Name="Lose Calm" />
   <Cards CatID="50162" Quantity="8" Sideboard="false" Name="Lost in a Labyrinth" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="34546" Quantity="1" Sideboard="false" Name="Lotus Cobra" />
   <Cards CatID="55502" Quantity="6" Sideboard="false" Name="Lotus Path Djinn" />
   <Cards CatID="55540" Quantity="4" Sideboard="false" Name="Lotus-Eye Mystics" />
@@ -3080,7 +3088,7 @@
   <Cards CatID="19907" Quantity="4" Sideboard="false" Name="Mask of Memory" />
   <Cards CatID="47601" Quantity="4" Sideboard="false" Name="Massive Raid" />
   <Cards CatID="47935" Quantity="1" Sideboard="false" Name="Master Biomancer" />
-  <Cards CatID="48264" Quantity="2" Sideboard="false" Name="Master of Cruelties" />
+  <Cards CatID="48264" Quantity="4" Sideboard="false" Name="Master of Cruelties" />
   <Cards CatID="49379" Quantity="9" Sideboard="false" Name="Master of Diversion" />
   <Cards CatID="53626" Quantity="5" Sideboard="false" Name="Master of Predicaments" />
   <Cards CatID="52188" Quantity="3" Sideboard="false" Name="Master of the Feast" />
@@ -3147,7 +3155,7 @@
   <Cards CatID="50344" Quantity="7" Sideboard="false" Name="Messenger's Speed" />
   <Cards CatID="62629" Quantity="4" Sideboard="false" Name="Metallic Rebuke" />
   <Cards CatID="61785" Quantity="4" Sideboard="false" Name="Metalspinner's Puzzleknot" />
-  <Cards CatID="61807" Quantity="3" Sideboard="false" Name="Metalwork Colossus" />
+  <Cards CatID="61807" Quantity="4" Sideboard="false" Name="Metalwork Colossus" />
   <Cards CatID="68645" Quantity="4" Sideboard="false" Name="Meteor Golem" />
   <Cards CatID="53714" Quantity="1" Sideboard="false" Name="Meteorite" />
   <Cards CatID="47835" Quantity="5" Sideboard="false" Name="Metropolis Sprite" />
@@ -3169,7 +3177,7 @@
   <Cards CatID="49559" Quantity="9" Sideboard="false" Name="Millstone" />
   <Cards CatID="38191" Quantity="4" Sideboard="false" Name="Mimic Vat" />
   <Cards CatID="47635" Quantity="4" Sideboard="false" Name="Miming Slime" />
-  <Cards CatID="21385" Quantity="3" Sideboard="false" Name="Minamo, School at Water's Edge" />
+  <Cards CatID="21385" Quantity="4" Sideboard="false" Name="Minamo, School at Water's Edge" />
   <Cards CatID="19567" Quantity="4" Sideboard="false" Name="Mind Bend" />
   <Cards CatID="58557" Quantity="2" Sideboard="false" Name="Mind Raker" />
   <Cards CatID="68379" Quantity="4" Sideboard="false" Name="Mind Rot" />
@@ -3190,7 +3198,7 @@
   <Cards CatID="51721" Quantity="6" Sideboard="false" Name="Mindreaver" />
   <Cards CatID="61118" Quantity="4" Sideboard="false" Name="Mind's Dilation" />
   <Cards CatID="55380" Quantity="6" Sideboard="false" Name="Mindscour Dragon" />
-  <Cards CatID="49421" Quantity="1" Sideboard="false" Name="Mindsparker" />
+  <Cards CatID="49421" Quantity="2" Sideboard="false" Name="Mindsparker" />
   <Cards CatID="48470" Quantity="6" Sideboard="false" Name="Mindstatic" />
   <Cards CatID="54144" Quantity="1" Sideboard="false" Name="Mindswipe" />
   <Cards CatID="53716" Quantity="5" Sideboard="false" Name="Miner's Bane" />
@@ -3293,10 +3301,10 @@
   <Cards CatID="53300" Quantity="10" Sideboard="false" Name="Mountain" />
   <Cards CatID="53298" Quantity="8" Sideboard="false" Name="Mountain" />
   <Cards CatID="50294" Quantity="3" Sideboard="false" Name="Mountain" />
-  <Cards CatID="50292" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="50292" Quantity="2" Sideboard="false" Name="Mountain" />
   <Cards CatID="50290" Quantity="5" Sideboard="false" Name="Mountain" />
   <Cards CatID="50288" Quantity="2" Sideboard="false" Name="Mountain" />
-  <Cards CatID="49547" Quantity="22" Sideboard="false" Name="Mountain" />
+  <Cards CatID="49547" Quantity="23" Sideboard="false" Name="Mountain" />
   <Cards CatID="49305" Quantity="22" Sideboard="false" Name="Mountain" />
   <Cards CatID="49277" Quantity="20" Sideboard="false" Name="Mountain" />
   <Cards CatID="49169" Quantity="22" Sideboard="false" Name="Mountain" />
@@ -3388,6 +3396,7 @@
   <Cards CatID="66667" Quantity="4" Sideboard="false" Name="Needletooth Raptor" />
   <Cards CatID="66541" Quantity="4" Sideboard="false" Name="Negate" />
   <Cards CatID="62627" Quantity="4" Sideboard="false" Name="Negate" />
+  <Cards CatID="57618" Quantity="2" Sideboard="false" Name="Negate" />
   <Cards CatID="55940" Quantity="5" Sideboard="false" Name="Negate" />
   <Cards CatID="53276" Quantity="1" Sideboard="false" Name="Negate" />
   <Cards CatID="49133" Quantity="12" Sideboard="false" Name="Negate" />
@@ -3551,7 +3560,7 @@
   <Cards CatID="53475" Quantity="1" Sideboard="false" Name="Oppressive Rays" />
   <Cards CatID="53474" Quantity="4" Sideboard="false" Name="Oppressive Rays" />
   <Cards CatID="52248" Quantity="6" Sideboard="false" Name="Oppressive Rays" />
-  <Cards CatID="67585" Quantity="3" Sideboard="false" Name="Opt" />
+  <Cards CatID="67585" Quantity="4" Sideboard="false" Name="Opt" />
   <Cards CatID="65142" Quantity="8" Sideboard="false" Name="Opt" />
   <Cards CatID="54164" Quantity="8" Sideboard="false" Name="Opulent Palace" />
   <Cards CatID="51837" Quantity="2" Sideboard="false" Name="Oracle of Bones" />
@@ -3729,7 +3738,7 @@
   <Cards CatID="47941" Quantity="6" Sideboard="false" Name="Pit Fight" />
   <Cards CatID="49285" Quantity="9" Sideboard="false" Name="Pitchburn Devils" />
   <Cards CatID="34694" Quantity="4" Sideboard="false" Name="Pitfall Trap" />
-  <Cards CatID="46499" Quantity="3" Sideboard="false" Name="Pithing Needle" />
+  <Cards CatID="46499" Quantity="4" Sideboard="false" Name="Pithing Needle" />
   <Cards CatID="66615" Quantity="4" Sideboard="false" Name="Pitiless Plunderer" />
   <Cards CatID="68389" Quantity="4" Sideboard="false" Name="Plague Mare" />
   <Cards CatID="68691" Quantity="4" Sideboard="false" Name="Plains" />
@@ -3812,6 +3821,7 @@
   <Cards CatID="45392" Quantity="5" Sideboard="false" Name="Plummet" />
   <Cards CatID="68603" Quantity="4" Sideboard="false" Name="Poison-Tip Archer" />
   <Cards CatID="50470" Quantity="5" Sideboard="false" Name="Polis Crusher" />
+  <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="50628" Quantity="4" Sideboard="false" Name="Polukranos, World Eater" />
   <Cards CatID="53528" Quantity="4" Sideboard="false" Name="Polymorphist's Jest" />
   <Cards CatID="52194" Quantity="4" Sideboard="false" Name="Polymorphous Rush" />
@@ -3877,9 +3887,9 @@
   <Cards CatID="61607" Quantity="5" Sideboard="false" Name="Propeller Pioneer" />
   <Cards CatID="50618" Quantity="4" Sideboard="false" Name="Prophet of Kruphix" />
   <Cards CatID="53844" Quantity="1" Sideboard="false" Name="Prophet of Kruphix" />
-  <Cards CatID="52288" Quantity="1" Sideboard="false" Name="Prophetic Flamespeaker" />
+  <Cards CatID="52288" Quantity="2" Sideboard="false" Name="Prophetic Flamespeaker" />
   <Cards CatID="61821" Quantity="5" Sideboard="false" Name="Prophetic Prism" />
-  <Cards CatID="47539" Quantity="3" Sideboard="false" Name="Prophetic Prism" />
+  <Cards CatID="47539" Quantity="4" Sideboard="false" Name="Prophetic Prism" />
   <Cards CatID="36758" Quantity="4" Sideboard="false" Name="Prophetic Prism" />
   <Cards CatID="61420" Quantity="1" Sideboard="false" Name="Prophetic Ravings" />
   <Cards CatID="65150" Quantity="4" Sideboard="false" Name="Prosperous Pirates" />
@@ -3973,7 +3983,7 @@
   <Cards CatID="51699" Quantity="8" Sideboard="false" Name="Raised by Wolves" />
   <Cards CatID="46435" Quantity="5" Sideboard="false" Name="Rakdos Cackler" />
   <Cards CatID="24017" Quantity="4" Sideboard="false" Name="Rakdos Carnarium" />
-  <Cards CatID="46441" Quantity="3" Sideboard="false" Name="Rakdos Charm" />
+  <Cards CatID="46441" Quantity="4" Sideboard="false" Name="Rakdos Charm" />
   <Cards CatID="48454" Quantity="5" Sideboard="false" Name="Rakdos Cluestone" />
   <Cards CatID="48334" Quantity="3" Sideboard="false" Name="Rakdos Drake" />
   <Cards CatID="48374" Quantity="3" Sideboard="false" Name="Rakdos Guildgate" />
@@ -3982,6 +3992,7 @@
   <Cards CatID="46715" Quantity="5" Sideboard="false" Name="Rakdos Ragemutt" />
   <Cards CatID="46489" Quantity="4" Sideboard="false" Name="Rakdos Ringleader" />
   <Cards CatID="46369" Quantity="5" Sideboard="false" Name="Rakdos Shred-Freak" />
+  <Cards CatID="46563" Quantity="1" Sideboard="false" Name="Rakdos, Lord of Riots" />
   <Cards CatID="46565" Quantity="1" Sideboard="false" Name="Rakdos's Return" />
   <Cards CatID="54452" Quantity="1" Sideboard="false" Name="Rakshasa Deathdealer" />
   <Cards CatID="56070" Quantity="4" Sideboard="false" Name="Rakshasa Gravecaller" />
@@ -4197,7 +4208,7 @@
   <Cards CatID="62827" Quantity="4" Sideboard="false" Name="Rogue Refiner" />
   <Cards CatID="68649" Quantity="4" Sideboard="false" Name="Rogue's Gloves" />
   <Cards CatID="53680" Quantity="4" Sideboard="false" Name="Rogue's Gloves" />
-  <Cards CatID="46723" Quantity="3" Sideboard="false" Name="Rogue's Passage" />
+  <Cards CatID="46723" Quantity="4" Sideboard="false" Name="Rogue's Passage" />
   <Cards CatID="34536" Quantity="1" Sideboard="false" Name="Roil Elemental" />
   <Cards CatID="58493" Quantity="4" Sideboard="false" Name="Roil Spout" />
   <Cards CatID="26283" Quantity="4" Sideboard="false" Name="Roiling Horror" />
@@ -4459,6 +4470,7 @@
   <Cards CatID="45726" Quantity="1" Sideboard="false" Name="Serra Avenger" />
   <Cards CatID="67533" Quantity="4" Sideboard="false" Name="Serra Disciple" />
   <Cards CatID="9463" Quantity="4" Sideboard="false" Name="Serra's Blessing" />
+  <Cards CatID="20956" Quantity="1" Sideboard="false" Name="Serum Visions" />
   <Cards CatID="45506" Quantity="1" Sideboard="false" Name="Servant of Nefarox" />
   <Cards CatID="61737" Quantity="4" Sideboard="false" Name="Servant of the Conduit" />
   <Cards CatID="56010" Quantity="8" Sideboard="false" Name="Servant of the Scale" />
@@ -4475,7 +4487,7 @@
   <Cards CatID="46321" Quantity="5" Sideboard="false" Name="Sewer Shambler" />
   <Cards CatID="47647" Quantity="4" Sideboard="false" Name="Shadow Alley Denizen" />
   <Cards CatID="58313" Quantity="2" Sideboard="false" Name="Shadow Glider" />
-  <Cards CatID="26077" Quantity="3" Sideboard="false" Name="Shadow Guildmage" />
+  <Cards CatID="26077" Quantity="4" Sideboard="false" Name="Shadow Guildmage" />
   <Cards CatID="23574" Quantity="1" Sideboard="false" Name="Shadow of Doubt" />
   <Cards CatID="47807" Quantity="4" Sideboard="false" Name="Shadow Slice" />
   <Cards CatID="49461" Quantity="23" Sideboard="false" Name="Shadowborn Apostle" />
@@ -4552,7 +4564,7 @@
   <Cards CatID="49329" Quantity="9" Sideboard="false" Name="Show of Valor" />
   <Cards CatID="45608" Quantity="2" Sideboard="false" Name="Show of Valor" />
   <Cards CatID="48316" Quantity="4" Sideboard="false" Name="Showstopper" />
-  <Cards CatID="53284" Quantity="3" Sideboard="false" Name="Shrapnel Blast" />
+  <Cards CatID="53284" Quantity="5" Sideboard="false" Name="Shrapnel Blast" />
   <Cards CatID="50554" Quantity="8" Sideboard="false" Name="Shredding Winds" />
   <Cards CatID="61196" Quantity="4" Sideboard="false" Name="Shreds of Sanity" />
   <Cards CatID="61649" Quantity="4" Sideboard="false" Name="Shrewd Negotiation" />
@@ -4900,7 +4912,7 @@
   <Cards CatID="61074" Quantity="1" Sideboard="false" Name="Steadfast Cathar" />
   <Cards CatID="46577" Quantity="5" Sideboard="false" Name="Stealer of Secrets" />
   <Cards CatID="50600" Quantity="1" Sideboard="false" Name="Steam Augury" />
-  <Cards CatID="46805" Quantity="1" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="46805" Quantity="3" Sideboard="false" Name="Steam Vents" />
   <Cards CatID="9357" Quantity="4" Sideboard="false" Name="Steel Golem" />
   <Cards CatID="67829" Quantity="1" Sideboard="false" Name="Steel Leaf Champion" />
   <Cards CatID="20165" Quantity="4" Sideboard="false" Name="Steel Wall" />
@@ -4981,6 +4993,7 @@
   <Cards CatID="55606" Quantity="5" Sideboard="false" Name="Sudden Reclamation" />
   <Cards CatID="51781" Quantity="7" Sideboard="false" Name="Sudden Storm" />
   <Cards CatID="36614" Quantity="4" Sideboard="false" Name="Suffer the Past" />
+  <Cards CatID="67959" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
   <Cards CatID="54446" Quantity="4" Sideboard="false" Name="Sultai Ascendancy" />
   <Cards CatID="54068" Quantity="5" Sideboard="false" Name="Sultai Banner" />
   <Cards CatID="54134" Quantity="8" Sideboard="false" Name="Sultai Charm" />
@@ -5006,8 +5019,8 @@
   <Cards CatID="41483" Quantity="4" Sideboard="false" Name="Sundial of the Infinite" />
   <Cards CatID="53700" Quantity="5" Sideboard="false" Name="Sungrace Pegasus" />
   <Cards CatID="47459" Quantity="6" Sideboard="false" Name="Sunhome Guildmage" />
-  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
-  <Cards CatID="29479" Quantity="1" Sideboard="false" Name="Sunken Ruins" />
+  <Cards CatID="58659" Quantity="2" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="29479" Quantity="2" Sideboard="false" Name="Sunken Ruins" />
   <Cards CatID="45320" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
   <Cards CatID="65092" Quantity="4" Sideboard="false" Name="Sunrise Seeker" />
   <Cards CatID="56196" Quantity="4" Sideboard="false" Name="Sunscorch Regent" />
@@ -5073,7 +5086,7 @@
   <Cards CatID="53396" Quantity="8" Sideboard="false" Name="Swamp" />
   <Cards CatID="53376" Quantity="9" Sideboard="false" Name="Swamp" />
   <Cards CatID="53374" Quantity="7" Sideboard="false" Name="Swamp" />
-  <Cards CatID="50424" Quantity="6" Sideboard="false" Name="Swamp" />
+  <Cards CatID="50424" Quantity="7" Sideboard="false" Name="Swamp" />
   <Cards CatID="50422" Quantity="5" Sideboard="false" Name="Swamp" />
   <Cards CatID="50286" Quantity="3" Sideboard="false" Name="Swamp" />
   <Cards CatID="50284" Quantity="5" Sideboard="false" Name="Swamp" />
@@ -5100,7 +5113,7 @@
   <Cards CatID="34836" Quantity="4" Sideboard="false" Name="Swamp" />
   <Cards CatID="311" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="310" Quantity="1" Sideboard="false" Name="Swamp" />
-  <Cards CatID="50440" Quantity="3" Sideboard="false" Name="Swan Song" />
+  <Cards CatID="50440" Quantity="4" Sideboard="false" Name="Swan Song" />
   <Cards CatID="54334" Quantity="5" Sideboard="false" Name="Swarm of Bloodflies" />
   <Cards CatID="58581" Quantity="1" Sideboard="false" Name="Swarm Surge" />
   <Cards CatID="52082" Quantity="2" Sideboard="false" Name="Swarmborn Giant" />
@@ -5114,13 +5127,13 @@
   <Cards CatID="61248" Quantity="1" Sideboard="false" Name="Swift Spinner" />
   <Cards CatID="66745" Quantity="4" Sideboard="false" Name="Swift Warden" />
   <Cards CatID="56372" Quantity="4" Sideboard="false" Name="Swift Warkite" />
-  <Cards CatID="51128" Quantity="3" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="51128" Quantity="4" Sideboard="false" Name="Swiftfoot Boots" />
   <Cards CatID="55532" Quantity="7" Sideboard="false" Name="Swiftwater Cliffs" />
   <Cards CatID="54076" Quantity="7" Sideboard="false" Name="Swiftwater Cliffs" />
   <Cards CatID="68317" Quantity="4" Sideboard="false" Name="Switcheroo" />
   <Cards CatID="45632" Quantity="1" Sideboard="false" Name="Switcheroo" />
   <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
-  <Cards CatID="20273" Quantity="3" Sideboard="false" Name="Sword of Kaldra" />
+  <Cards CatID="20273" Quantity="4" Sideboard="false" Name="Sword of Kaldra" />
   <Cards CatID="48870" Quantity="1" Sideboard="false" Name="Sword of Light and Shadow" />
   <Cards CatID="58134" Quantity="4" Sideboard="false" Name="Sword of the Animist" />
   <Cards CatID="51645" Quantity="6" Sideboard="false" Name="Swordwise Centaur" />
@@ -5174,11 +5187,12 @@
   <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
   <Cards CatID="23594" Quantity="1" Sideboard="false" Name="Temple Garden" />
   <Cards CatID="50266" Quantity="6" Sideboard="false" Name="Temple of Abandon" />
+  <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
   <Cards CatID="50264" Quantity="3" Sideboard="false" Name="Temple of Deceit" />
   <Cards CatID="51561" Quantity="4" Sideboard="false" Name="Temple of Enlightenment" />
-  <Cards CatID="51966" Quantity="3" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="51966" Quantity="6" Sideboard="false" Name="Temple of Epiphany" />
   <Cards CatID="51968" Quantity="1" Sideboard="false" Name="Temple of Malady" />
-  <Cards CatID="51563" Quantity="3" Sideboard="false" Name="Temple of Malice" />
+  <Cards CatID="51563" Quantity="4" Sideboard="false" Name="Temple of Malice" />
   <Cards CatID="50272" Quantity="5" Sideboard="false" Name="Temple of Mystery" />
   <Cards CatID="51565" Quantity="4" Sideboard="false" Name="Temple of Plenty" />
   <Cards CatID="50268" Quantity="5" Sideboard="false" Name="Temple of Silence" />
@@ -5219,6 +5233,7 @@
   <Cards CatID="67677" Quantity="4" Sideboard="false" Name="Thallid Omnivore" />
   <Cards CatID="25345" Quantity="4" Sideboard="false" Name="Thallid Shell-Dweller" />
   <Cards CatID="67679" Quantity="4" Sideboard="false" Name="Thallid Soothsayer" />
+  <Cards CatID="50306" Quantity="2" Sideboard="false" Name="Thassa, God of the Sea" />
   <Cards CatID="50584" Quantity="7" Sideboard="false" Name="Thassa's Bounty" />
   <Cards CatID="52274" Quantity="8" Sideboard="false" Name="Thassa's Devourer" />
   <Cards CatID="50462" Quantity="5" Sideboard="false" Name="Thassa's Emissary" />
@@ -5343,7 +5358,7 @@
   <Cards CatID="68489" Quantity="4" Sideboard="false" Name="Tormenting Voice" />
   <Cards CatID="60012" Quantity="4" Sideboard="false" Name="Tormenting Voice" />
   <Cards CatID="55918" Quantity="7" Sideboard="false" Name="Tormenting Voice" />
-  <Cards CatID="54022" Quantity="5" Sideboard="false" Name="Tormenting Voice" />
+  <Cards CatID="54022" Quantity="6" Sideboard="false" Name="Tormenting Voice" />
   <Cards CatID="53278" Quantity="6" Sideboard="false" Name="Tormod's Crypt" />
   <Cards CatID="55628" Quantity="1" Sideboard="false" Name="Torrent Elemental" />
   <Cards CatID="68323" Quantity="4" Sideboard="false" Name="Totally Lost" />
@@ -5356,7 +5371,7 @@
   <Cards CatID="47625" Quantity="5" Sideboard="false" Name="Towering Thunderfist" />
   <Cards CatID="59800" Quantity="9" Sideboard="false" Name="Town Gossipmonger" />
   <Cards CatID="19169" Quantity="4" Sideboard="false" Name="Trade Routes" />
-  <Cards CatID="49339" Quantity="2" Sideboard="false" Name="Trading Post" />
+  <Cards CatID="49339" Quantity="5" Sideboard="false" Name="Trading Post" />
   <Cards CatID="64586" Quantity="4" Sideboard="false" Name="Tragic Lesson" />
   <Cards CatID="67539" Quantity="4" Sideboard="false" Name="Tragic Poet" />
   <Cards CatID="43189" Quantity="8" Sideboard="false" Name="Tragic Slip" />
@@ -5385,7 +5400,7 @@
   <Cards CatID="66835" Quantity="4" Sideboard="false" Name="Traveler's Amulet" />
   <Cards CatID="50208" Quantity="7" Sideboard="false" Name="Traveler's Amulet" />
   <Cards CatID="50254" Quantity="6" Sideboard="false" Name="Traveling Philosopher" />
-  <Cards CatID="67933" Quantity="2" Sideboard="false" Name="Traxos, Scourge of Kroog" />
+  <Cards CatID="67933" Quantity="4" Sideboard="false" Name="Traxos, Scourge of Kroog" />
   <Cards CatID="44193" Quantity="4" Sideboard="false" Name="Treacherous Pit-Dweller" />
   <Cards CatID="56284" Quantity="5" Sideboard="false" Name="Tread Upon" />
   <Cards CatID="35611" Quantity="4" Sideboard="false" Name="Treasure Hunt" />
@@ -5398,7 +5413,7 @@
   <Cards CatID="50514" Quantity="5" Sideboard="false" Name="Triad of Fates" />
   <Cards CatID="25553" Quantity="4" Sideboard="false" Name="Trickbind" />
   <Cards CatID="45624" Quantity="1" Sideboard="false" Name="Tricks of the Trade" />
-  <Cards CatID="38255" Quantity="3" Sideboard="false" Name="Trinket Mage" />
+  <Cards CatID="38255" Quantity="4" Sideboard="false" Name="Trinket Mage" />
   <Cards CatID="53614" Quantity="1" Sideboard="false" Name="Triplicate Spirits" />
   <Cards CatID="60016" Quantity="4" Sideboard="false" Name="Triskaidekaphobia" />
   <Cards CatID="52100" Quantity="2" Sideboard="false" Name="Triton Cavalry" />
@@ -5411,7 +5426,7 @@
   <Cards CatID="27598" Quantity="4" Sideboard="false" Name="Troll Ascetic" />
   <Cards CatID="49247" Quantity="10" Sideboard="false" Name="Trollhide" />
   <Cards CatID="51725" Quantity="2" Sideboard="false" Name="Tromokratis" />
-  <Cards CatID="62637" Quantity="3" Sideboard="false" Name="Trophy Mage" />
+  <Cards CatID="62637" Quantity="4" Sideboard="false" Name="Trophy Mage" />
   <Cards CatID="46553" Quantity="2" Sideboard="false" Name="Trostani, Selesnya's Voice" />
   <Cards CatID="46573" Quantity="7" Sideboard="false" Name="Trostani's Judgment" />
   <Cards CatID="48210" Quantity="2" Sideboard="false" Name="Trostani's Summoner" />
