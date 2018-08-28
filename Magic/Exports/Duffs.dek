@@ -1,87 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="49233" Quantity="1" Sideboard="false" Name="Accorder's Shield" />
   <Cards CatID="61889" Quantity="2" Sideboard="false" Name="Aerial Responder" />
   <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
-  <Cards CatID="55482" Quantity="1" Sideboard="false" Name="Hero's Blade" />
   <Cards CatID="62595" Quantity="1" Sideboard="false" Name="Airdrop Aeronauts" />
-  <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
+  <Cards CatID="45256" Quantity="1" Sideboard="false" Name="Oblivion Ring" />
   <Cards CatID="61781" Quantity="1" Sideboard="false" Name="Aradara Express" />
   <Cards CatID="50230" Quantity="1" Sideboard="false" Name="Magma Jet" />
   <Cards CatID="61619" Quantity="2" Sideboard="false" Name="Aviary Mechanic" />
   <Cards CatID="62063" Quantity="1" Sideboard="false" Name="Ballista Charger" />
   <Cards CatID="62053" Quantity="1" Sideboard="false" Name="Bomat Bazaar Barge" />
   <Cards CatID="63513" Quantity="1" Sideboard="false" Name="Cavern of Souls" />
-  <Cards CatID="62883" Quantity="1" Sideboard="false" Name="Consulate Dreadnought" />
   <Cards CatID="22373" Quantity="1" Sideboard="false" Name="Soul Warden" />
   <Cards CatID="62569" Quantity="1" Sideboard="false" Name="Countless Gears Renegade" />
   <Cards CatID="35503" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
   <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
   <Cards CatID="62045" Quantity="2" Sideboard="false" Name="Cultivator's Caravan" />
   <Cards CatID="62903" Quantity="1" Sideboard="false" Name="Daredevil Dragster" />
-  <Cards CatID="34552" Quantity="2" Sideboard="false" Name="Day of Judgment" />
+  <Cards CatID="34552" Quantity="3" Sideboard="false" Name="Day of Judgment" />
   <Cards CatID="58134" Quantity="2" Sideboard="false" Name="Sword of the Animist" />
   <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
   <Cards CatID="50374" Quantity="1" Sideboard="false" Name="Gift of Immortality" />
-  <Cards CatID="62029" Quantity="2" Sideboard="false" Name="Depala, Pilot Exemplar" />
-  <Cards CatID="39862" Quantity="1" Sideboard="false" Name="Dispatch" />
-  <Cards CatID="53688" Quantity="1" Sideboard="false" Name="Heliod's Pilgrim" />
-  <Cards CatID="49139" Quantity="1" Sideboard="false" Name="Door of Destinies" />
-  <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
+  <Cards CatID="62029" Quantity="3" Sideboard="false" Name="Depala, Pilot Exemplar" />
+  <Cards CatID="64026" Quantity="1" Sideboard="false" Name="Dusk/Dawn" />
   <Cards CatID="61621" Quantity="2" Sideboard="false" Name="Fairgrounds Warden" />
   <Cards CatID="62071" Quantity="1" Sideboard="false" Name="Fleetwheel Cruiser" />
-  <Cards CatID="49109" Quantity="2" Sideboard="false" Name="Pacifism" />
+  <Cards CatID="49515" Quantity="1" Sideboard="false" Name="Haunted Plate Mail" />
   <Cards CatID="61603" Quantity="2" Sideboard="false" Name="Gearshift Ace" />
   <Cards CatID="56118" Quantity="1" Sideboard="false" Name="Stormrider Rig" />
-  <Cards CatID="62581" Quantity="1" Sideboard="false" Name="Alley Evasion" />
-  <Cards CatID="59908" Quantity="2" Sideboard="false" Name="Hanweir Militia Captain" />
+  <Cards CatID="49339" Quantity="1" Sideboard="false" Name="Trading Post" />
+  <Cards CatID="59908" Quantity="1" Sideboard="false" Name="Hanweir Militia Captain" />
   <Cards CatID="55386" Quantity="1" Sideboard="false" Name="Collateral Damage" />
   <Cards CatID="41133" Quantity="1" Sideboard="false" Name="Honor of the Pure" />
   <Cards CatID="39449" Quantity="1" Sideboard="false" Name="Brass Squire" />
-  <Cards CatID="43887" Quantity="1" Sideboard="false" Name="Cloudshift" />
   <Cards CatID="50324" Quantity="1" Sideboard="false" Name="Last Breath" />
   <Cards CatID="23154" Quantity="2" Sideboard="false" Name="Lightning Helix" />
   <Cards CatID="23590" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
   <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
   <Cards CatID="61102" Quantity="3" Sideboard="false" Name="Selfless Spirit" />
   <Cards CatID="62921" Quantity="1" Sideboard="false" Name="Solemn Recruit" />
-  <Cards CatID="62603" Quantity="3" Sideboard="false" Name="Sram, Senior Edificer" />
+  <Cards CatID="62603" Quantity="4" Sideboard="false" Name="Sram, Senior Edificer" />
   <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
   <Cards CatID="50270" Quantity="4" Sideboard="false" Name="Temple of Triumph" />
   <Cards CatID="62039" Quantity="1" Sideboard="false" Name="Veteran Motorist" />
-  <Cards CatID="42694" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
-  <Cards CatID="58317" Quantity="1" Sideboard="false" Name="Gideon, Ally of Zendikar" />
-  <Cards CatID="53504" Quantity="1" Sideboard="false" Name="Ajani Steadfast" />
-  <Cards CatID="21091" Quantity="1" Sideboard="false" Name="Indomitable Will" />
-  <Cards CatID="50479" Quantity="1" Sideboard="false" Name="Gods Willing" />
+  <Cards CatID="44786" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
   <Cards CatID="53841" Quantity="1" Sideboard="false" Name="Banishing Light" />
   <Cards CatID="63618" Quantity="1" Sideboard="false" Name="Cast Out" />
-  <Cards CatID="62597" Quantity="1" Sideboard="false" Name="Thopter Arrest" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="61623" Quantity="1" Sideboard="false" Name="Built to Last" />
   <Cards CatID="54022" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
   <Cards CatID="59589" Quantity="1" Sideboard="false" Name="Stoneforge Masterwork" />
-  <Cards CatID="61841" Quantity="4" Sideboard="false" Name="Plains" />
-  <Cards CatID="54779" Quantity="1" Sideboard="false" Name="Emeria, the Sky Ruin" />
+  <Cards CatID="61841" Quantity="3" Sideboard="false" Name="Plains" />
+  <Cards CatID="67939" Quantity="1" Sideboard="false" Name="Weatherlight" />
   <Cards CatID="61837" Quantity="2" Sideboard="false" Name="Mountain" />
-  <Cards CatID="62091" Quantity="1" Sideboard="false" Name="Aether Hub" />
+  <Cards CatID="61795" Quantity="1" Sideboard="false" Name="Skysovereign, Consul Flagship" />
   <Cards CatID="61839" Quantity="4" Sideboard="false" Name="Plains" />
   <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
   <Cards CatID="58527" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
-  <Cards CatID="52136" Quantity="1" Sideboard="false" Name="Godsend" />
   <Cards CatID="53346" Quantity="1" Sideboard="false" Name="Battlefield Forge" />
   <Cards CatID="42294" Quantity="1" Sideboard="false" Name="Ghost Quarter" />
+  <Cards CatID="57744" Quantity="1" Sideboard="false" Name="Celestial Flare" />
+  <Cards CatID="67887" Quantity="1" Sideboard="false" Name="Blackblade Reforged" />
+  <Cards CatID="67943" Quantity="4" Sideboard="false" Name="Clifftop Retreat" />
+  <Cards CatID="62905" Quantity="1" Sideboard="false" Name="Peacewalker Colossus" />
   <Cards CatID="61777" Quantity="2" Sideboard="true" Name="Deadlock Trap" />
-  <Cards CatID="50478" Quantity="2" Sideboard="true" Name="Gods Willing" />
+  <Cards CatID="50478" Quantity="1" Sideboard="true" Name="Gods Willing" />
   <Cards CatID="61625" Quantity="1" Sideboard="true" Name="Fragmentize" />
   <Cards CatID="56324" Quantity="1" Sideboard="true" Name="Pacifism" />
   <Cards CatID="49109" Quantity="1" Sideboard="true" Name="Pacifism" />
   <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
   <Cards CatID="54022" Quantity="2" Sideboard="true" Name="Tormenting Voice" />
-  <Cards CatID="50324" Quantity="3" Sideboard="true" Name="Last Breath" />
+  <Cards CatID="50324" Quantity="2" Sideboard="true" Name="Last Breath" />
   <Cards CatID="62051" Quantity="1" Sideboard="true" Name="Inventor's Goggles" />
   <Cards CatID="51559" Quantity="1" Sideboard="true" Name="Gorgon's Head" />
-  <Cards CatID="62905" Quantity="1" Sideboard="false" Name="Peacewalker Colossus" />
+  <Cards CatID="34552" Quantity="1" Sideboard="true" Name="Day of Judgment" />
+  <Cards CatID="43887" Quantity="1" Sideboard="true" Name="Cloudshift" />
 </Deck>
