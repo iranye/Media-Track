@@ -111,4 +111,6 @@
   <Cards CatID="61765" Quantity="1" Sideboard="false" Name="Contraband Kingpin" />
   <Cards CatID="9199" Quantity="1" Sideboard="false" Name="Fire Whip" />
   <Cards CatID="45698" Quantity="1" Sideboard="false" Name="Staff of Nin" />
+  <Cards CatID="53510" Quantity="1" Sideboard="false" Name="Paragon of Fierce Defiance" />
+  <Cards CatID="49363" Quantity="1" Sideboard="false" Name="Chandra, Pyromaster" />
 </Deck>
