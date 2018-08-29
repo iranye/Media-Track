@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -68,4 +68,5 @@
   <Cards CatID="46325" Quantity="1" Sideboard="true" Name="Cremate" />
   <Cards CatID="39447" Quantity="1" Sideboard="true" Name="Go for the Throat" />
   <Cards CatID="22857" Quantity="1" Sideboard="true" Name="Will-o'-the-Wisp" />
+  <Cards CatID="47615" Quantity="1" Sideboard="false" Name="Horror of the Dim" />
 </Deck>

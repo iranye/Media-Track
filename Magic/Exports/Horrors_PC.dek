@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -9,7 +9,7 @@
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
   <Cards CatID="38155" Quantity="1" Sideboard="false" Name="Psychic Miasma" />
-  <Cards CatID="55520" Quantity="2" Sideboard="false" Name="Dismal Backwater" />
+  <Cards CatID="37226" Quantity="2" Sideboard="false" Name="Drowned Catacomb" />
   <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="58809" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="58807" Quantity="1" Sideboard="false" Name="Island" />
@@ -41,22 +41,22 @@
   <Cards CatID="65142" Quantity="1" Sideboard="false" Name="Opt" />
   <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
   <Cards CatID="50378" Quantity="2" Sideboard="false" Name="Curse of the Swine" />
-  <Cards CatID="57984" Quantity="1" Sideboard="false" Name="Dark Dabbling" />
+  <Cards CatID="46307" Quantity="3" Sideboard="false" Name="Mizzium Skin" />
   <Cards CatID="20363" Quantity="3" Sideboard="false" Name="Echoing Truth" />
   <Cards CatID="34520" Quantity="1" Sideboard="false" Name="Gatekeeper of Malakir" />
   <Cards CatID="48428" Quantity="1" Sideboard="false" Name="Aetherling" />
   <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
-  <Cards CatID="59535" Quantity="1" Sideboard="false" Name="Flaying Tendrils" />
+  <Cards CatID="30140" Quantity="1" Sideboard="false" Name="Raven's Crime" />
   <Cards CatID="53570" Quantity="1" Sideboard="false" Name="Jace, the Living Guildpact" />
   <Cards CatID="53408" Quantity="2" Sideboard="false" Name="Illusory Angel" />
   <Cards CatID="66055" Quantity="1" Sideboard="false" Name="Duress" />
-  <Cards CatID="53628" Quantity="2" Sideboard="false" Name="Chasm Skulker" />
-  <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
-  <Cards CatID="39808" Quantity="1" Sideboard="false" Name="Vapor Snag" />
-  <Cards CatID="68657" Quantity="1" Sideboard="false" Name="Transmogrifying Wand" />
-  <Cards CatID="62637" Quantity="1" Sideboard="false" Name="Trophy Mage" />
+  <Cards CatID="53628" Quantity="1" Sideboard="false" Name="Chasm Skulker" />
+  <Cards CatID="52278" Quantity="1" Sideboard="false" Name="Brain Maggot" />
+  <Cards CatID="19623" Quantity="1" Sideboard="false" Name="Warped Devotion" />
+  <Cards CatID="67557" Quantity="1" Sideboard="false" Name="Blink of an Eye" />
   <Cards CatID="20007" Quantity="1" Sideboard="false" Name="Crystal Shard" />
-  <Cards CatID="32246" Quantity="1" Sideboard="false" Name="Mistvein Borderpost" />
+  <Cards CatID="67587" Quantity="1" Sideboard="false" Name="Precognition Field" />
+  <Cards CatID="26854" Quantity="1" Sideboard="false" Name="Veilstone Amulet" />
   <Cards CatID="49117" Quantity="1" Sideboard="true" Name="Essence Scatter" />
   <Cards CatID="53382" Quantity="2" Sideboard="true" Name="Dissipate" />
   <Cards CatID="50622" Quantity="2" Sideboard="true" Name="Dark Betrayal" />
@@ -68,4 +68,5 @@
   <Cards CatID="46325" Quantity="1" Sideboard="true" Name="Cremate" />
   <Cards CatID="39447" Quantity="1" Sideboard="true" Name="Go for the Throat" />
   <Cards CatID="22857" Quantity="1" Sideboard="true" Name="Will-o'-the-Wisp" />
+  <Cards CatID="47615" Quantity="1" Sideboard="false" Name="Horror of the Dim" />
 </Deck>
