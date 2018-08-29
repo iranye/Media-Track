@@ -366,12 +366,15 @@ Dismember
   Kabira Vindicator
   Kazandu Tuskcaller
   Knight of Cliffhaven
+  Kytheon
   The Locust God
   Nirkana Cutthroat
   Null Champion
   Numot, the Devastator
   Olivia Voldaren
+  Soul of New Phyrexia
   Student of Warfare
+  Temur Sabertooth
   Training Grounds
   Venerated Teacher
 </Activation>
@@ -1122,6 +1125,7 @@ Dismember
   Altered Ego
   Akroma's Memorial
   Angel's Herald
+  Avacyn, Angel of Hope
   Azor's Elocutors
   Azorius Guildmage
   Bant Charm
@@ -1155,6 +1159,7 @@ Dismember
   Fleecemane Lion
   Flurry of Wings
   Forebear's Blade
+  Gaze of Justice
   Geist of Saint Traft
   Giltspire Avenger
   Glade Watcher
@@ -1561,11 +1566,22 @@ Vedalken Mastermind
   Manamorphose
 </Haunted>
 <Horrors>
+  Aether Membrane
+  Blink of an Eye
+  Dark Dabbling
+  Dismal Backwater
+  Flaying Tendrils
   Gelectrode
   Ludevic's Test
+  Memory Plunder
+  Mistvein Borderpost
   Nucklavee
+  Pongify
   Spellskite
   Transmogrifying Wand
+  Trophy Mage
+  Turn to Mist
+  Vapor Snag
 </Horrors>
 <LandDestruct>
 Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
@@ -1905,9 +1921,12 @@ NON-CREATURES:
   Pyxis of Pandemonium
 </Pyxis>
 <RedBlueIzzet>
+  Slealthsuit
   Aethertorch Renegade
   Arcane Teachings
   Chandra's Spitfire
+  Call to Heel
+  Colfenor's Urn
   Curiosity
   Curse of Stalked Prey
   Fire Whip
