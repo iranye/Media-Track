@@ -382,15 +382,27 @@ Dismember
 <Arty strat="Re-cast permanents that give artifact tokens on enter battlefield">
   Avarice Amulet
   Brass Squire
+  Creepy Doll
   Dispeller's Capsule
+  Esperzoa
+  Ethersworn Adjudicator
+  Inspiring Statuary
   Inventor's Fair
   Key to the City
   Lotus Bloom
+  Master Transmuter
   Mycosynth Wellspring
+  Noxious Gearhulk
   Phyrexian Core
   Pyrite Spellbomb
+  Rusted Slasher
   Salvaging Station
+  Sen Triplets
+  Solemn Simulacrum
+  Skyscanner
+  Sphinx Summoner
   Sunbeam Spellbomb
+  Transguild Courier
 </Arty>
 <BlackWhiteSac>
   Shadow Guildmage
@@ -754,6 +766,7 @@ Dismember
   Mobile Garrison
   Night Market Lookout
   Ral Zarek
+  Steel Golem
 </DaringIceFeather>
 <Discards>
   Elemental Mastery
@@ -1286,8 +1299,10 @@ Dismember
   Child of Alara
   Chromanticore
   Clearwater Goblet
+  Composite Golem
   Conflux
-  Door to Nothingness  
+  Door to Nothingness
+  Etched Monstrosity
   Fusion Elemental
   Genju of the Realm
   Horde of Notions
@@ -1359,6 +1374,7 @@ Vedalken Mastermind
   Followed Footsteps
   Fool's Demise
   Giant Solifuge
+  Golden Guardian
   Goldnight Castigator
   Groundbreaker
   Hellion Crucible
@@ -1568,6 +1584,7 @@ Vedalken Mastermind
 </Haunted>
 <Horrors>
   Aether Membrane
+  Aether Spellbomb
   Blink of an Eye
   Curious Homunculus
   Dark Dabbling
@@ -2022,6 +2039,7 @@ NON-CREATURES:
   Gideon, Ally of Zendikar
   Gideon, Champion of Justice
   Godsire
+  Golden Guardian
   Goldnight Commander
   Hanweir Militia Captain
   Herald of Anafenza

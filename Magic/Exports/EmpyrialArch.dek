@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -95,4 +95,5 @@
   <Cards CatID="50608" Quantity="2" Sideboard="true" Name="Soldier of the Pantheon" />
   <Cards CatID="49493" Quantity="1" Sideboard="true" Name="Tidebinder Mage" />
   <Cards CatID="60811" Quantity="2" Sideboard="true" Name="Trygon Predator" />
+  <Cards CatID="24177" Quantity="1" Sideboard="false" Name="Transguild Courier" />
 </Deck>
