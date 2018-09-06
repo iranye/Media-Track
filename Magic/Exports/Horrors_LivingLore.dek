@@ -63,10 +63,43 @@
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
   <Cards CatID="27749" Quantity="1" Sideboard="true" Name="Flashfreeze" />
   <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
-  <Cards CatID="19665" Quantity="1" Sideboard="true" Name="Isochron Scepter" />
   <Cards CatID="53982" Quantity="2" Sideboard="true" Name="Disdainful Stroke" />
   <Cards CatID="46325" Quantity="1" Sideboard="true" Name="Cremate" />
   <Cards CatID="39447" Quantity="1" Sideboard="true" Name="Go for the Throat" />
   <Cards CatID="22857" Quantity="1" Sideboard="true" Name="Will-o'-the-Wisp" />
   <Cards CatID="47615" Quantity="1" Sideboard="false" Name="Horror of the Dim" />
+  <Cards CatID="65963" Quantity="1" Sideboard="false" Name="Ancestral Vision" />
+  <Cards CatID="67627" Quantity="1" Sideboard="false" Name="Cast Down" />
+  <Cards CatID="47479" Quantity="1" Sideboard="false" Name="Dimir Charm" />
+  <Cards CatID="64796" Quantity="1" Sideboard="false" Name="Claim/Fame" />
+  <Cards CatID="34452" Quantity="1" Sideboard="false" Name="Grim Discovery" />
+  <Cards CatID="58178" Quantity="1" Sideboard="false" Name="Macabre Waltz" />
+  <Cards CatID="57752" Quantity="1" Sideboard="false" Name="Read the Bones" />
+  <Cards CatID="67631" Quantity="1" Sideboard="false" Name="Dark Bargain" />
+  <Cards CatID="60226" Quantity="1" Sideboard="false" Name="Biting Rain" />
+  <Cards CatID="56104" Quantity="1" Sideboard="false" Name="Living Lore" />
+  <Cards CatID="61955" Quantity="1" Sideboard="false" Name="Diabolic Tutor" />
+  <Cards CatID="50380" Quantity="1" Sideboard="false" Name="Rescue from the Underworld" />
+  <Cards CatID="65266" Quantity="1" Sideboard="false" Name="Spreading Rot" />
+  <Cards CatID="53634" Quantity="1" Sideboard="false" Name="Stain the Mind" />
+  <Cards CatID="60296" Quantity="1" Sideboard="false" Name="Ever After" />
+  <Cards CatID="52038" Quantity="1" Sideboard="false" Name="Spiteful Blow" />
+  <Cards CatID="51819" Quantity="1" Sideboard="false" Name="Fated Return" />
+  <Cards CatID="34798" Quantity="1" Sideboard="false" Name="Needlebite Trap" />
+  <Cards CatID="64790" Quantity="1" Sideboard="false" Name="Consign/Oblivion" />
+  <Cards CatID="61915" Quantity="1" Sideboard="false" Name="Dramatic Reversal" />
+  <Cards CatID="47779" Quantity="1" Sideboard="false" Name="Stolen Identity" />
+  <Cards CatID="47913" Quantity="1" Sideboard="false" Name="Undercity Plague" />
+  <Cards CatID="47663" Quantity="1" Sideboard="false" Name="Hands of Binding" />
+  <Cards CatID="34448" Quantity="1" Sideboard="false" Name="Into the Roil" />
+  <Cards CatID="23312" Quantity="1" Sideboard="false" Name="Muddle the Mixture" />
+  <Cards CatID="29659" Quantity="1" Sideboard="false" Name="Mirrorweave" />
+  <Cards CatID="57904" Quantity="1" Sideboard="false" Name="Send to Sleep" />
+  <Cards CatID="23574" Quantity="1" Sideboard="false" Name="Shadow of Doubt" />
+  <Cards CatID="61352" Quantity="1" Sideboard="false" Name="Take Inventory" />
+  <Cards CatID="34676" Quantity="1" Sideboard="false" Name="Trapmaker's Snare" />
+  <Cards CatID="35611" Quantity="1" Sideboard="false" Name="Treasure Hunt" />
+  <Cards CatID="67555" Quantity="1" Sideboard="false" Name="Befuddle" />
+  <Cards CatID="37510" Quantity="1" Sideboard="false" Name="Call to Mind" />
+  <Cards CatID="59796" Quantity="1" Sideboard="false" Name="Catalog" />
 </Deck>

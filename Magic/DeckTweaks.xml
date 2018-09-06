@@ -11,7 +11,6 @@ Suture Priest
 EliteIsochron:
 Ring of blue island
 
-
 Landfall:
 Black Sun's Zenith
 Bounding Krasis
@@ -379,30 +378,53 @@ Dismember
   Training Grounds
   Venerated Teacher
 </Activation>
-<Arty strat="Re-cast permanents that give artifact tokens on enter battlefield">
+<Arty strat="Re-cast permanents that give artifact tokens on enter battlefield (see: Fabricate)">
+  Angel of Invention
+  Atog
   Avarice Amulet
   Brass Squire
+  Contagion Clasp
   Creepy Doll
+  Darksteel Colossus
+  Decoction Module
   Dispeller's Capsule
+  Enigma Sphinx
+  Epochrasite
   Esperzoa
   Ethersworn Adjudicator
+  Genesis Chamber
+  Glaze Fiend
   Inspiring Statuary
   Inventor's Fair
   Key to the City
   Lotus Bloom
   Master Transmuter
+  Memnarch
   Mycosynth Wellspring
+  Navigator's Compass
   Noxious Gearhulk
   Phyrexian Core
+  Platinum Emperion
   Pyrite Spellbomb
   Rusted Slasher
+  Salvage Titan
   Salvaging Station
+  Scuttling Doom Engine
   Sen Triplets
+  Sharding Sphinx
+  Sharuum the Hegemon
   Solemn Simulacrum
+  Soul of New Phyrexia
   Skyscanner
+  Sphinx of the Steel Wind
+  Sphinx Sovereign
   Sphinx Summoner
+  Steel Hellkite
   Sunbeam Spellbomb
+  Thopter Assembly
   Transguild Courier
+  Visionary Augmenter
+  Weaponcraft Enthusiast
 </Arty>
 <BlackWhiteSac>
   Shadow Guildmage
@@ -709,6 +731,7 @@ Dismember
   Mind Bend
   Painter's Servant
   Prismwake Merrow
+  Quickchange
   Reaper King
   Scuttlemutt
   Western Paladin
@@ -1306,6 +1329,7 @@ Dismember
   Fusion Elemental
   Genju of the Realm
   Horde of Notions
+  Kaleidostone
   Maelstrom Archangel
   Plasm Capture
   Prosperous Pirates
@@ -1585,22 +1609,40 @@ Vedalken Mastermind
 <Horrors>
   Aether Membrane
   Aether Spellbomb
+  Ambition's Cost
   Blink of an Eye
+  Call of the Nightwing
+  Chart a Course
   Curious Homunculus
   Dark Dabbling
   Dismal Backwater
+  Dizzy Spell
+  Dream Salvage
+  Fate Transfer
+  Festering March
   Flaying Tendrils
+  Force Away
   Gelectrode
   Ludevic's Test
   Memory Plunder
+  Merchant Scroll
+  Mind Shatter
   Mistvein Borderpost
+  Night's Whisper
   Nucklavee
   Pongify
   Phyrexian Revoker
+  Quickchange
+  Rain of Tears
+  Ridged Kusite
+  Snapcaster Mage
   Spellskite
+  Sword-Point Diplomacy
+  Torrent of Souls
   Transmogrifying Wand
   Trophy Mage
   Turn to Mist
+  Unburial Rites
   Vapor Snag
 </Horrors>
 <LandDestruct>
@@ -1952,6 +1994,8 @@ NON-CREATURES:
   Fire Whip
   Hero's Blade
   Izzet Boilerworks
+  Merchant Scroll
+  Nefarox, Overlord of Grixis
   Piston Sledge
   Reclusive Artificer
   Rings of Brighthearth
@@ -1961,6 +2005,7 @@ NON-CREATURES:
   Skill Borrower
   Sunbeam Spellbomb
   Sword of Kaldra
+  Tezzeret, Master of Metal
   Thunderstaff
   Viridian Longbow
   Wall of Spears
