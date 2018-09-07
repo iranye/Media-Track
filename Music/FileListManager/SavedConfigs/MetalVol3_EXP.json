@@ -4,7 +4,7 @@
   "M3uFiles": [
     {
       "PartialPath": "Music\\MP3s\\Korn\\_Korn-ShortList.m3u",
-      "TotalMegaBytes": 64
+      "TotalMegaBytes": 58
     },
     {
       "PartialPath": "Music\\MP3s\\Ministry\\_Ministry-ShortList.m3u",
@@ -25,10 +25,6 @@
     {
       "PartialPath": "Music\\MP3s\\Slipknot\\_Slipknot-ShortList.m3u",
       "TotalMegaBytes": 37
-    },
-    {
-      "PartialPath": "Music\\MP3s\\TenaciousD\\_TenaciousD.m3u",
-      "TotalMegaBytes": 70
     },
     {
       "PartialPath": "Music\\MP3s\\Tool\\$Tool-ShortList.m3u",

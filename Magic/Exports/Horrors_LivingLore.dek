@@ -102,4 +102,6 @@
   <Cards CatID="67555" Quantity="1" Sideboard="false" Name="Befuddle" />
   <Cards CatID="37510" Quantity="1" Sideboard="false" Name="Call to Mind" />
   <Cards CatID="59796" Quantity="1" Sideboard="false" Name="Catalog" />
+  <Cards CatID="36732" Quantity="1" Sideboard="false" Name="Distortion Strike" />
+  <Cards CatID="56162" Quantity="1" Sideboard="false" Name="Ojutai's Breath" />
 </Deck>

@@ -85,4 +85,12 @@
   <Cards CatID="53634" Quantity="1" Sideboard="false" Name="Stain the Mind" />
   <Cards CatID="60296" Quantity="1" Sideboard="false" Name="Ever After" />
   <Cards CatID="52038" Quantity="1" Sideboard="false" Name="Spiteful Blow" />
+  <Cards CatID="56332" Quantity="2" Sideboard="false" Name="Void Squall" />
+  <Cards CatID="53528" Quantity="1" Sideboard="false" Name="Polymorphist's Jest" />
+  <Cards CatID="20499" Quantity="1" Sideboard="false" Name="Pulse of the Grid" />
+  <Cards CatID="64586" Quantity="1" Sideboard="false" Name="Tragic Lesson" />
+  <Cards CatID="23422" Quantity="1" Sideboard="false" Name="Clutch of the Undercity" />
+  <Cards CatID="61921" Quantity="1" Sideboard="false" Name="Glimmer of Genius" />
+  <Cards CatID="29813" Quantity="1" Sideboard="false" Name="River's Grasp" />
+  <Cards CatID="36732" Quantity="1" Sideboard="false" Name="Distortion Strike" />
 </Deck>

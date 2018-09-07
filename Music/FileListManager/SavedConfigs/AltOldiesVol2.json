@@ -16,11 +16,15 @@
     },
     {
       "PartialPath": "Music\\MP3s\\Stone Temple Pilots\\_StoneTemplePilots-ShortList.m3u",
-      "TotalMegaBytes": 138
+      "TotalMegaBytes": 98
     },
     {
       "PartialPath": "Music\\MP3s\\TempleOfTheDog\\_TempleOfTheDog-ShortList.m3u",
       "TotalMegaBytes": 15
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Weezer\\_Weezer-ShortList.m3u",
+      "TotalMegaBytes": 46
     }
   ]
 }

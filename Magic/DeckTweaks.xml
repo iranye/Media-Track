@@ -1612,13 +1612,17 @@ Vedalken Mastermind
   Ambition's Cost
   Blink of an Eye
   Call of the Nightwing
+  Cast Through Time
   Chart a Course
   Curious Homunculus
   Dark Dabbling
+  Deflection
   Dismal Backwater
   Dizzy Spell
   Dream Salvage
   Fate Transfer
+  Gifts Ungiven
+  Jhoira's Timebug
   Festering March
   Flaying Tendrils
   Force Away
@@ -1635,6 +1639,7 @@ Vedalken Mastermind
   Quickchange
   Rain of Tears
   Ridged Kusite
+  Second Sight
   Snapcaster Mage
   Spellskite
   Sword-Point Diplomacy
@@ -1644,6 +1649,7 @@ Vedalken Mastermind
   Turn to Mist
   Unburial Rites
   Vapor Snag
+  Withering Gaze
 </Horrors>
 <LandDestruct>
 Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
@@ -2003,6 +2009,7 @@ NON-CREATURES:
   Saheeli Rai
   Skeleton Shard
   Skill Borrower
+  Steel Hellkite
   Sunbeam Spellbomb
   Sword of Kaldra
   Tezzeret, Master of Metal
@@ -2049,6 +2056,7 @@ NON-CREATURES:
   Ulrich of the Krallenhorde
   Unbridled Growth
   Vigor
+  Virulent Swipe
   Vorapede
   Wolfbriar Elemental
 </RedGrDevotion-0>
