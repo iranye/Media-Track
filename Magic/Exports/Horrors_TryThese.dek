@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -13,7 +13,7 @@
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="60072" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="58835" Quantity="1" Sideboard="false" Name="Swamp" />
-  <Cards CatID="58833" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="31321" Quantity="1" Sideboard="false" Name="Grixis Panorama" />
   <Cards CatID="58796" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
   <Cards CatID="50264" Quantity="3" Sideboard="false" Name="Temple of Deceit" />
@@ -30,59 +30,48 @@
   <Cards CatID="65142" Quantity="1" Sideboard="false" Name="Opt" />
   <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
   <Cards CatID="50378" Quantity="2" Sideboard="false" Name="Curse of the Swine" />
-  <Cards CatID="46307" Quantity="2" Sideboard="false" Name="Mizzium Skin" />
+  <Cards CatID="46307" Quantity="1" Sideboard="false" Name="Mizzium Skin" />
   <Cards CatID="20363" Quantity="3" Sideboard="false" Name="Echoing Truth" />
   <Cards CatID="34520" Quantity="1" Sideboard="false" Name="Gatekeeper of Malakir" />
   <Cards CatID="30140" Quantity="1" Sideboard="false" Name="Raven's Crime" />
   <Cards CatID="66055" Quantity="1" Sideboard="false" Name="Duress" />
-  <Cards CatID="53628" Quantity="1" Sideboard="false" Name="Chasm Skulker" />
-  <Cards CatID="52278" Quantity="2" Sideboard="false" Name="Brain Maggot" />
+  <Cards CatID="52278" Quantity="1" Sideboard="false" Name="Brain Maggot" />
   <Cards CatID="19623" Quantity="2" Sideboard="false" Name="Warped Devotion" />
   <Cards CatID="67557" Quantity="1" Sideboard="false" Name="Blink of an Eye" />
   <Cards CatID="20007" Quantity="1" Sideboard="false" Name="Crystal Shard" />
   <Cards CatID="67587" Quantity="1" Sideboard="false" Name="Precognition Field" />
+  <Cards CatID="62653" Quantity="1" Sideboard="false" Name="Baral, Chief of Compliance" />
+  <Cards CatID="65963" Quantity="1" Sideboard="false" Name="Ancestral Vision" />
+  <Cards CatID="67627" Quantity="1" Sideboard="false" Name="Cast Down" />
+  <Cards CatID="35555" Quantity="2" Sideboard="false" Name="Abyssal Persecutor" />
+  <Cards CatID="34452" Quantity="1" Sideboard="false" Name="Grim Discovery" />
+  <Cards CatID="58178" Quantity="1" Sideboard="false" Name="Macabre Waltz" />
+  <Cards CatID="45390" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
+  <Cards CatID="56104" Quantity="1" Sideboard="false" Name="Living Lore" />
+  <Cards CatID="53528" Quantity="1" Sideboard="false" Name="Polymorphist's Jest" />
+  <Cards CatID="20499" Quantity="1" Sideboard="false" Name="Pulse of the Grid" />
+  <Cards CatID="64586" Quantity="1" Sideboard="false" Name="Tragic Lesson" />
+  <Cards CatID="59778" Quantity="1" Sideboard="false" Name="Brain in a Jar" />
+  <Cards CatID="50306" Quantity="1" Sideboard="false" Name="Thassa, God of the Sea" />
+  <Cards CatID="62707" Quantity="1" Sideboard="false" Name="Yahenni's Expertise" />
+  <Cards CatID="29611" Quantity="1" Sideboard="false" Name="Beseech the Queen" />
+  <Cards CatID="19569" Quantity="1" Sideboard="false" Name="Merchant Scroll" />
+  <Cards CatID="26453" Quantity="2" Sideboard="false" Name="Pongify" />
+  <Cards CatID="23312" Quantity="2" Sideboard="false" Name="Muddle the Mixture" />
+  <Cards CatID="49339" Quantity="1" Sideboard="false" Name="Trading Post" />
+  <Cards CatID="61136" Quantity="1" Sideboard="false" Name="Unsubstantiate" />
+  <Cards CatID="29549" Quantity="3" Sideboard="false" Name="Fate Transfer" />
   <Cards CatID="50622" Quantity="2" Sideboard="true" Name="Dark Betrayal" />
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
   <Cards CatID="27749" Quantity="1" Sideboard="true" Name="Flashfreeze" />
   <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
-  <Cards CatID="53982" Quantity="2" Sideboard="true" Name="Disdainful Stroke" />
+  <Cards CatID="65108" Quantity="1" Sideboard="true" Name="Chart a Course" />
   <Cards CatID="46325" Quantity="1" Sideboard="true" Name="Cremate" />
   <Cards CatID="39447" Quantity="1" Sideboard="true" Name="Go for the Throat" />
-  <Cards CatID="47615" Quantity="1" Sideboard="false" Name="Horror of the Dim" />
-  <Cards CatID="65963" Quantity="1" Sideboard="false" Name="Ancestral Vision" />
-  <Cards CatID="67627" Quantity="1" Sideboard="false" Name="Cast Down" />
-  <Cards CatID="64796" Quantity="1" Sideboard="false" Name="Claim/Fame" />
-  <Cards CatID="34452" Quantity="1" Sideboard="false" Name="Grim Discovery" />
-  <Cards CatID="58178" Quantity="1" Sideboard="false" Name="Macabre Waltz" />
-  <Cards CatID="57752" Quantity="1" Sideboard="false" Name="Read the Bones" />
-  <Cards CatID="67631" Quantity="1" Sideboard="false" Name="Dark Bargain" />
-  <Cards CatID="60226" Quantity="1" Sideboard="false" Name="Biting Rain" />
-  <Cards CatID="56104" Quantity="1" Sideboard="false" Name="Living Lore" />
-  <Cards CatID="61955" Quantity="1" Sideboard="false" Name="Diabolic Tutor" />
-  <Cards CatID="53634" Quantity="1" Sideboard="false" Name="Stain the Mind" />
-  <Cards CatID="52038" Quantity="1" Sideboard="false" Name="Spiteful Blow" />
-  <Cards CatID="56332" Quantity="1" Sideboard="false" Name="Void Squall" />
-  <Cards CatID="53528" Quantity="1" Sideboard="false" Name="Polymorphist's Jest" />
-  <Cards CatID="20499" Quantity="1" Sideboard="false" Name="Pulse of the Grid" />
-  <Cards CatID="64586" Quantity="1" Sideboard="false" Name="Tragic Lesson" />
-  <Cards CatID="23422" Quantity="1" Sideboard="false" Name="Clutch of the Undercity" />
-  <Cards CatID="29813" Quantity="1" Sideboard="false" Name="River's Grasp" />
-  <Cards CatID="36732" Quantity="1" Sideboard="false" Name="Distortion Strike" />
-  <Cards CatID="50306" Quantity="1" Sideboard="false" Name="Thassa, God of the Sea" />
-  <Cards CatID="57978" Quantity="1" Sideboard="false" Name="Necromantic Summons" />
-  <Cards CatID="62707" Quantity="1" Sideboard="false" Name="Yahenni's Expertise" />
-  <Cards CatID="26475" Quantity="1" Sideboard="false" Name="Treacherous Urge" />
-  <Cards CatID="29611" Quantity="1" Sideboard="false" Name="Beseech the Queen" />
-  <Cards CatID="19949" Quantity="1" Sideboard="false" Name="Betrayal of Flesh" />
-  <Cards CatID="25811" Quantity="1" Sideboard="false" Name="Dark Withering" />
-  <Cards CatID="30126" Quantity="1" Sideboard="false" Name="Oona's Grace" />
-  <Cards CatID="65108" Quantity="2" Sideboard="false" Name="Chart a Course" />
-  <Cards CatID="30192" Quantity="2" Sideboard="false" Name="Snakeform" />
-  <Cards CatID="19569" Quantity="1" Sideboard="false" Name="Merchant Scroll" />
-  <Cards CatID="26453" Quantity="2" Sideboard="false" Name="Pongify" />
-  <Cards CatID="23274" Quantity="1" Sideboard="false" Name="Quickchange" />
-  <Cards CatID="26461" Quantity="1" Sideboard="false" Name="Ridged Kusite" />
-  <Cards CatID="35761" Quantity="1" Sideboard="false" Name="Vapor Snare" />
   <Cards CatID="22901" Quantity="1" Sideboard="true" Name="Withering Gaze" />
-  <Cards CatID="61136" Quantity="1" Sideboard="false" Name="Unsubstantiate" />
+  <Cards CatID="53634" Quantity="1" Sideboard="true" Name="Stain the Mind" />
+  <Cards CatID="47615" Quantity="1" Sideboard="true" Name="Horror of the Dim" />
+  <Cards CatID="26461" Quantity="1" Sideboard="true" Name="Ridged Kusite" />
+  <Cards CatID="46307" Quantity="1" Sideboard="true" Name="Mizzium Skin" />
+  <Cards CatID="50440" Quantity="1" Sideboard="true" Name="Swan Song" />
 </Deck>
