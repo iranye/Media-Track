@@ -3,12 +3,12 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "PartialPath": "Music\\MP3s\\Whitesnake\\_Whitesnake-ShortList.m3u",
-      "TotalMegaBytes": 16
+      "PartialPath": "Music\\MP3s\\Genesis\\_Genesis-ShortList.m3u",
+      "TotalMegaBytes": 149
     },
     {
-      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Like Omigod - The '80s Pop Culture Box\\_80sPopCultureBox-ShortList_Sublist2.m3u",
-      "TotalMegaBytes": 670
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1981\\_1981-ShortList.m3u",
+      "TotalMegaBytes": 377
     }
   ]
 }

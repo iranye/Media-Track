@@ -1611,44 +1611,49 @@ Vedalken Mastermind
 <Horrors>
   Aether Membrane
   Aether Spellbomb
-  Ambition's Cost
-  Blink of an Eye
+  Cairn Wanderer
   Cast Through Time
-  Chart a Course
-  Curious Homunculus
   Dark Dabbling
-  Deflection  
   Dizzy Spell
   Dream Salvage
   Fate Transfer
   Gifts Ungiven
+  Hex Parasite
   Jhoira's Timebug
   Festering March
   Flaying Tendrils
   Force Away
   Ludevic's Test
-  Memory Plunder
-  Merchant Scroll
-  Mind Shatter
-  Night's Whisper
-  Nucklavee
-  Pongify
+  Memory Plunder    
   Phyrexian Revoker
   Quickchange
-  Rain of Tears
-  Ridged Kusite
-  Second Sight
+  Reality Strobe
+  Redirect
+  Riftwing Cloudskate
   Snapcaster Mage
   Spellskite
-  Sword-Point Diplomacy
   Torrent of Souls
-  Transmogrifying Wand
-  Trophy Mage
   Turn to Mist
-  Unburial Rites
-  Vapor Snag
-  Withering Gaze
+  Venser's Diffusion
 </Horrors>
+<Horrors_LivingLore>
+  Befoul
+  Drain the Well
+  Karn's Temporal Sundering
+  Polluted Dead
+  Plunder
+  Stone Rain
+</Horrors_LivingLore>
+<Horrors_White Notes="Use more cards w/ Suspend">
+  Chronomantic Escape
+  Divine Congregation  
+  Dust of Moments
+  Feeling of Dread
+  Heroes Remembered
+  Nihilith
+  Phthisis
+  Timecrafting
+</Horrors_White>
 <LandDestruct>
 Strategy: Cast lots of wipe cards and bring in on-demand creatures as needed
 
@@ -1822,9 +1827,8 @@ Heliod
   Give/Take
   Glade Watcher
   Glimmer of Genius
-  Go for the Throat
   Groundswell
-  Hardened Scales
+  Hadana's Climb
   Honored Hierarch
   Horizon Spellbomb
   Hydroform
@@ -1915,6 +1919,17 @@ Heliod
   Zameck Guildmage
   Zendikar's Roil
 </LandFall>
+
+<Legendaries>
+  Arguel's Blood Fast
+  Daring Archaeologist
+  Goryo's Vengeance
+  Leyline of Singularity
+  Mox Amber
+  Profane Procession
+  Thalia's Lancers
+</Legendaries>
+  
 <LivingLore>
   Crack the Earth
   Ojutai's Command
@@ -1970,6 +1985,7 @@ NON-CREATURES:
 - Worst Fears (8) [BLK]
 
 </LivingLore>
+
 <Nibbler>
   Courser of Kruphix
   Crawling Sensation

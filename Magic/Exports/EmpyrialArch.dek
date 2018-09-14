@@ -96,4 +96,5 @@
   <Cards CatID="49493" Quantity="1" Sideboard="true" Name="Tidebinder Mage" />
   <Cards CatID="60811" Quantity="2" Sideboard="true" Name="Trygon Predator" />
   <Cards CatID="24177" Quantity="1" Sideboard="false" Name="Transguild Courier" />
+  <Cards CatID="46763" Quantity="1" Sideboard="false" Name="Azor's Elocutors" />
 </Deck>

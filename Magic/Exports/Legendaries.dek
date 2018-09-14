@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="50280" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="49547" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="50292" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="51966" Quantity="2" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="46723" Quantity="1" Sideboard="false" Name="Rogue's Passage" />
+  <Cards CatID="51559" Quantity="2" Sideboard="false" Name="Gorgon's Head" />
+  <Cards CatID="46427" Quantity="2" Sideboard="false" Name="Frostburn Weird" />
+  <Cards CatID="50306" Quantity="2" Sideboard="false" Name="Thassa, God of the Sea" />
+  <Cards CatID="46805" Quantity="2" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="52102" Quantity="1" Sideboard="false" Name="Keranos, God of Storms" />
+  <Cards CatID="20007" Quantity="1" Sideboard="false" Name="Crystal Shard" />
+  <Cards CatID="50578" Quantity="2" Sideboard="false" Name="Anger of the Gods" />
+  <Cards CatID="50440" Quantity="2" Sideboard="false" Name="Swan Song" />
+  <Cards CatID="50424" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="9411" Quantity="1" Sideboard="false" Name="Gemstone Mine" />
+  <Cards CatID="57618" Quantity="1" Sideboard="false" Name="Negate" />
+  <Cards CatID="67933" Quantity="2" Sideboard="false" Name="Traxos, Scourge of Kroog" />
+  <Cards CatID="67959" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="53284" Quantity="2" Sideboard="false" Name="Shrapnel Blast" />
+  <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
+  <Cards CatID="45366" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="49339" Quantity="3" Sideboard="false" Name="Trading Post" />
+  <Cards CatID="54022" Quantity="1" Sideboard="false" Name="Tormenting Voice" />
+  <Cards CatID="47539" Quantity="1" Sideboard="false" Name="Prophetic Prism" />
+  <Cards CatID="35515" Quantity="2" Sideboard="false" Name="Bojuka Bog" />
+  <Cards CatID="20363" Quantity="1" Sideboard="false" Name="Echoing Truth" />
+  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
+  <Cards CatID="29479" Quantity="1" Sideboard="false" Name="Sunken Ruins" />
+  <Cards CatID="35695" Quantity="2" Sideboard="false" Name="Basilisk Collar" />
+  <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
+  <Cards CatID="47813" Quantity="1" Sideboard="false" Name="Glaring Spotlight" />
+  <Cards CatID="31213" Quantity="2" Sideboard="false" Name="Etherium Sculptor" />
+  <Cards CatID="46563" Quantity="1" Sideboard="false" Name="Rakdos, Lord of Riots" />
+  <Cards CatID="21385" Quantity="1" Sideboard="false" Name="Minamo, School at Water's Edge" />
+  <Cards CatID="20956" Quantity="1" Sideboard="false" Name="Serum Visions" />
+  <Cards CatID="38191" Quantity="1" Sideboard="false" Name="Mimic Vat" />
+  <Cards CatID="54198" Quantity="1" Sideboard="false" Name="Bloodstained Mire" />
+  <Cards CatID="31321" Quantity="1" Sideboard="false" Name="Grixis Panorama" />
+  <Cards CatID="31183" Quantity="2" Sideboard="false" Name="Crumbling Necropolis" />
+  <Cards CatID="62637" Quantity="1" Sideboard="false" Name="Trophy Mage" />
+  <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
+  <Cards CatID="50310" Quantity="1" Sideboard="false" Name="Ashiok, Nightmare Weaver" />
+  <Cards CatID="38255" Quantity="1" Sideboard="false" Name="Trinket Mage" />
+  <Cards CatID="20273" Quantity="1" Sideboard="false" Name="Sword of Kaldra" />
+  <Cards CatID="53692" Quantity="1" Sideboard="false" Name="Avarice Amulet" />
+  <Cards CatID="67585" Quantity="1" Sideboard="false" Name="Opt" />
+  <Cards CatID="26269" Quantity="1" Sideboard="false" Name="Mirri the Cursed" />
+  <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
+  <Cards CatID="30869" Quantity="1" Sideboard="false" Name="Grixis Charm" />
+  <Cards CatID="25737" Quantity="1" Sideboard="false" Name="Stuffy Doll" />
+  <Cards CatID="68263" Quantity="1" Sideboard="false" Name="Divination" />
+  <Cards CatID="29837" Quantity="1" Sideboard="false" Name="Cemetery Puca" />
+  <Cards CatID="45390" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
+  <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
+  <Cards CatID="47813" Quantity="2" Sideboard="true" Name="Glaring Spotlight" />
+  <Cards CatID="46441" Quantity="1" Sideboard="true" Name="Rakdos Charm" />
+  <Cards CatID="49217" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
+  <Cards CatID="35503" Quantity="1" Sideboard="true" Name="Lightning Greaves" />
+  <Cards CatID="57618" Quantity="1" Sideboard="true" Name="Negate" />
+  <Cards CatID="46427" Quantity="1" Sideboard="true" Name="Frostburn Weird" />
+  <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
+  <Cards CatID="68661" Quantity="1" Sideboard="true" Name="Detection Tower" />
+  <Cards CatID="20363" Quantity="1" Sideboard="true" Name="Echoing Truth" />
+  <Cards CatID="46499" Quantity="1" Sideboard="true" Name="Pithing Needle" />
+  <Cards CatID="67723" Quantity="1" Sideboard="true" Name="Goblin Chainwhirler" />
+  <Cards CatID="67619" Quantity="1" Sideboard="false" Name="Blessing of Belzenlok" />
+  <Cards CatID="67887" Quantity="2" Sideboard="false" Name="Blackblade Reforged" />
+  <Cards CatID="39449" Quantity="1" Sideboard="false" Name="Brass Squire" />
+  <Cards CatID="55482" Quantity="1" Sideboard="false" Name="Hero's Blade" />
+  <Cards CatID="67899" Quantity="1" Sideboard="false" Name="Helm of the Host" />
+  <Cards CatID="53588" Quantity="1" Sideboard="false" Name="Jalira, Master Polymorphist" />
+  <Cards CatID="67847" Quantity="1" Sideboard="false" Name="Arvad the Cursed" />
+  <Cards CatID="51873" Quantity="1" Sideboard="false" Name="Heroes' Podium" />
+  <Cards CatID="21021" Quantity="1" Sideboard="false" Name="Kiki-Jiki, Mirror Breaker" />
+  <Cards CatID="67867" Quantity="1" Sideboard="false" Name="Primevals' Glorious Rebirth" />
+  <Cards CatID="67563" Quantity="1" Sideboard="false" Name="Curator's Ward" />
+  <Cards CatID="21349" Quantity="1" Sideboard="false" Name="Shinka, the Bloodsoaked Keep" />
+  <Cards CatID="67869" Quantity="1" Sideboard="false" Name="Raff Capashen, Ship's Mage" />
+  <Cards CatID="67525" Quantity="1" Sideboard="false" Name="Sanctum Spirit" />
+  <Cards CatID="67931" Quantity="1" Sideboard="false" Name="Thran Temporal Gateway" />
+  <Cards CatID="67939" Quantity="1" Sideboard="false" Name="Weatherlight" />
+</Deck>

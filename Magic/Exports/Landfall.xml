@@ -79,5 +79,6 @@
     <Cards CatID="45390" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
     <Cards CatID="46411" Quantity="1" Sideboard="true" Name="Dryad Militant" />
     <Cards CatID="49463" Quantity="1" Sideboard="true" Name="Witchstalker" />
+    <Cards CatID="35565" Quantity="1" Sideboard="false" Name="Walking Atlas" />
   </CardStack>
 </Deck>

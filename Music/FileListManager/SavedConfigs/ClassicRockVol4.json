@@ -3,16 +3,8 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "PartialPath": "Music\\MP3s\\Jefferson Starship\\_JeffersonStarship-ShortList.m3u",
-      "TotalMegaBytes": 56
-    },
-    {
-      "PartialPath": "Music\\MP3s\\LedZeppelin\\$LedZeppelin-Shortlist.m3u",
-      "TotalMegaBytes": 307
-    },
-    {
-      "PartialPath": "Music\\MP3s\\Pete Townshend\\_PeteTownshend-ShortList.m3u",
-      "TotalMegaBytes": 72
+      "PartialPath": "Music\\MP3s\\LedZeppelin\\_LedZeppelin-Shortlist.m3u",
+      "TotalMegaBytes": 453
     },
     {
       "PartialPath": "Music\\MP3s\\VanHalen\\_VanHalen-ShortList.m3u",

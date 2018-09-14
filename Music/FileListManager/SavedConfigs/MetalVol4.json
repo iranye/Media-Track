@@ -1,5 +1,18 @@
 {
   "Name": "MetalVol4",
   "CopyDirectories": true,
-  "M3uFiles": []
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\Megadeth\\_Megadeth-ShortList.m3u",
+      "TotalMegaBytes": 142
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Metallica\\_Metallica-ShortList.m3u",
+      "TotalMegaBytes": 417
+    },
+    {
+      "PartialPath": "NewStuff\\Alice In Chains\\_RainierFog.m3u",
+      "TotalMegaBytes": 74
+    }
+  ]
 }
