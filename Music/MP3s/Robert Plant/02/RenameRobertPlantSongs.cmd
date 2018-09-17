@@ -1,0 +1,8 @@
+move /y "Robert Plant_01_Other Arms.mp3" "..\02_Robert Plant_01_Other Arms.mp3"
+move /y "Robert Plant_02_In the Mood.mp3" "..\02_Robert Plant_02_In the Mood.mp3"
+move /y "Robert Plant_03_Messin' With the Mekon.mp3" "..\02_Robert Plant_03_Messin' With the Mekon.mp3"
+move /y "Robert Plant_04_Wreckless Love.mp3" "..\02_Robert Plant_04_Wreckless Love.mp3"
+move /y "Robert Plant_05_Thru' With the Two Step.mp3" "..\02_Robert Plant_05_Thru' With the Two Step.mp3"
+move /y "Robert Plant_06_Horizontal Departure.mp3" "..\02_Robert Plant_06_Horizontal Departure.mp3"
+move /y "Robert Plant_07_Stranger Here...Than over There.mp3" "..\02_Robert Plant_07_Stranger Here...Than over There.mp3"
+move /y "Robert Plant_08_Big Log.mp3" "..\02_Robert Plant_08_Big Log.mp3"

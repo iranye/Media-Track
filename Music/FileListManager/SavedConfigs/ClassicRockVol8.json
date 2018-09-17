@@ -3,10 +3,6 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "PartialPath": "Music\\MP3s\\DaysOfTheNew\\_DaysoftheNew-ShortList.m3u",
-      "TotalMegaBytes": 27
-    },
-    {
       "PartialPath": "Music\\MP3s\\Don Henley\\_DonHenley-ShortList.m3u",
       "TotalMegaBytes": 42
     },

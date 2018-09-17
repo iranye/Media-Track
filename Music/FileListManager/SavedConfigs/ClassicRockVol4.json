@@ -7,8 +7,12 @@
       "TotalMegaBytes": 453
     },
     {
-      "PartialPath": "Music\\MP3s\\VanHalen\\_VanHalen-ShortList.m3u",
-      "TotalMegaBytes": 210
+      "PartialPath": "Music\\MP3s\\Peter Gabriel\\_PeterGabriel-ShortList.m3u",
+      "TotalMegaBytes": 121
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Robert Plant\\_RobertPlant_ShorList.m3u",
+      "TotalMegaBytes": 72
     }
   ]
 }
