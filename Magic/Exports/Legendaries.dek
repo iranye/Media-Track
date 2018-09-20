@@ -107,4 +107,9 @@
   <Cards CatID="67913" Quantity="1" Sideboard="false" Name="Mox Amber" />
   <Cards CatID="62829" Quantity="1" Sideboard="false" Name="Oath of Ajani" />
   <Cards CatID="59778" Quantity="1" Sideboard="false" Name="Brain in a Jar" />
+  <Cards CatID="21769" Quantity="2" Sideboard="false" Name="Day of Destiny" />
+  <Cards CatID="64692" Quantity="1" Sideboard="false" Name="Neheb, the Eternal" />
+  <Cards CatID="21425" Quantity="1" Sideboard="false" Name="Tenza, Godo's Maul" />
+  <Cards CatID="67543" Quantity="1" Sideboard="false" Name="Urza's Ruinous Blast" />
+  <Cards CatID="56050" Quantity="1" Sideboard="false" Name="Zurgo Bellstriker" />
 </Deck>

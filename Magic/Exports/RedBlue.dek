@@ -81,4 +81,8 @@
   <Cards CatID="67723" Quantity="1" Sideboard="true" Name="Goblin Chainwhirler" />
   <Cards CatID="66661" Quantity="1" Sideboard="false" Name="Frilled Deathspitter" />
   <Cards CatID="21817" Quantity="1" Sideboard="false" Name="Neko-Te" />
+  <Cards CatID="12923" Quantity="1" Sideboard="false" Name="Mantis Engine" />
+  <Cards CatID="65522" Quantity="1" Sideboard="false" Name="Sorcerous Spyglass" />
+  <Cards CatID="21425" Quantity="1" Sideboard="false" Name="Tenza, Godo's Maul" />
+  <Cards CatID="65524" Quantity="1" Sideboard="false" Name="Thaumatic Compass" />
 </Deck>

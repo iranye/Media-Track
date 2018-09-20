@@ -61,4 +61,8 @@
   <Cards CatID="67873" Quantity="2" Sideboard="false" Name="Shanna, Sisay's Legacy" />
   <Cards CatID="48218" Quantity="2" Sideboard="false" Name="Tajic, Blade of the Legion" />
   <Cards CatID="67537" Quantity="2" Sideboard="false" Name="Teshar, Ancestor's Apostle" />
+  <Cards CatID="65400" Quantity="1" Sideboard="false" Name="Growing Rites of Itlimoc" />
+  <Cards CatID="66773" Quantity="1" Sideboard="false" Name="Huatli, Radiant Champion" />
+  <Cards CatID="65432" Quantity="1" Sideboard="false" Name="Shapers' Sanctuary" />
+  <Cards CatID="23510" Quantity="1" Sideboard="false" Name="Tolsimir Wolfblood" />
 </Deck>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -73,4 +73,5 @@
   <Cards CatID="20822" Quantity="1" Sideboard="true" Name="Neurok Stealthsuit" />
   <Cards CatID="50440" Quantity="1" Sideboard="true" Name="Swan Song" />
   <Cards CatID="39569" Quantity="1" Sideboard="true" Name="Phyrexian Revoker" />
+  <Cards CatID="63826" Quantity="1" Sideboard="false" Name="Trespasser's Curse" />
 </Deck>
