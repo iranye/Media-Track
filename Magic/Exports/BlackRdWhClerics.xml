@@ -29,7 +29,6 @@
     <Cards CatID="54432" Quantity="1" Sideboard="false" Name="Crackling Doom" />
     <Cards CatID="50270" Quantity="1" Sideboard="false" Name="Temple of Triumph" />
     <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
-    <Cards CatID="49139" Quantity="1" Sideboard="false" Name="Door of Destinies" />
     <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
     <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
     <Cards CatID="42292" Quantity="2" Sideboard="false" Name="Angelic Overseer" />
@@ -37,7 +36,7 @@
     <Cards CatID="49569" Quantity="1" Sideboard="false" Name="Banisher Priest" />
     <Cards CatID="57941" Quantity="1" Sideboard="false" Name="Liliana, Heretical Healer" />
     <Cards CatID="63513" Quantity="1" Sideboard="false" Name="Cavern of Souls" />
-    <Cards CatID="62581" Quantity="1" Sideboard="false" Name="Alley Evasion" />
+    <Cards CatID="44786" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
     <Cards CatID="34552" Quantity="2" Sideboard="false" Name="Day of Judgment" />
     <Cards CatID="60212" Quantity="1" Sideboard="false" Name="Bygone Bishop" />
     <Cards CatID="25621" Quantity="1" Sideboard="false" Name="D'Avenant Healer" />
@@ -58,6 +57,10 @@
     <Cards CatID="62681" Quantity="1" Sideboard="false" Name="Gifted Aetherborn" />
     <Cards CatID="34530" Quantity="1" Sideboard="false" Name="Vampire Nighthawk" />
     <Cards CatID="64604" Quantity="1" Sideboard="false" Name="Bontu's Last Reckoning" />
+    <Cards CatID="53498" Quantity="1" Sideboard="false" Name="Feast on the Fallen" />
+    <Cards CatID="46739" Quantity="1" Sideboard="false" Name="Desecration Demon" />
+    <Cards CatID="45698" Quantity="1" Sideboard="false" Name="Staff of Nin" />
+    <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
     <Cards CatID="57744" Quantity="1" Sideboard="true" Name="Celestial Flare" />
     <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
     <Cards CatID="38451" Quantity="1" Sideboard="true" Name="Leonin Arbiter" />

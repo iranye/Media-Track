@@ -79,4 +79,5 @@
   <Cards CatID="46411" Quantity="1" Sideboard="true" Name="Dryad Militant" />
   <Cards CatID="49463" Quantity="1" Sideboard="true" Name="Witchstalker" />
   <Cards CatID="35565" Quantity="1" Sideboard="false" Name="Walking Atlas" />
+  <Cards CatID="48276" Quantity="1" Sideboard="false" Name="Vorel of the Hull Clade" />
 </Deck>

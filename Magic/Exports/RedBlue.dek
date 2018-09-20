@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -79,4 +79,6 @@
   <Cards CatID="20363" Quantity="1" Sideboard="true" Name="Echoing Truth" />
   <Cards CatID="46499" Quantity="1" Sideboard="true" Name="Pithing Needle" />
   <Cards CatID="67723" Quantity="1" Sideboard="true" Name="Goblin Chainwhirler" />
+  <Cards CatID="66661" Quantity="1" Sideboard="false" Name="Frilled Deathspitter" />
+  <Cards CatID="21817" Quantity="1" Sideboard="false" Name="Neko-Te" />
 </Deck>
