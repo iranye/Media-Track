@@ -43,6 +43,7 @@
   <Cards CatID="50428" Quantity="2" Sideboard="false" Name="Destructive Revelry" />
   <Cards CatID="63093" Quantity="1" Sideboard="false" Name="Harmonize" />
   <Cards CatID="34902" Quantity="1" Sideboard="false" Name="Rancor" />
+  <Cards CatID="65432" Quantity="1" Sideboard="false" Name="Shapers' Sanctuary" />
   <Cards CatID="50196" Quantity="3" Sideboard="true" Name="Nylea's Disciple" />
   <Cards CatID="50386" Quantity="3" Sideboard="true" Name="Mistcutter Hydra" />
   <Cards CatID="49271" Quantity="1" Sideboard="true" Name="Scavenging Ooze" />
@@ -51,5 +52,6 @@
   <Cards CatID="46473" Quantity="2" Sideboard="true" Name="Mizzium Mortars" />
   <Cards CatID="36678" Quantity="2" Sideboard="true" Name="Gravity Well" />
   <Cards CatID="50428" Quantity="1" Sideboard="true" Name="Destructive Revelry" />
-  <Cards CatID="65432" Quantity="1" Sideboard="false" Name="Shapers' Sanctuary" />
+  <Cards CatID="30092" Quantity="1" Sideboard="false" Name="Primalcrux" />
+  <Cards CatID="35523" Quantity="1" Sideboard="false" Name="Omnath, Locus of Mana" />
 </Deck>

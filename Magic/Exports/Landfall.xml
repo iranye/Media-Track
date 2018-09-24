@@ -14,7 +14,7 @@
     <Cards CatID="47475" Quantity="3" Sideboard="false" Name="Breeding Pool" />
     <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
     <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
-    <Cards CatID="61829" Quantity="3" Sideboard="false" Name="Forest" />
+    <Cards CatID="61829" Quantity="2" Sideboard="false" Name="Forest" />
     <Cards CatID="57650" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
     <Cards CatID="51084" Quantity="1" Sideboard="false" Name="Cultivate" />
     <Cards CatID="36492" Quantity="2" Sideboard="false" Name="Deprive" />
@@ -66,6 +66,10 @@
     <Cards CatID="53708" Quantity="1" Sideboard="false" Name="Radiant Fountain" />
     <Cards CatID="50402" Quantity="1" Sideboard="false" Name="Arbor Colossus" />
     <Cards CatID="58803" Quantity="1" Sideboard="false" Name="Forest" />
+    <Cards CatID="35565" Quantity="1" Sideboard="false" Name="Walking Atlas" />
+    <Cards CatID="48276" Quantity="1" Sideboard="false" Name="Vorel of the Hull Clade" />
+    <Cards CatID="65432" Quantity="1" Sideboard="false" Name="Shapers' Sanctuary" />
+    <Cards CatID="68621" Quantity="1" Sideboard="false" Name="Crucible of Worlds" />
     <Cards CatID="36684" Quantity="1" Sideboard="true" Name="Spider Umbra" />
     <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
     <Cards CatID="35515" Quantity="1" Sideboard="true" Name="Bojuka Bog" />
@@ -79,8 +83,5 @@
     <Cards CatID="45390" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
     <Cards CatID="46411" Quantity="1" Sideboard="true" Name="Dryad Militant" />
     <Cards CatID="49463" Quantity="1" Sideboard="true" Name="Witchstalker" />
-    <Cards CatID="35565" Quantity="1" Sideboard="false" Name="Walking Atlas" />
-    <Cards CatID="48276" Quantity="1" Sideboard="false" Name="Vorel of the Hull Clade" />
-    <Cards CatID="65432" Quantity="1" Sideboard="false" Name="Shapers' Sanctuary" />
   </CardStack>
 </Deck>
