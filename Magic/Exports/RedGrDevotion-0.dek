@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -52,4 +52,6 @@
   <Cards CatID="46473" Quantity="2" Sideboard="true" Name="Mizzium Mortars" />
   <Cards CatID="36678" Quantity="2" Sideboard="true" Name="Gravity Well" />
   <Cards CatID="50428" Quantity="1" Sideboard="true" Name="Destructive Revelry" />
+  <Cards CatID="30092" Quantity="1" Sideboard="false" Name="Primalcrux" />
+  <Cards CatID="35523" Quantity="1" Sideboard="false" Name="Omnath, Locus of Mana" />
 </Deck>
