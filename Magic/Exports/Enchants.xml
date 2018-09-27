@@ -57,5 +57,7 @@
     <Cards CatID="49493" Quantity="1" Sideboard="true" Name="Tidebinder Mage" />
     <Cards CatID="55600" Quantity="1" Sideboard="true" Name="Valorous Stance" />
     <Cards CatID="49121" Quantity="1" Sideboard="true" Name="Wall of Swords" />
+    <Cards CatID="63686" Quantity="2" Sideboard="false" Name="As Foretold" />
+    <Cards CatID="9465" Quantity="1" Sideboard="false" Name="Aura of Silence" />
   </CardStack>
 </Deck>
