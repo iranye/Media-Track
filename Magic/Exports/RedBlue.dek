@@ -85,4 +85,5 @@
   <Cards CatID="65522" Quantity="1" Sideboard="false" Name="Sorcerous Spyglass" />
   <Cards CatID="21425" Quantity="1" Sideboard="false" Name="Tenza, Godo's Maul" />
   <Cards CatID="65524" Quantity="1" Sideboard="false" Name="Thaumatic Compass" />
+  <Cards CatID="61597" Quantity="1" Sideboard="false" Name="Saheeli Rai" />
 </Deck>

@@ -136,6 +136,7 @@ Dismember
   <CountersForCreatures>
     Armament Corps
     Blade of the Bloodchief
+    Corpsejack Menace
     Dromoka, the Eternal
     Ephara's Enlightenment
     Ephara's Radiance
@@ -144,6 +145,26 @@ Dismember
     Retribution of the Ancients
     Reap what is Sown
     Sandsteppe Outcast
+  Abzan Ascendancy
+  Abzan Charm
+  Ajani Pridemate
+  Anafenza, Kin-Tree Spirit
+  Anafenza, the Foremost
+  Avatar of the Resolute
+  Bow of Nylea
+  Citadel Siege
+  Dragon Throne of Tarkir
+  Feast on the Fallen
+  Feat of Resistance
+  Forced Adaptation
+  Hardened Scales
+  High Sentinels of Arashin
+  Phalanx Leader
+  Pheres-Band Tromper
+  Solidarity of Heroes
+  Sunscorch Regent
+  Thalia's Lieutenant
+  Winding Constrictor
   </CountersForCreatures>
   <CounterSpell>
     Clash of Wills
@@ -366,6 +387,7 @@ Dismember
   Kazandu Tuskcaller
   Knight of Cliffhaven
   Kytheon
+  Jade Mage
   The Locust God
   Merchant's Dockhand
   Nirkana Cutthroat
@@ -565,6 +587,7 @@ Dismember
     Predator's Gambit
     Prison Term
     Prophetic Ravings
+    Saving Grace
     Senseless Rage
     Skeletal Grimace
     Skin Invasion
@@ -723,6 +746,79 @@ Dismember
   Zealous Persecution
   Zur the Enchanter
 </BlackWhiteSac>
+
+<Sagas>
+  Chainer's Torment
+  Fall of the Thran
+  History of Benalia $$$
+  Phyrexian Scriptures $
+  Rite of Belzenlok
+  Song of Freyalise
+  The Antiquities War
+  The Eldest Reborn
+  The First Eruption
+  The Flame of Keld
+  The Mending of Dominaria
+  The Mirari Conjecture
+  Time of Ice
+  Triumph of Gerrard
+</Sagas>
+<SwampKill>
+  [Sagas]:
+    Rite of Belzenlok
+  [Vehicles]
+  Ammit Eternal
+  Arcane Spyglass
+  Bident of Thassa
+  Boon of Erebos
+  Cabal Stronghold
+  Chromium, the Mutable  
+  Curator's Ward
+  Crucible of Worlds
+  Crypt Ghast
+  Doomwake Giant
+  Esper Charm
+  Esper Panorama
+  Eternal Witness
+  Funeral Charm
+  Haunted Plate Mail
+  Hunted Phantasm
+  Karma
+  Knight of the Reliquary
+  Lashwrithe
+  Life from the Loam
+  Mind Bend
+  Mind Sludge
+  Neurok Stealthsuit
+  Nettlevine Blight
+  Nighthaze
+  Nightmare Lash
+  Pithing Needle
+  Sen Triplets  
+  Skysovereign, Consul Flagship
+  Sol'kanar the Swamp King
+  Spectral Shift
+  Sphinx of the Steel Wind  
+  Underworld Coinsmith
+  Urborg, Tomb of Yawgmoth
+  Wrexial, the Risen Deep
+  Zur the Enchanter:
+    Cartouche of Knowledge
+    Cloudform + Crown of Convergence, Lantern of Insight, Skill Borrower
+    Contaminated Ground
+    Copy Enchantment
+    Corrupt
+    Eidolon of Countless Battles
+    Eidolon of Rhetoric
+    Ghostblade Eidolon
+    Ghostly Prison
+    Gift of Immortality
+    Grim Guardian
+    Retreat to Hagra
+    Shimmering Wings
+    Trade Routes
+</SwampKill>
+
 <ColorKill>
   Devout Lightcaster
   Eight-and-a-Half-Tails
@@ -736,27 +832,6 @@ Dismember
   Scuttlemutt
   Western Paladin
 </ColorKill>
-<CountersForCreatures>
-  Abzan Ascendancy
-  Abzan Charm
-  Ajani Pridemate
-  Anafenza, Kin-Tree Spirit
-  Anafenza, the Foremost
-  Avatar of the Resolute
-  Bow of Nylea
-  Citadel Siege
-  Dragon Throne of Tarkir
-  Feast on the Fallen
-  Feat of Resistance
-  Forced Adaptation
-  Hardened Scales
-  High Sentinels of Arashin
-  Phalanx Leader
-  Pheres-Band Tromper
-  Solidarity of Heroes
-  Sunscorch Regent
-  Thalia's Lieutenant
-</CountersForCreatures>
 <DaringIceFeather>
   Aura of Dominion
   Bear Umbra
@@ -1346,6 +1421,8 @@ Dismember
   Furor of the Bitten
   Hornet Nest
   Kazuul, Tyrant of the Cliffs
+  Sakura-Tribe Elder
+  Woolly Razorback
 </ForceAttacks>
 <FourPowerMobs>
 Arc Runner
@@ -1606,7 +1683,6 @@ Vedalken Mastermind
 </Goats>
 <Haunted>
   Haunted Plate Mail
-  Lethal Vapors
   Manamorphose
 </Haunted>
 <Horrors>
@@ -2028,6 +2104,7 @@ NON-CREATURES:
   Sunbeam Spellbomb
   Sword of Kaldra
   Tezzeret, Master of Metal
+  The First Eruption
   Thunderstaff
   Viridian Longbow
   Wall of Spears
@@ -2079,6 +2156,14 @@ NON-CREATURES:
   Exotic Orchard
   Sedraxis Specter
 </Spectres>
+<TimeCounter>
+  Azor's Elocutors
+  Chronozoa
+  Fate Transfer
+  Parallel Lives
+  TideWalkder
+  
+</TimeCounter>
 <Tokens>
 	<Madness>
     Llanowar Mentor
