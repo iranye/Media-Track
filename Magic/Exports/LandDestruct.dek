@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -51,4 +51,5 @@
   <Cards CatID="51663" Quantity="1" Sideboard="true" Name="Revoke Existence" />
   <Cards CatID="55600" Quantity="1" Sideboard="true" Name="Valorous Stance" />
   <Cards CatID="49133" Quantity="1" Sideboard="true" Name="Negate" />
+  <Cards CatID="34470" Quantity="4" Sideboard="false" Name="Goblin Ruinblaster" />
 </Deck>

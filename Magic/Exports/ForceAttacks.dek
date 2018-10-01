@@ -103,4 +103,20 @@
   <Cards CatID="49319" Quantity="1" Sideboard="true" Name="Angelic Wall" />
   <Cards CatID="9465" Quantity="1" Sideboard="true" Name="Aura of Silence" />
   <Cards CatID="49022" Quantity="2" Sideboard="false" Name="Search for Tomorrow" />
+  <Cards CatID="46553" Quantity="2" Sideboard="false" Name="Trostani, Selesnya's Voice" />
+  <Cards CatID="19383" Quantity="1" Sideboard="false" Name="Rolling Stones" />
+  <Cards CatID="22335" Quantity="2" Sideboard="false" Name="Marble Titan" />
+  <Cards CatID="27242" Quantity="1" Sideboard="false" Name="High Ground" />
+  <Cards CatID="35695" Quantity="1" Sideboard="false" Name="Basilisk Collar" />
+  <Cards CatID="60276" Quantity="1" Sideboard="false" Name="Always Watching" />
+  <Cards CatID="54048" Quantity="1" Sideboard="false" Name="Brave the Sands" />
+  <Cards CatID="53504" Quantity="1" Sideboard="false" Name="Ajani Steadfast" />
+  <Cards CatID="30927" Quantity="1" Sideboard="false" Name="Elspeth, Knight-Errant" />
+  <Cards CatID="50304" Quantity="1" Sideboard="false" Name="Elspeth, Sun's Champion" />
+  <Cards CatID="53564" Quantity="1" Sideboard="false" Name="Garruk, Apex Predator" />
+  <Cards CatID="49373" Quantity="1" Sideboard="false" Name="Garruk, Caller of Beasts" />
+  <Cards CatID="57941" Quantity="1" Sideboard="false" Name="Liliana, Heretical Healer" />
+  <Cards CatID="47851" Quantity="1" Sideboard="false" Name="Domri Rade" />
+  <Cards CatID="54258" Quantity="1" Sideboard="false" Name="Sorin, Solemn Visitor" />
+  <Cards CatID="61262" Quantity="1" Sideboard="false" Name="Tamiyo, Field Researcher" />
 </Deck>
