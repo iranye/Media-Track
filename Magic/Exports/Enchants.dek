@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -43,6 +43,8 @@
   <Cards CatID="51561" Quantity="4" Sideboard="false" Name="Temple of Enlightenment" />
   <Cards CatID="55550" Quantity="1" Sideboard="false" Name="Tranquil Cove" />
   <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
+  <Cards CatID="63686" Quantity="2" Sideboard="false" Name="As Foretold" />
+  <Cards CatID="9465" Quantity="1" Sideboard="false" Name="Aura of Silence" />
   <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
   <Cards CatID="51723" Quantity="1" Sideboard="true" Name="Arbiter of the Ideal" />
   <Cards CatID="47897" Quantity="1" Sideboard="true" Name="Blind Obedience" />
@@ -56,6 +58,4 @@
   <Cards CatID="49493" Quantity="1" Sideboard="true" Name="Tidebinder Mage" />
   <Cards CatID="55600" Quantity="1" Sideboard="true" Name="Valorous Stance" />
   <Cards CatID="49121" Quantity="1" Sideboard="true" Name="Wall of Swords" />
-  <Cards CatID="63686" Quantity="2" Sideboard="false" Name="As Foretold" />
-  <Cards CatID="9465" Quantity="1" Sideboard="false" Name="Aura of Silence" />
 </Deck>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -46,6 +46,13 @@
   <Cards CatID="53338" Quantity="1" Sideboard="false" Name="Back to Nature" />
   <Cards CatID="34552" Quantity="1" Sideboard="false" Name="Day of Judgment" />
   <Cards CatID="49395" Quantity="1" Sideboard="false" Name="Archangel of Thune" />
+  <Cards CatID="67873" Quantity="2" Sideboard="false" Name="Shanna, Sisay's Legacy" />
+  <Cards CatID="48218" Quantity="2" Sideboard="false" Name="Tajic, Blade of the Legion" />
+  <Cards CatID="67537" Quantity="2" Sideboard="false" Name="Teshar, Ancestor's Apostle" />
+  <Cards CatID="65400" Quantity="1" Sideboard="false" Name="Growing Rites of Itlimoc" />
+  <Cards CatID="66773" Quantity="1" Sideboard="false" Name="Huatli, Radiant Champion" />
+  <Cards CatID="65432" Quantity="1" Sideboard="false" Name="Shapers' Sanctuary" />
+  <Cards CatID="23510" Quantity="1" Sideboard="false" Name="Tolsimir Wolfblood" />
   <Cards CatID="49219" Quantity="2" Sideboard="true" Name="Plummet" />
   <Cards CatID="34800" Quantity="2" Sideboard="true" Name="Baloth Cage Trap" />
   <Cards CatID="49289" Quantity="1" Sideboard="true" Name="Bramblecrush" />
@@ -58,11 +65,4 @@
   <Cards CatID="53606" Quantity="1" Sideboard="true" Name="Reclamation Sage" />
   <Cards CatID="54384" Quantity="1" Sideboard="true" Name="Naturalize" />
   <Cards CatID="34552" Quantity="1" Sideboard="true" Name="Day of Judgment" />
-  <Cards CatID="67873" Quantity="2" Sideboard="false" Name="Shanna, Sisay's Legacy" />
-  <Cards CatID="48218" Quantity="2" Sideboard="false" Name="Tajic, Blade of the Legion" />
-  <Cards CatID="67537" Quantity="2" Sideboard="false" Name="Teshar, Ancestor's Apostle" />
-  <Cards CatID="65400" Quantity="1" Sideboard="false" Name="Growing Rites of Itlimoc" />
-  <Cards CatID="66773" Quantity="1" Sideboard="false" Name="Huatli, Radiant Champion" />
-  <Cards CatID="65432" Quantity="1" Sideboard="false" Name="Shapers' Sanctuary" />
-  <Cards CatID="23510" Quantity="1" Sideboard="false" Name="Tolsimir Wolfblood" />
 </Deck>
