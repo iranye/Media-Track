@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -31,7 +31,6 @@
   <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
   <Cards CatID="35717" Quantity="1" Sideboard="false" Name="Perimeter Captain" />
   <Cards CatID="57876" Quantity="1" Sideboard="false" Name="Kytheon, Hero of Akros" />
-  <Cards CatID="61262" Quantity="1" Sideboard="false" Name="Tamiyo, Field Researcher" />
   <Cards CatID="59756" Quantity="2" Sideboard="false" Name="Angelic Purge" />
   <Cards CatID="50260" Quantity="3" Sideboard="false" Name="Sylvan Caryatid" />
   <Cards CatID="46625" Quantity="1" Sideboard="false" Name="Axebane Guardian" />
@@ -67,8 +66,6 @@
   <Cards CatID="7427" Quantity="1" Sideboard="false" Name="Wall of Roots" />
   <Cards CatID="53418" Quantity="1" Sideboard="false" Name="Wall of Mulch" />
   <Cards CatID="59583" Quantity="2" Sideboard="false" Name="Ayli, Eternal Pilgrim" />
-  <Cards CatID="47851" Quantity="1" Sideboard="false" Name="Domri Rade" />
-  <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
   <Cards CatID="50386" Quantity="1" Sideboard="false" Name="Mistcutter Hydra" />
   <Cards CatID="64152" Quantity="1" Sideboard="false" Name="Irrigated Farmland" />
   <Cards CatID="52232" Quantity="1" Sideboard="false" Name="Eidolon of Rhetoric" />
@@ -76,10 +73,9 @@
   <Cards CatID="21097" Quantity="2" Sideboard="false" Name="Sakura-Tribe Elder" />
   <Cards CatID="34424" Quantity="1" Sideboard="true" Name="Relic Crush" />
   <Cards CatID="48870" Quantity="1" Sideboard="true" Name="Sword of Light and Shadow" />
-  <Cards CatID="35503" Quantity="1" Sideboard="true" Name="Lightning Greaves" />
+  <Cards CatID="35503" Quantity="2" Sideboard="true" Name="Lightning Greaves" />
   <Cards CatID="23340" Quantity="1" Sideboard="true" Name="Junktroller" />
   <Cards CatID="61498" Quantity="1" Sideboard="true" Name="Nephalia Academy" />
-  <Cards CatID="67797" Quantity="1" Sideboard="true" Name="Kamahl's Druidic Vow" />
   <Cards CatID="39549" Quantity="1" Sideboard="true" Name="Sword of Feast and Famine" />
   <Cards CatID="65522" Quantity="1" Sideboard="true" Name="Sorcerous Spyglass" />
   <Cards CatID="32285" Quantity="2" Sideboard="true" Name="Qasali Pridemage" />
@@ -88,4 +84,20 @@
   <Cards CatID="9465" Quantity="1" Sideboard="true" Name="Aura of Silence" />
   <Cards CatID="35515" Quantity="1" Sideboard="true" Name="Bojuka Bog" />
   <Cards CatID="50386" Quantity="1" Sideboard="true" Name="Mistcutter Hydra" />
+  <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
+  <Cards CatID="54048" Quantity="1" Sideboard="false" Name="Brave the Sands" />
+  <Cards CatID="27110" Quantity="1" Sideboard="false" Name="Forbidding Watchtower" />
+  <Cards CatID="65456" Quantity="1" Sideboard="false" Name="Belligerent Brontodon" />
+  <Cards CatID="47619" Quantity="1" Sideboard="false" Name="Crocanura" />
+  <Cards CatID="50262" Quantity="1" Sideboard="false" Name="Fleecemane Lion" />
+  <Cards CatID="47445" Quantity="1" Sideboard="false" Name="Gyre Sage" />
+  <Cards CatID="56228" Quantity="1" Sideboard="false" Name="Sight of the Scalelords" />
+  <Cards CatID="26545" Quantity="1" Sideboard="false" Name="Wild Pair" />
+  <Cards CatID="31939" Quantity="1" Sideboard="false" Name="Exotic Orchard" />
+  <Cards CatID="63618" Quantity="1" Sideboard="false" Name="Cast Out" />
+  <Cards CatID="63628" Quantity="1" Sideboard="false" Name="Forsake the Worldly" />
+  <Cards CatID="63752" Quantity="1" Sideboard="false" Name="Vizier of Tumbling Sands" />
+  <Cards CatID="53970" Quantity="1" Sideboard="false" Name="Embodiment of Spring" />
+  <Cards CatID="66827" Quantity="1" Sideboard="false" Name="The Immortal Sun" />
+  <Cards CatID="29561" Quantity="1" Sideboard="false" Name="Greater Auramancy" />
 </Deck>
