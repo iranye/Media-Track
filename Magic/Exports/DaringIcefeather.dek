@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -56,4 +56,5 @@
   <Cards CatID="53484" Quantity="1" Sideboard="true" Name="Plains" />
   <Cards CatID="50479" Quantity="1" Sideboard="true" Name="Gods Willing" />
   <Cards CatID="50622" Quantity="1" Sideboard="true" Name="Dark Betrayal" />
+  <Cards CatID="62911" Quantity="1" Sideboard="false" Name="Paradox Engine" />
 </Deck>

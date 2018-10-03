@@ -57,5 +57,6 @@
     <Cards CatID="53484" Quantity="1" Sideboard="true" Name="Plains" />
     <Cards CatID="50479" Quantity="1" Sideboard="true" Name="Gods Willing" />
     <Cards CatID="50622" Quantity="1" Sideboard="true" Name="Dark Betrayal" />
+    <Cards CatID="62911" Quantity="1" Sideboard="false" Name="Paradox Engine" />
   </CardStack>
 </Deck>

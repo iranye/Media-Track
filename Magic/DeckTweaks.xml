@@ -681,6 +681,7 @@ Dismember
   Deathbringer Liege
   Decommission
   Deft Dismissal
+  Desert
   Dictate of Erebos
   Dovescape
   Dutiful Attendant
@@ -793,12 +794,15 @@ Dismember
   Nettlevine Blight
   Nighthaze
   Nightmare Lash
+  Piranha Marsh
   Pithing Needle
+  Safe Haven
   Sen Triplets  
   Skysovereign, Consul Flagship
   Sol'kanar the Swamp King
   Spectral Shift
-  Sphinx of the Steel Wind  
+  Sphinx of the Steel Wind
+  Sylvan Bounty
   Underworld Coinsmith
   Urborg, Tomb of Yawgmoth
   Wrexial, the Risen Deep
@@ -1413,15 +1417,24 @@ Dismember
   Scion of the Ur-Dragon
 </FiveColor>
 <ForceAttacks>
+  Arguel's Blood Fast
   Bident of Thassa
   Bloodshed Fever
   Contaminated Bond
   Curse of the Nightly Hunt
+  Engulfing Slagwurm
   Favor of the Woods
   Furor of the Bitten
   Hornet Nest
+  Imaginary Threats
   Kazuul, Tyrant of the Cliffs
+  Miren, the Moaning Well
+  Moaning Wall
+  Reflecting Pool
   Sakura-Tribe Elder
+  Sapling of Colfenor
+  Slagwurm Armor
+  Verdant Sun's Avatar
   Woolly Razorback
 </ForceAttacks>
 <FourPowerMobs>
@@ -1683,7 +1696,8 @@ Vedalken Mastermind
 </Goats>
 <Haunted>
   Haunted Plate Mail
-  Manamorphose
+  Heart of Kiran
+  Marble Titan
 </Haunted>
 <Horrors>
   Aether Membrane
@@ -1694,12 +1708,14 @@ Vedalken Mastermind
   Dizzy Spell
   Dream Salvage
   Fate Transfer
+  Fetid Pool
   Gifts Ungiven
   Hex Parasite
   Jhoira's Timebug
   Festering March
   Flaying Tendrils
   Force Away
+  Hieroglyphic Illumination
   Ludevic's Test
   Memory Plunder    
   Phyrexian Revoker
@@ -1709,6 +1725,7 @@ Vedalken Mastermind
   Riftwing Cloudskate
   Snapcaster Mage
   Spellskite
+  Torrential Gearhulk
   Torrent of Souls
   Turn to Mist
   Venser's Diffusion
@@ -1720,6 +1737,7 @@ Vedalken Mastermind
   Polluted Dead
   Plunder
   Stone Rain
+  Violent Impact
 </Horrors_LivingLore>
 <Horrors_White Notes="Use more cards w/ Suspend">
   Chronomantic Escape
@@ -1914,6 +1932,7 @@ Heliod
   Khalni Heart Expedition
   Krark-Clan Ironworks ($2+)
   Lavacore Elemental
+  Llanowar Reborn
   Living Totem
   Living Tsunami
   Llanowar Reborn
@@ -2000,10 +2019,12 @@ Heliod
 <Legendaries>
   Arguel's Blood Fast
   Daring Archaeologist
+  Eiganjo Castle
   Goryo's Vengeance
   Leyline of Singularity
   Mox Amber
   Profane Procession
+  Shizo, Death's Storehouse
   Thalia's Lancers
 </Legendaries>
   
@@ -2116,6 +2137,7 @@ NON-CREATURES:
   Cloudthresher
   Curse of Stalked Prey
   Decimator of the Provinces
+  Deus of Calamity
   Doomgape
   Doubling Season
   Electropotence

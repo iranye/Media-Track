@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -83,4 +83,18 @@
   <Cards CatID="49319" Quantity="1" Sideboard="true" Name="Angelic Wall" />
   <Cards CatID="9465" Quantity="1" Sideboard="true" Name="Aura of Silence" />
   <Cards CatID="35515" Quantity="1" Sideboard="true" Name="Bojuka Bog" />
+  <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
+  <Cards CatID="54048" Quantity="1" Sideboard="false" Name="Brave the Sands" />
+  <Cards CatID="27110" Quantity="1" Sideboard="false" Name="Forbidding Watchtower" />
+  <Cards CatID="65456" Quantity="1" Sideboard="false" Name="Belligerent Brontodon" />
+  <Cards CatID="47619" Quantity="1" Sideboard="false" Name="Crocanura" />
+  <Cards CatID="50262" Quantity="1" Sideboard="false" Name="Fleecemane Lion" />
+  <Cards CatID="47445" Quantity="1" Sideboard="false" Name="Gyre Sage" />
+  <Cards CatID="56228" Quantity="1" Sideboard="false" Name="Sight of the Scalelords" />
+  <Cards CatID="26545" Quantity="1" Sideboard="false" Name="Wild Pair" />
+  <Cards CatID="31939" Quantity="1" Sideboard="false" Name="Exotic Orchard" />
+  <Cards CatID="63618" Quantity="1" Sideboard="false" Name="Cast Out" />
+  <Cards CatID="63628" Quantity="1" Sideboard="false" Name="Forsake the Worldly" />
+  <Cards CatID="63752" Quantity="1" Sideboard="false" Name="Vizier of Tumbling Sands" />
+  <Cards CatID="53970" Quantity="1" Sideboard="false" Name="Embodiment of Spring" />
 </Deck>
