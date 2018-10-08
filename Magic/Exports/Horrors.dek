@@ -74,4 +74,5 @@
   <Cards CatID="50440" Quantity="1" Sideboard="true" Name="Swan Song" />
   <Cards CatID="39569" Quantity="1" Sideboard="true" Name="Phyrexian Revoker" />
   <Cards CatID="63826" Quantity="1" Sideboard="false" Name="Trespasser's Curse" />
+  <Cards CatID="29805" Quantity="1" Sideboard="false" Name="Aethertow" />
 </Deck>

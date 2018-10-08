@@ -837,38 +837,11 @@ Dismember
   Western Paladin
 </ColorKill>
 <DaringIceFeather>
-  Aura of Dominion
-  Bear Umbra
-  Burst of Strength
-  Canopy Cover
-  Clout of the Dominus
-  Cryptolith Rite
+  Authority of the Consuls
   Curse of Chains
-  Deadlock Trap
-  Deceiver Exarch
-  Decomission
-  Fallowsage
-  Fatal Push
-  Felhide Spiritbinder
-  Gifted Aetherborn
-  Illusionist's Stratagem
-  Mobile Garrison
-  Reckless Racer
-  Rogue Refiner
-  Dramatic Reversal
+  Dragonscale General
   Dream's Grip
-  Freed from the Real
-  Grimoire Thief
-  Holdout Settlement
-  King Macar, the Gold-Cursed
-  Loam Dryad
-  Master of Waves
-  Merieke Ri Berit
-  Minamo, School at Water's Edge
-  Mobile Garrison
-  Night Market Lookout
-  Ral Zarek
-  Steel Golem
+  Mirror Entity
 </DaringIceFeather>
 <Discards>
   Elemental Mastery
@@ -1717,7 +1690,8 @@ Vedalken Mastermind
   Force Away
   Hieroglyphic Illumination
   Ludevic's Test
-  Memory Plunder    
+  Memory Plunder
+  Mirror Entity
   Phyrexian Revoker
   Quickchange
   Reality Strobe
@@ -1756,9 +1730,12 @@ Lightform (2 WHT devotion) (also works w/ Jeskai charm: "put creature on top of 
 Heliod
 </LandDestruct>
 <LandFall>
+  [Proliferate]
   Calcite Snappera
   Floodbringer
+  Ring of Three Wishes
   Roil Elemental
+  Winding Constrictor
   <Mana>
     Blighted Woodland
     Cavern of Souls
@@ -2207,6 +2184,7 @@ NON-CREATURES:
   Doubling Season
   Elspeth, Knight-Errant
   Elspeth Tirel
+  Emmara, Soul of the Accord
   Feral Incarnation
   Garruk, Primal Hunter
   Garruk Relentless
