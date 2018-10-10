@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -65,4 +65,5 @@
   <Cards CatID="53606" Quantity="1" Sideboard="true" Name="Reclamation Sage" />
   <Cards CatID="54384" Quantity="1" Sideboard="true" Name="Naturalize" />
   <Cards CatID="34552" Quantity="1" Sideboard="true" Name="Day of Judgment" />
+  <Cards CatID="23933" Quantity="1" Sideboard="false" Name="Leyline of the Meek" />
 </Deck>
