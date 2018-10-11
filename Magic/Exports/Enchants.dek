@@ -59,4 +59,5 @@
   <Cards CatID="55600" Quantity="1" Sideboard="true" Name="Valorous Stance" />
   <Cards CatID="49121" Quantity="1" Sideboard="true" Name="Wall of Swords" />
   <Cards CatID="29561" Quantity="1" Sideboard="false" Name="Greater Auramancy" />
+  <Cards CatID="63994" Quantity="1" Sideboard="false" Name="Bounty of the Luxa" />
 </Deck>

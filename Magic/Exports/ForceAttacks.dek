@@ -99,4 +99,6 @@
   <Cards CatID="47477" Quantity="1" Sideboard="false" Name="Boros Charm" />
   <Cards CatID="33077" Quantity="1" Sideboard="false" Name="Birds of Paradise" />
   <Cards CatID="54302" Quantity="1" Sideboard="false" Name="Dragon's Eye Savants" />
+  <Cards CatID="19741" Quantity="1" Sideboard="false" Name="Slagwurm Armor" />
+  <Cards CatID="24697" Quantity="1" Sideboard="false" Name="Woolly Razorback" />
 </Deck>

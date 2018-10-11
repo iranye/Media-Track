@@ -837,8 +837,10 @@ Dismember
   Western Paladin
 </ColorKill>
 <DaringIceFeather>
+  Aligned Hedron Network
   Aurelia, the Warleader
   Authority of the Consuls
+  Citywide Bust
   Curse of Chains
   Dragonscale General
   Dream's Grip
@@ -904,8 +906,6 @@ Dismember
   Genju of the Fields
   Loxodon Warhammer
   Mortarpod
-  Odric, Lunarch Marshal
-  Sram, Senior Edificer
 </Duffs>
 <EidolonSac>
   Acidic Slime
@@ -1407,12 +1407,9 @@ Dismember
   Kazuul, Tyrant of the Cliffs
   Miren, the Moaning Well
   Moaning Wall
-  Reflecting Pool
-  Sakura-Tribe Elder
+  Omnispell Adept
   Sapling of Colfenor
-  Slagwurm Armor
   Verdant Sun's Avatar
-  Woolly Razorback
 </ForceAttacks>
 <FourPowerMobs>
 Arc Runner
@@ -1696,6 +1693,8 @@ Vedalken Mastermind
   Ludevic's Test
   Memory Plunder
   Mirror Entity
+  Obliterate
+  Omnispell Adept
   Phyrexian Revoker
   Quickchange
   Reality Strobe
