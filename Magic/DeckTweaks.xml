@@ -400,13 +400,14 @@ Dismember
   Training Grounds
   Venerated Teacher
 </Activation>
-<Arty strat="Re-cast permanents that give artifact tokens on enter battlefield (see: Fabricate)">
+<Arty strat="Re-cast permanents that give artifact tokens and/or energy counters on enter battlefield (see: Fabricate)">
   Angel of Invention
   Atog
   Avarice Amulet
   Brass Squire
   Contagion Clasp
   Creepy Doll
+  Darklit Gargoyle
   Darksteel Colossus
   Decoction Module
   Dispeller's Capsule
@@ -421,6 +422,7 @@ Dismember
   Key to the City
   Lotus Bloom
   Master Transmuter
+  Myr Turbine
   Memnarch
   Mycosynth Wellspring
   Navigator's Compass
@@ -435,6 +437,7 @@ Dismember
   Sen Triplets
   Sharding Sphinx
   Sharuum the Hegemon
+  Slagwurm Armor
   Solemn Simulacrum
   Soul of New Phyrexia
   Skyscanner
@@ -443,6 +446,7 @@ Dismember
   Sphinx Summoner
   Steel Hellkite
   Sunbeam Spellbomb
+  Tempered Steel
   Thopter Assembly
   Transguild Courier
   Visionary Augmenter

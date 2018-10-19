@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -10,7 +10,7 @@
   <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
   <Cards CatID="50260" Quantity="2" Sideboard="false" Name="Sylvan Caryatid" />
-  <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
+  <Cards CatID="59810" Quantity="2" Sideboard="false" Name="Westvale Abbey" />
   <Cards CatID="46783" Quantity="1" Sideboard="false" Name="Chromatic Lantern" />
   <Cards CatID="31939" Quantity="1" Sideboard="false" Name="Exotic Orchard" />
   <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
