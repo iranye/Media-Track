@@ -379,6 +379,7 @@ Dismember
   Angel of Condemnation
   Aryel, Knight of Windgrace
   Captivating Crew
+  Chainbreaker
   Gilder Bairn
   Hada Spy Patrol
   Izzet Guildmage
@@ -828,6 +829,7 @@ Dismember
 </SwampKill>
 
 <ColorKill>
+  Chameleon Colossus
   Devout Lightcaster
   Eight-and-a-Half-Tails
   Glamerdye
@@ -845,6 +847,8 @@ Dismember
   Aven Riftwatcher
   Ballynock Trapper
   Curse of Chains
+  Protean Hulk
+  Sword of the Meek
 </DaringIceFeather>
 <Discards>
   Elemental Mastery
@@ -1414,6 +1418,8 @@ Dismember
 <FourPowerMobs>
 Arc Runner
 Bloodmad vampire
+Chameleon Colossus
+Obstinate Baloth
 Phantasmal Image
 Vedalken Mastermind
   <Madness>
@@ -1422,9 +1428,9 @@ Vedalken Mastermind
     Avatar of Discord
     Chandra Ablaze
     Chandra, Flamecaller
-    Force Away  1Blue (2) 
+    Force Away
     Forgotten Creation
-    Gathan Raiders  3RedRed (5) 
+    Gathan Raiders
     Geralf's Masterpiece
     Ghastly Discovery
     Ghostly Wings
@@ -1709,7 +1715,9 @@ Vedalken Mastermind
 </Horrors>
 <Horrors_LivingLore>
   Befoul
+  Crumble to Dust
   Drain the Well
+  Field of Ruin
   Karn's Temporal Sundering
   Polluted Dead
   Plunder
@@ -1931,6 +1939,7 @@ Heliod
   Nykthos, Shrine to Nyx
   Nylea, God of the Hunt
   Oboro, Palace in the Clouds ($16+)
+  Oracle of Mul Daya
   Oran-Rief Hydra
   Ordeal of Thassa
   Overgrown Tomb

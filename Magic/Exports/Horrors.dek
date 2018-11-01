@@ -75,4 +75,6 @@
   <Cards CatID="39569" Quantity="1" Sideboard="true" Name="Phyrexian Revoker" />
   <Cards CatID="63826" Quantity="1" Sideboard="false" Name="Trespasser's Curse" />
   <Cards CatID="29805" Quantity="1" Sideboard="false" Name="Aethertow" />
+  <Cards CatID="60374" Quantity="1" Sideboard="false" Name="Pick the Brain" />
+  <Cards CatID="53634" Quantity="1" Sideboard="false" Name="Stain the Mind" />
 </Deck>
