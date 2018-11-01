@@ -116,4 +116,5 @@
   <Cards CatID="68553" Quantity="2" Sideboard="true" Name="Reclamation Sage" />
   <Cards CatID="49151" Quantity="1" Sideboard="true" Name="Deadly Recluse" />
   <Cards CatID="68661" Quantity="1" Sideboard="true" Name="Detection Tower" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
 </Deck>

@@ -1192,6 +1192,7 @@ Dismember
     Dragon's Eye Sentry
     Fog Bank
     Gatecreeper Vine
+    Guildmages' Forum
     Hornet Nest
     Jeskai Barricade
     Kaijin of the Vanishing Touch
@@ -1337,6 +1338,7 @@ Dismember
   Court Hussar
   Curse of Exhaustion
   Darksteel Sentinel
+  Dawn of Hope
   Disappearing Act
   Dragonlord Ojutai
   Dust Elemental
@@ -1398,6 +1400,7 @@ Dismember
   Curse of the Nightly Hunt
   Engulfing Slagwurm
   Favor of the Woods
+  Find/Finality
   Furor of the Bitten
   Hornet Nest
   Imaginary Threats
@@ -1712,6 +1715,7 @@ Vedalken Mastermind
   Plunder
   Stone Rain
   Violent Impact
+  Violent Ultimatum
 </Horrors_LivingLore>
 <Horrors_White Notes="Use more cards w/ Suspend">
   Chronomantic Escape
@@ -2153,8 +2157,9 @@ NON-CREATURES:
   Wolfbriar Elemental
 </RedGrDevotion-0>
 <Spectres>
-  Exotic Orchard
+  Exotic Orchard  
   Sedraxis Specter
+  Thief of Sanity
 </Spectres>
 <TimeCounter>
   Azor's Elocutors
@@ -2179,6 +2184,7 @@ NON-CREATURES:
   Champion of Lambholt
   Cobra Trap
   Cogworker's Puzzleknot
+  Conclave Cavalier
   Creakwood Liege
   Dauntless Escort
   Dromoka's Command
