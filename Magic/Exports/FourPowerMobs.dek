@@ -62,4 +62,5 @@
   <Cards CatID="34800" Quantity="1" Sideboard="true" Name="Baloth Cage Trap" />
   <Cards CatID="51865" Quantity="1" Sideboard="true" Name="Fanatic of Xenagos" />
   <Cards CatID="31809" Quantity="1" Sideboard="false" Name="Thornling" />
+  <Cards CatID="67755" Quantity="1" Sideboard="false" Name="Skizzik" />
 </Deck>
