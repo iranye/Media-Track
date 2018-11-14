@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -103,6 +103,7 @@
   <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
   <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
   <Cards CatID="61845" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
   <Cards CatID="29847" Quantity="1" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="47813" Quantity="1" Sideboard="true" Name="Glaring Spotlight" />
   <Cards CatID="39569" Quantity="1" Sideboard="true" Name="Phyrexian Revoker" />
@@ -116,5 +117,4 @@
   <Cards CatID="68553" Quantity="2" Sideboard="true" Name="Reclamation Sage" />
   <Cards CatID="49151" Quantity="1" Sideboard="true" Name="Deadly Recluse" />
   <Cards CatID="68661" Quantity="1" Sideboard="true" Name="Detection Tower" />
-  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
 </Deck>
