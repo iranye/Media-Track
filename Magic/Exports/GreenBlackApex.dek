@@ -2,6 +2,7 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="50256" Quantity="2" Sideboard="false" Name="Thoughtseize" />
   <Cards CatID="53564" Quantity="2" Sideboard="false" Name="Garruk, Apex Predator" />
   <Cards CatID="53460" Quantity="1" Sideboard="false" Name="Elvish Mystic" />
   <Cards CatID="49499" Quantity="1" Sideboard="false" Name="Elvish Mystic" />
@@ -20,7 +21,6 @@
   <Cards CatID="53396" Quantity="3" Sideboard="false" Name="Swamp" />
   <Cards CatID="53348" Quantity="2" Sideboard="false" Name="Llanowar Wastes" />
   <Cards CatID="51968" Quantity="1" Sideboard="false" Name="Temple of Malady" />
-  <Cards CatID="50256" Quantity="2" Sideboard="false" Name="Thoughtseize" />
   <Cards CatID="45302" Quantity="1" Sideboard="false" Name="Sign in Blood" />
   <Cards CatID="53596" Quantity="4" Sideboard="false" Name="Cruel Sadist" />
   <Cards CatID="53568" Quantity="1" Sideboard="false" Name="Nissa, Worldwaker" />
