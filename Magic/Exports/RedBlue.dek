@@ -75,4 +75,5 @@
   <Cards CatID="46499" Quantity="1" Sideboard="true" Name="Pithing Needle" />
   <Cards CatID="67723" Quantity="1" Sideboard="false" Name="Goblin Chainwhirler" />
   <Cards CatID="21021" Quantity="1" Sideboard="false" Name="Kiki-Jiki, Mirror Breaker" />
+  <Cards CatID="29847" Quantity="3" Sideboard="false" Name="Guttural Response" />
 </Deck>
