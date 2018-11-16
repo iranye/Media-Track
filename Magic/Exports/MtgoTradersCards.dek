@@ -4,7 +4,6 @@
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="68589" Quantity="1" Sideboard="false" Name="Chromium, the Mutable" />
   <Cards CatID="68369" Quantity="4" Sideboard="false" Name="Isareth the Awakener" />
-  <Cards CatID="67933" Quantity="4" Sideboard="false" Name="Traxos, Scourge of Kroog" />
   <Cards CatID="67931" Quantity="4" Sideboard="false" Name="Thran Temporal Gateway" />
   <Cards CatID="67549" Quantity="4" Sideboard="false" Name="The Antiquities War" />
   <Cards CatID="67811" Quantity="4" Sideboard="false" Name="The Mending of Dominaria" />
@@ -23,9 +22,72 @@
   <Cards CatID="67861" Quantity="4" Sideboard="false" Name="Jodah, Archmage Eternal" />
   <Cards CatID="67899" Quantity="4" Sideboard="false" Name="Helm of the Host" />
   <Cards CatID="38447" Quantity="4" Sideboard="false" Name="Argentum Armor" />
-  <Cards CatID="35695" Quantity="4" Sideboard="false" Name="Basilisk Collar" />
   <Cards CatID="43423" Quantity="1" Sideboard="false" Name="Havengul Lich" />
   <Cards CatID="39321" Quantity="4" Sideboard="false" Name="Mortarpod" />
   <Cards CatID="57608" Quantity="4" Sideboard="false" Name="Mizzium Meddler" />
   <Cards CatID="61915" Quantity="4" Sideboard="false" Name="Dramatic Reversal" />
+  <Cards CatID="63774" Quantity="4" Sideboard="false" Name="Dispossess" />
+  <Cards CatID="57982" Quantity="4" Sideboard="false" Name="Infinite Obliteration" />
+  <Cards CatID="42418" Quantity="4" Sideboard="false" Name="Abattoir Ghoul" />
+  <Cards CatID="38441" Quantity="4" Sideboard="false" Name="Memoricide" />
+  <Cards CatID="24305" Quantity="4" Sideboard="false" Name="Protean Hulk" />
+  <Cards CatID="26660" Quantity="1" Sideboard="false" Name="Sword of the Meek" />
+  <Cards CatID="39315" Quantity="1" Sideboard="false" Name="Massacre Wurm" />
+  <Cards CatID="58733" Quantity="4" Sideboard="false" Name="Crumble to Dust" />
+  <Cards CatID="32833" Quantity="2" Sideboard="false" Name="Master of the Wild Hunt" />
+  <Cards CatID="35553" Quantity="4" Sideboard="false" Name="Novablast Wurm" />
+  <Cards CatID="36394" Quantity="4" Sideboard="false" Name="Tajuru Preserver" />
+  <Cards CatID="37478" Quantity="1" Sideboard="false" Name="Obstinate Baloth" />
+  <Cards CatID="31815" Quantity="2" Sideboard="false" Name="Child of Alara" />
+  <Cards CatID="31749" Quantity="4" Sideboard="false" Name="Charnelhoard Wurm" />
+  <Cards CatID="25767" Quantity="4" Sideboard="false" Name="Scion of the Ur-Dragon" />
+  <Cards CatID="29869" Quantity="4" Sideboard="false" Name="Reaper King" />
+  <Cards CatID="32492" Quantity="8" Sideboard="false" Name="Unscythe, Killer of Kings" />
+  <Cards CatID="23745" Quantity="4" Sideboard="false" Name="Stitch in Time" />
+  <Cards CatID="21373" Quantity="4" Sideboard="false" Name="Nature's Will" />
+  <Cards CatID="34542" Quantity="4" Sideboard="false" Name="Oracle of Mul Daya" />
+  <Cards CatID="26459" Quantity="4" Sideboard="false" Name="Blood Knight" />
+  <Cards CatID="65907" Quantity="4" Sideboard="false" Name="Burrenton Forge-Tender" />
+  <Cards CatID="20177" Quantity="4" Sideboard="false" Name="Krark's Thumb" />
+  <Cards CatID="29200" Quantity="2" Sideboard="false" Name="Chameleon Colossus" />
+  <Cards CatID="29429" Quantity="2" Sideboard="false" Name="Painter's Servant" />
+  <Cards CatID="29553" Quantity="4" Sideboard="false" Name="Chainbreaker" />
+  <Cards CatID="29599" Quantity="4" Sideboard="false" Name="Cauldron of Souls" />
+  <Cards CatID="64000" Quantity="4" Sideboard="false" Name="Hapatra, Vizier of Poisons" />
+  <Cards CatID="39453" Quantity="3" Sideboard="false" Name="Mirran Crusader" />
+  <Cards CatID="25769" Quantity="4" Sideboard="false" Name="Opal Guardian" />
+  <Cards CatID="29483" Quantity="4" Sideboard="false" Name="Oversoul of Dusk" />
+  <Cards CatID="27174" Quantity="4" Sideboard="false" Name="Paladin en-Vec" />
+  <Cards CatID="29683" Quantity="1" Sideboard="false" Name="Runed Halo" />
+  <Cards CatID="25949" Quantity="4" Sideboard="false" Name="Vesuvan Shapeshifter" />
+  <Cards CatID="26924" Quantity="4" Sideboard="false" Name="Seht's Tiger" />
+  <Cards CatID="30068" Quantity="2" Sideboard="false" Name="Stillmoon Cavalier" />
+  <Cards CatID="59585" Quantity="4" Sideboard="false" Name="Baloth Null" />
+  <Cards CatID="64602" Quantity="4" Sideboard="false" Name="Banewhip Punisher" />
+  <Cards CatID="23855" Quantity="4" Sideboard="false" Name="Blind Hunter" />
+  <Cards CatID="56244" Quantity="4" Sideboard="false" Name="Boltwing Marauder" />
+  <Cards CatID="24159" Quantity="4" Sideboard="false" Name="Crypt Champion" />
+  <Cards CatID="61667" Quantity="4" Sideboard="false" Name="Demon of Dark Schemes" />
+  <Cards CatID="44089" Quantity="4" Sideboard="false" Name="Demonlord of Ashmouth" />
+  <Cards CatID="40527" Quantity="4" Sideboard="false" Name="Desecrator Hag" />
+  <Cards CatID="34912" Quantity="4" Sideboard="false" Name="Fleshbag Marauder" />
+  <Cards CatID="57718" Quantity="1" Sideboard="false" Name="Fleshbag Marauder" />
+  <Cards CatID="43211" Quantity="1" Sideboard="false" Name="Geralf's Messenger" />
+  <Cards CatID="61957" Quantity="4" Sideboard="false" Name="Gonti, Lord of Luxury" />
+  <Cards CatID="49449" Quantity="4" Sideboard="false" Name="Lifebane Zombie" />
+  <Cards CatID="34600" Quantity="4" Sideboard="false" Name="Malakir Bloodwitch" />
+  <Cards CatID="29982" Quantity="4" Sideboard="false" Name="Nightsky Mimic" />
+  <Cards CatID="61374" Quantity="4" Sideboard="false" Name="Noosegraf Mob" />
+  <Cards CatID="19673" Quantity="4" Sideboard="false" Name="Reiver Demon" />
+  <Cards CatID="26063" Quantity="4" Sideboard="false" Name="Sengir Autocrat" />
+  <Cards CatID="56038" Quantity="4" Sideboard="false" Name="Sidisi, Undead Vizier" />
+  <Cards CatID="54180" Quantity="5" Sideboard="false" Name="Siege Rhino" />
+  <Cards CatID="58717" Quantity="4" Sideboard="false" Name="Sire of Stagnation" />
+  <Cards CatID="58631" Quantity="2" Sideboard="false" Name="Void Winnower" />
+  <Cards CatID="32537" Quantity="4" Sideboard="false" Name="Shriekmaw" />
+  <Cards CatID="24333" Quantity="4" Sideboard="false" Name="Wakestone Gargoyle" />
+  <Cards CatID="38103" Quantity="4" Sideboard="false" Name="Tempered Steel" />
+  <Cards CatID="39369" Quantity="4" Sideboard="false" Name="Myr Turbine" />
+  <Cards CatID="31807" Quantity="12" Sideboard="false" Name="Darklit Gargoyle" />
+  <Cards CatID="61783" Quantity="4" Sideboard="false" Name="Aetherworks Marvel" />
 </Deck>
