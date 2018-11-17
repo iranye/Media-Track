@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -23,7 +23,6 @@
   <Cards CatID="53284" Quantity="2" Sideboard="false" Name="Shrapnel Blast" />
   <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
   <Cards CatID="49339" Quantity="3" Sideboard="false" Name="Trading Post" />
-  <Cards CatID="54022" Quantity="1" Sideboard="false" Name="Tormenting Voice" />
   <Cards CatID="47539" Quantity="1" Sideboard="false" Name="Prophetic Prism" />
   <Cards CatID="35515" Quantity="2" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
@@ -62,7 +61,7 @@
   <Cards CatID="23312" Quantity="1" Sideboard="false" Name="Muddle the Mixture" />
   <Cards CatID="20273" Quantity="1" Sideboard="false" Name="Sword of Kaldra" />
   <Cards CatID="68477" Quantity="1" Sideboard="false" Name="Smelt" />
-  <Cards CatID="68489" Quantity="1" Sideboard="false" Name="Tormenting Voice" />
+  <Cards CatID="68489" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
   <Cards CatID="65522" Quantity="1" Sideboard="true" Name="Sorcerous Spyglass" />
   <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
   <Cards CatID="47813" Quantity="2" Sideboard="true" Name="Glaring Spotlight" />
