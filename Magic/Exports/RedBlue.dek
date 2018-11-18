@@ -73,4 +73,5 @@
   <Cards CatID="46499" Quantity="1" Sideboard="true" Name="Pithing Needle" />
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="68477" Quantity="1" Sideboard="true" Name="Smelt" />
+  <Cards CatID="55602" Quantity="1" Sideboard="false" Name="Arcbond" />
 </Deck>

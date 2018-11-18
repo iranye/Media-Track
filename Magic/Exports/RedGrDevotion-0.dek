@@ -16,10 +16,8 @@
   <Cards CatID="50314" Quantity="2" Sideboard="false" Name="Nylea, God of the Hunt" />
   <Cards CatID="47851" Quantity="2" Sideboard="false" Name="Domri Rade" />
   <Cards CatID="50316" Quantity="1" Sideboard="false" Name="Xenagos, the Reveler" />
-  <Cards CatID="53478" Quantity="8" Sideboard="false" Name="Forest" />
-  <Cards CatID="53302" Quantity="1" Sideboard="false" Name="Forest" />
-  <Cards CatID="53480" Quantity="1" Sideboard="false" Name="Mountain" />
-  <Cards CatID="53370" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53478" Quantity="9" Sideboard="false" Name="Forest" />
+  <Cards CatID="53370" Quantity="3" Sideboard="false" Name="Mountain" />
   <Cards CatID="47803" Quantity="4" Sideboard="false" Name="Stomping Ground" />
   <Cards CatID="50274" Quantity="4" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
   <Cards CatID="49363" Quantity="1" Sideboard="false" Name="Chandra, Pyromaster" />

@@ -87,4 +87,7 @@
   <Cards CatID="47471" Quantity="4" Sideboard="false" Name="Watery Grave" />
   <Cards CatID="50268" Quantity="5" Sideboard="false" Name="Temple of Silence" />
   <Cards CatID="37226" Quantity="2" Sideboard="false" Name="Drowned Catacomb" />
+  <Cards CatID="47803" Quantity="4" Sideboard="false" Name="Stomping Ground" />
+  <Cards CatID="42094" Quantity="3" Sideboard="false" Name="Jungle Shrine" />
+  <Cards CatID="31131" Quantity="1" Sideboard="false" Name="Jungle Shrine" />
 </Deck>
