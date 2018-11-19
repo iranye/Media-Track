@@ -34,7 +34,6 @@
   <Cards CatID="31939" Quantity="4" Sideboard="false" Name="Exotic Orchard" />
   <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
   <Cards CatID="29493" Quantity="2" Sideboard="false" Name="Mystic Gate" />
-  <Cards CatID="55998" Quantity="7" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="30136" Quantity="4" Sideboard="false" Name="Flooded Grove" />
   <Cards CatID="63145" Quantity="4" Sideboard="false" Name="Seaside Citadel" />
   <Cards CatID="35515" Quantity="4" Sideboard="false" Name="Bojuka Bog" />
@@ -90,4 +89,5 @@
   <Cards CatID="47803" Quantity="4" Sideboard="false" Name="Stomping Ground" />
   <Cards CatID="42094" Quantity="3" Sideboard="false" Name="Jungle Shrine" />
   <Cards CatID="31131" Quantity="1" Sideboard="false" Name="Jungle Shrine" />
+  <Cards CatID="58697" Quantity="4" Sideboard="false" Name="Smoldering Marsh" />
 </Deck>
