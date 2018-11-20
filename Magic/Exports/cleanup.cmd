@@ -7,7 +7,7 @@ move /y CountersInspired.dek ToFix
 move /y DaringIcefeather_BigList.dek ToFix
 move /y Dragons.dek ToFix
 move /y Elementals.dek ToFix
-move /y ElementsCounters (1).dek ToFix
+move /y "ElementsCounters (1).dek" ToFix
 move /y ElementsNew.dek ToFix
 move /y ElementsTokens.dek ToFix
 move /y EliteIsochron.dek ToFix
@@ -29,3 +29,4 @@ move /y Specters.dek ToFix
 move /y SummonDemon.dek ToFix
 move /y WasteNot.dek ToFix
 move /y YACountersDeck.dek ToFix
+del *.xml

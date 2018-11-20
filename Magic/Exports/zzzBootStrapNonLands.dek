@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="34832" Quantity="5" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
+  <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
+  <Cards CatID="46783" Quantity="5" Sideboard="false" Name="Chromatic Lantern" />
+  <Cards CatID="36474" Quantity="4" Sideboard="false" Name="Awakening Zone" />
+  <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
+  <Cards CatID="7427" Quantity="4" Sideboard="false" Name="Wall of Roots" />
+  <Cards CatID="35787" Quantity="4" Sideboard="false" Name="Pilgrim's Eye" />
+  <Cards CatID="41545" Quantity="4" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="32314" Quantity="4" Sideboard="false" Name="Wildfield Borderpost" />
+  <Cards CatID="32466" Quantity="4" Sideboard="false" Name="Firewild Borderpost" />
+  <Cards CatID="30975" Quantity="4" Sideboard="false" Name="Obelisk of Esper" />
+  <Cards CatID="30953" Quantity="4" Sideboard="false" Name="Obelisk of Grixis" />
+  <Cards CatID="32408" Quantity="4" Sideboard="false" Name="Fieldmist Borderpost" />
+  <Cards CatID="32246" Quantity="4" Sideboard="false" Name="Mistvein Borderpost" />
+  <Cards CatID="32472" Quantity="4" Sideboard="false" Name="Veinfire Borderpost" />
+  <Cards CatID="21097" Quantity="4" Sideboard="false" Name="Sakura-Tribe Elder" />
+  <Cards CatID="22955" Quantity="4" Sideboard="false" Name="Gift of Estates" />
+  <Cards CatID="61484" Quantity="4" Sideboard="false" Name="Cryptolith Fragment" />
+  <Cards CatID="62045" Quantity="4" Sideboard="false" Name="Cultivator's Caravan" />
+  <Cards CatID="49585" Quantity="4" Sideboard="false" Name="Darksteel Ingot" />
+  <Cards CatID="68627" Quantity="4" Sideboard="false" Name="Dragon's Hoard" />
+  <Cards CatID="67895" Quantity="4" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="34546" Quantity="1" Sideboard="false" Name="Lotus Cobra" />
+  <Cards CatID="34556" Quantity="4" Sideboard="false" Name="Khalni Heart Expedition" />
+  <Cards CatID="34826" Quantity="4" Sideboard="false" Name="Khalni Gem" />
+  <Cards CatID="68641" Quantity="4" Sideboard="false" Name="Manalith" />
+  <Cards CatID="67913" Quantity="1" Sideboard="false" Name="Mox Amber" />
+  <Cards CatID="48952" Quantity="4" Sideboard="false" Name="Paradise Mantle" />
+  <Cards CatID="47539" Quantity="4" Sideboard="false" Name="Prophetic Prism" />
+  <Cards CatID="29405" Quantity="4" Sideboard="false" Name="Scuttlemutt" />
+</Deck>

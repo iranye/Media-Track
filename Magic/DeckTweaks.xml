@@ -833,6 +833,7 @@ Dismember
 
 <ColorKill>
   Chameleon Colossus
+  Combust
   Devout Lightcaster
   Eight-and-a-Half-Tails
   Glamerdye
@@ -2102,34 +2103,8 @@ NON-CREATURES:
   Pyxis of Pandemonium
 </Pyxis>
 <RedBlueIzzet>
-  Slealthsuit
-  Aethertorch Renegade
-  Arcane Teachings
   Chandra's Spitfire
-  Call to Heel
-  Colfenor's Urn
-  Curiosity
-  Curse of Stalked Prey
-  Fire Whip
-  Hero's Blade
-  Izzet Boilerworks
-  Merchant Scroll
-  Nefarox, Overlord of Grixis
-  Piston Sledge
-  Reclusive Artificer
-  Rings of Brighthearth
-  Royal Assasin
-  Saheeli Rai
-  Skeleton Shard
-  Skill Borrower
-  Steel Hellkite
-  Sunbeam Spellbomb
-  Sword of Kaldra
-  Tezzeret, Master of Metal
-  The First Eruption
-  Thunderstaff
-  Viridian Longbow
-  Wall of Spears
+  Combust
 </RedBlueIzzet>
 <RedGrDevotion-0>
   Arlinn Kord
