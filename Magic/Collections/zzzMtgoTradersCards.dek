@@ -2,6 +2,8 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="48870" Quantity="1" Sideboard="false" Name="Sword of Light and Shadow" />
   <Cards CatID="68589" Quantity="1" Sideboard="false" Name="Chromium, the Mutable" />
   <Cards CatID="68369" Quantity="4" Sideboard="false" Name="Isareth the Awakener" />
   <Cards CatID="67931" Quantity="4" Sideboard="false" Name="Thran Temporal Gateway" />
@@ -90,4 +92,42 @@
   <Cards CatID="39369" Quantity="4" Sideboard="false" Name="Myr Turbine" />
   <Cards CatID="31807" Quantity="12" Sideboard="false" Name="Darklit Gargoyle" />
   <Cards CatID="61783" Quantity="4" Sideboard="false" Name="Aetherworks Marvel" />
+  <Cards CatID="61963" Quantity="4" Sideboard="false" Name="Lost Legacy" />
+  <Cards CatID="48992" Quantity="4" Sideboard="false" Name="Kira, Great Glass-Spinner" />
+  <Cards CatID="52106" Quantity="4" Sideboard="false" Name="Athreos, God of Passage" />
+  <Cards CatID="31735" Quantity="6" Sideboard="false" Name="Drag Down" />
+  <Cards CatID="65454" Quantity="4" Sideboard="false" Name="Admiral Beckett Brass" />
+  <Cards CatID="69663" Quantity="8" Sideboard="false" Name="Sprouting Renewal" />
+  <Cards CatID="20750" Quantity="4" Sideboard="false" Name="Retaliate" />
+  <Cards CatID="20387" Quantity="4" Sideboard="false" Name="Chittering Rats" />
+  <Cards CatID="27751" Quantity="4" Sideboard="false" Name="Field Marshal" />
+  <Cards CatID="22198" Quantity="4" Sideboard="false" Name="Gnat Miser" />
+  <Cards CatID="22072" Quantity="4" Sideboard="false" Name="Locust Miser" />
+  <Cards CatID="21447" Quantity="4" Sideboard="false" Name="Nezumi Bone-Reader" />
+  <Cards CatID="21211" Quantity="4" Sideboard="false" Name="Nezumi Graverobber" />
+  <Cards CatID="45262" Quantity="1" Sideboard="false" Name="Ravenous Rats" />
+  <Cards CatID="31685" Quantity="4" Sideboard="false" Name="Rotting Rats" />
+  <Cards CatID="19037" Quantity="4" Sideboard="false" Name="Swarm of Rats" />
+  <Cards CatID="21671" Quantity="4" Sideboard="false" Name="Throat Slitter" />
+  <Cards CatID="21867" Quantity="4" Sideboard="false" Name="Ink-Eyes, Servant of Oni" />
+  <Cards CatID="65104" Quantity="4" Sideboard="false" Name="Arcane Adaptation" />
+  <Cards CatID="65020" Quantity="4" Sideboard="false" Name="Bishop of Rebirth" />
+  <Cards CatID="69819" Quantity="4" Sideboard="false" Name="Assure/Assemble" />
+  <Cards CatID="69377" Quantity="4" Sideboard="false" Name="Bounty Agent" />
+  <Cards CatID="69877" Quantity="4" Sideboard="false" Name="Chamber Sentry" />
+  <Cards CatID="69825" Quantity="4" Sideboard="false" Name="Connive/Concoct" />
+  <Cards CatID="69713" Quantity="4" Sideboard="false" Name="Etrata, the Silencer" />
+  <Cards CatID="69389" Quantity="4" Sideboard="false" Name="Dawn of Hope" />
+  <Cards CatID="31211" Quantity="4" Sideboard="false" Name="Violent Ultimatum" />
+  <Cards CatID="69843" Quantity="1" Sideboard="false" Name="Find/Finality" />
+  <Cards CatID="69913" Quantity="4" Sideboard="false" Name="Guildmages' Forum" />
+  <Cards CatID="69527" Quantity="3" Sideboard="false" Name="Midnight Reaper" />
+  <Cards CatID="69471" Quantity="4" Sideboard="false" Name="Omnispell Adept" />
+  <Cards CatID="69475" Quantity="4" Sideboard="false" Name="Quasiduplicate" />
+  <Cards CatID="69779" Quantity="4" Sideboard="false" Name="Swiftblade Vindicator" />
+  <Cards CatID="69781" Quantity="4" Sideboard="false" Name="Tajic, Legion's Edge" />
+  <Cards CatID="69783" Quantity="1" Sideboard="false" Name="Thief of Sanity" />
+  <Cards CatID="69695" Quantity="4" Sideboard="false" Name="Conclave Cavalier" />
+  <Cards CatID="29291" Quantity="4" Sideboard="false" Name="Vexing Shusher" />
+  <Cards CatID="69709" Quantity="4" Sideboard="false" Name="Emmara, Soul of the Accord" />
 </Deck>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -117,4 +117,5 @@
   <Cards CatID="68553" Quantity="2" Sideboard="true" Name="Reclamation Sage" />
   <Cards CatID="49151" Quantity="1" Sideboard="true" Name="Deadly Recluse" />
   <Cards CatID="68661" Quantity="1" Sideboard="true" Name="Detection Tower" />
+  <Cards CatID="65194" Quantity="1" Sideboard="false" Name="Arguel's Blood Fast" />
 </Deck>

@@ -40,7 +40,6 @@
   <Cards CatID="31183" Quantity="2" Sideboard="false" Name="Crumbling Necropolis" />
   <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
   <Cards CatID="20009" Quantity="1" Sideboard="false" Name="Granite Shard" />
-  <Cards CatID="50310" Quantity="1" Sideboard="false" Name="Ashiok, Nightmare Weaver" />
   <Cards CatID="38255" Quantity="1" Sideboard="false" Name="Trinket Mage" />
   <Cards CatID="53692" Quantity="1" Sideboard="false" Name="Avarice Amulet" />
   <Cards CatID="67585" Quantity="1" Sideboard="false" Name="Opt" />
@@ -63,7 +62,7 @@
   <Cards CatID="68477" Quantity="1" Sideboard="false" Name="Smelt" />
   <Cards CatID="68489" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
   <Cards CatID="65522" Quantity="1" Sideboard="true" Name="Sorcerous Spyglass" />
-  <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
+  <Cards CatID="50614" Quantity="1" Sideboard="true" Name="Gainsay" />
   <Cards CatID="47813" Quantity="2" Sideboard="true" Name="Glaring Spotlight" />
   <Cards CatID="46441" Quantity="1" Sideboard="true" Name="Rakdos Charm" />
   <Cards CatID="49217" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
@@ -73,6 +72,8 @@
   <Cards CatID="46499" Quantity="1" Sideboard="true" Name="Pithing Needle" />
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="68477" Quantity="1" Sideboard="true" Name="Smelt" />
-  <Cards CatID="55602" Quantity="1" Sideboard="false" Name="Arcbond" />
+  <Cards CatID="55602" Quantity="1" Sideboard="true" Name="Arcbond" />
   <Cards CatID="45560" Quantity="1" Sideboard="false" Name="Gem of Becoming" />
+  <Cards CatID="23286" Quantity="1" Sideboard="false" Name="Dimir Infiltrator" />
+  <Cards CatID="64862" Quantity="1" Sideboard="false" Name="Crypt of the Eternals" />
 </Deck>

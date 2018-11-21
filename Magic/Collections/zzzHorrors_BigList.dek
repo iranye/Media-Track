@@ -131,4 +131,8 @@
   <Cards CatID="63091" Quantity="1" Sideboard="false" Name="Torrent of Souls" />
   <Cards CatID="29807" Quantity="1" Sideboard="false" Name="Turn to Mist" />
   <Cards CatID="26884" Quantity="1" Sideboard="false" Name="Venser's Diffusion" />
+  <Cards CatID="57982" Quantity="1" Sideboard="false" Name="Infinite Obliteration" />
+  <Cards CatID="49125" Quantity="1" Sideboard="false" Name="Time Ebb" />
+  <Cards CatID="69475" Quantity="1" Sideboard="false" Name="Quasiduplicate" />
+  <Cards CatID="31211" Quantity="1" Sideboard="false" Name="Violent Ultimatum" />
 </Deck>

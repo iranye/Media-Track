@@ -3,19 +3,15 @@
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
-  <Cards CatID="54242" Quantity="1" Sideboard="false" Name="Forest" />
-  <Cards CatID="54240" Quantity="1" Sideboard="false" Name="Forest" />
   <Cards CatID="54234" Quantity="1" Sideboard="false" Name="Mountain" />
   <Cards CatID="54218" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="54168" Quantity="4" Sideboard="false" Name="Frontier Bivouac" />
-  <Cards CatID="54470" Quantity="2" Sideboard="false" Name="Rugged Highlands" />
+  <Cards CatID="54238" Quantity="2" Sideboard="false" Name="Forest" />
   <Cards CatID="55532" Quantity="2" Sideboard="false" Name="Swiftwater Cliffs" />
   <Cards CatID="50260" Quantity="2" Sideboard="false" Name="Sylvan Caryatid" />
   <Cards CatID="50266" Quantity="2" Sideboard="false" Name="Temple of Abandon" />
-  <Cards CatID="51966" Quantity="2" Sideboard="false" Name="Temple of Epiphany" />
-  <Cards CatID="54074" Quantity="1" Sideboard="false" Name="Thornwood Falls" />
+  <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
   <Cards CatID="50272" Quantity="2" Sideboard="false" Name="Temple of Mystery" />
-  <Cards CatID="50398" Quantity="1" Sideboard="false" Name="Unknown Shores" />
   <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
   <Cards CatID="53642" Quantity="2" Sideboard="false" Name="Quickling" />
   <Cards CatID="54186" Quantity="3" Sideboard="false" Name="Savage Knuckleblade" />
@@ -36,7 +32,6 @@
   <Cards CatID="26435" Quantity="1" Sideboard="false" Name="Reckless Wurm" />
   <Cards CatID="54366" Quantity="1" Sideboard="false" Name="Dragon Grip" />
   <Cards CatID="60112" Quantity="1" Sideboard="false" Name="Lambholt Pacifist" />
-  <Cards CatID="62091" Quantity="2" Sideboard="false" Name="Aether Hub" />
   <Cards CatID="58014" Quantity="1" Sideboard="false" Name="Flameshadow Conjuring" />
   <Cards CatID="54022" Quantity="4" Sideboard="false" Name="Tormenting Voice" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
@@ -63,4 +58,11 @@
   <Cards CatID="51865" Quantity="1" Sideboard="true" Name="Fanatic of Xenagos" />
   <Cards CatID="31809" Quantity="1" Sideboard="false" Name="Thornling" />
   <Cards CatID="67755" Quantity="1" Sideboard="false" Name="Skizzik" />
+  <Cards CatID="64158" Quantity="2" Sideboard="false" Name="Sheltered Thicket" />
+  <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
+  <Cards CatID="67388" Quantity="1" Sideboard="false" Name="Cascade Bluffs" />
+  <Cards CatID="29501" Quantity="1" Sideboard="false" Name="Fire-Lit Thicket" />
+  <Cards CatID="46805" Quantity="2" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="67959" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="9411" Quantity="2" Sideboard="false" Name="Gemstone Mine" />
 </Deck>
