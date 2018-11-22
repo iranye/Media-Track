@@ -64,7 +64,6 @@
   <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
   <Cards CatID="38451" Quantity="1" Sideboard="true" Name="Leonin Arbiter" />
   <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
-  <Cards CatID="49231" Quantity="1" Sideboard="true" Name="Ratchet Bomb" />
   <Cards CatID="51817" Quantity="1" Sideboard="true" Name="Bile Blight" />
   <Cards CatID="60268" Quantity="1" Sideboard="true" Name="Dual Shot" />
   <Cards CatID="23761" Quantity="1" Sideboard="true" Name="Order of the Stars" />
@@ -74,5 +73,5 @@
   <Cards CatID="54925" Quantity="1" Sideboard="true" Name="Grand Abolisher" />
   <Cards CatID="44227" Quantity="1" Sideboard="true" Name="Devout Chaplain" />
   <Cards CatID="26039" Quantity="1" Sideboard="true" Name="Witch Hunter" />
-  <Cards CatID="29847" Quantity="1" Sideboard="false" Name="Guttural Response" />
+  <Cards CatID="29847" Quantity="1" Sideboard="true" Name="Guttural Response" />
 </Deck>

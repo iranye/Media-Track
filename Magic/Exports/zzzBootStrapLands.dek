@@ -88,4 +88,6 @@
   <Cards CatID="37226" Quantity="2" Sideboard="false" Name="Drowned Catacomb" />
   <Cards CatID="23845" Quantity="4" Sideboard="false" Name="Izzet Boilerworks" />
   <Cards CatID="69913" Quantity="4" Sideboard="false" Name="Guildmages' Forum" />
+  <Cards CatID="47803" Quantity="4" Sideboard="false" Name="Stomping Ground" />
+  <Cards CatID="54198" Quantity="3" Sideboard="false" Name="Bloodstained Mire" />
 </Deck>

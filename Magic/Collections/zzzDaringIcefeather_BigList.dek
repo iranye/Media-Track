@@ -140,4 +140,6 @@
   <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
   <Cards CatID="64562" Quantity="1" Sideboard="false" Name="Kefnet's Last Word" />
   <Cards CatID="21447" Quantity="1" Sideboard="false" Name="Nezumi Bone-Reader" />
+  <Cards CatID="20107" Quantity="1" Sideboard="false" Name="Dream's Grip" />
+  <Cards CatID="65194" Quantity="1" Sideboard="false" Name="Arguel's Blood Fast" />
 </Deck>
