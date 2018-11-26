@@ -90,4 +90,5 @@
   <Cards CatID="69913" Quantity="4" Sideboard="false" Name="Guildmages' Forum" />
   <Cards CatID="47803" Quantity="4" Sideboard="false" Name="Stomping Ground" />
   <Cards CatID="54198" Quantity="3" Sideboard="false" Name="Bloodstained Mire" />
+  <Cards CatID="64140" Quantity="1" Sideboard="false" Name="Canyon Slough" />
 </Deck>

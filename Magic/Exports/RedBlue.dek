@@ -74,6 +74,6 @@
   <Cards CatID="68477" Quantity="1" Sideboard="true" Name="Smelt" />
   <Cards CatID="55602" Quantity="1" Sideboard="true" Name="Arcbond" />
   <Cards CatID="45560" Quantity="1" Sideboard="false" Name="Gem of Becoming" />
-  <Cards CatID="23286" Quantity="1" Sideboard="false" Name="Dimir Infiltrator" />
   <Cards CatID="64862" Quantity="1" Sideboard="false" Name="Crypt of the Eternals" />
+  <Cards CatID="23298" Quantity="1" Sideboard="false" Name="Drift of Phantasms" />
 </Deck>

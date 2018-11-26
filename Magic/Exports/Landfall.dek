@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -82,4 +82,5 @@
   <Cards CatID="45390" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
   <Cards CatID="46411" Quantity="1" Sideboard="true" Name="Dryad Militant" />
   <Cards CatID="49463" Quantity="1" Sideboard="true" Name="Witchstalker" />
+  <Cards CatID="49022" Quantity="2" Sideboard="false" Name="Search for Tomorrow" />
 </Deck>

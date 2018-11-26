@@ -112,4 +112,6 @@
   <Cards CatID="68477" Quantity="1" Sideboard="false" Name="Smelt" />
   <Cards CatID="65522" Quantity="1" Sideboard="false" Name="Sorcerous Spyglass" />
   <Cards CatID="46499" Quantity="1" Sideboard="false" Name="Pithing Needle" />
+  <Cards CatID="48198" Quantity="1" Sideboard="false" Name="Ral Zarek" />
+  <Cards CatID="23298" Quantity="1" Sideboard="false" Name="Drift of Phantasms" />
 </Deck>
