@@ -789,6 +789,7 @@ Dismember
   Esper Panorama
   Eternal Witness
   Funeral Charm
+  Hammer of Purphoros
   Haunted Plate Mail
   Hunted Phantasm
   Karma
@@ -1428,213 +1429,36 @@ Dismember
   Verdant Sun's Avatar
 </ForceAttacks>
 <FourPowerMobs>
-Arc Runner
-Bloodmad vampire
-Chameleon Colossus
-Glorybringer
-Obstinate Baloth
-Phantasmal Image
-Vedalken Mastermind
-  <Madness>
-    Avacyn's Judgment
-    Avalanche Tusker
-    Avatar of Discord
-    Chandra Ablaze
-    Chandra, Flamecaller
-    Force Away
-    Forgotten Creation
-    Gathan Raiders
-    Geralf's Masterpiece
-    Ghastly Discovery
-    Ghostly Wings
-    Grimoire of the Dead
-    Incorrigible Youths
-    Jaya Ballard, Task Mage
-    Just the Wind
-    Razormane Masticore
-    Vexing Sphinx
-  </Madness>
-  Ætherling  
-  Ancestral Statue
-  Arborback Stomper
-  Baloth Cage Trap (Sideboard)
-  Bear's Companion
-  Bloom Tender
-  Brackwater Elemental
-  Briarbridge Patrol
+  Archwing Dragon
+  Ashcloud Phoenix
+  Avacyn's Judgment
+  Avalanche Tusker
+  Avatar of Discord
+  Berzerkers' Onslaught
+  Braid of Fire
   Briarhorn
   Bristling Hydra
-  Changeling Berserker
-  Changeling Titan
-  Chronozoa
-  Cloudthresher
+  Chandra Ablaze
+  Chandra, Flamecaller
   Collected Company
+  Comnmune with the Gods
   Crush of Tentacles
-  Cryptolith Rite
-  Disappearing Act
-  Dragon Grip
-  Eel Umbra
-  Eerie Interlude
-  Elemental Bond
-  Familiar's Ruse
-  Fanatic of Mogis
-  Felhide Spiritbinder
-  Flameshadow Conjuring
-  Followed Footsteps
-  Fool's Demise
-  Giant Solifuge
-  Golden Guardian
+  Gathan Raiders
   Goldnight Castigator
-  Groundbreaker
-  Hellion Crucible
-  Hellkite Charger
   Hunted Troll
-  Inexorable Blob
-  Intet, the Dreamer
-  Kessig Wolf Run
-  Lavacore Elemental
-  Living Tsunami
-  Mantis Rider
-  Mimic Vat
-  Mind Sludge
-  Mirror Mockery
-  Mold Shambler
-  Mosswort Bridge
+  Kruphix, God
   Narnan Renegade
-  Obsidian Fireheart
-  Obstinate Baloth
-  Pack Guardian
   Pact of the Titan
-  Penumbra Spider
+  Polukranos
   Precinct Captain
-  Primeval Bounty
-  Progenitor Mimic
-  Pyrewild Shaman
-  Rage Nimbus
-  Raise the Alarm
-  Riparian Tiger
-  Roil Spout
-  Rumbling Slum
-  Sabertooth Outrider
-  Sagu Mauler
-  Sarkhan the Mad
-  Savage Summoning
-  Scout the Borders
-  See the Unwritten
-  Self-Assembler
-  Sheltering Word
-  Snake of the Golden Grove
+  Stratus Dancer
+  Surrak, the Hunt Caller
+  Talara's Battalion
   Tarox Bladewing
   Tornado Elemental
   Triumph of the Hordes
-  Troll Ascetic
-  Unbridled Growth
-  Unsubstantiate
-  Vedalken Mastermind
   Vengevine
   Vexing Devil
-  Voyage's End
-  War Elemental
-  <TOSORT>
-  -- Alternate Strategy(s)
-  Arcbond  
-  Anticipate
-  Fanatic of Mogis
-  Fanatic of Xenagos
-  Genesis Hydra
-  Impact Tremors
-  Shape the Sands
-  Sight of the Scalelords
-  Talara's Battalion
-  Winds of Qal Sisma
-  Xenagos, God of Revels
-  Yasova Dragonclaw
-  
-  +++:
-  SIDEBOARD:
-  Atarka's Command
-  Mistcutter Hydra
-  Neutralizing Blast
-  
-  Arcbond
-  Barrage of Boulders
-  Bear's Companion
-  Berzerkers' Onslaught
-  Bident of Thassa
-  Chord of Calling
-  Crater's Claws
-  Dragonlord Atarka
-  Dragon Whisperer
-  Fanatic of Xenagos
-  Genesis Hydra
-  Hour of Need
-  Hungering Yeti (+Flash)
-  Hydra Broodmaster
-  Icefall Regent
-  Illusory Angel
-  Mirror Mockery
-  Monastery Siege
-  Polukranos
-  Polymorphist's Jest
-  Profaner of the Dead
-  Searing Blood
-  Sedge Scorpion
-  Surrak, the Hunt Caller
-  Thunderbreak Regent
-  Archwing Dragon
-  
-  Comnmune with the Gods
-  
-  ADD 4-POWER CREATURES:
-  Alpine Grizzly
-  Ashcloud Phoenix
-  Bear's Companion
-  Benthic Giant
-  Bloodfire Enforcers
-  Boon Satyr (+Flash)  
-  Crystalline Nautilus
-  Destructor Dragon
-  Fanatic of Mogis
-  Garruk's Packleader
-  Kruphix, God
-  Meandering Towershell
-  Mercurial Pretender
-  Oracle of Bones
-  Pearl Lake Ancient (+Flash)
-  Phytotitan
-  Polis Crusher
-  Spellheart Chimer (Power=# instants and sorceries in graveyard)
-  Spirespine
-  Shaman of the Great Hunt
-  Stormbreath Dragon (1)
-  Stratus Dancer
-  Surrak Dragonclaw (+Flash) (1)
-  Temur Sabertooth +++ (0)
-  Twinflame
-  Vaultbreaker +++ (1)
-  Whirlwind Adept
-  Xenagos, God
-  Yasova Dragonclaw
-  
-  OTHER:
-  Clever Impersonator
-  Dragon Throne of Tarkir
-  Flamewake Phoenix
-  Hall of Triumph
-  Hammer of Purphoros
-  Heir of the Wilds
-  Howl of the Horde
-  Paragon of Fierce Defiance
-  Purphoros, God
-  Restock
-  Roar of Challenge
-  Sultai Flayer
-  
-  PLANESWALKERS:  
-  Ajani, Mentor of Heroes
-  Kiora, the Crashing Wave
-  Xenagos, the Reveler
-  </TOSORT>
 </FourPowerMobs>
 <FourPowerElementals>
   Ashling the Extinguisher

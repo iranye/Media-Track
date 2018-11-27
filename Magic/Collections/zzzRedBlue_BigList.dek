@@ -114,4 +114,7 @@
   <Cards CatID="46499" Quantity="1" Sideboard="false" Name="Pithing Needle" />
   <Cards CatID="48198" Quantity="1" Sideboard="false" Name="Ral Zarek" />
   <Cards CatID="23298" Quantity="1" Sideboard="false" Name="Drift of Phantasms" />
+  <Cards CatID="53528" Quantity="1" Sideboard="false" Name="Polymorphist's Jest" />
+  <Cards CatID="50156" Quantity="1" Sideboard="false" Name="Benthic Giant" />
+  <Cards CatID="54294" Quantity="1" Sideboard="false" Name="Whirlwind Adept" />
 </Deck>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -230,4 +229,29 @@
   <Cards CatID="64156" Quantity="4" Sideboard="false" Name="Scattered Groves" />
   <Cards CatID="31777" Quantity="4" Sideboard="false" Name="Sylvan Bounty" />
   <Cards CatID="63830" Quantity="4" Sideboard="false" Name="Unburden" />
+  <Cards CatID="64140" Quantity="4" Sideboard="false" Name="Canyon Slough" />
+  <Cards CatID="63870" Quantity="4" Sideboard="false" Name="Glorybringer" />
+  <Cards CatID="64490" Quantity="4" Sideboard="false" Name="Angel of Condemnation" />
+  <Cards CatID="67849" Quantity="8" Sideboard="false" Name="Aryel, Knight of Windgrace" />
+  <Cards CatID="62875" Quantity="4" Sideboard="false" Name="Merchant's Dockhand" />
+  <Cards CatID="61859" Quantity="2" Sideboard="false" Name="Concealed Courtyard" />
+  <Cards CatID="61855" Quantity="1" Sideboard="false" Name="Inspiring Vantage" />
+  <Cards CatID="29493" Quantity="4" Sideboard="false" Name="Mystic Gate" />
+  <Cards CatID="24111" Quantity="4" Sideboard="false" Name="Pillar of the Paruns" />
+  <Cards CatID="51968" Quantity="4" Sideboard="false" Name="Temple of Malady" />
+  <Cards CatID="58659" Quantity="4" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="19891" Quantity="1" Sideboard="false" Name="Chromatic Sphere" />
+  <Cards CatID="26926" Quantity="2" Sideboard="false" Name="Coalition Relic" />
+  <Cards CatID="39856" Quantity="4" Sideboard="false" Name="Darksteel Relic" />
+  <Cards CatID="22935" Quantity="4" Sideboard="false" Name="Fellwar Stone" />
+  <Cards CatID="58126" Quantity="1" Sideboard="false" Name="Alhammarret's Archive" />
+  <Cards CatID="20708" Quantity="4" Sideboard="false" Name="Gemstone Array" />
+  <Cards CatID="64132" Quantity="4" Sideboard="false" Name="Pyramid of the Pantheon" />
+  <Cards CatID="64856" Quantity="4" Sideboard="false" Name="Sunset Pyramid" />
+  <Cards CatID="44063" Quantity="8" Sideboard="false" Name="Vessel of Endless Rest" />
+  <Cards CatID="48302" Quantity="4" Sideboard="false" Name="Voice of Resurgence" />
+  <Cards CatID="37398" Quantity="4" Sideboard="false" Name="Chandra's Spitfire" />
+  <Cards CatID="37372" Quantity="4" Sideboard="false" Name="Combust" />
+  <Cards CatID="19897" Quantity="4" Sideboard="false" Name="Sunbeam Spellbomb" />
+  <Cards CatID="45560" Quantity="4" Sideboard="false" Name="Gem of Becoming" />
 </Deck>
