@@ -454,8 +454,19 @@ Dismember
   Visionary Augmenter
   Weaponcraft Enthusiast
 </Arty>
+<Withering>
+  [Graft]
+  Brighthearth Banneret
+  Contagion Clasp
+  Contagion Engine
+  Everlasting Torment
+  Hateflayer
+  Kulrath Knight
+  Sheltering Ancient
+</Withering>
 <BlackWhiteSac>
   Shadow Guildmage
+  Wall of Shards
   <Removal>
     Angelic Purge
     Bojuka Bog
@@ -1823,6 +1834,7 @@ Heliod
   Shinka, the Bloodsoaked Keep
   Shizo, Death's Storehouse
   Thalia's Lancers
+  Urza's Ruinous Blast
 </Legendaries>
   
 <LivingLore>

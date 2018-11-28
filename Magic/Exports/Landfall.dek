@@ -83,4 +83,6 @@
   <Cards CatID="46411" Quantity="1" Sideboard="true" Name="Dryad Militant" />
   <Cards CatID="49463" Quantity="1" Sideboard="true" Name="Witchstalker" />
   <Cards CatID="49022" Quantity="2" Sideboard="false" Name="Search for Tomorrow" />
+  <Cards CatID="66769" Quantity="1" Sideboard="false" Name="Hadana's Climb" />
+  <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
 </Deck>

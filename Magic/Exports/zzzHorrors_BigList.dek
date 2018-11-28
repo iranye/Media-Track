@@ -137,4 +137,20 @@
   <Cards CatID="31211" Quantity="1" Sideboard="false" Name="Violent Ultimatum" />
   <Cards CatID="63830" Quantity="1" Sideboard="false" Name="Unburden" />
   <Cards CatID="56280" Quantity="1" Sideboard="false" Name="Profaner of the Dead" />
+  <Cards CatID="29964" Quantity="1" Sideboard="false" Name="Drain the Well" />
+  <Cards CatID="29563" Quantity="1" Sideboard="false" Name="Poison the Well" />
+  <Cards CatID="57320" Quantity="1" Sideboard="false" Name="Etched Monstrosity" />
+  <Cards CatID="19359" Quantity="1" Sideboard="false" Name="Nausea" />
+  <Cards CatID="26079" Quantity="1" Sideboard="false" Name="Stupor" />
+  <Cards CatID="62707" Quantity="1" Sideboard="false" Name="Yahenni's Expertise" />
+  <Cards CatID="25457" Quantity="1" Sideboard="false" Name="Mindstab" />
+  <Cards CatID="20916" Quantity="1" Sideboard="false" Name="Early Frost" />
+  <Cards CatID="27721" Quantity="1" Sideboard="false" Name="Telling Time" />
+  <Cards CatID="30126" Quantity="1" Sideboard="false" Name="Oona's Grace" />
+  <Cards CatID="30192" Quantity="1" Sideboard="false" Name="Snakeform" />
+  <Cards CatID="32336" Quantity="1" Sideboard="false" Name="Brainbite" />
+  <Cards CatID="58106" Quantity="1" Sideboard="false" Name="Possessed Skaab" />
+  <Cards CatID="20187" Quantity="1" Sideboard="false" Name="Power Conduit" />
+  <Cards CatID="29431" Quantity="1" Sideboard="false" Name="Thoughtweft Gambit" />
+  <Cards CatID="43189" Quantity="1" Sideboard="false" Name="Tragic Slip" />
 </Deck>

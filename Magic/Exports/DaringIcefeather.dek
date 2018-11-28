@@ -118,4 +118,7 @@
   <Cards CatID="49151" Quantity="1" Sideboard="true" Name="Deadly Recluse" />
   <Cards CatID="68661" Quantity="1" Sideboard="true" Name="Detection Tower" />
   <Cards CatID="65194" Quantity="1" Sideboard="false" Name="Arguel's Blood Fast" />
+  <Cards CatID="21843" Quantity="1" Sideboard="false" Name="Orb of Dreams" />
+  <Cards CatID="67447" Quantity="1" Sideboard="false" Name="Teferi, Timebender" />
+  <Cards CatID="29431" Quantity="1" Sideboard="false" Name="Thoughtweft Gambit" />
 </Deck>

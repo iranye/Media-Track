@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -44,4 +44,7 @@
   <Cards CatID="56410" Quantity="1" Sideboard="true" Name="Surge of Righteousness" />
   <Cards CatID="55944" Quantity="3" Sideboard="true" Name="Hidden Dragonslayer" />
   <Cards CatID="36262" Quantity="1" Sideboard="true" Name="Withered Wretch" />
+  <Cards CatID="55382" Quantity="1" Sideboard="false" Name="Crucible of the Spirit Dragon" />
+  <Cards CatID="68627" Quantity="1" Sideboard="false" Name="Dragon's Hoard" />
+  <Cards CatID="55450" Quantity="1" Sideboard="false" Name="Crux of Fate" />
 </Deck>

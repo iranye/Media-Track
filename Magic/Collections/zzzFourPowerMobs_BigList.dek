@@ -132,4 +132,6 @@
   <Cards CatID="54394" Quantity="4" Sideboard="false" Name="Sultai Flayer" />
   <Cards CatID="51551" Quantity="2" Sideboard="false" Name="Kiora, the Crashing Wave" />
   <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
+  <Cards CatID="44287" Quantity="1" Sideboard="false" Name="Moonsilver Spear" />
+  <Cards CatID="37368" Quantity="1" Sideboard="false" Name="Leyline of Anticipation" />
 </Deck>

@@ -38,7 +38,7 @@
   <Cards CatID="47481" Quantity="1" Sideboard="false" Name="Orzhov Charm" />
   <Cards CatID="61282" Quantity="1" Sideboard="false" Name="Sigarda's Aid" />
   <Cards CatID="54969" Quantity="1" Sideboard="false" Name="Skirsdag High Priest" />
-  <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
+  <Cards CatID="59756" Quantity="2" Sideboard="false" Name="Angelic Purge" />
   <Cards CatID="48808" Quantity="1" Sideboard="false" Name="Tidehollow Sculler" />
   <Cards CatID="47749" Quantity="2" Sideboard="true" Name="Merciless Eviction" />
   <Cards CatID="52256" Quantity="3" Sideboard="true" Name="Aegis of the Gods" />
@@ -57,4 +57,19 @@
   <Cards CatID="64490" Quantity="1" Sideboard="false" Name="Angel of Condemnation" />
   <Cards CatID="49449" Quantity="1" Sideboard="false" Name="Lifebane Zombie" />
   <Cards CatID="65054" Quantity="1" Sideboard="false" Name="Legion's Landing" />
+  <Cards CatID="29982" Quantity="1" Sideboard="false" Name="Nightsky Mimic" />
+  <Cards CatID="65468" Quantity="4" Sideboard="false" Name="Huatli, Warrior Poet" />
+  <Cards CatID="42482" Quantity="1" Sideboard="false" Name="Unburial Rites" />
+  <Cards CatID="42644" Quantity="1" Sideboard="false" Name="Feeling of Dread" />
+  <Cards CatID="31203" Quantity="1" Sideboard="false" Name="Sharuum the Hegemon" />
+  <Cards CatID="23885" Quantity="1" Sideboard="false" Name="Yore-Tiller Nephilim" />
+  <Cards CatID="29407" Quantity="1" Sideboard="false" Name="Cultbrand Cinder" />
+  <Cards CatID="43823" Quantity="1" Sideboard="false" Name="Avacyn, Angel of Hope" />
+  <Cards CatID="64056" Quantity="1" Sideboard="false" Name="Start/Finish" />
+  <Cards CatID="43337" Quantity="1" Sideboard="false" Name="Helvault" />
+  <Cards CatID="54282" Quantity="1" Sideboard="false" Name="Herald of Anafenza" />
+  <Cards CatID="31179" Quantity="1" Sideboard="false" Name="Sphinx Sovereign" />
+  <Cards CatID="26077" Quantity="1" Sideboard="false" Name="Shadow Guildmage" />
+  <Cards CatID="35515" Quantity="1" Sideboard="false" Name="Bojuka Bog" />
+  <Cards CatID="51663" Quantity="1" Sideboard="false" Name="Revoke Existence" />
 </Deck>

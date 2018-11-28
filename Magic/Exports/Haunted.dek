@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="64604" Quantity="1" Sideboard="false" Name="Bontu's Last Reckoning" />
+  <Cards CatID="49515" Quantity="4" Sideboard="false" Name="Haunted Plate Mail" />
+  <Cards CatID="24217" Quantity="1" Sideboard="false" Name="Dovescape" />
+  <Cards CatID="56212" Quantity="4" Sideboard="false" Name="Myth Realized" />
+  <Cards CatID="34552" Quantity="4" Sideboard="false" Name="Day of Judgment" />
+  <Cards CatID="39694" Quantity="1" Sideboard="false" Name="Whipflare" />
+  <Cards CatID="50578" Quantity="1" Sideboard="false" Name="Anger of the Gods" />
+  <Cards CatID="44786" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
+  <Cards CatID="32408" Quantity="1" Sideboard="false" Name="Fieldmist Borderpost" />
+  <Cards CatID="54170" Quantity="1" Sideboard="false" Name="End Hostilities" />
+  <Cards CatID="58531" Quantity="3" Sideboard="false" Name="Shambling Vent" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
+  <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="43189" Quantity="1" Sideboard="false" Name="Tragic Slip" />
+  <Cards CatID="55450" Quantity="1" Sideboard="false" Name="Crux of Fate" />
+  <Cards CatID="28495" Quantity="1" Sideboard="false" Name="Austere Command" />
+  <Cards CatID="49339" Quantity="1" Sideboard="false" Name="Trading Post" />
+  <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
+  <Cards CatID="61857" Quantity="1" Sideboard="false" Name="Inventors' Fair" />
+  <Cards CatID="65492" Quantity="1" Sideboard="false" Name="Dowsing Dagger" />
+  <Cards CatID="38191" Quantity="1" Sideboard="false" Name="Mimic Vat" />
+  <Cards CatID="51743" Quantity="1" Sideboard="false" Name="Mogis, God of Slaughter" />
+  <Cards CatID="64762" Quantity="1" Sideboard="false" Name="The Locust God" />
+  <Cards CatID="57618" Quantity="1" Sideboard="false" Name="Negate" />
+  <Cards CatID="19569" Quantity="1" Sideboard="false" Name="Merchant Scroll" />
+  <Cards CatID="31653" Quantity="1" Sideboard="false" Name="Esperzoa" />
+  <Cards CatID="30192" Quantity="1" Sideboard="false" Name="Snakeform" />
+  <Cards CatID="44229" Quantity="1" Sideboard="false" Name="Polluted Dead" />
+  <Cards CatID="23482" Quantity="1" Sideboard="false" Name="Reroute" />
+  <Cards CatID="46499" Quantity="1" Sideboard="false" Name="Pithing Needle" />
+  <Cards CatID="23312" Quantity="1" Sideboard="false" Name="Muddle the Mixture" />
+  <Cards CatID="49231" Quantity="1" Sideboard="false" Name="Ratchet Bomb" />
+  <Cards CatID="39770" Quantity="1" Sideboard="false" Name="Vault Skirge" />
+  <Cards CatID="29847" Quantity="1" Sideboard="false" Name="Guttural Response" />
+  <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
+  <Cards CatID="25737" Quantity="1" Sideboard="false" Name="Stuffy Doll" />
+</Deck>

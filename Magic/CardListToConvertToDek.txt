@@ -1,75 +1,297 @@
-Canyon Slough
-Glorybringer
-Angel of Condemnation
-Aryel, Knight of Windgrace
-Merchant's Dockhand
-Concealed Courtyard
-Inspiring Vantage
-Mystic Gate
-Pillar of the Paruns
-Temple of Malady
-Sunken Hollow
-Nimbus Maze
-Chromatic Sphere
-Coalition Relic
-Darksteel Relic
-Fellwar Stone
-Alhammarret's Archive
-Gemstone Array
-Pyramid of the Pantheon
-Sunset Pyramid
+Samut, Voice of Dissent
+Stonebrow, Krosan Hero
+Woolly Thoctar
+Yeva, Nature's Herald
+Lifecrafter's Bestiary
+Mantis Engine
+Kazuul, Tyrant of the Cliffs
+Moonsilver Spear
+Shapers' Sanctuary
+Sorcerous Spyglass
+Soul Foundry
+Stasis Snare
+Thaumatic Compass
+Throne of the God-Pharaoh
+Contaminated Bond
+Curse of the Nightly Hunt
+Curse of the Pierced Heart
+Curse of Misfortunes
+Curse of Thirst
+Torment of Scarabs
+Trespasser's Curse
+Furor of the Bitten
+Brigid, Hero of Kinsbaile
+Fumiko the Lowblood
+Gisela, Blade of Goldnight
+Jor Kadeen, the Prevailer
+Kemba, Kha Regent
+Linvala, Keeper of Silence
+Neheb, the Eternal
+Neheb, the Worthy
+Oriss, Samite Guardian
+Reya Dawnbringer
+Tolsimir Wolfblood
+Uril, the Miststalker
+Day of Destiny
+Huatli, Radiant Champion
+Huatli, Warrior Poet
+Jaya's Immolating Inferno
+Journey to Eternity
+Konda's Banner
+Konda, Lord of Eiganjo
+Takeno, Samurai General
+Mayael's Aria
+Naya Charm
+Naya Panorama
+Naya Hushblade
+Path of Mettle
+Rune-Tail, Kitsune Ascendant
+Michiko Konda, Truth Seeker
+Mardu Ascendancy
+Signal Pest
+Souls of the Faultless
+Junktroller
+Whipflare
+Teneb, the Harvester
+Tree of Redemption
+Archangel Avacyn
+Growing Rites of Itlimoc
+Kamahl's Druidic Vow
+Tenza, Godo's Maul
+Titanic Ultimatum
+Urza's Ruinous Blast
+Zurgo Bellstriker
+Zurgo Helmsmasher
+Underworld Coinsmith
+Hex Parasite
+Brain Maggot
+Unburial Rites
+Lightning Greaves
+Reroute
+Shunt
+Shimmering Wings
+Feeling of Dread
+Cairn Wanderer
+Monastery Siege
+Shred Memory
+Befoul
+Drain the Well
+Poison the Well
+Polluted Dead
+Mox Amber
+Kamahl's Druidic Vow
+Kitsune Healer
+Leyline of Singularity
+Chronomantic Escape
+Clockspinning
+Careful Consideration
+Divine Congregation
+Dust of Moments
+Nihilith
+Phthisis
+Reality Strobe
+Timecrafting
+Venser's Diffusion
+Thalia's Lancers
+Urza's Ruinous Blast
+Yawgmoth's Vile Offering
+Karn's Temporal Sundering
+Yomiji, Who Bars the Way
+Daring Archaeologist
+Profane Procession
+Vance's Blasting Cannons
+Untaidake, the Cloud Keeper
+Storm the Vault
+Hadana's Climb
+Hope of Ghirapur
+Blood Clock
+Jhoira's Timebug
+Phyrexian Revoker
+Steel Overseer
+Creepy Doll
+Etched Monstrosity
+Kuldotha Forgemaster
+Composite Golem
+Sharuum the Hegemon
+Steel Hellkite
+Thopter Assembly
+Enigma Sphinx
+Darksteel Colossus
+Dizzy Spell
+Echoing Decay
+Fate Transfer
+Grind/Dust
+Mind Shatter
+Nausea
+Rain of Tears
+Stupor
+Sword-Point Diplomacy
+Ambition's Cost
+Caustic Rain
+Festering March
+Maw of the Mire
+Necromantic Summons
+Secret Salvage
+Yahenni's Expertise
+Torrent of Souls
+Tezzeret, Master of Metal
+Treacherous Urge
+Beseech the Queen
+Betrayal of Flesh
+Dark Withering
+Mindstab
+Sins of the Past
+Wit's End
+Nefarox, Overlord of Grixis
+Merchant Scroll
+Early Frost
+Quickchange
+Research/Development
+Take Inventory
+Telling Time
+Unsubstantiate
+Exhaustion
+Vigor
+Oona's Grace
+Second Sight
+Snakeform
+Cast Through Time
+Withering Gaze
+Brainbite
+Deflection
+Distant Memories
+Foresee
+Kefnet's Last Word
+Plagiarize
+Rakdos, Lord of Riots
+Defiler of Souls
+Evil Twin
+Exava, Rakdos Blood Witch
+Olivia Voldaren
+Garza Zol, Plague Queen
+Gelectrode
+Glen Elendra Liege
+Jhoira of the Ghitu
+Oona, Queen of the Fae
+Jori En, Ruin Diver
+Jund Hackblade
+Kederekt Creeper
+Kulrath Knight
+Malfegor
+Mindleech Mass
+Mindwrack Liege
+Mishra, Artificer Prodigy
+Noxious Gearhulk
+Nucklavee
+Numot, the Devastator
+Possessed Skaab
+Rakdos Augermage
+Rakdos Ickspitter
+The Scorpion God
+Vedalken Ghoul
+Wrexial, the Risen Deep
+Yore-Tiller Nephilim
+Arcum Dagsson
+Ashenmoor Liege
+Blood Cultist
+Blood Speaker
+Carnage Gladiator
+Nicol Bolas, Planeswalker
+Veinfire Borderpost
+Chandra Nalaar
+Saheeli Rai
+Crimson Wisps
+Sarkhan Vol
+Sootstoke Kindler
+Cultbrand Cinder
+Chandra, the Firebrand
+Chandra, Fire of Kaladesh
+Abyssal Persecutor
+Deathbringer Thoctar
+Emberstrike Duo
+Falkenrath Aristocrat
+Fire-Field Ogre
+Call to Heel
+Colfenor's Urn
+Crook of Condemnation
+Memory Plunder
+Avacyn, Angel of Hope
+Curious Homunculus
+Esperzoa
+Volcanic Fallout
+Obelisk of Alara
+Mirri the Cursed
+Nissa, Voice of Zendikar
+Plaxcaster Frogling
+Power Conduit
+Predator Ooze
+Witchbane Orb
+Embersmith
+Gelectrode
+Treasure Mage
+Trinket Mage
+Akroma's Memorial
+Start/Finish
+Chalice of Life
+Esper Battlemage
+Helvault
+Grixis Panorama
+Grixis Grimblade
+Orb of Dreams
+Piston Sledge
+Rings of Brighthearth
+Skeleton Shard
+Skill Borrower
+Sword of Light and Shadow
+Thunderstaff
+Tumble Magnet
+Venser, the Sojourner
+Veilstone Amulet
+Fieldmist Borderpost
 Vessel of Endless Rest
-Voice of Resurgence
-Chandra's Spitfire
-Combust
-Sunbeam Spellbomb
-Gem of Becoming
-Dispossess
-Infinite Obliteration
-Lost Legacy
-Memoricide
-Protean Hulk
-Sword of the Meek
-Massacre Wurm
-Crumble to Dust
-Master of the Wild Hunt
-Novablast Wurm
-Tajuru Preserver
-Obstinate Baloth
-Child of Alara
-Charnelhoard Wurm
-Scion of the Ur-Dragon
-Reaper King
-Unscythe, Killer of Kings
-Stitch in Time
-Nature's Will
-Oracle of Mul Daya
-Blood Knight
-Burrenton Forge-Tender
-Krark's Thumb
-Chameleon Colossus
-Painter's Servant
-Chainbreaker
-Cauldron of Souls
-Hapatra, Vizier of Poisons
-Mirran Crusader
-Kira, Great Glass-Spinner
-Opal Guardian
-Oversoul of Dusk
-Paladin en-Vec
-Runed Halo
-Vesuvan Shapeshifter
-Seht's Tiger
-Stillmoon Cavalier
-Athreos, God of Passage
-Baloth Null
-Banewhip Punisher
-Blind Hunter
-Boltwing Marauder
-Crypt Champion
-Demon of Dark Schemes
-Demonlord of Ashmouth
-Desecrator Hag
-Fleshbag Marauder
-Geralf's Messenger
-Gonti, Lord of Luxury
+Wall of Spears
+Mystic Gate
+Flooded Grove
+Seaside Citadel
+Stirring Wildwood
+Wooded Bastion
+Herald of Anafenza
+Knight of New Alara
+Dauntless Escort
+Bant Charm
+Teferi, Timebender
+Teferi's Moat
+Temmet, Vizier of Naktamun
+Thistledown Liege
+Thoughtweft Gambit
+Thunderclap Wyvern
+Arena
+Buried Ruin
+Cascade Bluffs
+Crypt of the Eternals
+Fetid Heath
+Fire-Lit Thicket
+Graven Cairns
+Grixis Panorama
+Pillar of the Paruns
+River of Tears
+Rugged Prairie
+Shinka, the Bloodsoaked Keep
+Springjack Pasture
+Sunken Ruins
+Swarmyard
+Thespian's Stage
+Twilight Mire
+Vault of the Archangel
+Oketra the True
+Kalitas, Traitor of Ghet
+Heart of Kiran
+Thraximundar
+Lashwrithe
+Pithing Needle
+Gitaxian Probe
+Preordain
+Oketra the True
+Conjurer's Closet
+Door to Nothingness
+Farsight Mask

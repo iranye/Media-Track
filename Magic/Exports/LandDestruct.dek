@@ -52,4 +52,5 @@
   <Cards CatID="55600" Quantity="1" Sideboard="true" Name="Valorous Stance" />
   <Cards CatID="49133" Quantity="1" Sideboard="true" Name="Negate" />
   <Cards CatID="34470" Quantity="4" Sideboard="false" Name="Goblin Ruinblaster" />
+  <Cards CatID="23937" Quantity="1" Sideboard="false" Name="Caustic Rain" />
 </Deck>
