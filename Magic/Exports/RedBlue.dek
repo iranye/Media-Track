@@ -8,7 +8,6 @@
   <Cards CatID="19979" Quantity="2" Sideboard="false" Name="Fractured Loyalty" />
   <Cards CatID="51966" Quantity="3" Sideboard="false" Name="Temple of Epiphany" />
   <Cards CatID="52288" Quantity="1" Sideboard="false" Name="Prophetic Flamespeaker" />
-  <Cards CatID="51559" Quantity="1" Sideboard="false" Name="Gorgon's Head" />
   <Cards CatID="50306" Quantity="2" Sideboard="false" Name="Thassa, God of the Sea" />
   <Cards CatID="46805" Quantity="2" Sideboard="false" Name="Steam Vents" />
   <Cards CatID="50578" Quantity="2" Sideboard="false" Name="Anger of the Gods" />
@@ -23,12 +22,11 @@
   <Cards CatID="53284" Quantity="2" Sideboard="false" Name="Shrapnel Blast" />
   <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
   <Cards CatID="49339" Quantity="3" Sideboard="false" Name="Trading Post" />
-  <Cards CatID="47539" Quantity="1" Sideboard="false" Name="Prophetic Prism" />
   <Cards CatID="35515" Quantity="2" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="29479" Quantity="1" Sideboard="false" Name="Sunken Ruins" />
-  <Cards CatID="35695" Quantity="3" Sideboard="false" Name="Basilisk Collar" />
+  <Cards CatID="35695" Quantity="4" Sideboard="false" Name="Basilisk Collar" />
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="31213" Quantity="2" Sideboard="false" Name="Etherium Sculptor" />
   <Cards CatID="46563" Quantity="3" Sideboard="false" Name="Rakdos, Lord of Riots" />
@@ -40,7 +38,6 @@
   <Cards CatID="31183" Quantity="2" Sideboard="false" Name="Crumbling Necropolis" />
   <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
   <Cards CatID="20009" Quantity="1" Sideboard="false" Name="Granite Shard" />
-  <Cards CatID="38255" Quantity="1" Sideboard="false" Name="Trinket Mage" />
   <Cards CatID="53692" Quantity="1" Sideboard="false" Name="Avarice Amulet" />
   <Cards CatID="67585" Quantity="1" Sideboard="false" Name="Opt" />
   <Cards CatID="26269" Quantity="1" Sideboard="false" Name="Mirri the Cursed" />
@@ -51,12 +48,9 @@
   <Cards CatID="61597" Quantity="1" Sideboard="false" Name="Saheeli Rai" />
   <Cards CatID="34358" Quantity="1" Sideboard="false" Name="Piranha Marsh" />
   <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
-  <Cards CatID="45390" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
-  <Cards CatID="67723" Quantity="1" Sideboard="false" Name="Goblin Chainwhirler" />
   <Cards CatID="39770" Quantity="3" Sideboard="false" Name="Vault Skirge" />
-  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="34832" Quantity="1" Sideboard="true" Name="Expedition Map" />
   <Cards CatID="49231" Quantity="2" Sideboard="false" Name="Ratchet Bomb" />
-  <Cards CatID="23312" Quantity="1" Sideboard="false" Name="Muddle the Mixture" />
   <Cards CatID="20273" Quantity="1" Sideboard="false" Name="Sword of Kaldra" />
   <Cards CatID="68477" Quantity="1" Sideboard="false" Name="Smelt" />
   <Cards CatID="68489" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
@@ -65,7 +59,7 @@
   <Cards CatID="47813" Quantity="2" Sideboard="true" Name="Glaring Spotlight" />
   <Cards CatID="46441" Quantity="1" Sideboard="true" Name="Rakdos Charm" />
   <Cards CatID="49217" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
-  <Cards CatID="35503" Quantity="1" Sideboard="true" Name="Lightning Greaves" />
+  <Cards CatID="35503" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
   <Cards CatID="68661" Quantity="1" Sideboard="true" Name="Detection Tower" />
   <Cards CatID="20363" Quantity="2" Sideboard="true" Name="Echoing Truth" />
   <Cards CatID="46499" Quantity="1" Sideboard="true" Name="Pithing Needle" />
@@ -74,5 +68,7 @@
   <Cards CatID="55602" Quantity="1" Sideboard="true" Name="Arcbond" />
   <Cards CatID="45560" Quantity="1" Sideboard="false" Name="Gem of Becoming" />
   <Cards CatID="64862" Quantity="1" Sideboard="false" Name="Crypt of the Eternals" />
-  <Cards CatID="23298" Quantity="1" Sideboard="false" Name="Drift of Phantasms" />
+  <Cards CatID="48992" Quantity="2" Sideboard="false" Name="Kira, Great Glass-Spinner" />
+  <Cards CatID="52094" Quantity="1" Sideboard="false" Name="Disciple of Deceit" />
+  <Cards CatID="30020" Quantity="1" Sideboard="false" Name="Dominus of Fealty" />
 </Deck>

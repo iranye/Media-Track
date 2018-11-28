@@ -134,4 +134,6 @@
   <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
   <Cards CatID="44287" Quantity="1" Sideboard="false" Name="Moonsilver Spear" />
   <Cards CatID="37368" Quantity="1" Sideboard="false" Name="Leyline of Anticipation" />
+  <Cards CatID="31123" Quantity="1" Sideboard="false" Name="Call to Heel" />
+  <Cards CatID="45580" Quantity="1" Sideboard="false" Name="Yeva, Nature's Herald" />
 </Deck>

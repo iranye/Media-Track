@@ -153,4 +153,7 @@
   <Cards CatID="20187" Quantity="1" Sideboard="false" Name="Power Conduit" />
   <Cards CatID="29431" Quantity="1" Sideboard="false" Name="Thoughtweft Gambit" />
   <Cards CatID="43189" Quantity="1" Sideboard="false" Name="Tragic Slip" />
+  <Cards CatID="61136" Quantity="1" Sideboard="false" Name="Unsubstantiate" />
+  <Cards CatID="63832" Quantity="1" Sideboard="false" Name="Wander in Death" />
+  <Cards CatID="64646" Quantity="1" Sideboard="false" Name="Without Weakness" />
 </Deck>

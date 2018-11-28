@@ -113,7 +113,7 @@
   <Cards CatID="65522" Quantity="1" Sideboard="false" Name="Sorcerous Spyglass" />
   <Cards CatID="46499" Quantity="1" Sideboard="false" Name="Pithing Needle" />
   <Cards CatID="48198" Quantity="1" Sideboard="false" Name="Ral Zarek" />
-  <Cards CatID="23298" Quantity="1" Sideboard="false" Name="Drift of Phantasms" />
+  <Cards CatID="23298" Quantity="2" Sideboard="false" Name="Drift of Phantasms" />
   <Cards CatID="53528" Quantity="1" Sideboard="false" Name="Polymorphist's Jest" />
   <Cards CatID="50156" Quantity="1" Sideboard="false" Name="Benthic Giant" />
   <Cards CatID="54294" Quantity="1" Sideboard="false" Name="Whirlwind Adept" />
@@ -145,6 +145,15 @@
   <Cards CatID="43337" Quantity="1" Sideboard="false" Name="Helvault" />
   <Cards CatID="43183" Quantity="1" Sideboard="false" Name="Chalice of Life" />
   <Cards CatID="38027" Quantity="1" Sideboard="false" Name="Embersmith" />
-  <Cards CatID="31825" Quantity="1" Sideboard="false" Name="Obelisk of Alara" />
+  <Cards CatID="31825" Quantity="2" Sideboard="false" Name="Obelisk of Alara" />
   <Cards CatID="31913" Quantity="1" Sideboard="false" Name="Volcanic Fallout" />
+  <Cards CatID="48992" Quantity="1" Sideboard="false" Name="Kira, Great Glass-Spinner" />
+  <Cards CatID="52094" Quantity="1" Sideboard="false" Name="Disciple of Deceit" />
+  <Cards CatID="30020" Quantity="1" Sideboard="false" Name="Dominus of Fealty" />
+  <Cards CatID="37372" Quantity="1" Sideboard="false" Name="Combust" />
+  <Cards CatID="37398" Quantity="1" Sideboard="false" Name="Chandra's Spitfire" />
+  <Cards CatID="31165" Quantity="1" Sideboard="false" Name="Blood Cultist" />
+  <Cards CatID="36382" Quantity="1" Sideboard="false" Name="Brimstone Mage" />
+  <Cards CatID="32482" Quantity="1" Sideboard="false" Name="Defiler of Souls" />
+  <Cards CatID="27108" Quantity="1" Sideboard="false" Name="Kamahl, Pit Fighter" />
 </Deck>
