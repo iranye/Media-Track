@@ -156,4 +156,23 @@
   <Cards CatID="36382" Quantity="1" Sideboard="false" Name="Brimstone Mage" />
   <Cards CatID="32482" Quantity="1" Sideboard="false" Name="Defiler of Souls" />
   <Cards CatID="27108" Quantity="1" Sideboard="false" Name="Kamahl, Pit Fighter" />
+  <Cards CatID="38702" Quantity="1" Sideboard="false" Name="Atog" />
+  <Cards CatID="31917" Quantity="1" Sideboard="false" Name="Sphinx Summoner" />
+  <Cards CatID="53636" Quantity="1" Sideboard="false" Name="Scuttling Doom Engine" />
+  <Cards CatID="26802" Quantity="1" Sideboard="false" Name="Bonded Fetch" />
+  <Cards CatID="23004" Quantity="1" Sideboard="false" Name="Hunted Phantasm" />
+  <Cards CatID="68299" Quantity="1" Sideboard="false" Name="Sai, Master Thopterist" />
+  <Cards CatID="66573" Quantity="1" Sideboard="false" Name="Warkite Marauder" />
+  <Cards CatID="68365" Quantity="1" Sideboard="false" Name="Infernal Reckoning" />
+  <Cards CatID="32907" Quantity="1" Sideboard="false" Name="Gorgon Flail" />
+  <Cards CatID="30214" Quantity="1" Sideboard="false" Name="Crackleburr" />
+  <Cards CatID="28415" Quantity="1" Sideboard="false" Name="Deathrender" />
+  <Cards CatID="28956" Quantity="1" Sideboard="false" Name="Inspired Sprite" />
+  <Cards CatID="38193" Quantity="1" Sideboard="false" Name="Grand Architect" />
+  <Cards CatID="21121" Quantity="1" Sideboard="false" Name="Meloku the Clouded Mirror" />
+  <Cards CatID="29968" Quantity="1" Sideboard="false" Name="Merrow Levitator" />
+  <Cards CatID="39409" Quantity="1" Sideboard="false" Name="Mirran Spy" />
+  <Cards CatID="61923" Quantity="1" Sideboard="false" Name="Padeem, Consul of Innovation" />
+  <Cards CatID="31077" Quantity="1" Sideboard="false" Name="Puppet Conjurer" />
+  <Cards CatID="61132" Quantity="1" Sideboard="false" Name="Docent of Perfection" />
 </Deck>

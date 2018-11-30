@@ -11,6 +11,10 @@
       "TotalMegaBytes": 23
     },
     {
+      "PartialPath": "Music\\MP3s\\GretaVanFleet\\_GretaVanFleet-ShortList.m3u",
+      "TotalMegaBytes": 108
+    },
+    {
       "PartialPath": "Music\\MP3s\\Jefferson Starship\\_JeffersonStarship-ShortList.m3u",
       "TotalMegaBytes": 56
     },
@@ -25,6 +29,10 @@
     {
       "PartialPath": "Music\\MP3s\\Pete Townshend\\_PeteTownshend-ShortList.m3u",
       "TotalMegaBytes": 72
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Queen\\_Queen-ShortList.m3u",
+      "TotalMegaBytes": 76
     },
     {
       "PartialPath": "Music\\MP3s\\ZZ Top\\_ZZTop-ShortList.m3u",

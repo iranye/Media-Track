@@ -80,11 +80,26 @@
   <Cards CatID="23885" Quantity="1" Sideboard="false" Name="Yore-Tiller Nephilim" />
   <Cards CatID="29407" Quantity="1" Sideboard="false" Name="Cultbrand Cinder" />
   <Cards CatID="43823" Quantity="1" Sideboard="false" Name="Avacyn, Angel of Hope" />
-  <Cards CatID="64056" Quantity="1" Sideboard="false" Name="Start/Finish" />
+  <Cards CatID="64056" Quantity="2" Sideboard="false" Name="Start/Finish" />
   <Cards CatID="43337" Quantity="1" Sideboard="false" Name="Helvault" />
   <Cards CatID="54282" Quantity="1" Sideboard="false" Name="Herald of Anafenza" />
   <Cards CatID="31179" Quantity="1" Sideboard="false" Name="Sphinx Sovereign" />
   <Cards CatID="26077" Quantity="1" Sideboard="false" Name="Shadow Guildmage" />
   <Cards CatID="35515" Quantity="1" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="51663" Quantity="1" Sideboard="false" Name="Revoke Existence" />
+  <Cards CatID="31309" Quantity="1" Sideboard="false" Name="Knight of the White Orchid" />
+  <Cards CatID="39539" Quantity="1" Sideboard="false" Name="Hero of Bladehold" />
+  <Cards CatID="32478" Quantity="1" Sideboard="false" Name="Messenger Falcons" />
+  <Cards CatID="65014" Quantity="1" Sideboard="false" Name="Ashes of the Abhorrent" />
+  <Cards CatID="61088" Quantity="1" Sideboard="false" Name="Blessed Alliance" />
+  <Cards CatID="48970" Quantity="1" Sideboard="false" Name="Yosei, the Morning Star" />
+  <Cards CatID="64876" Quantity="1" Sideboard="false" Name="Endless Sands" />
+  <Cards CatID="63125" Quantity="1" Sideboard="false" Name="Flickerwisp" />
+  <Cards CatID="25415" Quantity="1" Sideboard="false" Name="Gaze of Justice" />
+  <Cards CatID="32454" Quantity="1" Sideboard="false" Name="Esper Sojourners" />
+  <Cards CatID="28353" Quantity="1" Sideboard="false" Name="Galepowder Mage" />
+  <Cards CatID="31077" Quantity="1" Sideboard="false" Name="Puppet Conjurer" />
+  <Cards CatID="28415" Quantity="1" Sideboard="false" Name="Deathrender" />
+  <Cards CatID="29733" Quantity="1" Sideboard="false" Name="Mistmeadow Witch" />
+  <Cards CatID="43887" Quantity="1" Sideboard="false" Name="Cloudshift" />
 </Deck>

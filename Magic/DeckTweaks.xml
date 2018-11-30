@@ -395,6 +395,7 @@ Dismember
   Null Champion
   Numot, the Devastator
   Olivia Voldaren
+  River Hoopoe
   Soul of New Phyrexia
   Student of Warfare
   Temur Sabertooth
@@ -463,6 +464,7 @@ Dismember
   Hateflayer
   Kulrath Knight
   Sheltering Ancient
+  Soul-Scar Mage
 </Withering>
 <BlackWhiteSac>
   Shadow Guildmage
@@ -1713,12 +1715,15 @@ Vedalken Mastermind
   Westvale Abbey
 </Goats>
 <Haunted>
+  Descend upon the Sinful
   Haunted Plate Mail
   Heart of Kiran
+  Killing Wave
   Marble Titan
 </Haunted>
 <Horrors>
   Gifts Ungiven
+  Lux Cannon
   Snapcaster Mage
 </Horrors>
 <Horrors_LivingLore>
@@ -2380,6 +2385,7 @@ NON-CREATURES:
     Dimir Infiltrator
     Disrupting Scepter
     Dream Salvage
+    Experiment Kraj
     From Under the Floorboards
     Gorgon Recluse
     Grave Scrabbler

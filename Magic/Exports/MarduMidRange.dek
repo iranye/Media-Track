@@ -47,4 +47,7 @@
   <Cards CatID="55382" Quantity="1" Sideboard="false" Name="Crucible of the Spirit Dragon" />
   <Cards CatID="68627" Quantity="1" Sideboard="false" Name="Dragon's Hoard" />
   <Cards CatID="55450" Quantity="1" Sideboard="false" Name="Crux of Fate" />
+  <Cards CatID="68459" Quantity="1" Sideboard="false" Name="Lathliss, Dragon Queen" />
+  <Cards CatID="68431" Quantity="1" Sideboard="false" Name="Demanding Dragon" />
+  <Cards CatID="68601" Quantity="1" Sideboard="false" Name="Palladia-Mors, the Ruiner" />
 </Deck>

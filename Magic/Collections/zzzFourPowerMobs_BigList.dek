@@ -118,7 +118,7 @@
   <Cards CatID="55404" Quantity="5" Sideboard="false" Name="Vaultbreaker" />
   <Cards CatID="54294" Quantity="10" Sideboard="false" Name="Whirlwind Adept" />
   <Cards CatID="51745" Quantity="2" Sideboard="false" Name="Xenagos, God of Revels" />
-  <Cards CatID="55430" Quantity="8" Sideboard="false" Name="Yasova Dragonclaw" />
+  <Cards CatID="55430" Quantity="1" Sideboard="false" Name="Yasova Dragonclaw" />
   <Cards CatID="54460" Quantity="1" Sideboard="false" Name="Dragon Throne of Tarkir" />
   <Cards CatID="55604" Quantity="2" Sideboard="false" Name="Flamewake Phoenix" />
   <Cards CatID="51972" Quantity="2" Sideboard="false" Name="Hall of Triumph" />
@@ -136,4 +136,16 @@
   <Cards CatID="37368" Quantity="1" Sideboard="false" Name="Leyline of Anticipation" />
   <Cards CatID="31123" Quantity="1" Sideboard="false" Name="Call to Heel" />
   <Cards CatID="45580" Quantity="1" Sideboard="false" Name="Yeva, Nature's Herald" />
+  <Cards CatID="26688" Quantity="1" Sideboard="false" Name="Ravaging Riftwurm" />
+  <Cards CatID="37354" Quantity="1" Sideboard="false" Name="Frost Titan" />
+  <Cards CatID="65280" Quantity="1" Sideboard="false" Name="Angrath's Marauders" />
+  <Cards CatID="41349" Quantity="1" Sideboard="false" Name="Phantasmal Dragon" />
+  <Cards CatID="68531" Quantity="1" Sideboard="false" Name="Gigantosaurus" />
+  <Cards CatID="68533" Quantity="1" Sideboard="false" Name="Goreclaw, Terror of Qal Sisma" />
+  <Cards CatID="67759" Quantity="1" Sideboard="false" Name="Two-Headed Giant" />
+  <Cards CatID="28415" Quantity="1" Sideboard="false" Name="Deathrender" />
+  <Cards CatID="68431" Quantity="1" Sideboard="false" Name="Demanding Dragon" />
+  <Cards CatID="68459" Quantity="1" Sideboard="false" Name="Lathliss, Dragon Queen" />
+  <Cards CatID="65480" Quantity="1" Sideboard="false" Name="Tishana, Voice of Thunder" />
+  <Cards CatID="29733" Quantity="1" Sideboard="false" Name="Mistmeadow Witch" />
 </Deck>

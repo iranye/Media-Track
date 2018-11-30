@@ -51,4 +51,6 @@
   <Cards CatID="25943" Quantity="1" Sideboard="false" Name="Divine Congregation" />
   <Cards CatID="32390" Quantity="1" Sideboard="false" Name="Dauntless Escort" />
   <Cards CatID="64056" Quantity="1" Sideboard="false" Name="Start/Finish" />
+  <Cards CatID="27204" Quantity="1" Sideboard="false" Name="Citanul Flute" />
+  <Cards CatID="28415" Quantity="1" Sideboard="false" Name="Deathrender" />
 </Deck>

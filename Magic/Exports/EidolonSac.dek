@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -61,4 +61,5 @@
   <Cards CatID="35515" Quantity="1" Sideboard="true" Name="Bojuka Bog" />
   <Cards CatID="54126" Quantity="1" Sideboard="true" Name="Abzan Charm" />
   <Cards CatID="54170" Quantity="1" Sideboard="true" Name="End Hostilities" />
+  <Cards CatID="21239" Quantity="1" Sideboard="false" Name="Kitsune Mystic" />
 </Deck>

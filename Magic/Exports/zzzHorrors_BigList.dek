@@ -156,4 +156,10 @@
   <Cards CatID="61136" Quantity="1" Sideboard="false" Name="Unsubstantiate" />
   <Cards CatID="63832" Quantity="1" Sideboard="false" Name="Wander in Death" />
   <Cards CatID="64646" Quantity="1" Sideboard="false" Name="Without Weakness" />
+  <Cards CatID="63491" Quantity="1" Sideboard="false" Name="Venser, Shaper Savant" />
+  <Cards CatID="29775" Quantity="1" Sideboard="false" Name="Cerulean Wisps" />
+  <Cards CatID="27504" Quantity="1" Sideboard="false" Name="Cephalid Constable" />
+  <Cards CatID="26886" Quantity="1" Sideboard="false" Name="Linessa, Zephyr Mage" />
+  <Cards CatID="61132" Quantity="1" Sideboard="false" Name="Docent of Perfection" />
+  <Cards CatID="63686" Quantity="1" Sideboard="false" Name="As Foretold" />
 </Deck>
