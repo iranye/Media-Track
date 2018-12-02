@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -43,8 +43,16 @@
   <Cards CatID="67873" Quantity="2" Sideboard="false" Name="Shanna, Sisay's Legacy" />
   <Cards CatID="65400" Quantity="1" Sideboard="false" Name="Growing Rites of Itlimoc" />
   <Cards CatID="66773" Quantity="1" Sideboard="false" Name="Huatli, Radiant Champion" />
-  <Cards CatID="65432" Quantity="1" Sideboard="true" Name="Shapers' Sanctuary" />
   <Cards CatID="23510" Quantity="1" Sideboard="false" Name="Tolsimir Wolfblood" />
+  <Cards CatID="64156" Quantity="2" Sideboard="false" Name="Scattered Groves" />
+  <Cards CatID="32285" Quantity="2" Sideboard="false" Name="Qasali Pridemage" />
+  <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
+  <Cards CatID="64026" Quantity="1" Sideboard="false" Name="Dusk/Dawn" />
+  <Cards CatID="69709" Quantity="2" Sideboard="false" Name="Emmara, Soul of the Accord" />
+  <Cards CatID="59335" Quantity="1" Sideboard="false" Name="Nissa, Voice of Zendikar" />
+  <Cards CatID="65054" Quantity="1" Sideboard="false" Name="Legion's Landing" />
+  <Cards CatID="69695" Quantity="1" Sideboard="false" Name="Conclave Cavalier" />
+  <Cards CatID="65432" Quantity="1" Sideboard="true" Name="Shapers' Sanctuary" />
   <Cards CatID="49219" Quantity="2" Sideboard="true" Name="Plummet" />
   <Cards CatID="34800" Quantity="2" Sideboard="true" Name="Baloth Cage Trap" />
   <Cards CatID="49289" Quantity="1" Sideboard="true" Name="Bramblecrush" />
@@ -53,13 +61,5 @@
   <Cards CatID="47869" Quantity="2" Sideboard="true" Name="Beckon Apparition" />
   <Cards CatID="53606" Quantity="1" Sideboard="true" Name="Reclamation Sage" />
   <Cards CatID="34552" Quantity="1" Sideboard="true" Name="Day of Judgment" />
-  <Cards CatID="64156" Quantity="2" Sideboard="false" Name="Scattered Groves" />
-  <Cards CatID="32285" Quantity="2" Sideboard="false" Name="Qasali Pridemage" />
-  <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
   <Cards CatID="29291" Quantity="3" Sideboard="true" Name="Vexing Shusher" />
-  <Cards CatID="64026" Quantity="1" Sideboard="false" Name="Dusk/Dawn" />
-  <Cards CatID="69709" Quantity="2" Sideboard="false" Name="Emmara, Soul of the Accord" />
-  <Cards CatID="59335" Quantity="1" Sideboard="false" Name="Nissa, Voice of Zendikar" />
-  <Cards CatID="65054" Quantity="1" Sideboard="false" Name="Legion's Landing" />
-  <Cards CatID="69695" Quantity="1" Sideboard="false" Name="Conclave Cavalier" />
 </Deck>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -48,7 +48,6 @@
   <Cards CatID="63093" Quantity="1" Sideboard="false" Name="Harmonize" />
   <Cards CatID="23154" Quantity="1" Sideboard="false" Name="Lightning Helix" />
   <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
-  <Cards CatID="65524" Quantity="1" Sideboard="false" Name="Thaumatic Compass" />
   <Cards CatID="20956" Quantity="1" Sideboard="false" Name="Serum Visions" />
   <Cards CatID="30913" Quantity="1" Sideboard="false" Name="Titanic Ultimatum" />
   <Cards CatID="49339" Quantity="1" Sideboard="false" Name="Trading Post" />
@@ -104,6 +103,8 @@
   <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
   <Cards CatID="61845" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="65194" Quantity="1" Sideboard="false" Name="Arguel's Blood Fast" />
+  <Cards CatID="35515" Quantity="1" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="29847" Quantity="1" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="47813" Quantity="1" Sideboard="true" Name="Glaring Spotlight" />
   <Cards CatID="39569" Quantity="1" Sideboard="true" Name="Phyrexian Revoker" />
@@ -117,8 +118,4 @@
   <Cards CatID="68553" Quantity="2" Sideboard="true" Name="Reclamation Sage" />
   <Cards CatID="49151" Quantity="1" Sideboard="true" Name="Deadly Recluse" />
   <Cards CatID="68661" Quantity="1" Sideboard="true" Name="Detection Tower" />
-  <Cards CatID="65194" Quantity="1" Sideboard="false" Name="Arguel's Blood Fast" />
-  <Cards CatID="21843" Quantity="1" Sideboard="false" Name="Orb of Dreams" />
-  <Cards CatID="67447" Quantity="1" Sideboard="false" Name="Teferi, Timebender" />
-  <Cards CatID="29431" Quantity="1" Sideboard="false" Name="Thoughtweft Gambit" />
 </Deck>
