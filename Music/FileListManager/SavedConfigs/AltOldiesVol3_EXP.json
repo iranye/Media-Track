@@ -4,7 +4,11 @@
   "M3uFiles": [
     {
       "PartialPath": "Music\\MP3s\\Alice in Chains\\_AliceInChains-ShortList.m3u",
-      "TotalMegaBytes": 259
+      "TotalMegaBytes": 333
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Alice in Chains\\_RainierFog.m3u",
+      "TotalMegaBytes": 0
     },
     {
       "PartialPath": "Music\\MP3s\\Iggy Pop\\$Iggy Pop-BrickByBrick.m3u",

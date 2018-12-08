@@ -1,112 +1,78 @@
-Darigaaz Reincarnated
-Forebear's Blade
-Gilded Lotus
-Goblin Chainwhirler
-Hinterland Harbor
-Woodland Cemetery
-Weatherlight
-Two-Headed Giant
-Elspeth, Knight-Errant
-Inspiring Statuary
-Opt
-Giantbaiting
-Graceful Reprieve
-Hellion Crucible
-Helm of the Gods
-Honor of the Pure
-Jinxed Idol
-Key to the City
-Killing Wave
-Destined/Lead
-Long Road Home
-Lord of the Unreal
-Phantasmal Image
-Auriok Steelshaper
-Azorius Aethermage
-Bontu's Last Reckoning
-Claim/Fame
-Cobbled Wings
-Cranial Plating
-Crown of Convergence
-Cryptolith Fragment
-Cunning Lethemancer
-Dusk/Dawn
-Dead-Iron Sledge
-Deadlock Trap
-Descend upon the Sinful
-Dispatch
-Divine Deflection
-Eldrazi Displacer
-False Prophet
-Flaying Tendrils
-Forsake the Worldly
-Gaze of Justice
-Genesis Chamber
-Golem-Skin Gauntlets
-Gorgon Flail
-Haunted Cloak
-Survivors' Encampment
-Academy Researchers
-Archivist
-Arctic Aven
-Aven Augur
-Aven Mimeomancer
-Aven Mindcensor
-Bant Battlemage
-Blinding Mage
-Cathartic Adept
-Cephalid Constable
-Chasm Skulker
-Coral Trickster
-Crackleburr
-Devoted Crop-Mate
-Docent of Perfection
-Dormant Gomazoa
-Duskmantle Seer
-Blood Tyrant
-Emeria Angel
-Esper Sojourners
-Fallowsage
-Galepowder Mage
-Flickerwisp
-Galvanic Alchemist
-Glamer Spinners
-Glory-Bound Initiate
-Grand Architect
-Gust Walker
-Harbinger of the Tides
-Havengul Lich
-Hisoka's Guard
-Hollowsage
-Indomitable Archangel
-Inspired Sprite
-Ith, High Arcanist
-Judge of Currents
-Kira, Great Glass-Spinner
-Kitsune Mystic
-Kopala, Warden of Waves
-Tishana, Voice of Thunder
-Lich Lord of Unx
-Lighthouse Chronologist
-Linessa, Zephyr Mage
-Lullmage Mentor
-Lumengrid Sentinel
-Magus of the Moat
-Masako the Humorless
-Meloku the Clouded Mirror
-Merrow Levitator
-Mirran Spy
-Mistmeadow Witch
-Mothdust Changeling
-Niblis of the Breath
-Nim Abomination
-Noggle Hedge-Mage
-Westvale Abbey
-Padeem, Consul of Innovation
-Patrol Signaler
-Pride Guardian
-Puppet Conjurer
-Puppeteer
-Puresight Merrow
-Reflector Mage
-Rust Tick
+Nature's Claim
+Genju of the Fields
+Ghostly Prison
+Goldnight Commander
+Indomitable Will
+Kalonian Behemoth
+Kari Zev's Expertise
+Khalni Hydra
+Leonin Abunas
+Leonin Arbiter
+Lifecrafter's Bestiary
+Lightning Bolt
+Lightning Helix
+Loxodon Warhammer
+Lumbering Falls
+Luminarch Ascension
+Lunarch Mantle
+Mantle of Leadership
+Mark of the Oni
+Marrow-Gnawer
+Mask of Avacyn
+Mikaeus, the Lunarch
+Mirrorweave
+Mortarpod
+Mourning Thrull
+Nuisance Engine
+Oath of Ajani
+Odric, Lunarch Marshal
+Order of the Stars
+Pentarch Ward
+Pia's Revolution
+Pillory of the Sleepless
+Plumes of Peace
+Power of Fire
+Predator's Gambit
+Primalcrux
+Prison Term
+Putrefy
+Recover
+Regal Force
+Rise of the Hobgoblins
+Rishkar, Peema Renegade
+Roil Spout
+Scourge of the Nobilis
+Shinewend
+Sigil of Distinction
+Silumgar Assassin
+Simic Guildmage
+Skeletal Grimace
+Slith Bloodletter
+Soltari Priest
+Spike Feeder
+Spirit Loop
+Stuffy Doll
+Thrummingbird
+Witch Hunter
+Etherium Sculptor
+Chief Engineer
+Aethergeode Miner
+Sram, Senior Edificer
+Grand Coliseum
+Grand Abolisher
+Pariah
+Voldaren Pariah
+Carom
+Banshee's Blade
+Blessing of Leeches
+Ring of Xathrid
+Genju of the Realm
+Horde of Notions
+Nomad Mythmaker
+Umbra Mystic
+Oracle of Nectars
+Order of Whiteclay
+Outrider en-Kor
+Selfless Spirit
+Sarkhan the Mad
+Sorin Markov

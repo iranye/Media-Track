@@ -77,5 +77,18 @@
   <Cards CatID="56056" Quantity="1" Sideboard="false" Name="Profound Journey" />
   <Cards CatID="26618" Quantity="2" Sideboard="false" Name="Reality Strobe" />
   <Cards CatID="41369" Quantity="1" Sideboard="false" Name="Phantasmal Image" />
-  <Cards CatID="37390" Quantity="1" Sideboard="false" Name="Aether Adept" />
+  <Cards CatID="37390" Quantity="2" Sideboard="false" Name="Aether Adept" />
+  <Cards CatID="27516" Quantity="1" Sideboard="false" Name="Arcanis the Omnipotent" />
+  <Cards CatID="21241" Quantity="1" Sideboard="false" Name="Azami, Lady of Scrolls" />
+  <Cards CatID="29837" Quantity="1" Sideboard="false" Name="Cemetery Puca" />
+  <Cards CatID="19695" Quantity="1" Sideboard="false" Name="Fatespinner" />
+  <Cards CatID="23004" Quantity="1" Sideboard="false" Name="Hunted Phantasm" />
+  <Cards CatID="48992" Quantity="1" Sideboard="false" Name="Kira, Great Glass-Spinner" />
+  <Cards CatID="47751" Quantity="1" Sideboard="false" Name="Nightveil Specter" />
+  <Cards CatID="30020" Quantity="1" Sideboard="false" Name="Dominus of Fealty" />
+  <Cards CatID="29665" Quantity="1" Sideboard="false" Name="Plumeveil" />
+  <Cards CatID="56224" Quantity="1" Sideboard="false" Name="Shorecrasher Elemental" />
+  <Cards CatID="19419" Quantity="1" Sideboard="false" Name="Temporal Adept" />
+  <Cards CatID="57920" Quantity="1" Sideboard="false" Name="Separatist Voidmage" />
+  <Cards CatID="46559" Quantity="1" Sideboard="false" Name="Sphinx's Revelation" />
 </Deck>

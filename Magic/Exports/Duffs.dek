@@ -77,4 +77,5 @@
   <Cards CatID="34552" Quantity="1" Sideboard="true" Name="Day of Judgment" />
   <Cards CatID="43887" Quantity="1" Sideboard="true" Name="Cloudshift" />
   <Cards CatID="29847" Quantity="1" Sideboard="false" Name="Guttural Response" />
+  <Cards CatID="39886" Quantity="1" Sideboard="false" Name="Puresteel Paladin" />
 </Deck>

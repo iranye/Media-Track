@@ -463,8 +463,10 @@ Dismember
   Everlasting Torment
   Hateflayer
   Kulrath Knight
+  Razorfin Abolisher
   Sheltering Ancient
   Soul-Scar Mage
+  Town Gossipmonger
 </Withering>
 <BlackWhiteSac>
   Shadow Guildmage
@@ -962,6 +964,9 @@ Dismember
   Utopia Sprawl
   Vampiric Rites
 </EidolonSac>
+<Elementals>
+  Tempest Djinn
+</Elementals>
 <EliteIsochron>
   __Prowess__
   Academy Ruins
@@ -1443,13 +1448,14 @@ Dismember
   Verdant Sun's Avatar
 </ForceAttacks>
 <FourPowerMobs>
-Arc Runner
-Bloodmad vampire
-Chameleon Colossus
-Glorybringer
-Obstinate Baloth
-Phantasmal Image
-Vedalken Mastermind
+  Arc Runner
+  Bloodmad vampire
+  Chameleon Colossus
+  Glorybringer
+  Obstinate Baloth
+  Phantasmal Image
+  Thragtusk
+  Vedalken Mastermind
   <Madness>
   Archwing Dragon
   Ashcloud Phoenix
@@ -1715,7 +1721,11 @@ Vedalken Mastermind
   Westvale Abbey
 </Goats>
 <Haunted>
+  [Manlands]
+  Barter in Blood
   Descend upon the Sinful
+  Fumigate
+  Glint Hawk
   Haunted Plate Mail
   Heart of Kiran
   Killing Wave
