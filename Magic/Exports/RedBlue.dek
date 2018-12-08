@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -49,26 +49,27 @@
   <Cards CatID="34358" Quantity="1" Sideboard="false" Name="Piranha Marsh" />
   <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
   <Cards CatID="39770" Quantity="3" Sideboard="false" Name="Vault Skirge" />
-  <Cards CatID="34832" Quantity="1" Sideboard="true" Name="Expedition Map" />
   <Cards CatID="49231" Quantity="2" Sideboard="false" Name="Ratchet Bomb" />
   <Cards CatID="20273" Quantity="1" Sideboard="false" Name="Sword of Kaldra" />
   <Cards CatID="68477" Quantity="1" Sideboard="false" Name="Smelt" />
   <Cards CatID="68489" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
+  <Cards CatID="35503" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="45560" Quantity="1" Sideboard="false" Name="Gem of Becoming" />
+  <Cards CatID="64862" Quantity="1" Sideboard="false" Name="Crypt of the Eternals" />
+  <Cards CatID="48992" Quantity="2" Sideboard="false" Name="Kira, Great Glass-Spinner" />
+  <Cards CatID="52094" Quantity="1" Sideboard="false" Name="Disciple of Deceit" />
+  <Cards CatID="30020" Quantity="1" Sideboard="false" Name="Dominus of Fealty" />
+  <Cards CatID="20822" Quantity="1" Sideboard="false" Name="Neurok Stealthsuit" />
+  <Cards CatID="34832" Quantity="1" Sideboard="true" Name="Expedition Map" />
   <Cards CatID="65522" Quantity="1" Sideboard="true" Name="Sorcerous Spyglass" />
   <Cards CatID="50614" Quantity="1" Sideboard="true" Name="Gainsay" />
   <Cards CatID="47813" Quantity="2" Sideboard="true" Name="Glaring Spotlight" />
   <Cards CatID="46441" Quantity="1" Sideboard="true" Name="Rakdos Charm" />
   <Cards CatID="49217" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
-  <Cards CatID="35503" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
   <Cards CatID="68661" Quantity="1" Sideboard="true" Name="Detection Tower" />
   <Cards CatID="20363" Quantity="2" Sideboard="true" Name="Echoing Truth" />
   <Cards CatID="46499" Quantity="1" Sideboard="true" Name="Pithing Needle" />
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="68477" Quantity="1" Sideboard="true" Name="Smelt" />
   <Cards CatID="55602" Quantity="1" Sideboard="true" Name="Arcbond" />
-  <Cards CatID="45560" Quantity="1" Sideboard="false" Name="Gem of Becoming" />
-  <Cards CatID="64862" Quantity="1" Sideboard="false" Name="Crypt of the Eternals" />
-  <Cards CatID="48992" Quantity="2" Sideboard="false" Name="Kira, Great Glass-Spinner" />
-  <Cards CatID="52094" Quantity="1" Sideboard="false" Name="Disciple of Deceit" />
-  <Cards CatID="30020" Quantity="1" Sideboard="false" Name="Dominus of Fealty" />
 </Deck>

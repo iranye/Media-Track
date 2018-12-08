@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -47,6 +47,11 @@
   <Cards CatID="50256" Quantity="1" Sideboard="false" Name="Thoughtseize" />
   <Cards CatID="39569" Quantity="1" Sideboard="false" Name="Phyrexian Revoker" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
+  <Cards CatID="63826" Quantity="1" Sideboard="false" Name="Trespasser's Curse" />
+  <Cards CatID="60374" Quantity="1" Sideboard="false" Name="Pick the Brain" />
+  <Cards CatID="64148" Quantity="2" Sideboard="false" Name="Fetid Pools" />
+  <Cards CatID="61360" Quantity="2" Sideboard="false" Name="Curious Homunculus" />
+  <Cards CatID="39742" Quantity="2" Sideboard="false" Name="Hex Parasite" />
   <Cards CatID="50622" Quantity="1" Sideboard="true" Name="Dark Betrayal" />
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
   <Cards CatID="50614" Quantity="1" Sideboard="true" Name="Gainsay" />
@@ -60,9 +65,4 @@
   <Cards CatID="20822" Quantity="1" Sideboard="true" Name="Neurok Stealthsuit" />
   <Cards CatID="50440" Quantity="1" Sideboard="true" Name="Swan Song" />
   <Cards CatID="39569" Quantity="1" Sideboard="true" Name="Phyrexian Revoker" />
-  <Cards CatID="63826" Quantity="1" Sideboard="false" Name="Trespasser's Curse" />
-  <Cards CatID="60374" Quantity="1" Sideboard="false" Name="Pick the Brain" />
-  <Cards CatID="64148" Quantity="2" Sideboard="false" Name="Fetid Pools" />
-  <Cards CatID="61360" Quantity="2" Sideboard="false" Name="Curious Homunculus" />
-  <Cards CatID="26618" Quantity="1" Sideboard="false" Name="Reality Strobe" />
 </Deck>
