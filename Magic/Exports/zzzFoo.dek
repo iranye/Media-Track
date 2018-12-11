@@ -1,4 +1,7 @@
-<Deck>
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="37340" Quantity="4" Sideboard="false" Name="Arc Runner" />
   <Cards CatID="18965" Quantity="4" Sideboard="false" Name="Boomerang" />
   <Cards CatID="67755" Quantity="5" Sideboard="false" Name="Skizzik" />
@@ -82,7 +85,7 @@
   <Cards CatID="62777" Quantity="4" Sideboard="false" Name="Unbridled Growth" />
   <Cards CatID="61136" Quantity="4" Sideboard="false" Name="Unsubstantiate" />
   <Cards CatID="27625" Quantity="4" Sideboard="false" Name="Vedalken Mastermind" />
-  <Cards CatID="50160" Quantity="7" Sideboard="false" Name="Voyage's End" />
+  <Cards CatID="50160" Quantity="6" Sideboard="false" Name="Voyage's End" />
   <Cards CatID="19999" Quantity="4" Sideboard="false" Name="War Elemental" />
   <Cards CatID="67755" Quantity="5" Sideboard="false" Name="Skizzik" />
   <Cards CatID="64644" Quantity="4" Sideboard="false" Name="Vile Manifestation" />

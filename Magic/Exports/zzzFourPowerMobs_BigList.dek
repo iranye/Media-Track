@@ -7,8 +7,6 @@
   <Cards CatID="53642" Quantity="2" Sideboard="false" Name="Quickling" />
   <Cards CatID="54186" Quantity="3" Sideboard="false" Name="Savage Knuckleblade" />
   <Cards CatID="50522" Quantity="1" Sideboard="false" Name="Stormbreath Dragon" />
-  <Cards CatID="50578" Quantity="2" Sideboard="false" Name="Anger of the Gods" />
-  <Cards CatID="50428" Quantity="2" Sideboard="false" Name="Destructive Revelry" />
   <Cards CatID="54390" Quantity="1" Sideboard="false" Name="Feed the Clan" />
   <Cards CatID="54440" Quantity="4" Sideboard="false" Name="Temur Ascendancy" />
   <Cards CatID="34792" Quantity="1" Sideboard="false" Name="Whiplash Trap" />
@@ -44,7 +42,6 @@
   <Cards CatID="46411" Quantity="1" Sideboard="false" Name="Dryad Militant" />
   <Cards CatID="63870" Quantity="1" Sideboard="false" Name="Glorybringer" />
   <Cards CatID="50402" Quantity="1" Sideboard="false" Name="Arbor Colossus" />
-  <Cards CatID="68553" Quantity="1" Sideboard="false" Name="Reclamation Sage" />
   <Cards CatID="50428" Quantity="1" Sideboard="false" Name="Destructive Revelry" />
   <Cards CatID="49133" Quantity="1" Sideboard="false" Name="Negate" />
   <Cards CatID="29847" Quantity="1" Sideboard="false" Name="Guttural Response" />
@@ -57,7 +54,7 @@
   <Cards CatID="34800" Quantity="1" Sideboard="false" Name="Baloth Cage Trap" />
   <Cards CatID="51865" Quantity="1" Sideboard="false" Name="Fanatic of Xenagos" />
   <Cards CatID="24119" Quantity="1" Sideboard="false" Name="Plaxmanta" />
-  <Cards CatID="68553" Quantity="2" Sideboard="false" Name="Reclamation Sage" />
+  <Cards CatID="68553" Quantity="1" Sideboard="false" Name="Reclamation Sage" />
   <Cards CatID="47685" Quantity="2" Sideboard="false" Name="Aetherize" />
   <Cards CatID="29291" Quantity="2" Sideboard="false" Name="Vexing Shusher" />
   <Cards CatID="67755" Quantity="1" Sideboard="false" Name="Skizzik" />
@@ -66,9 +63,7 @@
   <Cards CatID="60294" Quantity="1" Sideboard="false" Name="Geralf's Masterpiece" />
   <Cards CatID="48428" Quantity="1" Sideboard="false" Name="Aetherling" />
   <Cards CatID="50316" Quantity="1" Sideboard="false" Name="Xenagos, the Reveler" />
-  <Cards CatID="55602" Quantity="4" Sideboard="false" Name="Arcbond" />
   <Cards CatID="68249" Quantity="5" Sideboard="false" Name="Anticipate" />
-  <Cards CatID="53576" Quantity="3" Sideboard="false" Name="Genesis Hydra" />
   <Cards CatID="56250" Quantity="8" Sideboard="false" Name="Impact Tremors" />
   <Cards CatID="56414" Quantity="7" Sideboard="false" Name="Shape the Sands" />
   <Cards CatID="56228" Quantity="5" Sideboard="false" Name="Sight of the Scalelords" />
@@ -78,7 +73,6 @@
   <Cards CatID="55682" Quantity="4" Sideboard="false" Name="Neutralizing Blast" />
   <Cards CatID="55602" Quantity="4" Sideboard="false" Name="Arcbond" />
   <Cards CatID="54355" Quantity="1" Sideboard="false" Name="Barrage of Boulders" />
-  <Cards CatID="54054" Quantity="5" Sideboard="false" Name="Bear's Companion" />
   <Cards CatID="50406" Quantity="8" Sideboard="false" Name="Bident of Thassa" />
   <Cards CatID="53742" Quantity="2" Sideboard="false" Name="Chord of Calling" />
   <Cards CatID="54374" Quantity="4" Sideboard="false" Name="Crater's Claws" />
@@ -98,7 +92,7 @@
   <Cards CatID="50190" Quantity="7" Sideboard="false" Name="Sedge Scorpion" />
   <Cards CatID="56296" Quantity="4" Sideboard="false" Name="Thunderbreak Regent" />
   <Cards CatID="54036" Quantity="5" Sideboard="false" Name="Alpine Grizzly" />
-  <Cards CatID="54054" Quantity="5" Sideboard="false" Name="Bear's Companion" />
+  <Cards CatID="54054" Quantity="2" Sideboard="false" Name="Bear's Companion" />
   <Cards CatID="50156" Quantity="7" Sideboard="false" Name="Benthic Giant" />
   <Cards CatID="55608" Quantity="5" Sideboard="false" Name="Bloodfire Enforcers" />
   <Cards CatID="50136" Quantity="5" Sideboard="false" Name="Boon Satyr" />
