@@ -13,58 +13,57 @@
   <Cards CatID="50272" Quantity="2" Sideboard="false" Name="Temple of Mystery" />
   <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
   <Cards CatID="54186" Quantity="3" Sideboard="false" Name="Savage Knuckleblade" />
-  <Cards CatID="50522" Quantity="1" Sideboard="false" Name="Stormbreath Dragon" />
-  <Cards CatID="50578" Quantity="2" Sideboard="false" Name="Anger of the Gods" />
-  <Cards CatID="50428" Quantity="2" Sideboard="false" Name="Destructive Revelry" />
   <Cards CatID="54440" Quantity="4" Sideboard="false" Name="Temur Ascendancy" />
-  <Cards CatID="59934" Quantity="1" Sideboard="false" Name="Fiery Temper" />
   <Cards CatID="57630" Quantity="1" Sideboard="false" Name="Elvish Visionary" />
-  <Cards CatID="29773" Quantity="1" Sideboard="false" Name="Ghastly Discovery" />
   <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
-  <Cards CatID="26435" Quantity="1" Sideboard="false" Name="Reckless Wurm" />
   <Cards CatID="60112" Quantity="1" Sideboard="false" Name="Lambholt Pacifist" />
-  <Cards CatID="54022" Quantity="4" Sideboard="false" Name="Tormenting Voice" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
-  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
   <Cards CatID="45274" Quantity="1" Sideboard="false" Name="Unsummon" />
   <Cards CatID="20007" Quantity="1" Sideboard="false" Name="Crystal Shard" />
   <Cards CatID="31809" Quantity="1" Sideboard="false" Name="Thornling" />
   <Cards CatID="64158" Quantity="2" Sideboard="false" Name="Sheltered Thicket" />
   <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
   <Cards CatID="67388" Quantity="1" Sideboard="false" Name="Cascade Bluffs" />
+  <Cards CatID="31939" Quantity="2" Sideboard="true" Name="Exotic Orchard" />
   <Cards CatID="29501" Quantity="1" Sideboard="false" Name="Fire-Lit Thicket" />
   <Cards CatID="46805" Quantity="2" Sideboard="false" Name="Steam Vents" />
   <Cards CatID="67959" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
   <Cards CatID="9411" Quantity="2" Sideboard="false" Name="Gemstone Mine" />
   <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
   <Cards CatID="58529" Quantity="1" Sideboard="false" Name="Lumbering Falls" />
-  <Cards CatID="53338" Quantity="2" Sideboard="true" Name="Back to Nature" />
-  <Cards CatID="60228" Quantity="1" Sideboard="false" Name="Bloodmad Vampire" />
-  <Cards CatID="29200" Quantity="1" Sideboard="false" Name="Chameleon Colossus" />
+  <Cards CatID="53338" Quantity="1" Sideboard="true" Name="Back to Nature" />
+  <Cards CatID="29200" Quantity="2" Sideboard="false" Name="Chameleon Colossus" />
   <Cards CatID="37478" Quantity="1" Sideboard="false" Name="Obstinate Baloth" />
-  <Cards CatID="41369" Quantity="1" Sideboard="false" Name="Phantasmal Image" />
-  <Cards CatID="27625" Quantity="1" Sideboard="false" Name="Vedalken Mastermind" />
-  <Cards CatID="20710" Quantity="1" Sideboard="false" Name="Razormane Masticore" />
-  <Cards CatID="61731" Quantity="1" Sideboard="false" Name="Arborback Stomper" />
+  <Cards CatID="41369" Quantity="2" Sideboard="false" Name="Phantasmal Image" />
+  <Cards CatID="27625" Quantity="2" Sideboard="false" Name="Vedalken Mastermind" />
+  <Cards CatID="61731" Quantity="2" Sideboard="false" Name="Arborback Stomper" />
   <Cards CatID="30260" Quantity="1" Sideboard="false" Name="Bloom Tender" />
-  <Cards CatID="31789" Quantity="1" Sideboard="false" Name="Brackwater Elemental" />
-  <Cards CatID="28631" Quantity="1" Sideboard="false" Name="Changeling Berserker" />
   <Cards CatID="23877" Quantity="1" Sideboard="false" Name="Giant Solifuge" />
   <Cards CatID="66823" Quantity="1" Sideboard="false" Name="Golden Guardian" />
   <Cards CatID="62897" Quantity="1" Sideboard="false" Name="Lifecrafter's Bestiary" />
-  <Cards CatID="63870" Quantity="1" Sideboard="false" Name="Glorybringer" />
   <Cards CatID="47685" Quantity="2" Sideboard="false" Name="Aetherize" />
   <Cards CatID="20956" Quantity="1" Sideboard="false" Name="Serum Visions" />
   <Cards CatID="67585" Quantity="1" Sideboard="false" Name="Opt" />
   <Cards CatID="50306" Quantity="1" Sideboard="false" Name="Thassa, God of the Sea" />
   <Cards CatID="50428" Quantity="1" Sideboard="true" Name="Destructive Revelry" />
-  <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
+  <Cards CatID="29847" Quantity="3" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="49219" Quantity="1" Sideboard="true" Name="Plummet" />
-  <Cards CatID="34424" Quantity="1" Sideboard="true" Name="Relic Crush" />
+  <Cards CatID="34424" Quantity="2" Sideboard="true" Name="Relic Crush" />
   <Cards CatID="50470" Quantity="1" Sideboard="true" Name="Polis Crusher" />
   <Cards CatID="53278" Quantity="1" Sideboard="true" Name="Tormod's Crypt" />
-  <Cards CatID="50578" Quantity="1" Sideboard="true" Name="Anger of the Gods" />
+  <Cards CatID="50578" Quantity="3" Sideboard="false" Name="Anger of the Gods" />
   <Cards CatID="24119" Quantity="1" Sideboard="true" Name="Plaxmanta" />
-  <Cards CatID="68553" Quantity="2" Sideboard="true" Name="Reclamation Sage" />
+  <Cards CatID="68553" Quantity="2" Sideboard="false" Name="Reclamation Sage" />
   <Cards CatID="29291" Quantity="2" Sideboard="true" Name="Vexing Shusher" />
+  <Cards CatID="37340" Quantity="1" Sideboard="false" Name="Arc Runner" />
+  <Cards CatID="55576" Quantity="1" Sideboard="false" Name="Shaman of the Great Hunt" />
+  <Cards CatID="28415" Quantity="1" Sideboard="false" Name="Deathrender" />
+  <Cards CatID="27596" Quantity="1" Sideboard="false" Name="Loxodon Warhammer" />
+  <Cards CatID="55632" Quantity="1" Sideboard="false" Name="Temur Sabertooth" />
+  <Cards CatID="55404" Quantity="1" Sideboard="false" Name="Vaultbreaker" />
+  <Cards CatID="54294" Quantity="1" Sideboard="false" Name="Whirlwind Adept" />
+  <Cards CatID="55344" Quantity="1" Sideboard="false" Name="Hungering Yeti" />
+  <Cards CatID="54254" Quantity="1" Sideboard="false" Name="Surrak Dragonclaw" />
+  <Cards CatID="45580" Quantity="1" Sideboard="false" Name="Yeva, Nature's Herald" />
+  <Cards CatID="68533" Quantity="1" Sideboard="false" Name="Goreclaw, Terror of Qal Sisma" />
 </Deck>

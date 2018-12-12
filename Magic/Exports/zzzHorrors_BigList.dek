@@ -176,4 +176,6 @@
   <Cards CatID="31817" Quantity="1" Sideboard="false" Name="Sedraxis Alchemist" />
   <Cards CatID="63179" Quantity="1" Sideboard="false" Name="Soul Manipulation" />
   <Cards CatID="39736" Quantity="1" Sideboard="false" Name="Geth's Verdict" />
+  <Cards CatID="54294" Quantity="1" Sideboard="false" Name="Whirlwind Adept" />
+  <Cards CatID="37368" Quantity="1" Sideboard="false" Name="Leyline of Anticipation" />
 </Deck>

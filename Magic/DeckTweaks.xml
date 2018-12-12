@@ -1,33 +1,3 @@
-For Clerics deck:
-Athreos
-Auriok Champion
-Cleric of the Forward Order (use w/ Mirrorweave)
-Clockwork Hydra
-Cloudstone Curio
-Harm's Way
-Stoneforge Masterwork
-Suture Priest
-
-EliteIsochron:
-Ring of blue island
-
-Landfall:
-Black Sun's Zenith
-Bounding Krasis
-Calcite Snapper
-Cloudstone Curio
-Dream Stalker
-Fathom Seer
-Khalni Gem
-Oboro
-Noggle Bridgebreaker
-Thrummingbird
-Tragic Lesson
-
-Other:
-Black Sun's Zenith
-Dismember
-
 <?xml version="1.0" encoding="utf-8"?>
 <AllDecks>
 <TradersList>
@@ -455,19 +425,16 @@ Dismember
   Visionary Augmenter
   Weaponcraft Enthusiast
 </Arty>
-<Withering>
-  [Graft]
-  Brighthearth Banneret
-  Contagion Clasp
-  Contagion Engine
-  Everlasting Torment
-  Hateflayer
-  Kulrath Knight
-  Razorfin Abolisher
-  Sheltering Ancient
-  Soul-Scar Mage
-  Town Gossipmonger
-</Withering>
+<BlackRdWhClerics>
+  Athreos
+  Auriok Champion
+  Cleric of the Forward Order (use w/ Mirrorweave)
+  Clockwork Hydra
+  Cloudstone Curio
+  Harm's Way
+  Stoneforge Masterwork
+  Suture Priest
+</BlackRdWhClerics>
 <BlackWhiteSac>
   Shadow Guildmage
   Wall of Shards
@@ -1730,6 +1697,7 @@ Dismember
   Heart of Kiran
   Killing Wave
   Marble Titan
+  Thornling
 </Haunted>
 <Horrors>
   Gifts Ungiven
@@ -1766,10 +1734,19 @@ Heliod
 </LandDestruct>
 <LandFall>
   [Proliferate]
-  Calcite Snappera
+  Black Sun's Zenith
+  Bounding Krasis
+  Calcite Snapper
   Floodbringer
   Ring of Three Wishes
   Roil Elemental
+  Cloudstone Curio
+  Dream Stalker
+  Fathom Seer
+  Khalni Gem
+  Noggle Bridgebreaker
+  Thrummingbird
+  Tragic Lesson
   Winding Constrictor
   <Mana>
     Blighted Woodland
@@ -2178,8 +2155,7 @@ NON-CREATURES:
   Chronozoa
   Fate Transfer
   Parallel Lives
-  TideWalkder
-  
+  TideWalkder  
 </TimeCounter>
 <Tokens>
 	<Madness>
@@ -2533,6 +2509,18 @@ NON-CREATURES:
   Teysa, Envoy of Ghosts
   Westvale Abbey
 </WasteNotNew>
-
+<Withering>
+  [Graft]
+  Brighthearth Banneret
+  Contagion Clasp
+  Contagion Engine
+  Everlasting Torment
+  Hateflayer
+  Kulrath Knight
+  Razorfin Abolisher
+  Sheltering Ancient
+  Soul-Scar Mage
+  Town Gossipmonger
+</Withering>
 
 </AllDecks>

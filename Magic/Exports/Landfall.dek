@@ -87,4 +87,7 @@
   <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
   <Cards CatID="21121" Quantity="1" Sideboard="false" Name="Meloku the Clouded Mirror" />
   <Cards CatID="21877" Quantity="1" Sideboard="false" Name="Floodbringer" />
+  <Cards CatID="35533" Quantity="1" Sideboard="false" Name="Calcite Snapper" />
+  <Cards CatID="34826" Quantity="1" Sideboard="false" Name="Khalni Gem" />
+  <Cards CatID="63994" Quantity="1" Sideboard="false" Name="Bounty of the Luxa" />
 </Deck>
