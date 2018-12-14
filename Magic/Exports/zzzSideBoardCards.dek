@@ -35,4 +35,7 @@
   <Cards CatID="50386" Quantity="1" Sideboard="false" Name="Mistcutter Hydra" />
   <Cards CatID="50428" Quantity="1" Sideboard="false" Name="Destructive Revelry" />
   <Cards CatID="46411" Quantity="1" Sideboard="false" Name="Dryad Militant" />
+  <Cards CatID="19737" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="50440" Quantity="1" Sideboard="false" Name="Swan Song" />
 </Deck>

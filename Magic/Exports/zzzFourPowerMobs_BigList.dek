@@ -146,4 +146,6 @@
   <Cards CatID="22132" Quantity="1" Sideboard="false" Name="Blood Clock" />
   <Cards CatID="27596" Quantity="1" Sideboard="false" Name="Loxodon Warhammer" />
   <Cards CatID="35695" Quantity="1" Sideboard="false" Name="Basilisk Collar" />
+  <Cards CatID="28741" Quantity="1" Sideboard="false" Name="Familiar's Ruse" />
+  <Cards CatID="61801" Quantity="1" Sideboard="false" Name="Panharmonicon" />
 </Deck>

@@ -25,7 +25,7 @@
   <Cards CatID="54166" Quantity="4" Sideboard="false" Name="Nomad Outpost" />
   <Cards CatID="47453" Quantity="2" Sideboard="false" Name="Godless Shrine" />
   <Cards CatID="23590" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
-  <Cards CatID="61859" Quantity="1" Sideboard="false" Name="Concealed Courtyard" />
+  <Cards CatID="61859" Quantity="2" Sideboard="false" Name="Concealed Courtyard" />
   <Cards CatID="50270" Quantity="4" Sideboard="false" Name="Temple of Triumph" />
   <Cards CatID="49135" Quantity="5" Sideboard="false" Name="Mutavault" />
   <Cards CatID="46505" Quantity="2" Sideboard="false" Name="Blood Crypt" />
@@ -33,7 +33,7 @@
   <Cards CatID="50398" Quantity="8" Sideboard="false" Name="Unknown Shores" />
   <Cards CatID="31939" Quantity="4" Sideboard="false" Name="Exotic Orchard" />
   <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
-  <Cards CatID="29493" Quantity="2" Sideboard="false" Name="Mystic Gate" />
+  <Cards CatID="29493" Quantity="4" Sideboard="false" Name="Mystic Gate" />
   <Cards CatID="30136" Quantity="4" Sideboard="false" Name="Flooded Grove" />
   <Cards CatID="63145" Quantity="4" Sideboard="false" Name="Seaside Citadel" />
   <Cards CatID="35515" Quantity="4" Sideboard="false" Name="Bojuka Bog" />
@@ -48,7 +48,7 @@
   <Cards CatID="29501" Quantity="2" Sideboard="false" Name="Fire-Lit Thicket" />
   <Cards CatID="29511" Quantity="4" Sideboard="false" Name="Graven Cairns" />
   <Cards CatID="31321" Quantity="8" Sideboard="false" Name="Grixis Panorama" />
-  <Cards CatID="24111" Quantity="2" Sideboard="false" Name="Pillar of the Paruns" />
+  <Cards CatID="24111" Quantity="4" Sideboard="false" Name="Pillar of the Paruns" />
   <Cards CatID="26656" Quantity="4" Sideboard="false" Name="River of Tears" />
   <Cards CatID="30098" Quantity="4" Sideboard="false" Name="Rugged Prairie" />
   <Cards CatID="21349" Quantity="4" Sideboard="false" Name="Shinka, the Bloodsoaked Keep" />
@@ -62,7 +62,7 @@
   <Cards CatID="21405" Quantity="3" Sideboard="false" Name="Eiganjo Castle" />
   <Cards CatID="27120" Quantity="4" Sideboard="false" Name="Ghitu Encampment" />
   <Cards CatID="61498" Quantity="4" Sideboard="false" Name="Nephalia Academy" />
-  <Cards CatID="26818" Quantity="1" Sideboard="false" Name="Nimbus Maze" />
+  <Cards CatID="26818" Quantity="4" Sideboard="false" Name="Nimbus Maze" />
   <Cards CatID="58623" Quantity="4" Sideboard="false" Name="Prairie Stream" />
   <Cards CatID="31679" Quantity="4" Sideboard="false" Name="Unstable Frontier" />
   <Cards CatID="62091" Quantity="4" Sideboard="false" Name="Aether Hub" />
@@ -76,7 +76,7 @@
   <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
   <Cards CatID="50264" Quantity="3" Sideboard="false" Name="Temple of Deceit" />
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
-  <Cards CatID="58659" Quantity="2" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="58659" Quantity="4" Sideboard="false" Name="Sunken Hollow" />
   <Cards CatID="9411" Quantity="4" Sideboard="false" Name="Gemstone Mine" />
   <Cards CatID="67959" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
   <Cards CatID="51966" Quantity="6" Sideboard="false" Name="Temple of Epiphany" />
@@ -98,4 +98,5 @@
   <Cards CatID="65546" Quantity="4" Sideboard="false" Name="Unclaimed Territory" />
   <Cards CatID="52120" Quantity="2" Sideboard="false" Name="Mana Confluence" />
   <Cards CatID="46657" Quantity="6" Sideboard="false" Name="Transguild Promenade" />
+  <Cards CatID="51968" Quantity="4" Sideboard="false" Name="Temple of Malady" />
 </Deck>
