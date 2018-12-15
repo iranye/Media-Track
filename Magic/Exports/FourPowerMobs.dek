@@ -10,7 +10,6 @@
   <Cards CatID="50266" Quantity="2" Sideboard="false" Name="Temple of Abandon" />
   <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
   <Cards CatID="50272" Quantity="2" Sideboard="false" Name="Temple of Mystery" />
-  <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
   <Cards CatID="54186" Quantity="3" Sideboard="false" Name="Savage Knuckleblade" />
   <Cards CatID="54440" Quantity="4" Sideboard="false" Name="Temur Ascendancy" />
   <Cards CatID="57630" Quantity="1" Sideboard="false" Name="Elvish Visionary" />
@@ -63,4 +62,5 @@
   <Cards CatID="61801" Quantity="1" Sideboard="false" Name="Panharmonicon" />
   <Cards CatID="26545" Quantity="1" Sideboard="false" Name="Wild Pair" />
   <Cards CatID="61853" Quantity="1" Sideboard="false" Name="Botanical Sanctum" />
+  <Cards CatID="28723" Quantity="1" Sideboard="false" Name="Changeling Titan" />
 </Deck>

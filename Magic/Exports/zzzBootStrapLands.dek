@@ -99,4 +99,19 @@
   <Cards CatID="52120" Quantity="2" Sideboard="false" Name="Mana Confluence" />
   <Cards CatID="46657" Quantity="6" Sideboard="false" Name="Transguild Promenade" />
   <Cards CatID="51968" Quantity="4" Sideboard="false" Name="Temple of Malady" />
+  <Cards CatID="65538" Quantity="4" Sideboard="false" Name="Field of Ruin" />
+  <Cards CatID="64876" Quantity="4" Sideboard="false" Name="Endless Sands" />
+  <Cards CatID="31311" Quantity="4" Sideboard="false" Name="Naya Panorama" />
+  <Cards CatID="67943" Quantity="4" Sideboard="false" Name="Clifftop Retreat" />
+  <Cards CatID="41477" Quantity="4" Sideboard="false" Name="Buried Ruin" />
+  <Cards CatID="67961" Quantity="2" Sideboard="false" Name="Woodland Cemetery" />
+  <Cards CatID="61851" Quantity="1" Sideboard="false" Name="Spirebluff Canal" />
+  <Cards CatID="67947" Quantity="4" Sideboard="false" Name="Isolated Chapel" />
+  <Cards CatID="35148" Quantity="4" Sideboard="false" Name="Desert" />
+  <Cards CatID="26808" Quantity="4" Sideboard="false" Name="Llanowar Reborn" />
+  <Cards CatID="59810" Quantity="4" Sideboard="false" Name="Westvale Abbey" />
+  <Cards CatID="67941" Quantity="3" Sideboard="false" Name="Cabal Stronghold" />
+  <Cards CatID="42094" Quantity="3" Sideboard="false" Name="Jungle Shrine" />
+  <Cards CatID="31131" Quantity="1" Sideboard="false" Name="Jungle Shrine" />
+  <Cards CatID="31317" Quantity="4" Sideboard="false" Name="Esper Panorama" />
 </Deck>

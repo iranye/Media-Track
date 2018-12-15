@@ -185,5 +185,24 @@
   <Cards CatID="43835" Quantity="1" Sideboard="false" Name="Elgaud Shieldmate" />
   <Cards CatID="31362" Quantity="1" Sideboard="false" Name="Fatestitcher" />
   <Cards CatID="67891" Quantity="1" Sideboard="false" Name="Damping Sphere" />
-  <Cards CatID="64140" Quantity="1" Sideboard="false" Name="Canyon Slough" />
+  <Cards CatID="64140" Quantity="2" Sideboard="false" Name="Canyon Slough" />
+  <Cards CatID="41477" Quantity="2" Sideboard="false" Name="Buried Ruin" />
+  <Cards CatID="64148" Quantity="1" Sideboard="false" Name="Fetid Pools" />
+  <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="29511" Quantity="1" Sideboard="false" Name="Graven Cairns" />
+  <Cards CatID="30224" Quantity="1" Sideboard="false" Name="Springjack Pasture" />
+  <Cards CatID="61851" Quantity="1" Sideboard="false" Name="Spirebluff Canal" />
+  <Cards CatID="65538" Quantity="1" Sideboard="false" Name="Field of Ruin" />
+  <Cards CatID="46657" Quantity="1" Sideboard="false" Name="Transguild Promenade" />
+  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="26656" Quantity="1" Sideboard="false" Name="River of Tears" />
+  <Cards CatID="67388" Quantity="1" Sideboard="false" Name="Cascade Bluffs" />
+  <Cards CatID="55602" Quantity="1" Sideboard="false" Name="Arcbond" />
+  <Cards CatID="53602" Quantity="1" Sideboard="false" Name="Ensoul Artifact" />
+  <Cards CatID="62811" Quantity="1" Sideboard="false" Name="Tezzeret's Touch" />
+  <Cards CatID="31939" Quantity="1" Sideboard="false" Name="Exotic Orchard" />
+  <Cards CatID="24119" Quantity="1" Sideboard="false" Name="Plaxmanta" />
+  <Cards CatID="53278" Quantity="2" Sideboard="false" Name="Tormod's Crypt" />
+  <Cards CatID="29291" Quantity="1" Sideboard="false" Name="Vexing Shusher" />
+  <Cards CatID="46783" Quantity="1" Sideboard="false" Name="Chromatic Lantern" />
 </Deck>

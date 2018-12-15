@@ -38,4 +38,6 @@
   <Cards CatID="19737" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
   <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
   <Cards CatID="50440" Quantity="1" Sideboard="false" Name="Swan Song" />
+  <Cards CatID="46499" Quantity="1" Sideboard="false" Name="Pithing Needle" />
+  <Cards CatID="65522" Quantity="1" Sideboard="false" Name="Sorcerous Spyglass" />
 </Deck>

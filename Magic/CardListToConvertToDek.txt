@@ -1,3 +1,6 @@
+Mana Confluence
+Ensoul Artifact
+Tezzeret's Touch
 Leyline of Anticipation
 Nature's Claim
 Genju of the Fields
@@ -34,6 +37,35 @@ Pillory of the Sleepless
 Plumes of Peace
 Power of Fire
 Predator's Gambit
+Braid of Fire
+Smuggler's Copter
+Calciform Pools
+Dreadship Reef
+Fungal Reaches
+Saltcrusted Steppe
+Molten Slagheap
+Jeleva, Nephalia's Scourge
+Wall of Shards
+Choking Fumes
+Lux Cannon
+Everlasting Torment
+Dovescape
+Fumigate
+Scourglass
+Wrath of God
+Crux of Fate
+Abrupt Decay
+Vanquisher's Banner
+Avatar of Woe
+Magus of the Abyss
+Welding Jar
+Master of Etherium
+Grand Architect
+Spire of Industry
+Argent Sphinx
+Tempest Djinn
+Noxious Revival
+Thragtusk
 Primalcrux
 Prison Term
 Putrefy

@@ -1,10 +1,10 @@
 {
   "Name": "Dance",
-  "CopyDirectories": true,
+  "CopyDirectories": false,
   "M3uFiles": [
     {
       "PartialPath": "Music\\MP3s\\bepka\\_Bepka-ShortList.m3u",
-      "TotalMegaBytes": 61
+      "TotalMegaBytes": 48
     },
     {
       "PartialPath": "Music\\MP3s\\Lady Gaga\\_LadyGaga.m3u",
