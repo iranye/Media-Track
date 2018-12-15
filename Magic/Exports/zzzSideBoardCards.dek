@@ -23,7 +23,7 @@
   <Cards CatID="52256" Quantity="1" Sideboard="false" Name="Aegis of the Gods" />
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="64604" Quantity="1" Sideboard="false" Name="Bontu's Last Reckoning" />
-  <Cards CatID="28495" Quantity="1" Sideboard="false" Name="Austere Command" />
+  <Cards CatID="28495" Quantity="2" Sideboard="false" Name="Austere Command" />
   <Cards CatID="50614" Quantity="1" Sideboard="false" Name="Gainsay" />
   <Cards CatID="46483" Quantity="1" Sideboard="false" Name="Supreme Verdict" />
   <Cards CatID="41369" Quantity="1" Sideboard="false" Name="Phantasmal Image" />
