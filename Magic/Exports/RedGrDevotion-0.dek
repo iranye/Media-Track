@@ -50,4 +50,5 @@
   <Cards CatID="35523" Quantity="1" Sideboard="false" Name="Omnath, Locus of Mana" />
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="53338" Quantity="1" Sideboard="false" Name="Back to Nature" />
+  <Cards CatID="68531" Quantity="1" Sideboard="false" Name="Gigantosaurus" />
 </Deck>

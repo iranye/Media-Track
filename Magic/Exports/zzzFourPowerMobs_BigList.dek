@@ -155,4 +155,11 @@
   <Cards CatID="50618" Quantity="1" Sideboard="false" Name="Prophet of Kruphix" />
   <Cards CatID="64762" Quantity="1" Sideboard="false" Name="The Locust God" />
   <Cards CatID="63093" Quantity="1" Sideboard="false" Name="Harmonize" />
+  <Cards CatID="20331" Quantity="1" Sideboard="false" Name="Memnarch" />
+  <Cards CatID="30166" Quantity="1" Sideboard="false" Name="Murkfiend Liege" />
+  <Cards CatID="29998" Quantity="1" Sideboard="false" Name="Mindwrack Liege" />
+  <Cards CatID="38005" Quantity="1" Sideboard="false" Name="Liege of the Tangle" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="56192" Quantity="1" Sideboard="false" Name="Sarkhan Unbroken" />
+  <Cards CatID="47851" Quantity="1" Sideboard="false" Name="Domri Rade" />
 </Deck>
