@@ -178,4 +178,6 @@
   <Cards CatID="39736" Quantity="1" Sideboard="false" Name="Geth's Verdict" />
   <Cards CatID="54294" Quantity="1" Sideboard="false" Name="Whirlwind Adept" />
   <Cards CatID="37368" Quantity="1" Sideboard="false" Name="Leyline of Anticipation" />
+  <Cards CatID="27492" Quantity="1" Sideboard="false" Name="Peek" />
+  <Cards CatID="46587" Quantity="1" Sideboard="false" Name="Dispel" />
 </Deck>
