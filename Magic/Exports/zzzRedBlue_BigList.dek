@@ -199,11 +199,19 @@
   <Cards CatID="67388" Quantity="1" Sideboard="false" Name="Cascade Bluffs" />
   <Cards CatID="55602" Quantity="1" Sideboard="false" Name="Arcbond" />
   <Cards CatID="53602" Quantity="1" Sideboard="false" Name="Ensoul Artifact" />
-  <Cards CatID="62811" Quantity="1" Sideboard="false" Name="Tezzeret's Touch" />
+  <Cards CatID="62811" Quantity="2" Sideboard="false" Name="Tezzeret's Touch" />
   <Cards CatID="31939" Quantity="1" Sideboard="false" Name="Exotic Orchard" />
   <Cards CatID="24119" Quantity="1" Sideboard="false" Name="Plaxmanta" />
   <Cards CatID="53278" Quantity="2" Sideboard="false" Name="Tormod's Crypt" />
   <Cards CatID="29291" Quantity="1" Sideboard="false" Name="Vexing Shusher" />
   <Cards CatID="46783" Quantity="1" Sideboard="false" Name="Chromatic Lantern" />
   <Cards CatID="31360" Quantity="1" Sideboard="false" Name="Glaze Fiend" />
+  <Cards CatID="62909" Quantity="1" Sideboard="false" Name="Spire of Industry" />
+  <Cards CatID="31187" Quantity="1" Sideboard="false" Name="Master of Etherium" />
+  <Cards CatID="20121" Quantity="1" Sideboard="false" Name="Welding Jar" />
+  <Cards CatID="38327" Quantity="1" Sideboard="false" Name="Lux Cannon" />
+  <Cards CatID="61797" Quantity="1" Sideboard="false" Name="Smuggler's Copter" />
+  <Cards CatID="29615" Quantity="1" Sideboard="false" Name="Power of Fire" />
+  <Cards CatID="62751" Quantity="1" Sideboard="false" Name="Pia's Revolution" />
+  <Cards CatID="62919" Quantity="1" Sideboard="false" Name="Kari Zev's Expertise" />
 </Deck>

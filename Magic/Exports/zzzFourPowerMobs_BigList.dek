@@ -162,4 +162,12 @@
   <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
   <Cards CatID="56192" Quantity="1" Sideboard="false" Name="Sarkhan Unbroken" />
   <Cards CatID="47851" Quantity="1" Sideboard="false" Name="Domri Rade" />
+  <Cards CatID="60595" Quantity="1" Sideboard="false" Name="Regal Force" />
+  <Cards CatID="45582" Quantity="1" Sideboard="false" Name="Thragtusk" />
+  <Cards CatID="39922" Quantity="1" Sideboard="false" Name="Noxious Revival" />
+  <Cards CatID="57280" Quantity="1" Sideboard="false" Name="Argent Sphinx" />
+  <Cards CatID="62909" Quantity="1" Sideboard="false" Name="Spire of Industry" />
+  <Cards CatID="24823" Quantity="1" Sideboard="false" Name="Braid of Fire" />
+  <Cards CatID="36536" Quantity="1" Sideboard="false" Name="Khalni Hydra" />
+  <Cards CatID="32887" Quantity="1" Sideboard="false" Name="Kalonian Behemoth" />
 </Deck>

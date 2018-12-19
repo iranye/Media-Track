@@ -114,4 +114,10 @@
   <Cards CatID="42094" Quantity="3" Sideboard="false" Name="Jungle Shrine" />
   <Cards CatID="31131" Quantity="1" Sideboard="false" Name="Jungle Shrine" />
   <Cards CatID="31317" Quantity="4" Sideboard="false" Name="Esper Panorama" />
+  <Cards CatID="62909" Quantity="4" Sideboard="false" Name="Spire of Industry" />
+  <Cards CatID="51510" Quantity="4" Sideboard="false" Name="Molten Slagheap" />
+  <Cards CatID="59241" Quantity="4" Sideboard="false" Name="Saltcrusted Steppe" />
+  <Cards CatID="59237" Quantity="4" Sideboard="false" Name="Fungal Reaches" />
+  <Cards CatID="59239" Quantity="4" Sideboard="false" Name="Dreadship Reef" />
+  <Cards CatID="25483" Quantity="4" Sideboard="false" Name="Calciform Pools" />
 </Deck>

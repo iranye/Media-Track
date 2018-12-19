@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="52256" Quantity="1" Sideboard="false" Name="Aegis of the Gods" />
+  <Cards CatID="62091" Quantity="2" Sideboard="false" Name="Aether Hub" />
+  <Cards CatID="49539" Quantity="2" Sideboard="false" Name="Ajani's Chosen" />
+  <Cards CatID="46421" Quantity="2" Sideboard="false" Name="Azorius Charm" />
+  <Cards CatID="47897" Quantity="2" Sideboard="false" Name="Blind Obedience" />
+  <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
+  <Cards CatID="49381" Quantity="2" Sideboard="false" Name="Celestial Flare" />
+  <Cards CatID="46733" Quantity="2" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="50532" Quantity="1" Sideboard="false" Name="Daxos of Meletis" />
+  <Cards CatID="46423" Quantity="4" Sideboard="false" Name="Detention Sphere" />
+  <Cards CatID="53294" Quantity="1" Sideboard="false" Name="Divination" />
+  <Cards CatID="56048" Quantity="1" Sideboard="false" Name="Dragonlord Ojutai" />
+  <Cards CatID="51549" Quantity="2" Sideboard="false" Name="Ephara, God of the Polis" />
+  <Cards CatID="28741" Quantity="2" Sideboard="false" Name="Familiar's Ruse" />
+  <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
+  <Cards CatID="32817" Quantity="2" Sideboard="false" Name="Glacial Fortress" />
+  <Cards CatID="24157" Quantity="1" Sideboard="false" Name="Grand Arbiter Augustin IV" />
+  <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
+  <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
+  <Cards CatID="55944" Quantity="1" Sideboard="false" Name="Hidden Dragonslayer" />
+  <Cards CatID="50140" Quantity="2" Sideboard="false" Name="Hopeful Eidolon" />
+  <Cards CatID="52186" Quantity="1" Sideboard="false" Name="Hypnotic Siren" />
+  <Cards CatID="50282" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="50418" Quantity="3" Sideboard="false" Name="Island" />
+  <Cards CatID="50420" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
+  <Cards CatID="52074" Quantity="1" Sideboard="false" Name="Nyx-Fleece Ram" />
+  <Cards CatID="49109" Quantity="1" Sideboard="false" Name="Pacifism" />
+  <Cards CatID="50414" Quantity="5" Sideboard="false" Name="Plains" />
+  <Cards CatID="50416" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="53642" Quantity="1" Sideboard="false" Name="Quickling" />
+  <Cards CatID="51663" Quantity="1" Sideboard="false" Name="Revoke Existence" />
+  <Cards CatID="51998" Quantity="4" Sideboard="false" Name="Riptide Chimera" />
+  <Cards CatID="47887" Quantity="1" Sideboard="false" Name="Simic Manipulator" />
+  <Cards CatID="58517" Quantity="1" Sideboard="false" Name="Skyline Cascade" />
+  <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" />
+  <Cards CatID="46483" Quantity="1" Sideboard="false" Name="Supreme Verdict" />
+  <Cards CatID="46455" Quantity="2" Sideboard="false" Name="Tablet of the Guilds" />
+  <Cards CatID="51561" Quantity="4" Sideboard="false" Name="Temple of Enlightenment" />
+  <Cards CatID="55550" Quantity="1" Sideboard="false" Name="Tranquil Cove" />
+  <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
+  <Cards CatID="63686" Quantity="2" Sideboard="false" Name="As Foretold" />
+  <Cards CatID="9465" Quantity="1" Sideboard="false" Name="Aura of Silence" />
+  <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
+  <Cards CatID="51723" Quantity="1" Sideboard="true" Name="Arbiter of the Ideal" />
+  <Cards CatID="47897" Quantity="1" Sideboard="true" Name="Blind Obedience" />
+  <Cards CatID="50360" Quantity="1" Sideboard="true" Name="Dissolve" />
+  <Cards CatID="46669" Quantity="1" Sideboard="true" Name="Faerie Impostor" />
+  <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
+  <Cards CatID="51663" Quantity="1" Sideboard="true" Name="Revoke Existence" />
+  <Cards CatID="49541" Quantity="1" Sideboard="true" Name="Seraph of the Sword" />
+  <Cards CatID="50608" Quantity="2" Sideboard="true" Name="Soldier of the Pantheon" />
+  <Cards CatID="46483" Quantity="1" Sideboard="true" Name="Supreme Verdict" />
+  <Cards CatID="49493" Quantity="1" Sideboard="true" Name="Tidebinder Mage" />
+  <Cards CatID="55600" Quantity="1" Sideboard="true" Name="Valorous Stance" />
+  <Cards CatID="49121" Quantity="1" Sideboard="true" Name="Wall of Swords" />
+  <Cards CatID="29561" Quantity="1" Sideboard="false" Name="Greater Auramancy" />
+  <Cards CatID="63994" Quantity="1" Sideboard="false" Name="Bounty of the Luxa" />
+  <Cards CatID="24337" Quantity="2" Sideboard="false" Name="Azorius Aethermage" />
+  <Cards CatID="43439" Quantity="1" Sideboard="false" Name="Drogskol Reaver" />
+  <Cards CatID="24193" Quantity="1" Sideboard="false" Name="Plumes of Peace" />
+  <Cards CatID="65933" Quantity="1" Sideboard="false" Name="Pentarch Ward" />
+  <Cards CatID="34816" Quantity="1" Sideboard="false" Name="Luminarch Ascension" />
+</Deck>

@@ -180,4 +180,7 @@
   <Cards CatID="37368" Quantity="1" Sideboard="false" Name="Leyline of Anticipation" />
   <Cards CatID="27492" Quantity="1" Sideboard="false" Name="Peek" />
   <Cards CatID="46587" Quantity="1" Sideboard="false" Name="Dispel" />
+  <Cards CatID="58493" Quantity="1" Sideboard="false" Name="Roil Spout" />
+  <Cards CatID="66621" Quantity="1" Sideboard="false" Name="Recover" />
+  <Cards CatID="39922" Quantity="1" Sideboard="false" Name="Noxious Revival" />
 </Deck>

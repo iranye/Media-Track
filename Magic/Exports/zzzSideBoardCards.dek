@@ -40,4 +40,10 @@
   <Cards CatID="50440" Quantity="1" Sideboard="false" Name="Swan Song" />
   <Cards CatID="46499" Quantity="1" Sideboard="false" Name="Pithing Needle" />
   <Cards CatID="65522" Quantity="1" Sideboard="false" Name="Sorcerous Spyglass" />
+  <Cards CatID="55450" Quantity="1" Sideboard="false" Name="Crux of Fate" />
+  <Cards CatID="60649" Quantity="1" Sideboard="false" Name="Wrath of God" />
+  <Cards CatID="30925" Quantity="1" Sideboard="false" Name="Scourglass" />
+  <Cards CatID="61631" Quantity="1" Sideboard="false" Name="Fumigate" />
+  <Cards CatID="42346" Quantity="1" Sideboard="false" Name="Mask of Avacyn" />
+  <Cards CatID="35699" Quantity="1" Sideboard="false" Name="Nature's Claim" />
 </Deck>

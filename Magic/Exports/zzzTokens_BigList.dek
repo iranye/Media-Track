@@ -55,4 +55,11 @@
   <Cards CatID="28415" Quantity="1" Sideboard="false" Name="Deathrender" />
   <Cards CatID="34424" Quantity="1" Sideboard="false" Name="Relic Crush" />
   <Cards CatID="53850" Quantity="1" Sideboard="false" Name="Hydra Broodmaster" />
+  <Cards CatID="29990" Quantity="1" Sideboard="false" Name="Rise of the Hobgoblins" />
+  <Cards CatID="60595" Quantity="1" Sideboard="false" Name="Regal Force" />
+  <Cards CatID="61631" Quantity="1" Sideboard="false" Name="Fumigate" />
+  <Cards CatID="62829" Quantity="1" Sideboard="false" Name="Oath of Ajani" />
+  <Cards CatID="20245" Quantity="1" Sideboard="false" Name="Nuisance Engine" />
+  <Cards CatID="36536" Quantity="1" Sideboard="false" Name="Khalni Hydra" />
+  <Cards CatID="35699" Quantity="1" Sideboard="false" Name="Nature's Claim" />
 </Deck>
