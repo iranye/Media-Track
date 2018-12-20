@@ -94,4 +94,10 @@
   <Cards CatID="38005" Quantity="1" Sideboard="false" Name="Liege of the Tangle" />
   <Cards CatID="67601" Quantity="1" Sideboard="false" Name="Tempest Djinn" />
   <Cards CatID="29942" Quantity="1" Sideboard="false" Name="Doomgape" />
+  <Cards CatID="28283" Quantity="1" Sideboard="false" Name="Smokebraider" />
+  <Cards CatID="29212" Quantity="1" Sideboard="false" Name="Primal Beyond" />
+  <Cards CatID="28281" Quantity="1" Sideboard="false" Name="Flamekin Harbinger" />
+  <Cards CatID="26828" Quantity="1" Sideboard="false" Name="Magus of the Future" />
+  <Cards CatID="65546" Quantity="1" Sideboard="false" Name="Unclaimed Territory" />
+  <Cards CatID="53466" Quantity="1" Sideboard="false" Name="Invisibility" />
 </Deck>

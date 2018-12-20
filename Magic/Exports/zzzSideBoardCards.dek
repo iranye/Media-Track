@@ -46,4 +46,10 @@
   <Cards CatID="61631" Quantity="1" Sideboard="false" Name="Fumigate" />
   <Cards CatID="42346" Quantity="1" Sideboard="false" Name="Mask of Avacyn" />
   <Cards CatID="35699" Quantity="1" Sideboard="false" Name="Nature's Claim" />
+  <Cards CatID="53960" Quantity="1" Sideboard="false" Name="Erase" />
+  <Cards CatID="19451" Quantity="1" Sideboard="false" Name="Gaea's Herald" />
+  <Cards CatID="9465" Quantity="1" Sideboard="false" Name="Aura of Silence" />
+  <Cards CatID="50622" Quantity="1" Sideboard="false" Name="Dark Betrayal" />
+  <Cards CatID="49449" Quantity="1" Sideboard="false" Name="Lifebane Zombie" />
+  <Cards CatID="52214" Quantity="1" Sideboard="false" Name="Banishing Light" />
 </Deck>

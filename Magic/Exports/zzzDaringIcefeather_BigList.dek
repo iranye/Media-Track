@@ -142,4 +142,6 @@
   <Cards CatID="21447" Quantity="1" Sideboard="false" Name="Nezumi Bone-Reader" />
   <Cards CatID="20107" Quantity="1" Sideboard="false" Name="Dream's Grip" />
   <Cards CatID="65194" Quantity="1" Sideboard="false" Name="Arguel's Blood Fast" />
+  <Cards CatID="64876" Quantity="1" Sideboard="false" Name="Endless Sands" />
+  <Cards CatID="64142" Quantity="1" Sideboard="false" Name="Cascading Cataracts" />
 </Deck>

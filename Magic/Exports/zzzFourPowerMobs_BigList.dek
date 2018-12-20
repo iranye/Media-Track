@@ -170,4 +170,15 @@
   <Cards CatID="24823" Quantity="1" Sideboard="false" Name="Braid of Fire" />
   <Cards CatID="36536" Quantity="1" Sideboard="false" Name="Khalni Hydra" />
   <Cards CatID="32887" Quantity="1" Sideboard="false" Name="Kalonian Behemoth" />
+  <Cards CatID="38229" Quantity="1" Sideboard="false" Name="Semblance Anvil" />
+  <Cards CatID="39830" Quantity="1" Sideboard="false" Name="Mycosynth Wellspring" />
+  <Cards CatID="25845" Quantity="1" Sideboard="false" Name="Sage of Epityr" />
+  <Cards CatID="46455" Quantity="1" Sideboard="false" Name="Tablet of the Guilds" />
+  <Cards CatID="53330" Quantity="1" Sideboard="false" Name="Stormtide Leviathan" />
+  <Cards CatID="63994" Quantity="1" Sideboard="false" Name="Bounty of the Luxa" />
+  <Cards CatID="54408" Quantity="1" Sideboard="false" Name="See the Unwritten" />
+  <Cards CatID="51725" Quantity="1" Sideboard="false" Name="Tromokratis" />
+  <Cards CatID="21021" Quantity="1" Sideboard="false" Name="Kiki-Jiki, Mirror Breaker" />
+  <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
+  <Cards CatID="49593" Quantity="1" Sideboard="false" Name="Quicken" />
 </Deck>

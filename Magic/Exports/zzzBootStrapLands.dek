@@ -120,4 +120,6 @@
   <Cards CatID="59237" Quantity="4" Sideboard="false" Name="Fungal Reaches" />
   <Cards CatID="59239" Quantity="4" Sideboard="false" Name="Dreadship Reef" />
   <Cards CatID="25483" Quantity="4" Sideboard="false" Name="Calciform Pools" />
+  <Cards CatID="31915" Quantity="4" Sideboard="false" Name="Ancient Ziggurat" />
+  <Cards CatID="21411" Quantity="4" Sideboard="false" Name="Untaidake, the Cloud Keeper" />
 </Deck>

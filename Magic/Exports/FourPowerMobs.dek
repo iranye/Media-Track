@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -64,4 +64,5 @@
   <Cards CatID="24119" Quantity="1" Sideboard="true" Name="Plaxmanta" />
   <Cards CatID="29291" Quantity="2" Sideboard="true" Name="Vexing Shusher" />
   <Cards CatID="50578" Quantity="1" Sideboard="true" Name="Anger of the Gods" />
+  <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
 </Deck>
