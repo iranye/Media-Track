@@ -52,4 +52,6 @@
   <Cards CatID="50622" Quantity="1" Sideboard="false" Name="Dark Betrayal" />
   <Cards CatID="49449" Quantity="1" Sideboard="false" Name="Lifebane Zombie" />
   <Cards CatID="52214" Quantity="1" Sideboard="false" Name="Banishing Light" />
+  <Cards CatID="36656" Quantity="1" Sideboard="false" Name="Linvala, Keeper of Silence" />
+  <Cards CatID="56264" Quantity="1" Sideboard="false" Name="Rending Volley" />
 </Deck>

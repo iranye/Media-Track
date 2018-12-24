@@ -56,7 +56,7 @@
   <Cards CatID="47751" Quantity="1" Sideboard="false" Name="Nightveil Specter" />
   <Cards CatID="66795" Quantity="1" Sideboard="false" Name="Protean Raider" />
   <Cards CatID="64762" Quantity="2" Sideboard="false" Name="The Locust God" />
-  <Cards CatID="41373" Quantity="1" Sideboard="false" Name="Furyborn Hellkite" />
+  <Cards CatID="41373" Quantity="2" Sideboard="false" Name="Furyborn Hellkite" />
   <Cards CatID="61765" Quantity="1" Sideboard="false" Name="Contraband Kingpin" />
   <Cards CatID="9199" Quantity="1" Sideboard="false" Name="Fire Whip" />
   <Cards CatID="45698" Quantity="1" Sideboard="false" Name="Staff of Nin" />
@@ -222,4 +222,8 @@
   <Cards CatID="64604" Quantity="1" Sideboard="false" Name="Bontu's Last Reckoning" />
   <Cards CatID="42346" Quantity="1" Sideboard="false" Name="Mask of Avacyn" />
   <Cards CatID="20009" Quantity="1" Sideboard="false" Name="Granite Shard" />
+  <Cards CatID="21453" Quantity="1" Sideboard="false" Name="General's Kabuto" />
+  <Cards CatID="37969" Quantity="1" Sideboard="false" Name="Perilous Myr" />
+  <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
+  <Cards CatID="63752" Quantity="1" Sideboard="false" Name="Vizier of Tumbling Sands" />
 </Deck>

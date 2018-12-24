@@ -63,4 +63,9 @@
   <Cards CatID="36536" Quantity="1" Sideboard="false" Name="Khalni Hydra" />
   <Cards CatID="35699" Quantity="1" Sideboard="false" Name="Nature's Claim" />
   <Cards CatID="68203" Quantity="1" Sideboard="false" Name="Lena, Selfless Champion" />
+  <Cards CatID="23588" Quantity="1" Sideboard="false" Name="Twilight Drover" />
+  <Cards CatID="65911" Quantity="1" Sideboard="false" Name="Doomed Traveler" />
+  <Cards CatID="42744" Quantity="1" Sideboard="false" Name="Garruk Relentless" />
+  <Cards CatID="53489" Quantity="1" Sideboard="false" Name="Feral Incarnation" />
+  <Cards CatID="29535" Quantity="1" Sideboard="false" Name="Rhys the Redeemed" />
 </Deck>

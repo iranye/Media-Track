@@ -181,4 +181,23 @@
   <Cards CatID="21021" Quantity="1" Sideboard="false" Name="Kiki-Jiki, Mirror Breaker" />
   <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
   <Cards CatID="49593" Quantity="1" Sideboard="false" Name="Quicken" />
+  <Cards CatID="53410" Quantity="1" Sideboard="false" Name="Roaring Primadox" />
+  <Cards CatID="31175" Quantity="1" Sideboard="false" Name="Godsire" />
+  <Cards CatID="19567" Quantity="1" Sideboard="false" Name="Mind Bend" />
+  <Cards CatID="48992" Quantity="1" Sideboard="false" Name="Kira, Great Glass-Spinner" />
+  <Cards CatID="42744" Quantity="1" Sideboard="false" Name="Garruk Relentless" />
+  <Cards CatID="26634" Quantity="1" Sideboard="false" Name="Llanowar Mentor" />
+  <Cards CatID="43883" Quantity="1" Sideboard="false" Name="Sheltering Word" />
+  <Cards CatID="21127" Quantity="1" Sideboard="false" Name="Keiga, the Tide Star" />
+  <Cards CatID="26555" Quantity="1" Sideboard="false" Name="Kavu Predator" />
+  <Cards CatID="47929" Quantity="1" Sideboard="false" Name="Hellkite Tyrant" />
+  <Cards CatID="51018" Quantity="1" Sideboard="false" Name="Acidic Slime" />
+  <Cards CatID="48354" Quantity="1" Sideboard="false" Name="Legion's Initiative" />
+  <Cards CatID="55684" Quantity="1" Sideboard="false" Name="Mob Rule" />
+  <Cards CatID="53698" Quantity="1" Sideboard="false" Name="Hornet Nest" />
+  <Cards CatID="29942" Quantity="1" Sideboard="false" Name="Doomgape" />
+  <Cards CatID="42772" Quantity="1" Sideboard="false" Name="Tree of Redemption" />
+  <Cards CatID="7427" Quantity="1" Sideboard="false" Name="Wall of Roots" />
+  <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
+  <Cards CatID="48870" Quantity="1" Sideboard="true" Name="Sword of Light and Shadow" />
 </Deck>

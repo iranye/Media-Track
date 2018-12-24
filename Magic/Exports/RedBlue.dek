@@ -6,9 +6,8 @@
   <Cards CatID="50280" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="49547" Quantity="2" Sideboard="false" Name="Mountain" />
   <Cards CatID="19979" Quantity="2" Sideboard="false" Name="Fractured Loyalty" />
-  <Cards CatID="51966" Quantity="2" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
   <Cards CatID="50306" Quantity="2" Sideboard="false" Name="Thassa, God of the Sea" />
-  <Cards CatID="46805" Quantity="2" Sideboard="false" Name="Steam Vents" />
   <Cards CatID="50440" Quantity="3" Sideboard="true" Name="Swan Song" />
   <Cards CatID="50424" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="9411" Quantity="2" Sideboard="false" Name="Gemstone Mine" />
@@ -18,20 +17,17 @@
   <Cards CatID="53284" Quantity="2" Sideboard="false" Name="Shrapnel Blast" />
   <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
   <Cards CatID="49339" Quantity="3" Sideboard="false" Name="Trading Post" />
-  <Cards CatID="35515" Quantity="2" Sideboard="false" Name="Bojuka Bog" />
-  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="35515" Quantity="1" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
-  <Cards CatID="29479" Quantity="2" Sideboard="false" Name="Sunken Ruins" />
+  <Cards CatID="29479" Quantity="1" Sideboard="false" Name="Sunken Ruins" />
   <Cards CatID="35695" Quantity="4" Sideboard="false" Name="Basilisk Collar" />
-  <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="31213" Quantity="2" Sideboard="false" Name="Etherium Sculptor" />
   <Cards CatID="46563" Quantity="3" Sideboard="false" Name="Rakdos, Lord of Riots" />
   <Cards CatID="21385" Quantity="1" Sideboard="false" Name="Minamo, School at Water's Edge" />
   <Cards CatID="20956" Quantity="1" Sideboard="false" Name="Serum Visions" />
-  <Cards CatID="53316" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="54198" Quantity="1" Sideboard="false" Name="Bloodstained Mire" />
-  <Cards CatID="31321" Quantity="1" Sideboard="false" Name="Grixis Panorama" />
-  <Cards CatID="31183" Quantity="2" Sideboard="false" Name="Crumbling Necropolis" />
+  <Cards CatID="31183" Quantity="1" Sideboard="false" Name="Crumbling Necropolis" />
   <Cards CatID="67585" Quantity="1" Sideboard="false" Name="Opt" />
   <Cards CatID="26269" Quantity="1" Sideboard="false" Name="Mirri the Cursed" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
@@ -93,4 +89,5 @@
   <Cards CatID="61923" Quantity="1" Sideboard="false" Name="Padeem, Consul of Innovation" />
   <Cards CatID="62919" Quantity="1" Sideboard="false" Name="Kari Zev's Expertise" />
   <Cards CatID="43835" Quantity="1" Sideboard="true" Name="Elgaud Shieldmate" />
+  <Cards CatID="37240" Quantity="1" Sideboard="false" Name="Lightning Bolt" />
 </Deck>

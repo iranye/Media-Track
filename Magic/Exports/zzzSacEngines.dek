@@ -28,4 +28,6 @@
   <Cards CatID="51853" Quantity="1" Sideboard="false" Name="Scourge of Skola Vale" />
   <Cards CatID="53588" Quantity="1" Sideboard="false" Name="Jalira, Master Polymorphist" />
   <Cards CatID="54182" Quantity="1" Sideboard="false" Name="Butcher of the Horde" />
+  <Cards CatID="22965" Quantity="1" Sideboard="false" Name="Hell's Caretaker" />
+  <Cards CatID="25695" Quantity="1" Sideboard="false" Name="Fallen Ideal" />
 </Deck>

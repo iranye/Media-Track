@@ -75,4 +75,9 @@
   <Cards CatID="26039" Quantity="1" Sideboard="true" Name="Witch Hunter" />
   <Cards CatID="29847" Quantity="1" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="43925" Quantity="1" Sideboard="false" Name="Goldnight Commander" />
+  <Cards CatID="57868" Quantity="5" Sideboard="false" Name="Cleric of the Forward Order" />
+  <Cards CatID="23486" Quantity="1" Sideboard="false" Name="Cloudstone Curio" />
+  <Cards CatID="32597" Quantity="4" Sideboard="false" Name="Harm's Way" />
+  <Cards CatID="59589" Quantity="4" Sideboard="false" Name="Stoneforge Masterwork" />
+  <Cards CatID="18331" Quantity="1" Sideboard="false" Name="Doomed Necromancer" />
 </Deck>

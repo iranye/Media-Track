@@ -65,4 +65,5 @@
   <Cards CatID="29291" Quantity="2" Sideboard="true" Name="Vexing Shusher" />
   <Cards CatID="50578" Quantity="1" Sideboard="true" Name="Anger of the Gods" />
   <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
+  <Cards CatID="39694" Quantity="1" Sideboard="false" Name="Whipflare" />
 </Deck>

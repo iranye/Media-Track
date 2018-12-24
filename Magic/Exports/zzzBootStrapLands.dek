@@ -122,4 +122,12 @@
   <Cards CatID="25483" Quantity="4" Sideboard="false" Name="Calciform Pools" />
   <Cards CatID="31915" Quantity="4" Sideboard="false" Name="Ancient Ziggurat" />
   <Cards CatID="21411" Quantity="4" Sideboard="false" Name="Untaidake, the Cloud Keeper" />
+  <Cards CatID="37242" Quantity="4" Sideboard="false" Name="Dragonskull Summit" />
+  <Cards CatID="24031" Quantity="4" Sideboard="false" Name="Simic Growth Chamber" />
+  <Cards CatID="45148" Quantity="4" Sideboard="false" Name="Selesnya Sanctuary" />
+  <Cards CatID="40749" Quantity="4" Sideboard="false" Name="Orzhov Basilica" />
+  <Cards CatID="42586" Quantity="4" Sideboard="false" Name="Kessig Wolf Run" />
+  <Cards CatID="40756" Quantity="4" Sideboard="false" Name="Gruul Turf" />
+  <Cards CatID="40730" Quantity="4" Sideboard="false" Name="Golgari Rot Farm" />
+  <Cards CatID="23192" Quantity="4" Sideboard="false" Name="Dimir Aqueduct" />
 </Deck>

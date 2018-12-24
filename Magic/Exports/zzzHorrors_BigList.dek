@@ -85,7 +85,7 @@
   <Cards CatID="34448" Quantity="1" Sideboard="false" Name="Into the Roil" />
   <Cards CatID="29659" Quantity="1" Sideboard="false" Name="Mirrorweave" />
   <Cards CatID="57904" Quantity="1" Sideboard="false" Name="Send to Sleep" />
-  <Cards CatID="23574" Quantity="1" Sideboard="false" Name="Shadow of Doubt" />
+  <Cards CatID="23574" Quantity="2" Sideboard="false" Name="Shadow of Doubt" />
   <Cards CatID="61352" Quantity="1" Sideboard="false" Name="Take Inventory" />
   <Cards CatID="34676" Quantity="1" Sideboard="false" Name="Trapmaker's Snare" />
   <Cards CatID="35611" Quantity="1" Sideboard="false" Name="Treasure Hunt" />
@@ -183,4 +183,9 @@
   <Cards CatID="58493" Quantity="1" Sideboard="false" Name="Roil Spout" />
   <Cards CatID="66621" Quantity="1" Sideboard="false" Name="Recover" />
   <Cards CatID="39922" Quantity="1" Sideboard="false" Name="Noxious Revival" />
+  <Cards CatID="30148" Quantity="2" Sideboard="false" Name="Inside Out" />
+  <Cards CatID="19567" Quantity="1" Sideboard="false" Name="Mind Bend" />
+  <Cards CatID="30106" Quantity="1" Sideboard="false" Name="Glamerdye" />
+  <Cards CatID="19087" Quantity="1" Sideboard="false" Name="Western Paladin" />
+  <Cards CatID="26549" Quantity="1" Sideboard="false" Name="Dash Hopes" />
 </Deck>

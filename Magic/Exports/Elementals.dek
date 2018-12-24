@@ -91,7 +91,7 @@
   <Cards CatID="19419" Quantity="1" Sideboard="false" Name="Temporal Adept" />
   <Cards CatID="57920" Quantity="1" Sideboard="false" Name="Separatist Voidmage" />
   <Cards CatID="46559" Quantity="1" Sideboard="false" Name="Sphinx's Revelation" />
-  <Cards CatID="38005" Quantity="1" Sideboard="false" Name="Liege of the Tangle" />
+  <Cards CatID="38005" Quantity="2" Sideboard="false" Name="Liege of the Tangle" />
   <Cards CatID="67601" Quantity="1" Sideboard="false" Name="Tempest Djinn" />
   <Cards CatID="29942" Quantity="1" Sideboard="false" Name="Doomgape" />
   <Cards CatID="28283" Quantity="1" Sideboard="false" Name="Smokebraider" />
@@ -100,4 +100,5 @@
   <Cards CatID="26828" Quantity="1" Sideboard="false" Name="Magus of the Future" />
   <Cards CatID="65546" Quantity="1" Sideboard="false" Name="Unclaimed Territory" />
   <Cards CatID="53466" Quantity="1" Sideboard="false" Name="Invisibility" />
+  <Cards CatID="39305" Quantity="1" Sideboard="false" Name="Neurok Commando" />
 </Deck>

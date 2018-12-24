@@ -70,4 +70,26 @@
   <Cards CatID="54406" Quantity="1" Sideboard="false" Name="Hardened Scales" />
   <Cards CatID="65400" Quantity="1" Sideboard="false" Name="Growing Rites of Itlimoc" />
   <Cards CatID="62823" Quantity="1" Sideboard="false" Name="Winding Constrictor" />
+  <Cards CatID="49583" Quantity="7" Sideboard="false" Name="Fireshrieker" />
+  <Cards CatID="54418" Quantity="9" Sideboard="false" Name="Armament Corps" />
+  <Cards CatID="46495" Quantity="4" Sideboard="false" Name="Corpsejack Menace" />
+  <Cards CatID="55318" Quantity="1" Sideboard="false" Name="Dromoka, the Eternal" />
+  <Cards CatID="51753" Quantity="9" Sideboard="false" Name="Ephara's Radiance" />
+  <Cards CatID="54480" Quantity="1" Sideboard="false" Name="Rakshasa Vizier" />
+  <Cards CatID="51867" Quantity="6" Sideboard="false" Name="Reap What Is Sown" />
+  <Cards CatID="55460" Quantity="6" Sideboard="false" Name="Sandsteppe Outcast" />
+  <Cards CatID="54426" Quantity="4" Sideboard="false" Name="Abzan Ascendancy" />
+  <Cards CatID="54126" Quantity="7" Sideboard="false" Name="Abzan Charm" />
+  <Cards CatID="55978" Quantity="1" Sideboard="false" Name="Anafenza, Kin-Tree Spirit" />
+  <Cards CatID="54248" Quantity="1" Sideboard="false" Name="Anafenza, the Foremost" />
+  <Cards CatID="56386" Quantity="2" Sideboard="false" Name="Avatar of the Resolute" />
+  <Cards CatID="55458" Quantity="4" Sideboard="false" Name="Citadel Siege" />
+  <Cards CatID="54460" Quantity="1" Sideboard="false" Name="Dragon Throne of Tarkir" />
+  <Cards CatID="53498" Quantity="6" Sideboard="false" Name="Feast on the Fallen" />
+  <Cards CatID="47845" Quantity="6" Sideboard="false" Name="Forced Adaptation" />
+  <Cards CatID="54286" Quantity="1" Sideboard="false" Name="High Sentinels of Arashin" />
+  <Cards CatID="51649" Quantity="9" Sideboard="false" Name="Pheres-Band Tromper" />
+  <Cards CatID="52262" Quantity="3" Sideboard="false" Name="Solidarity of Heroes" />
+  <Cards CatID="56196" Quantity="4" Sideboard="false" Name="Sunscorch Regent" />
+  <Cards CatID="68171" Quantity="1" Sideboard="false" Name="Ajani's Pridemate" />
 </Deck>
