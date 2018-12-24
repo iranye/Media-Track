@@ -40,14 +40,12 @@
   <Cards CatID="67585" Quantity="1" Sideboard="false" Name="Opt" />
   <Cards CatID="50578" Quantity="3" Sideboard="false" Name="Anger of the Gods" />
   <Cards CatID="68553" Quantity="2" Sideboard="false" Name="Reclamation Sage" />
-  <Cards CatID="28415" Quantity="1" Sideboard="false" Name="Deathrender" />
   <Cards CatID="55632" Quantity="1" Sideboard="false" Name="Temur Sabertooth" />
   <Cards CatID="55404" Quantity="1" Sideboard="false" Name="Vaultbreaker" />
   <Cards CatID="55344" Quantity="1" Sideboard="false" Name="Hungering Yeti" />
   <Cards CatID="54254" Quantity="1" Sideboard="false" Name="Surrak Dragonclaw" />
   <Cards CatID="45580" Quantity="1" Sideboard="false" Name="Yeva, Nature's Herald" />
   <Cards CatID="68533" Quantity="2" Sideboard="false" Name="Goreclaw, Terror of Qal Sisma" />
-  <Cards CatID="22132" Quantity="1" Sideboard="false" Name="Blood Clock" />
   <Cards CatID="35695" Quantity="1" Sideboard="false" Name="Basilisk Collar" />
   <Cards CatID="61801" Quantity="1" Sideboard="false" Name="Panharmonicon" />
   <Cards CatID="26545" Quantity="1" Sideboard="false" Name="Wild Pair" />
@@ -65,4 +63,5 @@
   <Cards CatID="29291" Quantity="2" Sideboard="true" Name="Vexing Shusher" />
   <Cards CatID="50578" Quantity="1" Sideboard="true" Name="Anger of the Gods" />
   <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
+  <Cards CatID="63994" Quantity="1" Sideboard="false" Name="Bounty of the Luxa" />
 </Deck>

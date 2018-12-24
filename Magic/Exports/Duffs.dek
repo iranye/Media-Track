@@ -66,7 +66,6 @@
   <Cards CatID="62905" Quantity="1" Sideboard="false" Name="Peacewalker Colossus" />
   <Cards CatID="61777" Quantity="2" Sideboard="true" Name="Deadlock Trap" />
   <Cards CatID="50478" Quantity="1" Sideboard="true" Name="Gods Willing" />
-  <Cards CatID="20273" Quantity="1" Sideboard="true" Name="Sword of Kaldra" />
   <Cards CatID="56324" Quantity="1" Sideboard="true" Name="Pacifism" />
   <Cards CatID="49109" Quantity="1" Sideboard="true" Name="Pacifism" />
   <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
@@ -76,6 +75,6 @@
   <Cards CatID="51559" Quantity="1" Sideboard="true" Name="Gorgon's Head" />
   <Cards CatID="34552" Quantity="1" Sideboard="true" Name="Day of Judgment" />
   <Cards CatID="43887" Quantity="1" Sideboard="true" Name="Cloudshift" />
-  <Cards CatID="29847" Quantity="1" Sideboard="false" Name="Guttural Response" />
+  <Cards CatID="29847" Quantity="1" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="39886" Quantity="1" Sideboard="false" Name="Puresteel Paladin" />
 </Deck>
