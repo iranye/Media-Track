@@ -91,7 +91,7 @@
   <Cards CatID="51833" Quantity="6" Sideboard="false" Name="Searing Blood" />
   <Cards CatID="50190" Quantity="7" Sideboard="false" Name="Sedge Scorpion" />
   <Cards CatID="56296" Quantity="4" Sideboard="false" Name="Thunderbreak Regent" />
-  <Cards CatID="54036" Quantity="5" Sideboard="false" Name="Alpine Grizzly" />
+  <Cards CatID="54036" Quantity="6" Sideboard="false" Name="Alpine Grizzly" />
   <Cards CatID="54054" Quantity="2" Sideboard="false" Name="Bear's Companion" />
   <Cards CatID="50156" Quantity="7" Sideboard="false" Name="Benthic Giant" />
   <Cards CatID="55608" Quantity="5" Sideboard="false" Name="Bloodfire Enforcers" />
@@ -200,4 +200,11 @@
   <Cards CatID="7427" Quantity="1" Sideboard="false" Name="Wall of Roots" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
   <Cards CatID="48870" Quantity="1" Sideboard="true" Name="Sword of Light and Shadow" />
+  <Cards CatID="41577" Quantity="1" Sideboard="false" Name="Adaptive Automaton" />
+  <Cards CatID="49139" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="56308" Quantity="1" Sideboard="false" Name="Dragon-Scarred Bear" />
+  <Cards CatID="67893" Quantity="1" Sideboard="false" Name="Forebear's Blade" />
+  <Cards CatID="19049" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="28990" Quantity="1" Sideboard="false" Name="Mothdust Changeling" />
+  <Cards CatID="31653" Quantity="1" Sideboard="false" Name="Esperzoa" />
 </Deck>

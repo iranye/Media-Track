@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="67915" Quantity="1" Sideboard="false" Name="Navigator's Compass" />
+  <Cards CatID="31653" Quantity="1" Sideboard="false" Name="Esperzoa" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
+  <Cards CatID="22132" Quantity="1" Sideboard="false" Name="Blood Clock" />
+  <Cards CatID="39830" Quantity="1" Sideboard="false" Name="Mycosynth Wellspring" />
+  <Cards CatID="61801" Quantity="1" Sideboard="false" Name="Panharmonicon" />
+  <Cards CatID="20007" Quantity="1" Sideboard="false" Name="Crystal Shard" />
+  <Cards CatID="20710" Quantity="1" Sideboard="false" Name="Razormane Masticore" />
+  <Cards CatID="66823" Quantity="1" Sideboard="false" Name="Golden Guardian" />
+  <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
+  <Cards CatID="55632" Quantity="1" Sideboard="false" Name="Temur Sabertooth" />
+  <Cards CatID="45388" Quantity="1" Sideboard="false" Name="Garruk's Packleader" />
+  <Cards CatID="41369" Quantity="1" Sideboard="false" Name="Phantasmal Image" />
+  <Cards CatID="47929" Quantity="1" Sideboard="false" Name="Hellkite Tyrant" />
+  <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
+  <Cards CatID="49339" Quantity="1" Sideboard="false" Name="Trading Post" />
+  <Cards CatID="24119" Quantity="1" Sideboard="false" Name="Plaxmanta" />
+  <Cards CatID="53410" Quantity="1" Sideboard="false" Name="Roaring Primadox" />
+  <Cards CatID="63870" Quantity="1" Sideboard="false" Name="Glorybringer" />
+  <Cards CatID="37368" Quantity="1" Sideboard="false" Name="Leyline of Anticipation" />
+  <Cards CatID="63994" Quantity="1" Sideboard="false" Name="Bounty of the Luxa" />
+  <Cards CatID="63023" Quantity="1" Sideboard="false" Name="Tezzeret, Master of Metal" />
+  <Cards CatID="56364" Quantity="1" Sideboard="false" Name="Mirror Mockery" />
+  <Cards CatID="55364" Quantity="2" Sideboard="false" Name="Ugin, the Spirit Dragon" />
+  <Cards CatID="53602" Quantity="1" Sideboard="false" Name="Ensoul Artifact" />
+  <Cards CatID="61857" Quantity="1" Sideboard="false" Name="Inventors' Fair" />
+  <Cards CatID="62889" Quantity="1" Sideboard="false" Name="Ornithopter" />
+  <Cards CatID="54440" Quantity="1" Sideboard="false" Name="Temur Ascendancy" />
+  <Cards CatID="28741" Quantity="1" Sideboard="false" Name="Familiar's Ruse" />
+  <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
+  <Cards CatID="29847" Quantity="1" Sideboard="false" Name="Guttural Response" />
+  <Cards CatID="53980" Quantity="1" Sideboard="false" Name="Force Away" />
+  <Cards CatID="39922" Quantity="1" Sideboard="false" Name="Noxious Revival" />
+  <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
+  <Cards CatID="53742" Quantity="1" Sideboard="false" Name="Chord of Calling" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="20331" Quantity="1" Sideboard="false" Name="Memnarch" />
+  <Cards CatID="48992" Quantity="1" Sideboard="false" Name="Kira, Great Glass-Spinner" />
+  <Cards CatID="26543" Quantity="1" Sideboard="false" Name="Dust Elemental" />
+</Deck>

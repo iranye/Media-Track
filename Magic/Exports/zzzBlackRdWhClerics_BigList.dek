@@ -80,4 +80,5 @@
   <Cards CatID="32597" Quantity="4" Sideboard="false" Name="Harm's Way" />
   <Cards CatID="59589" Quantity="4" Sideboard="false" Name="Stoneforge Masterwork" />
   <Cards CatID="18331" Quantity="1" Sideboard="false" Name="Doomed Necromancer" />
+  <Cards CatID="26543" Quantity="1" Sideboard="false" Name="Dust Elemental" />
 </Deck>
