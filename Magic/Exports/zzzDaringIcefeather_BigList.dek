@@ -146,4 +146,5 @@
   <Cards CatID="64142" Quantity="1" Sideboard="false" Name="Cascading Cataracts" />
   <Cards CatID="29461" Quantity="1" Sideboard="false" Name="Curse of Chains" />
   <Cards CatID="21487" Quantity="1" Sideboard="false" Name="Aura of Dominion" />
+  <Cards CatID="39501" Quantity="1" Sideboard="false" Name="Thopter Assembly" />
 </Deck>

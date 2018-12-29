@@ -1,87 +1,9 @@
-Ulvenwald Captive
-Ulvenwald Mysteries
-Ulvenwald Tracker
-Ultimate Price
-Ugin, the Spirit Dragon
-Navigator's Compass
-Ornithopter
-Damping Sphere
-Legion's Initiative
-Mob Rule
-Vampiric Rites
-Vengeful Pharaoh
-Appetite for Brains
-Tragic Slip
-Arcanum Wings
-Blackmail
-Blightning
-Bojuka Bog
-Consult the Necrosages
-Cry of Contrition
-Crystal Shard
-Leyline of Anticipation
-Deadeye Navigator
-Doubling Season
-Dream Salvage
-Reliquary Tower
-Drekavac
-Dust Elemental
-Erebos's Titan
-Forgotten Creation
-Frightful Delusion
-Funeral Charm
-Geralf's Masterpiece
-Geth's Grimoire
-Ghastly Discovery
-Gibbering Descent
-Glacial Fortress
-Gorgon Recluse
-Grand Arbiter Augustin IV
-Grave Scrabbler
-Grimoire of the Dead
-Guul Draz Specter
-Haunting Hymn
-Hidden Horror
-Horrifying Revelation
-Hypnotic Specter
-Leyline of the Meek
-Magus of the Jar
-Mask of Memory
-Merfolk Looter
-Mind Slash
-Skull of Orm
-Mire's Toll
-Muck Drubb
-Muddle the Mixture
-Nyxathid
-Necrogen Mists
-Nezumi Shortfang
-Oblivion Crown
-Okiba-Gang Shinobi
-Painful Quandary
-Pale Rider of Trostad
-Pestermite
-Piracy Charm
-Psychic Miasma
-Pulse of the Dross
-Pulse of the Grid
-Quest for the Nihil Stone
-Raven's Crime
-Reckless Wurm
-Ridged Kusite
-Riptide Pilferer
-River's Grasp
-Scepter of Fugue
-Sift
-Sigil of the Nayan Gods
-Skirk Ridge Exhumer
-Skullmead Cauldron
-Slate of Ancestry
-Smallpox
-Soratami Cloudskater
-Stromgald Crusader
-Sundial of the Infinite
-Sword of Feast and Famine
-Thought Courier
-Tolaria West
-Tolarian Sentinel
+Artificer's Epiphany
+Blink of an Eye
+Ceremonious Rejection
+Undercity Uprising
+Undercity Informer
+Convolute
+Butcher's Glee
+Enhanced Awareness
+Essence Backlash

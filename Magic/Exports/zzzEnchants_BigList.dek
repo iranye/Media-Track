@@ -66,4 +66,8 @@
   <Cards CatID="65933" Quantity="1" Sideboard="false" Name="Pentarch Ward" />
   <Cards CatID="34816" Quantity="1" Sideboard="false" Name="Luminarch Ascension" />
   <Cards CatID="51771" Quantity="1" Sideboard="false" Name="Plea for Guidance" />
+  <Cards CatID="56328" Quantity="1" Sideboard="false" Name="Ojutai's Command" />
+  <Cards CatID="34825" Quantity="1" Sideboard="false" Name="Archmage Ascension" />
+  <Cards CatID="56076" Quantity="1" Sideboard="false" Name="Narset Transcendent" />
+  <Cards CatID="56110" Quantity="1" Sideboard="false" Name="Ojutai Exemplars" />
 </Deck>

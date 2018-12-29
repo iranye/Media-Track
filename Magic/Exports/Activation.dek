@@ -90,4 +90,5 @@
   <Cards CatID="32579" Quantity="1" Sideboard="false" Name="Dimir Guildmage" />
   <Cards CatID="30252" Quantity="1" Sideboard="false" Name="Shell Skulkin" />
   <Cards CatID="29110" Quantity="1" Sideboard="false" Name="Sage of Fables" />
+  <Cards CatID="56344" Quantity="1" Sideboard="false" Name="Harbinger of the Hunt" />
 </Deck>

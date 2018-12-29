@@ -77,14 +77,14 @@
   <Cards CatID="53742" Quantity="2" Sideboard="false" Name="Chord of Calling" />
   <Cards CatID="54374" Quantity="4" Sideboard="false" Name="Crater's Claws" />
   <Cards CatID="55976" Quantity="1" Sideboard="false" Name="Dragonlord Atarka" />
-  <Cards CatID="56122" Quantity="1" Sideboard="false" Name="Dragon Whisperer" />
+  <Cards CatID="56122" Quantity="2" Sideboard="false" Name="Dragon Whisperer" />
   <Cards CatID="53576" Quantity="3" Sideboard="false" Name="Genesis Hydra" />
   <Cards CatID="52122" Quantity="2" Sideboard="false" Name="Hour of Need" />
   <Cards CatID="55344" Quantity="4" Sideboard="false" Name="Hungering Yeti" />
   <Cards CatID="53850" Quantity="4" Sideboard="false" Name="Hydra Broodmaster" />
   <Cards CatID="56064" Quantity="1" Sideboard="false" Name="Icefall Regent" />
   <Cards CatID="53408" Quantity="5" Sideboard="false" Name="Illusory Angel" />
-  <Cards CatID="56364" Quantity="4" Sideboard="false" Name="Mirror Mockery" />
+  <Cards CatID="56364" Quantity="5" Sideboard="false" Name="Mirror Mockery" />
   <Cards CatID="55446" Quantity="4" Sideboard="false" Name="Monastery Siege" />
   <Cards CatID="53528" Quantity="4" Sideboard="false" Name="Polymorphist's Jest" />
   <Cards CatID="56280" Quantity="2" Sideboard="false" Name="Profaner of the Dead" />
@@ -207,4 +207,26 @@
   <Cards CatID="19049" Quantity="1" Sideboard="false" Name="Coat of Arms" />
   <Cards CatID="28990" Quantity="1" Sideboard="false" Name="Mothdust Changeling" />
   <Cards CatID="31653" Quantity="1" Sideboard="false" Name="Esperzoa" />
+  <Cards CatID="61917" Quantity="1" Sideboard="false" Name="Torrential Gearhulk" />
+  <Cards CatID="61959" Quantity="1" Sideboard="false" Name="Noxious Gearhulk" />
+  <Cards CatID="62041" Quantity="1" Sideboard="false" Name="Decoction Module" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="68645" Quantity="1" Sideboard="false" Name="Meteor Golem" />
+  <Cards CatID="41437" Quantity="1" Sideboard="false" Name="Lord of the Unreal" />
+  <Cards CatID="54190" Quantity="1" Sideboard="false" Name="Sagu Mauler" />
+  <Cards CatID="30256" Quantity="1" Sideboard="false" Name="Noggle Bridgebreaker" />
+  <Cards CatID="46769" Quantity="1" Sideboard="false" Name="Mercurial Chemister" />
+  <Cards CatID="46485" Quantity="1" Sideboard="false" Name="Hypersonic Dragon" />
+  <Cards CatID="30020" Quantity="1" Sideboard="false" Name="Dominus of Fealty" />
+  <Cards CatID="69757" Quantity="1" Sideboard="false" Name="Niv-Mizzet, Parun" />
+  <Cards CatID="46561" Quantity="1" Sideboard="false" Name="Niv-Mizzet, Dracogenius" />
+  <Cards CatID="40525" Quantity="1" Sideboard="false" Name="Nucklavee" />
+  <Cards CatID="30815" Quantity="1" Sideboard="false" Name="Niv-Mizzet, the Firemind" />
+  <Cards CatID="25471" Quantity="1" Sideboard="false" Name="Tolarian Sentinel" />
+  <Cards CatID="59790" Quantity="1" Sideboard="false" Name="Rattlechains" />
+  <Cards CatID="31556" Quantity="1" Sideboard="false" Name="Guile" />
+  <Cards CatID="34825" Quantity="1" Sideboard="false" Name="Archmage Ascension" />
+  <Cards CatID="55992" Quantity="1" Sideboard="false" Name="Dragonlord Dromoka" />
+  <Cards CatID="55914" Quantity="1" Sideboard="false" Name="Haven of the Spirit Dragon" />
+  <Cards CatID="61132" Quantity="1" Sideboard="false" Name="Docent of Perfection" />
 </Deck>

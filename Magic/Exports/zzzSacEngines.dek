@@ -31,4 +31,6 @@
   <Cards CatID="22965" Quantity="1" Sideboard="false" Name="Hell's Caretaker" />
   <Cards CatID="25695" Quantity="1" Sideboard="false" Name="Fallen Ideal" />
   <Cards CatID="55684" Quantity="1" Sideboard="false" Name="Mob Rule" />
+  <Cards CatID="39501" Quantity="1" Sideboard="false" Name="Thopter Assembly" />
+  <Cards CatID="39321" Quantity="1" Sideboard="false" Name="Mortarpod" />
 </Deck>

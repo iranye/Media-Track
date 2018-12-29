@@ -174,7 +174,7 @@
   <Cards CatID="39409" Quantity="1" Sideboard="false" Name="Mirran Spy" />
   <Cards CatID="61923" Quantity="1" Sideboard="false" Name="Padeem, Consul of Innovation" />
   <Cards CatID="31077" Quantity="1" Sideboard="false" Name="Puppet Conjurer" />
-  <Cards CatID="61132" Quantity="1" Sideboard="false" Name="Docent of Perfection" />
+  <Cards CatID="61132" Quantity="2" Sideboard="false" Name="Docent of Perfection" />
   <Cards CatID="66827" Quantity="1" Sideboard="false" Name="The Immortal Sun" />
   <Cards CatID="61959" Quantity="1" Sideboard="false" Name="Noxious Gearhulk" />
   <Cards CatID="65973" Quantity="1" Sideboard="false" Name="Consecrated Sphinx" />
@@ -227,4 +227,5 @@
   <Cards CatID="37969" Quantity="1" Sideboard="false" Name="Perilous Myr" />
   <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
   <Cards CatID="63752" Quantity="1" Sideboard="false" Name="Vizier of Tumbling Sands" />
+  <Cards CatID="67915" Quantity="1" Sideboard="false" Name="Navigator's Compass" />
 </Deck>

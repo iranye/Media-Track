@@ -90,6 +90,7 @@
   <Cards CatID="38103" Quantity="4" Sideboard="false" Name="Tempered Steel" />
   <Cards CatID="39369" Quantity="4" Sideboard="false" Name="Myr Turbine" />
   <Cards CatID="31807" Quantity="12" Sideboard="false" Name="Darklit Gargoyle" />
+  <Cards CatID="49022" Quantity="1" Sideboard="false" Name="Search for Tomorrow" />
   <Cards CatID="61783" Quantity="4" Sideboard="false" Name="Aetherworks Marvel" />
   <Cards CatID="61963" Quantity="4" Sideboard="false" Name="Lost Legacy" />
   <Cards CatID="48992" Quantity="4" Sideboard="false" Name="Kira, Great Glass-Spinner" />
@@ -188,7 +189,9 @@
   <Cards CatID="65434" Quantity="4" Sideboard="false" Name="Slice in Twain" />
   <Cards CatID="62805" Quantity="4" Sideboard="false" Name="Rishkar's Expertise" />
   <Cards CatID="35148" Quantity="4" Sideboard="false" Name="Desert" />
+  <Cards CatID="48366" Quantity="1" Sideboard="false" Name="Nivix Cyclops" />
   <Cards CatID="21405" Quantity="4" Sideboard="false" Name="Eiganjo Castle" />
+  <Cards CatID="49125" Quantity="1" Sideboard="false" Name="Time Ebb" />
   <Cards CatID="27120" Quantity="4" Sideboard="false" Name="Ghitu Encampment" />
   <Cards CatID="26808" Quantity="4" Sideboard="false" Name="Llanowar Reborn" />
   <Cards CatID="22210" Quantity="4" Sideboard="false" Name="Miren, the Moaning Well" />
@@ -228,6 +231,7 @@
   <Cards CatID="64628" Quantity="4" Sideboard="false" Name="Moaning Wall" />
   <Cards CatID="64156" Quantity="4" Sideboard="false" Name="Scattered Groves" />
   <Cards CatID="31777" Quantity="4" Sideboard="false" Name="Sylvan Bounty" />
+  <Cards CatID="20814" Quantity="1" Sideboard="false" Name="Vulshok Sorcerer" />
   <Cards CatID="63830" Quantity="4" Sideboard="false" Name="Unburden" />
   <Cards CatID="64140" Quantity="4" Sideboard="false" Name="Canyon Slough" />
   <Cards CatID="63870" Quantity="4" Sideboard="false" Name="Glorybringer" />
@@ -1552,4 +1556,123 @@
   <Cards CatID="22839" Quantity="4" Sideboard="false" Name="Thought Courier" />
   <Cards CatID="26822" Quantity="4" Sideboard="false" Name="Tolaria West" />
   <Cards CatID="25471" Quantity="4" Sideboard="false" Name="Tolarian Sentinel" />
+  <Cards CatID="62041" Quantity="1" Sideboard="false" Name="Decoction Module" />
+  <Cards CatID="30815" Quantity="1" Sideboard="false" Name="Niv-Mizzet, the Firemind" />
+  <Cards CatID="46485" Quantity="1" Sideboard="false" Name="Hypersonic Dragon" />
+  <Cards CatID="56308" Quantity="1" Sideboard="false" Name="Dragon-Scarred Bear" />
+  <Cards CatID="26133" Quantity="4" Sideboard="false" Name="Undertaker" />
+  <Cards CatID="26547" Quantity="4" Sideboard="false" Name="Venarian Glimmer" />
+  <Cards CatID="19623" Quantity="4" Sideboard="false" Name="Warped Devotion" />
+  <Cards CatID="40595" Quantity="2" Sideboard="false" Name="Wall of Omens" />
+  <Cards CatID="25637" Quantity="4" Sideboard="false" Name="Wheel of Fate" />
+  <Cards CatID="19433" Quantity="4" Sideboard="false" Name="Wall of Air" />
+  <Cards CatID="63293" Quantity="1" Sideboard="false" Name="Intangible Virtue" />
+  <Cards CatID="60262" Quantity="8" Sideboard="false" Name="Rottenheart Ghoul" />
+  <Cards CatID="34498" Quantity="4" Sideboard="false" Name="Reckless Scholar" />
+  <Cards CatID="58367" Quantity="4" Sideboard="false" Name="Horribly Awry" />
+  <Cards CatID="60324" Quantity="4" Sideboard="false" Name="Asylum Visitor" />
+  <Cards CatID="34408" Quantity="8" Sideboard="false" Name="Burst Lightning" />
+  <Cards CatID="60282" Quantity="4" Sideboard="false" Name="Eerie Interlude" />
+  <Cards CatID="60380" Quantity="4" Sideboard="false" Name="Elusive Tormentor" />
+  <Cards CatID="60034" Quantity="4" Sideboard="false" Name="Diregraf Colossus" />
+  <Cards CatID="58014" Quantity="4" Sideboard="false" Name="Flameshadow Conjuring" />
+  <Cards CatID="58050" Quantity="4" Sideboard="false" Name="Herald of the Pantheon" />
+  <Cards CatID="60092" Quantity="4" Sideboard="false" Name="From Under the Floorboards" />
+  <Cards CatID="59908" Quantity="4" Sideboard="false" Name="Hanweir Militia Captain" />
+  <Cards CatID="34538" Quantity="4" Sideboard="false" Name="Hellkite Charger" />
+  <Cards CatID="39519" Quantity="4" Sideboard="false" Name="Hellkite Igniter" />
+  <Cards CatID="60134" Quantity="5" Sideboard="false" Name="Inexorable Blob" />
+  <Cards CatID="26339" Quantity="8" Sideboard="false" Name="Intet, the Dreamer" />
+  <Cards CatID="60128" Quantity="4" Sideboard="false" Name="Invocation of Saint Traft" />
+  <Cards CatID="36524" Quantity="2" Sideboard="false" Name="Kor Spiritdancer" />
+  <Cards CatID="24253" Quantity="4" Sideboard="false" Name="Condemn" />
+  <Cards CatID="60370" Quantity="8" Sideboard="false" Name="Accursed Witch" />
+  <Cards CatID="59790" Quantity="5" Sideboard="false" Name="Rattlechains" />
+  <Cards CatID="59834" Quantity="8" Sideboard="false" Name="Wild-Field Scarecrow" />
+  <Cards CatID="60126" Quantity="4" Sideboard="false" Name="Second Harvest" />
+  <Cards CatID="41545" Quantity="4" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="60082" Quantity="4" Sideboard="false" Name="Tamiyo's Journal" />
+  <Cards CatID="60016" Quantity="4" Sideboard="false" Name="Triskaidekaphobia" />
+  <Cards CatID="28345" Quantity="1" Sideboard="false" Name="Mosswort Bridge" />
+  <Cards CatID="23174" Quantity="2" Sideboard="false" Name="Remand" />
+  <Cards CatID="23570" Quantity="4" Sideboard="false" Name="Necroplasm" />
+  <Cards CatID="31889" Quantity="4" Sideboard="false" Name="Gwafa Hazid, Profiteer" />
+  <Cards CatID="31556" Quantity="4" Sideboard="false" Name="Guile" />
+  <Cards CatID="24119" Quantity="4" Sideboard="false" Name="Plaxmanta" />
+  <Cards CatID="39339" Quantity="4" Sideboard="false" Name="Ichor Wellspring" />
+  <Cards CatID="42694" Quantity="4" Sideboard="false" Name="Mentor of the Meek" />
+  <Cards CatID="26281" Quantity="4" Sideboard="false" Name="Essence Warden" />
+  <Cards CatID="29994" Quantity="1" Sideboard="false" Name="Creakwood Liege" />
+  <Cards CatID="42294" Quantity="4" Sideboard="false" Name="Ghost Quarter" />
+  <Cards CatID="59778" Quantity="2" Sideboard="false" Name="Brain in a Jar" />
+  <Cards CatID="26794" Quantity="4" Sideboard="false" Name="Augur of Skulls" />
+  <Cards CatID="60118" Quantity="8" Sideboard="false" Name="Compelling Deterrence" />
+  <Cards CatID="41545" Quantity="4" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="20469" Quantity="4" Sideboard="false" Name="Spawning Pit" />
+  <Cards CatID="60126" Quantity="4" Sideboard="false" Name="Second Harvest" />
+  <Cards CatID="42790" Quantity="4" Sideboard="false" Name="Parallel Lives" />
+  <Cards CatID="34636" Quantity="1" Sideboard="false" Name="Obsidian Fireheart" />
+  <Cards CatID="26339" Quantity="8" Sideboard="false" Name="Intet, the Dreamer" />
+  <Cards CatID="36524" Quantity="2" Sideboard="false" Name="Kor Spiritdancer" />
+  <Cards CatID="23667" Quantity="4" Sideboard="false" Name="Abyssal Nocturnus" />
+  <Cards CatID="24575" Quantity="4" Sideboard="false" Name="Blizzard Specter" />
+  <Cards CatID="41183" Quantity="4" Sideboard="false" Name="Cemetery Reaper" />
+  <Cards CatID="23150" Quantity="4" Sideboard="false" Name="Dimir Cutpurse" />
+  <Cards CatID="23108" Quantity="4" Sideboard="false" Name="Dimir Doppelganger" />
+  <Cards CatID="40477" Quantity="1" Sideboard="false" Name="Howling Mine" />
+  <Cards CatID="28469" Quantity="2" Sideboard="false" Name="Jace Beleren" />
+  <Cards CatID="49571" Quantity="4" Sideboard="false" Name="Liliana's Reaver" />
+  <Cards CatID="37352" Quantity="4" Sideboard="false" Name="Liliana's Specter" />
+  <Cards CatID="23210" Quantity="4" Sideboard="false" Name="Lore Broker" />
+  <Cards CatID="18714" Quantity="4" Sideboard="false" Name="Undead Warchief" />
+  <Cards CatID="60090" Quantity="11" Sideboard="false" Name="Shamble Back" />
+  <Cards CatID="55914" Quantity="2" Sideboard="false" Name="Haven of the Spirit Dragon" />
+  <Cards CatID="58317" Quantity="1" Sideboard="false" Name="Gideon, Ally of Zendikar" />
+  <Cards CatID="58531" Quantity="3" Sideboard="false" Name="Shambling Vent" />
+  <Cards CatID="54198" Quantity="3" Sideboard="false" Name="Bloodstained Mire" />
+  <Cards CatID="58697" Quantity="4" Sideboard="false" Name="Smoldering Marsh" />
+  <Cards CatID="56296" Quantity="4" Sideboard="false" Name="Thunderbreak Regent" />
+  <Cards CatID="55614" Quantity="2" Sideboard="false" Name="Soulfire Grand Master" />
+  <Cards CatID="55354" Quantity="2" Sideboard="false" Name="Kolaghan, the Storm's Fury" />
+  <Cards CatID="58399" Quantity="1" Sideboard="false" Name="Ob Nixilis Reignited" />
+  <Cards CatID="54246" Quantity="2" Sideboard="false" Name="Sarkhan, the Dragonspeaker" />
+  <Cards CatID="55944" Quantity="4" Sideboard="false" Name="Hidden Dragonslayer" />
+  <Cards CatID="55440" Quantity="2" Sideboard="false" Name="Outpost Siege" />
+  <Cards CatID="58134" Quantity="4" Sideboard="false" Name="Sword of the Animist" />
+  <Cards CatID="56212" Quantity="4" Sideboard="false" Name="Myth Realized" />
+  <Cards CatID="56110" Quantity="2" Sideboard="false" Name="Ojutai Exemplars" />
+  <Cards CatID="56076" Quantity="1" Sideboard="false" Name="Narset Transcendent" />
+  <Cards CatID="55614" Quantity="2" Sideboard="false" Name="Soulfire Grand Master" />
+  <Cards CatID="53850" Quantity="4" Sideboard="false" Name="Hydra Broodmaster" />
+  <Cards CatID="56064" Quantity="1" Sideboard="false" Name="Icefall Regent" />
+  <Cards CatID="55652" Quantity="4" Sideboard="false" Name="Supplant Form" />
+  <Cards CatID="56122" Quantity="1" Sideboard="false" Name="Dragon Whisperer" />
+  <Cards CatID="55370" Quantity="2" Sideboard="false" Name="Ghastly Conscription" />
+  <Cards CatID="55976" Quantity="1" Sideboard="false" Name="Dragonlord Atarka" />
+  <Cards CatID="55924" Quantity="2" Sideboard="false" Name="Clone Legion" />
+  <Cards CatID="54252" Quantity="4" Sideboard="false" Name="Narset, Enlightened Master" />
+  <Cards CatID="54434" Quantity="4" Sideboard="false" Name="Mantis Rider" />
+  <Cards CatID="55978" Quantity="1" Sideboard="false" Name="Anafenza, Kin-Tree Spirit" />
+  <Cards CatID="56104" Quantity="4" Sideboard="false" Name="Living Lore" />
+  <Cards CatID="56386" Quantity="2" Sideboard="false" Name="Avatar of the Resolute" />
+  <Cards CatID="55914" Quantity="2" Sideboard="false" Name="Haven of the Spirit Dragon" />
+  <Cards CatID="56192" Quantity="3" Sideboard="false" Name="Sarkhan Unbroken" />
+  <Cards CatID="55956" Quantity="2" Sideboard="false" Name="Foul Renewal" />
+  <Cards CatID="55992" Quantity="2" Sideboard="false" Name="Dragonlord Dromoka" />
+  <Cards CatID="56328" Quantity="2" Sideboard="false" Name="Ojutai's Command" />
+  <Cards CatID="56344" Quantity="5" Sideboard="false" Name="Harbinger of the Hunt" />
+  <Cards CatID="56364" Quantity="4" Sideboard="false" Name="Mirror Mockery" />
+  <Cards CatID="56190" Quantity="3" Sideboard="false" Name="Crater Elemental" />
+  <Cards CatID="56082" Quantity="4" Sideboard="false" Name="Kolaghan's Command" />
+  <Cards CatID="56344" Quantity="5" Sideboard="false" Name="Harbinger of the Hunt" />
+  <Cards CatID="55632" Quantity="8" Sideboard="false" Name="Temur Sabertooth" />
+  <Cards CatID="56196" Quantity="4" Sideboard="false" Name="Sunscorch Regent" />
+  <Cards CatID="34825" Quantity="4" Sideboard="false" Name="Archmage Ascension" />
+  <Cards CatID="57894" Quantity="1" Sideboard="false" Name="Artificer's Epiphany" />
+  <Cards CatID="67557" Quantity="4" Sideboard="false" Name="Blink of an Eye" />
+  <Cards CatID="61661" Quantity="4" Sideboard="false" Name="Ceremonious Rejection" />
+  <Cards CatID="69793" Quantity="1" Sideboard="false" Name="Undercity Uprising" />
+  <Cards CatID="47675" Quantity="4" Sideboard="false" Name="Undercity Informer" />
+  <Cards CatID="61106" Quantity="1" Sideboard="false" Name="Convolute" />
+  <Cards CatID="66047" Quantity="1" Sideboard="false" Name="Butcher's Glee" />
 </Deck>
