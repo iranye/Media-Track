@@ -6,7 +6,7 @@
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="37226" Quantity="2" Sideboard="false" Name="Drowned Catacomb" />
   <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
-  <Cards CatID="14915" Quantity="4" Sideboard="false" Name="Island" />
+  <Cards CatID="14915" Quantity="5" Sideboard="false" Name="Island" />
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="60076" Quantity="5" Sideboard="false" Name="Swamp" />
   <Cards CatID="50264" Quantity="2" Sideboard="false" Name="Temple of Deceit" />
@@ -24,10 +24,8 @@
   <Cards CatID="66055" Quantity="1" Sideboard="false" Name="Duress" />
   <Cards CatID="19623" Quantity="2" Sideboard="false" Name="Warped Devotion" />
   <Cards CatID="65963" Quantity="1" Sideboard="false" Name="Ancestral Vision" />
-  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="67627" Quantity="1" Sideboard="false" Name="Cast Down" />
-  <Cards CatID="35555" Quantity="4" Sideboard="false" Name="Abyssal Persecutor" />
-  <Cards CatID="45390" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
+  <Cards CatID="35555" Quantity="3" Sideboard="false" Name="Abyssal Persecutor" />
   <Cards CatID="20499" Quantity="1" Sideboard="false" Name="Pulse of the Grid" />
   <Cards CatID="19569" Quantity="1" Sideboard="false" Name="Merchant Scroll" />
   <Cards CatID="23312" Quantity="1" Sideboard="false" Name="Muddle the Mixture" />
@@ -36,10 +34,10 @@
   <Cards CatID="42518" Quantity="1" Sideboard="false" Name="Evil Twin" />
   <Cards CatID="37518" Quantity="1" Sideboard="false" Name="Redirect" />
   <Cards CatID="50256" Quantity="1" Sideboard="false" Name="Thoughtseize" />
-  <Cards CatID="39569" Quantity="1" Sideboard="true" Name="Phyrexian Revoker" />
+  <Cards CatID="39569" Quantity="1" Sideboard="false" Name="Phyrexian Revoker" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
   <Cards CatID="64148" Quantity="2" Sideboard="false" Name="Fetid Pools" />
-  <Cards CatID="61360" Quantity="2" Sideboard="false" Name="Curious Homunculus" />
+  <Cards CatID="61360" Quantity="1" Sideboard="false" Name="Curious Homunculus" />
   <Cards CatID="39742" Quantity="2" Sideboard="false" Name="Hex Parasite" />
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
   <Cards CatID="50614" Quantity="1" Sideboard="true" Name="Gainsay" />
@@ -55,23 +53,19 @@
   <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
   <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
   <Cards CatID="20187" Quantity="2" Sideboard="false" Name="Power Conduit" />
-  <Cards CatID="65510" Quantity="1" Sideboard="false" Name="Primal Amulet" />
   <Cards CatID="57320" Quantity="1" Sideboard="false" Name="Etched Monstrosity" />
   <Cards CatID="61917" Quantity="1" Sideboard="false" Name="Torrential Gearhulk" />
   <Cards CatID="42336" Quantity="1" Sideboard="false" Name="Ludevic's Test Subject" />
   <Cards CatID="34810" Quantity="1" Sideboard="true" Name="Ravenous Trap" />
-  <Cards CatID="27721" Quantity="1" Sideboard="false" Name="Telling Time" />
   <Cards CatID="57378" Quantity="1" Sideboard="false" Name="Repeal" />
-  <Cards CatID="63179" Quantity="1" Sideboard="false" Name="Soul Manipulation" />
   <Cards CatID="39922" Quantity="1" Sideboard="false" Name="Noxious Revival" />
   <Cards CatID="46587" Quantity="2" Sideboard="true" Name="Dispel" />
   <Cards CatID="27492" Quantity="2" Sideboard="false" Name="Peek" />
-  <Cards CatID="61132" Quantity="1" Sideboard="false" Name="Docent of Perfection" />
-  <Cards CatID="67557" Quantity="1" Sideboard="false" Name="Blink of an Eye" />
   <Cards CatID="61661" Quantity="1" Sideboard="true" Name="Ceremonious Rejection" />
   <Cards CatID="63826" Quantity="1" Sideboard="false" Name="Trespasser's Curse" />
   <Cards CatID="56000" Quantity="1" Sideboard="false" Name="Butcher's Glee" />
   <Cards CatID="61931" Quantity="1" Sideboard="false" Name="Rush of Vitality" />
   <Cards CatID="57894" Quantity="1" Sideboard="false" Name="Artificer's Epiphany" />
   <Cards CatID="47837" Quantity="1" Sideboard="false" Name="Devour Flesh" />
+  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
 </Deck>
