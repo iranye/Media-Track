@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -6,7 +6,7 @@
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="37226" Quantity="2" Sideboard="false" Name="Drowned Catacomb" />
   <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
-  <Cards CatID="14915" Quantity="5" Sideboard="false" Name="Island" />
+  <Cards CatID="14915" Quantity="4" Sideboard="false" Name="Island" />
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="60076" Quantity="5" Sideboard="false" Name="Swamp" />
   <Cards CatID="50264" Quantity="2" Sideboard="false" Name="Temple of Deceit" />
@@ -39,6 +39,23 @@
   <Cards CatID="64148" Quantity="2" Sideboard="false" Name="Fetid Pools" />
   <Cards CatID="61360" Quantity="1" Sideboard="false" Name="Curious Homunculus" />
   <Cards CatID="39742" Quantity="2" Sideboard="false" Name="Hex Parasite" />
+  <Cards CatID="63686" Quantity="1" Sideboard="false" Name="As Foretold" />
+  <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
+  <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
+  <Cards CatID="20187" Quantity="2" Sideboard="false" Name="Power Conduit" />
+  <Cards CatID="57320" Quantity="1" Sideboard="false" Name="Etched Monstrosity" />
+  <Cards CatID="61917" Quantity="1" Sideboard="false" Name="Torrential Gearhulk" />
+  <Cards CatID="42336" Quantity="1" Sideboard="false" Name="Ludevic's Test Subject" />
+  <Cards CatID="57378" Quantity="1" Sideboard="false" Name="Repeal" />
+  <Cards CatID="63179" Quantity="1" Sideboard="false" Name="Soul Manipulation" />
+  <Cards CatID="39922" Quantity="1" Sideboard="false" Name="Noxious Revival" />
+  <Cards CatID="27492" Quantity="2" Sideboard="false" Name="Peek" />
+  <Cards CatID="63826" Quantity="1" Sideboard="false" Name="Trespasser's Curse" />
+  <Cards CatID="56000" Quantity="1" Sideboard="false" Name="Butcher's Glee" />
+  <Cards CatID="61931" Quantity="1" Sideboard="false" Name="Rush of Vitality" />
+  <Cards CatID="57894" Quantity="1" Sideboard="false" Name="Artificer's Epiphany" />
+  <Cards CatID="47837" Quantity="1" Sideboard="false" Name="Devour Flesh" />
+  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
   <Cards CatID="50614" Quantity="1" Sideboard="true" Name="Gainsay" />
   <Cards CatID="64586" Quantity="1" Sideboard="true" Name="Tragic Lesson" />
@@ -49,23 +66,7 @@
   <Cards CatID="50226" Quantity="1" Sideboard="true" Name="Cutthroat Maneuver" />
   <Cards CatID="56078" Quantity="2" Sideboard="true" Name="Gravepurge" />
   <Cards CatID="39569" Quantity="1" Sideboard="true" Name="Phyrexian Revoker" />
-  <Cards CatID="63686" Quantity="1" Sideboard="false" Name="As Foretold" />
-  <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
-  <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
-  <Cards CatID="20187" Quantity="2" Sideboard="false" Name="Power Conduit" />
-  <Cards CatID="57320" Quantity="1" Sideboard="false" Name="Etched Monstrosity" />
-  <Cards CatID="61917" Quantity="1" Sideboard="false" Name="Torrential Gearhulk" />
-  <Cards CatID="42336" Quantity="1" Sideboard="false" Name="Ludevic's Test Subject" />
   <Cards CatID="34810" Quantity="1" Sideboard="true" Name="Ravenous Trap" />
-  <Cards CatID="57378" Quantity="1" Sideboard="false" Name="Repeal" />
-  <Cards CatID="39922" Quantity="1" Sideboard="false" Name="Noxious Revival" />
   <Cards CatID="46587" Quantity="2" Sideboard="true" Name="Dispel" />
-  <Cards CatID="27492" Quantity="2" Sideboard="false" Name="Peek" />
   <Cards CatID="61661" Quantity="1" Sideboard="true" Name="Ceremonious Rejection" />
-  <Cards CatID="63826" Quantity="1" Sideboard="false" Name="Trespasser's Curse" />
-  <Cards CatID="56000" Quantity="1" Sideboard="false" Name="Butcher's Glee" />
-  <Cards CatID="61931" Quantity="1" Sideboard="false" Name="Rush of Vitality" />
-  <Cards CatID="57894" Quantity="1" Sideboard="false" Name="Artificer's Epiphany" />
-  <Cards CatID="47837" Quantity="1" Sideboard="false" Name="Devour Flesh" />
-  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
 </Deck>
