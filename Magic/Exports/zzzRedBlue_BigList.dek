@@ -228,4 +228,9 @@
   <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
   <Cards CatID="63752" Quantity="1" Sideboard="false" Name="Vizier of Tumbling Sands" />
   <Cards CatID="67915" Quantity="1" Sideboard="false" Name="Navigator's Compass" />
+  <Cards CatID="39557" Quantity="1" Sideboard="false" Name="Spine of Ish Sah" />
+  <Cards CatID="20055" Quantity="1" Sideboard="false" Name="Clockwork Dragon" />
+  <Cards CatID="22327" Quantity="1" Sideboard="false" Name="Booby Trap" />
+  <Cards CatID="20171" Quantity="1" Sideboard="false" Name="Thought Prison" />
+  <Cards CatID="38157" Quantity="1" Sideboard="false" Name="Precursor Golem" />
 </Deck>

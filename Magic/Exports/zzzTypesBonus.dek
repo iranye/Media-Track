@@ -15,4 +15,7 @@
   <Cards CatID="59589" Quantity="1" Sideboard="false" Name="Stoneforge Masterwork" />
   <Cards CatID="43829" Quantity="1" Sideboard="false" Name="Bladed Bracers" />
   <Cards CatID="41437" Quantity="1" Sideboard="false" Name="Lord of the Unreal" />
+  <Cards CatID="26191" Quantity="1" Sideboard="false" Name="Mistform Ultimus" />
+  <Cards CatID="44237" Quantity="1" Sideboard="false" Name="Descendants' Path" />
+  <Cards CatID="41349" Quantity="1" Sideboard="false" Name="Phantasmal Dragon" />
 </Deck>

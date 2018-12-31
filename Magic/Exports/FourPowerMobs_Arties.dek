@@ -66,7 +66,7 @@
   <Cards CatID="34826" Quantity="1" Sideboard="false" Name="Khalni Gem" />
   <Cards CatID="31213" Quantity="1" Sideboard="false" Name="Etherium Sculptor" />
   <Cards CatID="42570" Quantity="1" Sideboard="false" Name="Witchbane Orb" />
-  <Cards CatID="53714" Quantity="1" Sideboard="false" Name="Meteorite" />
+  <Cards CatID="53714" Quantity="2" Sideboard="false" Name="Meteorite" />
   <Cards CatID="62059" Quantity="1" Sideboard="false" Name="Self-Assembler" />
   <Cards CatID="61795" Quantity="1" Sideboard="false" Name="Skysovereign, Consul Flagship" />
   <Cards CatID="31917" Quantity="1" Sideboard="false" Name="Sphinx Summoner" />
@@ -101,4 +101,14 @@
   <Cards CatID="51709" Quantity="1" Sideboard="false" Name="Kiora's Follower" />
   <Cards CatID="63125" Quantity="1" Sideboard="false" Name="Flickerwisp" />
   <Cards CatID="40477" Quantity="1" Sideboard="false" Name="Howling Mine" />
+  <Cards CatID="48802" Quantity="1" Sideboard="false" Name="Sanctum Gargoyle" />
+  <Cards CatID="39303" Quantity="1" Sideboard="false" Name="Pierce Strider" />
+  <Cards CatID="57120" Quantity="1" Sideboard="false" Name="Faerie Mechanist" />
+  <Cards CatID="31713" Quantity="1" Sideboard="false" Name="Parasitic Strix" />
+  <Cards CatID="31671" Quantity="1" Sideboard="false" Name="Kaleidostone" />
+  <Cards CatID="51012" Quantity="1" Sideboard="false" Name="Filigree Angel" />
+  <Cards CatID="38307" Quantity="1" Sideboard="false" Name="Myr Battlesphere" />
+  <Cards CatID="42602" Quantity="1" Sideboard="false" Name="Geistcatcher's Rig" />
+  <Cards CatID="61989" Quantity="1" Sideboard="false" Name="Combustible Gearhulk" />
+  <Cards CatID="35709" Quantity="1" Sideboard="false" Name="Lodestone Golem" />
 </Deck>

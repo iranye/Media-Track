@@ -1675,4 +1675,87 @@
   <Cards CatID="47675" Quantity="4" Sideboard="false" Name="Undercity Informer" />
   <Cards CatID="61106" Quantity="1" Sideboard="false" Name="Convolute" />
   <Cards CatID="66047" Quantity="1" Sideboard="false" Name="Butcher's Glee" />
+  <Cards CatID="55582" Quantity="6" Sideboard="false" Name="Enhanced Awareness" />
+  <Cards CatID="46647" Quantity="7" Sideboard="false" Name="Essence Backlash" />
+  <Cards CatID="50626" Quantity="7" Sideboard="false" Name="Griptide" />
+  <Cards CatID="20147" Quantity="4" Sideboard="false" Name="Domineer" />
+  <Cards CatID="38359" Quantity="4" Sideboard="false" Name="Liquimetal Coating" />
+  <Cards CatID="69619" Quantity="4" Sideboard="false" Name="Beast Whisperer" />
+  <Cards CatID="20059" Quantity="4" Sideboard="false" Name="Sculpting Steel" />
+  <Cards CatID="20215" Quantity="4" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="29695" Quantity="4" Sideboard="false" Name="Lurebound Scarecrow" />
+  <Cards CatID="20527" Quantity="4" Sideboard="false" Name="Eater of Days" />
+  <Cards CatID="20427" Quantity="4" Sideboard="false" Name="Arcbound Crusher" />
+  <Cards CatID="29565" Quantity="4" Sideboard="false" Name="Boartusk Liege" />
+  <Cards CatID="34670" Quantity="4" Sideboard="false" Name="Grappling Hook" />
+  <Cards CatID="30911" Quantity="4" Sideboard="false" Name="Sedraxis Specter" />
+  <Cards CatID="20419" Quantity="4" Sideboard="false" Name="Vedalken Engineer" />
+  <Cards CatID="28633" Quantity="4" Sideboard="false" Name="Turtleshell Changeling" />
+  <Cards CatID="34698" Quantity="4" Sideboard="false" Name="Blade of the Bloodchief" />
+  <Cards CatID="34378" Quantity="4" Sideboard="false" Name="Blood Tribute" />
+  <Cards CatID="56362" Quantity="4" Sideboard="false" Name="Gleam of Authority" />
+  <Cards CatID="54344" Quantity="4" Sideboard="false" Name="Retribution of the Ancients" />
+  <Cards CatID="59788" Quantity="4" Sideboard="false" Name="Thalia's Lieutenant" />
+  <Cards CatID="20820" Quantity="4" Sideboard="false" Name="Healer's Headdress" />
+  <Cards CatID="29202" Quantity="4" Sideboard="false" Name="Taurean Mauler" />
+  <Cards CatID="21811" Quantity="4" Sideboard="false" Name="Kumano's Blessing" />
+  <Cards CatID="21827" Quantity="1" Sideboard="false" Name="Ninja of the Deep Hours" />
+  <Cards CatID="37388" Quantity="3" Sideboard="false" Name="Preordain" />
+  <Cards CatID="26720" Quantity="1" Sideboard="false" Name="Daybreak Coronet" />
+  <Cards CatID="41395" Quantity="4" Sideboard="false" Name="Spirit Mantle" />
+  <Cards CatID="28735" Quantity="4" Sideboard="false" Name="Triclopean Sight" />
+  <Cards CatID="59275" Quantity="4" Sideboard="false" Name="Visions of Brutality" />
+  <Cards CatID="29086" Quantity="4" Sideboard="false" Name="Weight of Conscience" />
+  <Cards CatID="62565" Quantity="4" Sideboard="false" Name="Metallic Mimic" />
+  <Cards CatID="24299" Quantity="4" Sideboard="false" Name="Ragamuffyn" />
+  <Cards CatID="29309" Quantity="4" Sideboard="false" Name="Resplendent Mentor" />
+  <Cards CatID="22411" Quantity="4" Sideboard="false" Name="Sanctum Guardian" />
+  <Cards CatID="43353" Quantity="4" Sideboard="false" Name="Thraben Doomsayer" />
+  <Cards CatID="22705" Quantity="4" Sideboard="false" Name="Weathered Wayfarer" />
+  <Cards CatID="22755" Quantity="4" Sideboard="false" Name="Zealous Inquisitor" />
+  <Cards CatID="19305" Quantity="4" Sideboard="false" Name="Crossbow Infantry" />
+  <Cards CatID="59351" Quantity="4" Sideboard="false" Name="Endbringer" />
+  <Cards CatID="23927" Quantity="4" Sideboard="false" Name="Martyred Rusalka" />
+  <Cards CatID="26317" Quantity="4" Sideboard="false" Name="Midnight Charm" />
+  <Cards CatID="62747" Quantity="4" Sideboard="false" Name="Quicksmith Rebel" />
+  <Cards CatID="57956" Quantity="4" Sideboard="false" Name="Touch of Moonglove" />
+  <Cards CatID="26285" Quantity="4" Sideboard="false" Name="Akroma, Angel of Fury" />
+  <Cards CatID="44213" Quantity="4" Sideboard="false" Name="Somberwald Sage" />
+  <Cards CatID="25693" Quantity="4" Sideboard="false" Name="Ashcoat Bear" />
+  <Cards CatID="44001" Quantity="4" Sideboard="false" Name="Druid's Familiar" />
+  <Cards CatID="41439" Quantity="4" Sideboard="false" Name="Phantasmal Bear" />
+  <Cards CatID="43229" Quantity="4" Sideboard="false" Name="Ulvenwald Bear" />
+  <Cards CatID="44237" Quantity="4" Sideboard="false" Name="Descendants' Path" />
+  <Cards CatID="26191" Quantity="4" Sideboard="false" Name="Mistform Ultimus" />
+  <Cards CatID="24153" Quantity="4" Sideboard="false" Name="Bronze Bombshell" />
+  <Cards CatID="35709" Quantity="4" Sideboard="false" Name="Lodestone Golem" />
+  <Cards CatID="62017" Quantity="4" Sideboard="false" Name="Verdurous Gearhulk" />
+  <Cards CatID="61989" Quantity="2" Sideboard="false" Name="Combustible Gearhulk" />
+  <Cards CatID="42602" Quantity="4" Sideboard="false" Name="Geistcatcher's Rig" />
+  <Cards CatID="38307" Quantity="4" Sideboard="false" Name="Myr Battlesphere" />
+  <Cards CatID="51012" Quantity="4" Sideboard="false" Name="Filigree Angel" />
+  <Cards CatID="70053" Quantity="1" Sideboard="false" Name="Platinum Emperion" />
+  <Cards CatID="23066" Quantity="4" Sideboard="false" Name="Nullstone Gargoyle" />
+  <Cards CatID="31671" Quantity="4" Sideboard="false" Name="Kaleidostone" />
+  <Cards CatID="31713" Quantity="4" Sideboard="false" Name="Parasitic Strix" />
+  <Cards CatID="57120" Quantity="4" Sideboard="false" Name="Faerie Mechanist" />
+  <Cards CatID="38237" Quantity="4" Sideboard="false" Name="Prototype Portal" />
+  <Cards CatID="39303" Quantity="4" Sideboard="false" Name="Pierce Strider" />
+  <Cards CatID="48802" Quantity="4" Sideboard="false" Name="Sanctum Gargoyle" />
+  <Cards CatID="48688" Quantity="4" Sideboard="false" Name="Runed Stalactite" />
+  <Cards CatID="53714" Quantity="4" Sideboard="false" Name="Meteorite" />
+  <Cards CatID="61823" Quantity="4" Sideboard="false" Name="Multiform Wonder" />
+  <Cards CatID="38157" Quantity="4" Sideboard="false" Name="Precursor Golem" />
+  <Cards CatID="20171" Quantity="4" Sideboard="false" Name="Thought Prison" />
+  <Cards CatID="22327" Quantity="4" Sideboard="false" Name="Booby Trap" />
+  <Cards CatID="20117" Quantity="4" Sideboard="false" Name="Mirror Golem" />
+  <Cards CatID="20055" Quantity="4" Sideboard="false" Name="Clockwork Dragon" />
+  <Cards CatID="39557" Quantity="4" Sideboard="false" Name="Spine of Ish Sah" />
+  <Cards CatID="29485" Quantity="4" Sideboard="false" Name="Grim Poppet" />
+  <Cards CatID="30230" Quantity="4" Sideboard="false" Name="Scarecrone" />
+  <Cards CatID="28485" Quantity="4" Sideboard="false" Name="Amoeboid Changeling" />
+  <Cards CatID="28988" Quantity="4" Sideboard="false" Name="Game-Trail Changeling" />
+  <Cards CatID="28635" Quantity="4" Sideboard="false" Name="Skeletal Changeling" />
+  <Cards CatID="32296" Quantity="4" Sideboard="false" Name="Skyclaw Thrash" />
+  <Cards CatID="28221" Quantity="4" Sideboard="false" Name="Changeling Hero" />
 </Deck>
