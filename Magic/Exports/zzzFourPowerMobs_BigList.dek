@@ -240,4 +240,11 @@
   <Cards CatID="62017" Quantity="1" Sideboard="false" Name="Verdurous Gearhulk" />
   <Cards CatID="35709" Quantity="1" Sideboard="false" Name="Lodestone Golem" />
   <Cards CatID="44237" Quantity="1" Sideboard="false" Name="Descendants' Path" />
+  <Cards CatID="28988" Quantity="1" Sideboard="false" Name="Game-Trail Changeling" />
+  <Cards CatID="44213" Quantity="1" Sideboard="false" Name="Somberwald Sage" />
+  <Cards CatID="26285" Quantity="1" Sideboard="false" Name="Akroma, Angel of Fury" />
+  <Cards CatID="59351" Quantity="1" Sideboard="false" Name="Endbringer" />
+  <Cards CatID="29565" Quantity="1" Sideboard="false" Name="Boartusk Liege" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="69619" Quantity="1" Sideboard="false" Name="Beast Whisperer" />
 </Deck>

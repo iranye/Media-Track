@@ -51,11 +51,8 @@
   <Cards CatID="61623" Quantity="1" Sideboard="false" Name="Built to Last" />
   <Cards CatID="54022" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
   <Cards CatID="50578" Quantity="1" Sideboard="false" Name="Anger of the Gods" />
-  <Cards CatID="61841" Quantity="3" Sideboard="false" Name="Plains" />
   <Cards CatID="67939" Quantity="1" Sideboard="false" Name="Weatherlight" />
-  <Cards CatID="61837" Quantity="2" Sideboard="false" Name="Mountain" />
   <Cards CatID="61795" Quantity="1" Sideboard="false" Name="Skysovereign, Consul Flagship" />
-  <Cards CatID="61839" Quantity="4" Sideboard="false" Name="Plains" />
   <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
   <Cards CatID="58527" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="53346" Quantity="1" Sideboard="false" Name="Battlefield Forge" />
@@ -81,4 +78,9 @@
   <Cards CatID="61797" Quantity="1" Sideboard="false" Name="Smuggler's Copter" />
   <Cards CatID="65933" Quantity="1" Sideboard="false" Name="Pentarch Ward" />
   <Cards CatID="26243" Quantity="1" Sideboard="false" Name="Mantle of Leadership" />
+  <Cards CatID="28221" Quantity="1" Sideboard="false" Name="Changeling Hero" />
+  <Cards CatID="28635" Quantity="1" Sideboard="false" Name="Skeletal Changeling" />
+  <Cards CatID="41395" Quantity="1" Sideboard="false" Name="Spirit Mantle" />
+  <Cards CatID="26720" Quantity="1" Sideboard="false" Name="Daybreak Coronet" />
+  <Cards CatID="29202" Quantity="1" Sideboard="false" Name="Taurean Mauler" />
 </Deck>

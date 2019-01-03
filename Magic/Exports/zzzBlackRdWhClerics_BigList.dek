@@ -81,4 +81,13 @@
   <Cards CatID="59589" Quantity="4" Sideboard="false" Name="Stoneforge Masterwork" />
   <Cards CatID="18331" Quantity="1" Sideboard="false" Name="Doomed Necromancer" />
   <Cards CatID="26543" Quantity="1" Sideboard="false" Name="Dust Elemental" />
+  <Cards CatID="22755" Quantity="1" Sideboard="false" Name="Zealous Inquisitor" />
+  <Cards CatID="22705" Quantity="1" Sideboard="false" Name="Weathered Wayfarer" />
+  <Cards CatID="22411" Quantity="1" Sideboard="false" Name="Sanctum Guardian" />
+  <Cards CatID="29309" Quantity="1" Sideboard="false" Name="Resplendent Mentor" />
+  <Cards CatID="24299" Quantity="1" Sideboard="false" Name="Ragamuffyn" />
+  <Cards CatID="62565" Quantity="1" Sideboard="false" Name="Metallic Mimic" />
+  <Cards CatID="29086" Quantity="1" Sideboard="false" Name="Weight of Conscience" />
+  <Cards CatID="29202" Quantity="1" Sideboard="false" Name="Taurean Mauler" />
+  <Cards CatID="59788" Quantity="1" Sideboard="false" Name="Thalia's Lieutenant" />
 </Deck>

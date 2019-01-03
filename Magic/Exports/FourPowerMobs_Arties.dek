@@ -111,4 +111,11 @@
   <Cards CatID="42602" Quantity="1" Sideboard="false" Name="Geistcatcher's Rig" />
   <Cards CatID="61989" Quantity="1" Sideboard="false" Name="Combustible Gearhulk" />
   <Cards CatID="35709" Quantity="1" Sideboard="false" Name="Lodestone Golem" />
+  <Cards CatID="20427" Quantity="1" Sideboard="false" Name="Arcbound Crusher" />
+  <Cards CatID="41483" Quantity="1" Sideboard="false" Name="Sundial of the Infinite" />
+  <Cards CatID="20527" Quantity="1" Sideboard="false" Name="Eater of Days" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="20059" Quantity="1" Sideboard="false" Name="Sculpting Steel" />
+  <Cards CatID="38359" Quantity="1" Sideboard="false" Name="Liquimetal Coating" />
+  <Cards CatID="20147" Quantity="1" Sideboard="false" Name="Domineer" />
 </Deck>

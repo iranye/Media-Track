@@ -147,4 +147,8 @@
   <Cards CatID="29461" Quantity="1" Sideboard="false" Name="Curse of Chains" />
   <Cards CatID="21487" Quantity="1" Sideboard="false" Name="Aura of Dominion" />
   <Cards CatID="39501" Quantity="1" Sideboard="false" Name="Thopter Assembly" />
+  <Cards CatID="31671" Quantity="1" Sideboard="false" Name="Kaleidostone" />
+  <Cards CatID="28735" Quantity="1" Sideboard="false" Name="Triclopean Sight" />
+  <Cards CatID="20820" Quantity="1" Sideboard="false" Name="Healer's Headdress" />
+  <Cards CatID="56362" Quantity="1" Sideboard="false" Name="Gleam of Authority" />
 </Deck>

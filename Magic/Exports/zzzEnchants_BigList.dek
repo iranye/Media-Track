@@ -2,11 +2,9 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="52256" Quantity="1" Sideboard="false" Name="Aegis of the Gods" />
   <Cards CatID="62091" Quantity="2" Sideboard="false" Name="Aether Hub" />
   <Cards CatID="49539" Quantity="2" Sideboard="false" Name="Ajani's Chosen" />
   <Cards CatID="46421" Quantity="2" Sideboard="false" Name="Azorius Charm" />
-  <Cards CatID="47897" Quantity="2" Sideboard="false" Name="Blind Obedience" />
   <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
   <Cards CatID="49381" Quantity="2" Sideboard="false" Name="Celestial Flare" />
   <Cards CatID="46733" Quantity="2" Sideboard="false" Name="Cyclonic Rift" />
@@ -41,13 +39,12 @@
   <Cards CatID="46483" Quantity="1" Sideboard="false" Name="Supreme Verdict" />
   <Cards CatID="46455" Quantity="2" Sideboard="false" Name="Tablet of the Guilds" />
   <Cards CatID="51561" Quantity="4" Sideboard="false" Name="Temple of Enlightenment" />
-  <Cards CatID="55550" Quantity="1" Sideboard="false" Name="Tranquil Cove" />
   <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="63686" Quantity="2" Sideboard="false" Name="As Foretold" />
   <Cards CatID="9465" Quantity="1" Sideboard="false" Name="Aura of Silence" />
-  <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
+  <Cards CatID="52256" Quantity="1" Sideboard="false" Name="Aegis of the Gods" />
   <Cards CatID="51723" Quantity="1" Sideboard="true" Name="Arbiter of the Ideal" />
-  <Cards CatID="47897" Quantity="1" Sideboard="true" Name="Blind Obedience" />
+  <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
   <Cards CatID="50360" Quantity="1" Sideboard="true" Name="Dissolve" />
   <Cards CatID="46669" Quantity="1" Sideboard="true" Name="Faerie Impostor" />
   <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
@@ -59,7 +56,6 @@
   <Cards CatID="55600" Quantity="1" Sideboard="true" Name="Valorous Stance" />
   <Cards CatID="49121" Quantity="1" Sideboard="true" Name="Wall of Swords" />
   <Cards CatID="29561" Quantity="1" Sideboard="false" Name="Greater Auramancy" />
-  <Cards CatID="63994" Quantity="1" Sideboard="false" Name="Bounty of the Luxa" />
   <Cards CatID="24337" Quantity="2" Sideboard="false" Name="Azorius Aethermage" />
   <Cards CatID="43439" Quantity="1" Sideboard="false" Name="Drogskol Reaver" />
   <Cards CatID="24193" Quantity="1" Sideboard="false" Name="Plumes of Peace" />
@@ -70,4 +66,14 @@
   <Cards CatID="34825" Quantity="1" Sideboard="false" Name="Archmage Ascension" />
   <Cards CatID="56076" Quantity="1" Sideboard="false" Name="Narset Transcendent" />
   <Cards CatID="56110" Quantity="1" Sideboard="false" Name="Ojutai Exemplars" />
+  <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
+  <Cards CatID="26818" Quantity="1" Sideboard="false" Name="Nimbus Maze" />
+  <Cards CatID="64876" Quantity="1" Sideboard="false" Name="Endless Sands" />
+  <Cards CatID="25483" Quantity="1" Sideboard="false" Name="Calciform Pools" />
+  <Cards CatID="9411" Quantity="1" Sideboard="false" Name="Gemstone Mine" />
+  <Cards CatID="58623" Quantity="1" Sideboard="false" Name="Prairie Stream" />
+  <Cards CatID="61498" Quantity="1" Sideboard="false" Name="Nephalia Academy" />
+  <Cards CatID="29493" Quantity="1" Sideboard="false" Name="Mystic Gate" />
+  <Cards CatID="64152" Quantity="1" Sideboard="false" Name="Irrigated Farmland" />
+  <Cards CatID="20007" Quantity="1" Sideboard="false" Name="Crystal Shard" />
 </Deck>

@@ -233,4 +233,12 @@
   <Cards CatID="22327" Quantity="1" Sideboard="false" Name="Booby Trap" />
   <Cards CatID="20171" Quantity="1" Sideboard="false" Name="Thought Prison" />
   <Cards CatID="38157" Quantity="1" Sideboard="false" Name="Precursor Golem" />
+  <Cards CatID="31713" Quantity="1" Sideboard="false" Name="Parasitic Strix" />
+  <Cards CatID="62747" Quantity="1" Sideboard="false" Name="Quicksmith Rebel" />
+  <Cards CatID="59351" Quantity="1" Sideboard="false" Name="Endbringer" />
+  <Cards CatID="21827" Quantity="1" Sideboard="false" Name="Ninja of the Deep Hours" />
+  <Cards CatID="21811" Quantity="1" Sideboard="false" Name="Kumano's Blessing" />
+  <Cards CatID="34698" Quantity="1" Sideboard="false" Name="Blade of the Bloodchief" />
+  <Cards CatID="20419" Quantity="1" Sideboard="false" Name="Vedalken Engineer" />
+  <Cards CatID="41483" Quantity="1" Sideboard="false" Name="Sundial of the Infinite" />
 </Deck>
