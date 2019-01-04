@@ -76,4 +76,7 @@
   <Cards CatID="29493" Quantity="1" Sideboard="false" Name="Mystic Gate" />
   <Cards CatID="64152" Quantity="1" Sideboard="false" Name="Irrigated Farmland" />
   <Cards CatID="20007" Quantity="1" Sideboard="false" Name="Crystal Shard" />
+  <Cards CatID="38229" Quantity="1" Sideboard="false" Name="Semblance Anvil" />
+  <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
+  <Cards CatID="50404" Quantity="1" Sideboard="false" Name="Spear of Heliod" />
 </Deck>
