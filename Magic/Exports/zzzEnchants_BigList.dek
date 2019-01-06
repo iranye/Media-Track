@@ -79,4 +79,6 @@
   <Cards CatID="38229" Quantity="1" Sideboard="false" Name="Semblance Anvil" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
   <Cards CatID="50404" Quantity="1" Sideboard="false" Name="Spear of Heliod" />
+  <Cards CatID="19737" Quantity="2" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="62585" Quantity="1" Sideboard="false" Name="Decommission" />
 </Deck>

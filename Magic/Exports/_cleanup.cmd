@@ -1,9 +1,11 @@
 @echo off
-set dip=E:\Temp\DecksInProgress
+set dip=C:\Temp\DecksInProgress
 mkdir %dip%
 
 move /y "Activation.dek" %dip%
 move /y "Bears.dek" %dip%
+move /y "BlackWhiteSac.dek" %dip%
+move /y "BlueBlackMacar.dek" %dip%
 move /y "CountersInspired.dek" %dip%
 move /y "Dragons.dek" %dip%
 move /y "Elementals.dek" %dip%
