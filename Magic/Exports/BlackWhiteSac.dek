@@ -254,4 +254,28 @@
   <Cards CatID="46785" Quantity="4" Sideboard="false" Name="Volatile Rig" />
   <Cards CatID="59345" Quantity="4" Sideboard="false" Name="Vampire Envoy" />
   <Cards CatID="60619" Quantity="4" Sideboard="false" Name="Zealous Persecution" />
+  <Cards CatID="19305" Quantity="4" Sideboard="false" Name="Crossbow Infantry" />
+  <Cards CatID="26720" Quantity="1" Sideboard="false" Name="Daybreak Coronet" />
+  <Cards CatID="59351" Quantity="4" Sideboard="false" Name="Endbringer" />
+  <Cards CatID="20820" Quantity="4" Sideboard="false" Name="Healer's Headdress" />
+  <Cards CatID="21811" Quantity="4" Sideboard="false" Name="Kumano's Blessing" />
+  <Cards CatID="23927" Quantity="4" Sideboard="false" Name="Martyred Rusalka" />
+  <Cards CatID="26053" Quantity="4" Sideboard="false" Name="Merieke Ri Berit" />
+  <Cards CatID="62565" Quantity="4" Sideboard="false" Name="Metallic Mimic" />
+  <Cards CatID="26317" Quantity="4" Sideboard="false" Name="Midnight Charm" />
+  <Cards CatID="7657" Quantity="4" Sideboard="false" Name="Ovinomancer" />
+  <Cards CatID="62747" Quantity="4" Sideboard="false" Name="Quicksmith Rebel" />
+  <Cards CatID="24299" Quantity="4" Sideboard="false" Name="Ragamuffyn" />
+  <Cards CatID="29309" Quantity="4" Sideboard="false" Name="Resplendent Mentor" />
+  <Cards CatID="22411" Quantity="4" Sideboard="false" Name="Sanctum Guardian" />
+  <Cards CatID="41395" Quantity="4" Sideboard="false" Name="Spirit Mantle" />
+  <Cards CatID="29202" Quantity="4" Sideboard="false" Name="Taurean Mauler" />
+  <Cards CatID="29202" Quantity="4" Sideboard="false" Name="Taurean Mauler" />
+  <Cards CatID="43353" Quantity="4" Sideboard="false" Name="Thraben Doomsayer" />
+  <Cards CatID="57956" Quantity="4" Sideboard="false" Name="Touch of Moonglove" />
+  <Cards CatID="28735" Quantity="4" Sideboard="false" Name="Triclopean Sight" />
+  <Cards CatID="59275" Quantity="4" Sideboard="false" Name="Visions of Brutality" />
+  <Cards CatID="22705" Quantity="4" Sideboard="false" Name="Weathered Wayfarer" />
+  <Cards CatID="29086" Quantity="4" Sideboard="false" Name="Weight of Conscience" />
+  <Cards CatID="22755" Quantity="4" Sideboard="false" Name="Zealous Inquisitor" />
 </Deck>

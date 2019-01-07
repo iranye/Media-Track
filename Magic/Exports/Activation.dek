@@ -91,4 +91,5 @@
   <Cards CatID="30252" Quantity="1" Sideboard="false" Name="Shell Skulkin" />
   <Cards CatID="29110" Quantity="1" Sideboard="false" Name="Sage of Fables" />
   <Cards CatID="56344" Quantity="1" Sideboard="false" Name="Harbinger of the Hunt" />
+  <Cards CatID="69471" Quantity="1" Sideboard="false" Name="Omnispell Adept" />
 </Deck>

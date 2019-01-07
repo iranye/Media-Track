@@ -1758,4 +1758,121 @@
   <Cards CatID="28635" Quantity="4" Sideboard="false" Name="Skeletal Changeling" />
   <Cards CatID="32296" Quantity="4" Sideboard="false" Name="Skyclaw Thrash" />
   <Cards CatID="28221" Quantity="4" Sideboard="false" Name="Changeling Hero" />
+  <Cards CatID="46565" Quantity="1" Sideboard="false" Name="Rakdos's Return" />
+  <Cards CatID="62779" Quantity="5" Sideboard="false" Name="Narnam Renegade" />
+  <Cards CatID="50592" Quantity="7" Sideboard="false" Name="Commune with the Gods" />
+  <Cards CatID="52246" Quantity="1" Sideboard="false" Name="Eidolon of the Great Revel" />
+  <Cards CatID="57720" Quantity="1" Sideboard="false" Name="Chandra's Fury" />
+  <Cards CatID="55342" Quantity="2" Sideboard="false" Name="Shu Yun, the Silent Tempest" />
+  <Cards CatID="52286" Quantity="1" Sideboard="false" Name="Stormchaser Chimera" />
+  <Cards CatID="54436" Quantity="2" Sideboard="false" Name="Jeskai Ascendancy" />
+  <Cards CatID="53378" Quantity="7" Sideboard="false" Name="Black Cat" />
+  <Cards CatID="53596" Quantity="4" Sideboard="false" Name="Cruel Sadist" />
+  <Cards CatID="53604" Quantity="4" Sideboard="false" Name="Indulgent Tormentor" />
+  <Cards CatID="53588" Quantity="4" Sideboard="false" Name="Jalira, Master Polymorphist" />
+  <Cards CatID="53626" Quantity="5" Sideboard="false" Name="Master of Predicaments" />
+  <Cards CatID="53664" Quantity="4" Sideboard="false" Name="Mercurial Pretender" />
+  <Cards CatID="53562" Quantity="4" Sideboard="false" Name="Ob Nixilis, Unshackled" />
+  <Cards CatID="53338" Quantity="5" Sideboard="false" Name="Back to Nature" />
+  <Cards CatID="53284" Quantity="5" Sideboard="false" Name="Shrapnel Blast" />
+  <Cards CatID="47921" Quantity="4" Sideboard="false" Name="Boros Reckoner" />
+  <Cards CatID="68635" Quantity="4" Sideboard="false" Name="Gargoyle Sentinel" />
+  <Cards CatID="68649" Quantity="4" Sideboard="false" Name="Rogue's Gloves" />
+  <Cards CatID="57628" Quantity="1" Sideboard="false" Name="Turn to Frog" />
+  <Cards CatID="52184" Quantity="2" Sideboard="false" Name="Sage of Hours" />
+  <Cards CatID="53360" Quantity="6" Sideboard="false" Name="Circle of Flame" />
+  <Cards CatID="53494" Quantity="4" Sideboard="false" Name="Waste Not" />
+  <Cards CatID="53504" Quantity="1" Sideboard="false" Name="Ajani Steadfast" />
+  <Cards CatID="53386" Quantity="5" Sideboard="false" Name="Sacred Armory" />
+  <Cards CatID="53675" Quantity="1" Sideboard="false" Name="Shadowcloak Vampire" />
+  <Cards CatID="53774" Quantity="4" Sideboard="false" Name="Darksteel Citadel" />
+  <Cards CatID="52214" Quantity="2" Sideboard="false" Name="Banishing Light" />
+  <Cards CatID="52138" Quantity="6" Sideboard="false" Name="Eidolon of Blossoms" />
+  <Cards CatID="52246" Quantity="1" Sideboard="false" Name="Eidolon of the Great Revel" />
+  <Cards CatID="48264" Quantity="4" Sideboard="false" Name="Master of Cruelties" />
+  <Cards CatID="46473" Quantity="2" Sideboard="false" Name="Mizzium Mortars" />
+  <Cards CatID="49463" Quantity="4" Sideboard="false" Name="Witchstalker" />
+  <Cards CatID="47851" Quantity="2" Sideboard="false" Name="Domri Rade" />
+  <Cards CatID="47935" Quantity="1" Sideboard="false" Name="Master Biomancer" />
+  <Cards CatID="48202" Quantity="4" Sideboard="false" Name="Render Silent" />
+  <Cards CatID="47793" Quantity="2" Sideboard="false" Name="Lazav, Dimir Mastermind" />
+  <Cards CatID="52260" Quantity="2" Sideboard="false" Name="Dictate of Erebos" />
+  <Cards CatID="49429" Quantity="5" Sideboard="false" Name="Grim Return" />
+  <Cards CatID="49593" Quantity="5" Sideboard="false" Name="Quicken" />
+  <Cards CatID="49495" Quantity="2" Sideboard="false" Name="Ring of Three Wishes" />
+  <Cards CatID="46741" Quantity="2" Sideboard="false" Name="Underworld Connections" />
+  <Cards CatID="46483" Quantity="2" Sideboard="false" Name="Supreme Verdict" />
+  <Cards CatID="50440" Quantity="4" Sideboard="false" Name="Swan Song" />
+  <Cards CatID="46739" Quantity="1" Sideboard="false" Name="Desecration Demon" />
+  <Cards CatID="47927" Quantity="2" Sideboard="false" Name="Lord of the Void" />
+  <Cards CatID="47915" Quantity="1" Sideboard="false" Name="Sepulchral Primordial" />
+  <Cards CatID="49431" Quantity="2" Sideboard="false" Name="Shadowborn Demon" />
+  <Cards CatID="49461" Quantity="23" Sideboard="false" Name="Shadowborn Apostle" />
+  <Cards CatID="51799" Quantity="4" Sideboard="false" Name="Fated Infatuation" />
+  <Cards CatID="49249" Quantity="2" Sideboard="false" Name="Liliana of the Dark Realms" />
+  <Cards CatID="52132" Quantity="5" Sideboard="false" Name="Squelching Leeches" />
+  <Cards CatID="51998" Quantity="4" Sideboard="false" Name="Riptide Chimera" />
+  <Cards CatID="47921" Quantity="4" Sideboard="false" Name="Boros Reckoner" />
+  <Cards CatID="52222" Quantity="4" Sideboard="false" Name="Skybind" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="51561" Quantity="4" Sideboard="false" Name="Temple of Enlightenment" />
+  <Cards CatID="51974" Quantity="3" Sideboard="false" Name="Battlefield Thaumaturge" />
+  <Cards CatID="49103" Quantity="5" Sideboard="false" Name="Ogre Battledriver" />
+  <Cards CatID="47897" Quantity="4" Sideboard="false" Name="Blind Obedience" />
+  <Cards CatID="49531" Quantity="2" Sideboard="false" Name="Fiendslayer Paladin" />
+  <Cards CatID="49575" Quantity="2" Sideboard="false" Name="Imposing Sovereign" />
+  <Cards CatID="46561" Quantity="1" Sideboard="false" Name="Niv-Mizzet, Dracogenius" />
+  <Cards CatID="46767" Quantity="4" Sideboard="false" Name="Nivmagus Elemental" />
+  <Cards CatID="52110" Quantity="7" Sideboard="false" Name="Phalanx Formation" />
+  <Cards CatID="46423" Quantity="5" Sideboard="false" Name="Detention Sphere" />
+  <Cards CatID="51974" Quantity="3" Sideboard="false" Name="Battlefield Thaumaturge" />
+  <Cards CatID="51248" Quantity="4" Sideboard="false" Name="Azorius Guildgate" />
+  <Cards CatID="46503" Quantity="4" Sideboard="false" Name="Hallowed Fountain" />
+  <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
+  <Cards CatID="51966" Quantity="6" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="52102" Quantity="2" Sideboard="false" Name="Keranos, God of Storms" />
+  <Cards CatID="52240" Quantity="10" Sideboard="false" Name="Twinflame" />
+  <Cards CatID="47751" Quantity="4" Sideboard="false" Name="Nightveil Specter" />
+  <Cards CatID="49475" Quantity="7" Sideboard="false" Name="Strionic Resonator" />
+  <Cards CatID="46303" Quantity="9" Sideboard="false" Name="Rootborn Defenses" />
+  <Cards CatID="48534" Quantity="5" Sideboard="false" Name="Profit/Loss" />
+  <Cards CatID="52194" Quantity="4" Sideboard="false" Name="Polymorphous Rush" />
+  <Cards CatID="52206" Quantity="1" Sideboard="false" Name="Launch the Fleet" />
+  <Cards CatID="47813" Quantity="5" Sideboard="false" Name="Glaring Spotlight" />
+  <Cards CatID="47785" Quantity="8" Sideboard="false" Name="Five-Alarm Fire" />
+  <Cards CatID="48520" Quantity="5" Sideboard="false" Name="Far/Away" />
+  <Cards CatID="52024" Quantity="12" Sideboard="false" Name="Aerial Formation" />
+  <Cards CatID="49493" Quantity="3" Sideboard="false" Name="Tidebinder Mage" />
+  <Cards CatID="50306" Quantity="2" Sideboard="false" Name="Thassa, God of the Sea" />
+  <Cards CatID="50312" Quantity="2" Sideboard="false" Name="Purphoros, God of the Forge" />
+  <Cards CatID="52288" Quantity="2" Sideboard="false" Name="Prophetic Flamespeaker" />
+  <Cards CatID="50550" Quantity="4" Sideboard="false" Name="Master of Waves" />
+  <Cards CatID="47739" Quantity="4" Sideboard="false" Name="Frontline Medic" />
+  <Cards CatID="49519" Quantity="5" Sideboard="false" Name="Jace's Mindseeker" />
+  <Cards CatID="52250" Quantity="6" Sideboard="false" Name="Scourge of Fleets" />
+  <Cards CatID="47887" Quantity="8" Sideboard="false" Name="Simic Manipulator" />
+  <Cards CatID="52128" Quantity="4" Sideboard="false" Name="Bearer of the Heavens" />
+  <Cards CatID="52218" Quantity="7" Sideboard="false" Name="Spawn of Thraxes" />
+  <Cards CatID="49139" Quantity="5" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="47751" Quantity="4" Sideboard="false" Name="Nightveil Specter" />
+  <Cards CatID="52122" Quantity="2" Sideboard="false" Name="Hour of Need" />
+  <Cards CatID="49351" Quantity="2" Sideboard="false" Name="Windreader Sphinx" />
+  <Cards CatID="46805" Quantity="3" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="52102" Quantity="2" Sideboard="false" Name="Keranos, God of Storms" />
+  <Cards CatID="48198" Quantity="2" Sideboard="false" Name="Ral Zarek" />
+  <Cards CatID="51974" Quantity="3" Sideboard="false" Name="Battlefield Thaumaturge" />
+  <Cards CatID="51966" Quantity="6" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="49231" Quantity="9" Sideboard="false" Name="Ratchet Bomb" />
+  <Cards CatID="51972" Quantity="3" Sideboard="false" Name="Hall of Triumph" />
+  <Cards CatID="52094" Quantity="6" Sideboard="false" Name="Disciple of Deceit" />
+  <Cards CatID="52188" Quantity="3" Sideboard="false" Name="Master of the Feast" />
+  <Cards CatID="48332" Quantity="6" Sideboard="false" Name="Notion Thief" />
+  <Cards CatID="52119" Quantity="1" Sideboard="false" Name="Dictate of Kruphix" />
+  <Cards CatID="52256" Quantity="7" Sideboard="false" Name="Aegis of the Gods" />
+  <Cards CatID="51559" Quantity="10" Sideboard="false" Name="Gorgon's Head" />
+  <Cards CatID="46553" Quantity="2" Sideboard="false" Name="Trostani, Selesnya's Voice" />
+  <Cards CatID="43887" Quantity="4" Sideboard="false" Name="Cloudshift" />
+  <Cards CatID="49363" Quantity="2" Sideboard="false" Name="Chandra, Pyromaster" />
+  <Cards CatID="46567" Quantity="1" Sideboard="false" Name="Vraska the Unseen" />
+  <Cards CatID="49339" Quantity="5" Sideboard="false" Name="Trading Post" />
 </Deck>

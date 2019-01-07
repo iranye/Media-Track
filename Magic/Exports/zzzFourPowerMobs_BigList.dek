@@ -247,4 +247,14 @@
   <Cards CatID="29565" Quantity="1" Sideboard="false" Name="Boartusk Liege" />
   <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
   <Cards CatID="69619" Quantity="1" Sideboard="false" Name="Beast Whisperer" />
+  <Cards CatID="65446" Quantity="1" Sideboard="false" Name="Verdant Sun's Avatar" />
+  <Cards CatID="69471" Quantity="1" Sideboard="false" Name="Omnispell Adept" />
+  <Cards CatID="35661" Quantity="1" Sideboard="false" Name="Kazuul, Tyrant of the Cliffs" />
+  <Cards CatID="38421" Quantity="1" Sideboard="false" Name="Engulfing Slagwurm" />
+  <Cards CatID="50592" Quantity="1" Sideboard="false" Name="Commune with the Gods" />
+  <Cards CatID="51962" Quantity="1" Sideboard="false" Name="Kruphix, God of Horizons" />
+  <Cards CatID="62779" Quantity="1" Sideboard="false" Name="Narnam Renegade" />
+  <Cards CatID="50628" Quantity="1" Sideboard="false" Name="Polukranos, World Eater" />
+  <Cards CatID="49519" Quantity="1" Sideboard="false" Name="Jace's Mindseeker" />
+  <Cards CatID="52218" Quantity="1" Sideboard="false" Name="Spawn of Thraxes" />
 </Deck>

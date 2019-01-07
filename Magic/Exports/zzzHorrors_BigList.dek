@@ -203,11 +203,15 @@
   <Cards CatID="60382" Quantity="1" Sideboard="false" Name="Grotesque Mutation" />
   <Cards CatID="61931" Quantity="1" Sideboard="false" Name="Rush of Vitality" />
   <Cards CatID="62659" Quantity="1" Sideboard="false" Name="Disallow" />
-  <Cards CatID="61639" Quantity="1" Sideboard="false" Name="Disappearing Act" />
+  <Cards CatID="61639" Quantity="2" Sideboard="false" Name="Disappearing Act" />
   <Cards CatID="55582" Quantity="1" Sideboard="false" Name="Enhanced Awareness" />
   <Cards CatID="46647" Quantity="1" Sideboard="false" Name="Essence Backlash" />
   <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
   <Cards CatID="42276" Quantity="1" Sideboard="false" Name="Frightful Delusion" />
   <Cards CatID="50626" Quantity="2" Sideboard="false" Name="Griptide" />
   <Cards CatID="54344" Quantity="1" Sideboard="false" Name="Retribution of the Ancients" />
+  <Cards CatID="39808" Quantity="1" Sideboard="false" Name="Vapor Snag" />
+  <Cards CatID="38165" Quantity="1" Sideboard="false" Name="Carnifex Demon" />
+  <Cards CatID="32482" Quantity="1" Sideboard="false" Name="Defiler of Souls" />
+  <Cards CatID="44193" Quantity="1" Sideboard="false" Name="Treacherous Pit-Dweller" />
 </Deck>

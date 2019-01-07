@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -109,4 +108,18 @@
   <Cards CatID="19383" Quantity="1" Sideboard="false" Name="Rolling Stones" />
   <Cards CatID="24689" Quantity="1" Sideboard="false" Name="Wall of Shards" />
   <Cards CatID="59275" Quantity="1" Sideboard="false" Name="Visions of Brutality" />
+  <Cards CatID="50406" Quantity="8" Sideboard="false" Name="Bident of Thassa" />
+  <Cards CatID="29851" Quantity="4" Sideboard="false" Name="Bloodshed Fever" />
+  <Cards CatID="22811" Quantity="4" Sideboard="false" Name="Contaminated Bond" />
+  <Cards CatID="42454" Quantity="4" Sideboard="false" Name="Curse of the Nightly Hunt" />
+  <Cards CatID="38421" Quantity="4" Sideboard="false" Name="Engulfing Slagwurm" />
+  <Cards CatID="69843" Quantity="1" Sideboard="false" Name="Find/Finality" />
+  <Cards CatID="42592" Quantity="4" Sideboard="false" Name="Furor of the Bitten" />
+  <Cards CatID="64558" Quantity="4" Sideboard="false" Name="Imaginary Threats" />
+  <Cards CatID="35661" Quantity="8" Sideboard="false" Name="Kazuul, Tyrant of the Cliffs" />
+  <Cards CatID="22210" Quantity="4" Sideboard="false" Name="Miren, the Moaning Well" />
+  <Cards CatID="64628" Quantity="4" Sideboard="false" Name="Moaning Wall" />
+  <Cards CatID="69471" Quantity="4" Sideboard="false" Name="Omnispell Adept" />
+  <Cards CatID="30218" Quantity="4" Sideboard="false" Name="Sapling of Colfenor" />
+  <Cards CatID="65446" Quantity="4" Sideboard="false" Name="Verdant Sun's Avatar" />
 </Deck>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -65,4 +65,5 @@
   <Cards CatID="46339" Quantity="1" Sideboard="true" Name="Electrickery" />
   <Cards CatID="52042" Quantity="1" Sideboard="true" Name="Magma Spray" />
   <Cards CatID="56264" Quantity="1" Sideboard="true" Name="Rending Volley" />
+  <Cards CatID="54430" Quantity="1" Sideboard="false" Name="Mardu Ascendancy" />
 </Deck>

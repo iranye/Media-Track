@@ -1,0 +1,15 @@
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="67629" Quantity="4" Sideboard="false" Name="Chainer's Torment" />
+  <Cards CatID="67669" Quantity="4" Sideboard="false" Name="Rite of Belzenlok" />
+  <Cards CatID="67823" Quantity="4" Sideboard="false" Name="Song of Freyalise" />
+  <Cards CatID="67549" Quantity="4" Sideboard="false" Name="The Antiquities War" />
+  <Cards CatID="67645" Quantity="4" Sideboard="false" Name="The Eldest Reborn" />
+  <Cards CatID="67709" Quantity="4" Sideboard="false" Name="The First Eruption" />
+  <Cards CatID="67711" Quantity="4" Sideboard="false" Name="The Flame of Keld" />
+  <Cards CatID="67811" Quantity="4" Sideboard="false" Name="The Mending of Dominaria" />
+  <Cards CatID="67579" Quantity="4" Sideboard="false" Name="The Mirari Conjecture" />
+  <Cards CatID="67605" Quantity="4" Sideboard="false" Name="Time of Ice" />
+  <Cards CatID="67541" Quantity="4" Sideboard="false" Name="Triumph of Gerrard" />
+</Deck>

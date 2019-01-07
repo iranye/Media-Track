@@ -241,4 +241,9 @@
   <Cards CatID="34698" Quantity="1" Sideboard="false" Name="Blade of the Bloodchief" />
   <Cards CatID="20419" Quantity="1" Sideboard="false" Name="Vedalken Engineer" />
   <Cards CatID="41483" Quantity="1" Sideboard="false" Name="Sundial of the Infinite" />
+  <Cards CatID="64628" Quantity="1" Sideboard="false" Name="Moaning Wall" />
+  <Cards CatID="23488" Quantity="1" Sideboard="false" Name="Peregrine Mask" />
+  <Cards CatID="54302" Quantity="1" Sideboard="false" Name="Dragon's Eye Savants" />
+  <Cards CatID="46565" Quantity="1" Sideboard="false" Name="Rakdos's Return" />
+  <Cards CatID="42686" Quantity="1" Sideboard="false" Name="Heartless Summoning" />
 </Deck>

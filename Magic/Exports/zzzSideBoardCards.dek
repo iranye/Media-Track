@@ -54,4 +54,10 @@
   <Cards CatID="52214" Quantity="1" Sideboard="false" Name="Banishing Light" />
   <Cards CatID="36656" Quantity="1" Sideboard="false" Name="Linvala, Keeper of Silence" />
   <Cards CatID="56264" Quantity="1" Sideboard="false" Name="Rending Volley" />
+  <Cards CatID="63628" Quantity="1" Sideboard="false" Name="Forsake the Worldly" />
+  <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
+  <Cards CatID="52232" Quantity="1" Sideboard="false" Name="Eidolon of Rhetoric" />
+  <Cards CatID="48870" Quantity="1" Sideboard="false" Name="Sword of Light and Shadow" />
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="31287" Quantity="1" Sideboard="false" Name="Hindering Light" />
 </Deck>

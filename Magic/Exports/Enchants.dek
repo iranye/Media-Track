@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -9,7 +9,6 @@
   <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
   <Cards CatID="49381" Quantity="2" Sideboard="false" Name="Celestial Flare" />
   <Cards CatID="14915" Quantity="4" Sideboard="false" Name="Island" />
-  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
   <Cards CatID="65554" Quantity="5" Sideboard="false" Name="Plains" />
   <Cards CatID="50532" Quantity="1" Sideboard="false" Name="Daxos of Meletis" />
   <Cards CatID="46423" Quantity="4" Sideboard="false" Name="Detention Sphere" />
@@ -24,11 +23,9 @@
   <Cards CatID="55944" Quantity="1" Sideboard="false" Name="Hidden Dragonslayer" />
   <Cards CatID="50140" Quantity="2" Sideboard="false" Name="Hopeful Eidolon" />
   <Cards CatID="52186" Quantity="1" Sideboard="false" Name="Hypnotic Siren" />
-  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="52074" Quantity="1" Sideboard="false" Name="Nyx-Fleece Ram" />
   <Cards CatID="49109" Quantity="1" Sideboard="false" Name="Pacifism" />
   <Cards CatID="53642" Quantity="1" Sideboard="false" Name="Quickling" />
-  <Cards CatID="51663" Quantity="1" Sideboard="false" Name="Revoke Existence" />
   <Cards CatID="51998" Quantity="4" Sideboard="false" Name="Riptide Chimera" />
   <Cards CatID="47887" Quantity="1" Sideboard="false" Name="Simic Manipulator" />
   <Cards CatID="58517" Quantity="1" Sideboard="false" Name="Skyline Cascade" />
@@ -38,7 +35,7 @@
   <Cards CatID="51561" Quantity="4" Sideboard="false" Name="Temple of Enlightenment" />
   <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="63686" Quantity="2" Sideboard="false" Name="As Foretold" />
-  <Cards CatID="9465" Quantity="1" Sideboard="false" Name="Aura of Silence" />
+  <Cards CatID="9465" Quantity="2" Sideboard="true" Name="Aura of Silence" />
   <Cards CatID="29561" Quantity="1" Sideboard="false" Name="Greater Auramancy" />
   <Cards CatID="24337" Quantity="2" Sideboard="false" Name="Azorius Aethermage" />
   <Cards CatID="56076" Quantity="1" Sideboard="false" Name="Narset Transcendent" />
@@ -50,16 +47,21 @@
   <Cards CatID="50404" Quantity="1" Sideboard="false" Name="Spear of Heliod" />
   <Cards CatID="25483" Quantity="1" Sideboard="false" Name="Calciform Pools" />
   <Cards CatID="56328" Quantity="1" Sideboard="false" Name="Ojutai's Command" />
-  <Cards CatID="62585" Quantity="2" Sideboard="false" Name="Decommission" />
   <Cards CatID="28741" Quantity="2" Sideboard="true" Name="Familiar's Ruse" />
   <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
   <Cards CatID="47897" Quantity="1" Sideboard="true" Name="Blind Obedience" />
-  <Cards CatID="50360" Quantity="1" Sideboard="true" Name="Dissolve" />
-  <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
   <Cards CatID="51663" Quantity="1" Sideboard="true" Name="Revoke Existence" />
-  <Cards CatID="49541" Quantity="1" Sideboard="true" Name="Seraph of the Sword" />
-  <Cards CatID="55600" Quantity="1" Sideboard="true" Name="Valorous Stance" />
-  <Cards CatID="43439" Quantity="1" Sideboard="true" Name="Drogskol Reaver" />
-  <Cards CatID="19737" Quantity="2" Sideboard="true" Name="Lightning Greaves" />
   <Cards CatID="66541" Quantity="2" Sideboard="true" Name="Negate" />
+  <Cards CatID="46411" Quantity="1" Sideboard="true" Name="Dryad Militant" />
+  <Cards CatID="52232" Quantity="1" Sideboard="true" Name="Eidolon of Rhetoric" />
+  <Cards CatID="60276" Quantity="1" Sideboard="false" Name="Always Watching" />
+  <Cards CatID="63628" Quantity="2" Sideboard="false" Name="Forsake the Worldly" />
+  <Cards CatID="29665" Quantity="1" Sideboard="false" Name="Plumeveil" />
+  <Cards CatID="56110" Quantity="1" Sideboard="false" Name="Ojutai Exemplars" />
+  <Cards CatID="46559" Quantity="1" Sideboard="false" Name="Sphinx's Revelation" />
+  <Cards CatID="48992" Quantity="2" Sideboard="true" Name="Kira, Great Glass-Spinner" />
+  <Cards CatID="31287" Quantity="2" Sideboard="true" Name="Hindering Light" />
+  <Cards CatID="36526" Quantity="1" Sideboard="false" Name="Wall of Omens" />
+  <Cards CatID="32328" Quantity="1" Sideboard="false" Name="Wall of Denial" />
+  <Cards CatID="41133" Quantity="1" Sideboard="false" Name="Honor of the Pure" />
 </Deck>
