@@ -137,4 +137,6 @@
   <Cards CatID="54302" Quantity="1" Sideboard="false" Name="Dragon's Eye Savants" />
   <Cards CatID="57792" Quantity="1" Sideboard="false" Name="Archangel of Tithes" />
   <Cards CatID="41133" Quantity="1" Sideboard="false" Name="Honor of the Pure" />
+  <Cards CatID="62583" Quantity="1" Sideboard="false" Name="Conviction" />
+  <Cards CatID="67869" Quantity="1" Sideboard="false" Name="Raff Capashen, Ship's Mage" />
 </Deck>

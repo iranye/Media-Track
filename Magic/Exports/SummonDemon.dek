@@ -3,7 +3,7 @@
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="50400" Quantity="1" Sideboard="false" Name="Abhorrent Overlord" />
-  <Cards CatID="51727" Quantity="2" Sideboard="false" Name="Eater of Hope" />
+  <Cards CatID="51727" Quantity="3" Sideboard="false" Name="Eater of Hope" />
   <Cards CatID="49339" Quantity="3" Sideboard="false" Name="Trading Post" />
   <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
   <Cards CatID="50264" Quantity="3" Sideboard="false" Name="Temple of Deceit" />
@@ -63,4 +63,8 @@
   <Cards CatID="55418" Quantity="1" Sideboard="false" Name="Soulflayer" />
   <Cards CatID="50400" Quantity="1" Sideboard="false" Name="Abhorrent Overlord" />
   <Cards CatID="45572" Quantity="1" Sideboard="false" Name="Nefarox, Overlord of Grixis" />
+  <Cards CatID="42540" Quantity="1" Sideboard="false" Name="Reaper from the Abyss" />
+  <Cards CatID="43873" Quantity="1" Sideboard="false" Name="Harvester of Souls" />
+  <Cards CatID="62709" Quantity="1" Sideboard="false" Name="Herald of Anguish" />
+  <Cards CatID="51811" Quantity="1" Sideboard="false" Name="Herald of Torment" />
 </Deck>

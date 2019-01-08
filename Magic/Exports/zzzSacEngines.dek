@@ -36,4 +36,8 @@
   <Cards CatID="30230" Quantity="1" Sideboard="false" Name="Scarecrone" />
   <Cards CatID="23927" Quantity="1" Sideboard="false" Name="Martyred Rusalka" />
   <Cards CatID="51727" Quantity="1" Sideboard="false" Name="Eater of Hope" />
+  <Cards CatID="67669" Quantity="1" Sideboard="false" Name="Rite of Belzenlok" />
+  <Cards CatID="46563" Quantity="1" Sideboard="false" Name="Rakdos, Lord of Riots" />
+  <Cards CatID="36524" Quantity="1" Sideboard="false" Name="Kor Spiritdancer" />
+  <Cards CatID="57712" Quantity="1" Sideboard="false" Name="Nantuko Husk" />
 </Deck>

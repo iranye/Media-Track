@@ -1,0 +1,18 @@
+{
+  "Name": "80sVol2",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\Police\\_Police-ShortList.m3u",
+      "TotalMegaBytes": 101
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1980\\_1980-ShortList.m3u",
+      "TotalMegaBytes": 348
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Like Omigod - The '80s Pop Culture Box\\_80sPopCultureBox-ShortList_Sublist1.m3u",
+      "TotalMegaBytes": 248
+    }
+  ]
+}

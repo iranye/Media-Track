@@ -1,0 +1,38 @@
+{
+  "Name": "Dance",
+  "CopyDirectories": false,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\bepka\\_Bepka-ShortList.m3u",
+      "TotalMegaBytes": 48
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Lady Gaga\\_LadyGaga.m3u",
+      "TotalMegaBytes": 118
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Madonna\\_Madonna-ShortList.m3u",
+      "TotalMegaBytes": 77
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Mariah Carey\\_MariaCarey-ShortList.m3u",
+      "TotalMegaBytes": 42
+    },
+    {
+      "PartialPath": "Music\\MP3s\\MichaelJackson\\_MichaelJackson-ShortList.m3u",
+      "TotalMegaBytes": 54
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Rammstein\\_Rammstein-ShortList.m3u",
+      "TotalMegaBytes": 251
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Soundtrack_Trolls\\_Soundtrack_Trolls_ShortList.m3u",
+      "TotalMegaBytes": 38
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Tina Turner\\_TinaTurner_ShortList.m3u",
+      "TotalMegaBytes": 56
+    }
+  ]
+}

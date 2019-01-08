@@ -1,0 +1,14 @@
+{
+  "Name": "80sVol4",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1982\\_1982-ShortList.m3u",
+      "TotalMegaBytes": 370
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1983\\_1983-ShortList.m3u",
+      "TotalMegaBytes": 410
+    }
+  ]
+}

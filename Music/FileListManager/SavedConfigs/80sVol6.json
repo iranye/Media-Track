@@ -1,0 +1,14 @@
+{
+  "Name": "80sVol6",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1986\\_1986-ShortList.m3u",
+      "TotalMegaBytes": 422
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1987\\_1987-ShortList.m3u",
+      "TotalMegaBytes": 361
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "MetalVol2",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\Helmet\\$Helmet.m3u",
+      "TotalMegaBytes": 54
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Iron Maiden\\_IronMaiden-ShortList.m3u",
+      "TotalMegaBytes": 65
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Judas Priest\\_JudasPriest-ShortList.m3u",
+      "TotalMegaBytes": 319
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Scorpions\\_Scorpions-ShortList.m3u",
+      "TotalMegaBytes": 109
+    }
+  ]
+}

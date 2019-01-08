@@ -1,0 +1,18 @@
+{
+  "Name": "ClassicRockVol4",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\LedZeppelin\\_LedZeppelin-Shortlist.m3u",
+      "TotalMegaBytes": 453
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Peter Gabriel\\_PeterGabriel-ShortList.m3u",
+      "TotalMegaBytes": 121
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Robert Plant\\_RobertPlant_ShorList.m3u",
+      "TotalMegaBytes": 72
+    }
+  ]
+}

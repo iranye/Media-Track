@@ -257,4 +257,25 @@
   <Cards CatID="50628" Quantity="1" Sideboard="false" Name="Polukranos, World Eater" />
   <Cards CatID="49519" Quantity="1" Sideboard="false" Name="Jace's Mindseeker" />
   <Cards CatID="52218" Quantity="1" Sideboard="false" Name="Spawn of Thraxes" />
+  <Cards CatID="65973" Quantity="1" Sideboard="false" Name="Consecrated Sphinx" />
+  <Cards CatID="40713" Quantity="1" Sideboard="false" Name="Oni of Wild Places" />
+  <Cards CatID="44281" Quantity="1" Sideboard="false" Name="Vexing Devil" />
+  <Cards CatID="30184" Quantity="1" Sideboard="false" Name="Talara's Battalion" />
+  <Cards CatID="26592" Quantity="1" Sideboard="false" Name="Tarox Bladewing" />
+  <Cards CatID="20806" Quantity="1" Sideboard="false" Name="Tornado Elemental" />
+  <Cards CatID="40026" Quantity="1" Sideboard="false" Name="Triumph of the Hordes" />
+  <Cards CatID="70033" Quantity="1" Sideboard="false" Name="Vengevine" />
+  <Cards CatID="56146" Quantity="1" Sideboard="false" Name="Surrak, the Hunt Caller" />
+  <Cards CatID="26918" Quantity="1" Sideboard="false" Name="Pact of the Titan" />
+  <Cards CatID="23470" Quantity="1" Sideboard="false" Name="Hunted Troll" />
+  <Cards CatID="60184" Quantity="1" Sideboard="false" Name="Goldnight Castigator" />
+  <Cards CatID="56294" Quantity="1" Sideboard="false" Name="Berserkers' Onslaught" />
+  <Cards CatID="23988" Quantity="1" Sideboard="false" Name="Avatar of Discord" />
+  <Cards CatID="54478" Quantity="1" Sideboard="false" Name="Avalanche Tusker" />
+  <Cards CatID="54376" Quantity="1" Sideboard="false" Name="Ashcloud Phoenix" />
+  <Cards CatID="44251" Quantity="1" Sideboard="false" Name="Archwing Dragon" />
+  <Cards CatID="58779" Quantity="1" Sideboard="false" Name="Omnath, Locus of Rage" />
+  <Cards CatID="58303" Quantity="1" Sideboard="false" Name="Oblivion Sower" />
+  <Cards CatID="48762" Quantity="1" Sideboard="false" Name="Woodfall Primus" />
+  <Cards CatID="62911" Quantity="1" Sideboard="false" Name="Paradox Engine" />
 </Deck>

@@ -114,4 +114,11 @@
   <Cards CatID="28633" Quantity="1" Sideboard="false" Name="Turtleshell Changeling" />
   <Cards CatID="29463" Quantity="1" Sideboard="false" Name="Elemental Mastery" />
   <Cards CatID="51972" Quantity="1" Sideboard="false" Name="Hall of Triumph" />
+  <Cards CatID="47885" Quantity="1" Sideboard="false" Name="Foundry Champion" />
+  <Cards CatID="48652" Quantity="1" Sideboard="false" Name="Grinning Ignus" />
+  <Cards CatID="70033" Quantity="1" Sideboard="false" Name="Vengevine" />
+  <Cards CatID="20806" Quantity="1" Sideboard="false" Name="Tornado Elemental" />
+  <Cards CatID="28547" Quantity="1" Sideboard="false" Name="Briarhorn" />
+  <Cards CatID="58779" Quantity="1" Sideboard="false" Name="Omnath, Locus of Rage" />
+  <Cards CatID="50434" Quantity="1" Sideboard="false" Name="Ember Swallower" />
 </Deck>

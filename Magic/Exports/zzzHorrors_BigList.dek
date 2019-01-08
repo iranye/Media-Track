@@ -214,4 +214,16 @@
   <Cards CatID="38165" Quantity="1" Sideboard="false" Name="Carnifex Demon" />
   <Cards CatID="32482" Quantity="1" Sideboard="false" Name="Defiler of Souls" />
   <Cards CatID="44193" Quantity="1" Sideboard="false" Name="Treacherous Pit-Dweller" />
+  <Cards CatID="64598" Quantity="1" Sideboard="false" Name="Ammit Eternal" />
+  <Cards CatID="61336" Quantity="1" Sideboard="false" Name="Niblis of Frost" />
+  <Cards CatID="26620" Quantity="1" Sideboard="false" Name="Mystic Speculation" />
+  <Cards CatID="31075" Quantity="1" Sideboard="false" Name="Gather Specimens" />
+  <Cards CatID="23701" Quantity="1" Sideboard="false" Name="Frazzle" />
+  <Cards CatID="27514" Quantity="1" Sideboard="false" Name="Discombobulate" />
+  <Cards CatID="19785" Quantity="1" Sideboard="false" Name="Disarm" />
+  <Cards CatID="43385" Quantity="1" Sideboard="false" Name="Counterlash" />
+  <Cards CatID="42708" Quantity="1" Sideboard="false" Name="Cackling Counterpart" />
+  <Cards CatID="70233" Quantity="1" Sideboard="false" Name="Unstable Mutation" />
+  <Cards CatID="68639" Quantity="1" Sideboard="false" Name="Magistrate's Scepter" />
+  <Cards CatID="56402" Quantity="1" Sideboard="false" Name="Self-Inflicted Wound" />
 </Deck>

@@ -60,4 +60,6 @@
   <Cards CatID="48870" Quantity="1" Sideboard="false" Name="Sword of Light and Shadow" />
   <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
   <Cards CatID="31287" Quantity="1" Sideboard="false" Name="Hindering Light" />
+  <Cards CatID="39998" Quantity="1" Sideboard="false" Name="Torpor Orb" />
+  <Cards CatID="26027" Quantity="1" Sideboard="false" Name="Safe Haven" />
 </Deck>

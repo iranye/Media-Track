@@ -246,4 +246,9 @@
   <Cards CatID="54302" Quantity="1" Sideboard="false" Name="Dragon's Eye Savants" />
   <Cards CatID="46565" Quantity="1" Sideboard="false" Name="Rakdos's Return" />
   <Cards CatID="42686" Quantity="1" Sideboard="false" Name="Heartless Summoning" />
+  <Cards CatID="44281" Quantity="1" Sideboard="false" Name="Vexing Devil" />
+  <Cards CatID="36230" Quantity="1" Sideboard="false" Name="Terminate" />
+  <Cards CatID="46443" Quantity="1" Sideboard="false" Name="Dreadbore" />
+  <Cards CatID="57454" Quantity="1" Sideboard="false" Name="Electrolyze" />
+  <Cards CatID="67563" Quantity="1" Sideboard="false" Name="Curator's Ward" />
 </Deck>

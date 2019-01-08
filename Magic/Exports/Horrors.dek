@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -64,9 +64,12 @@
   <Cards CatID="47615" Quantity="1" Sideboard="true" Name="Horror of the Dim" />
   <Cards CatID="46307" Quantity="1" Sideboard="true" Name="Mizzium Skin" />
   <Cards CatID="50226" Quantity="1" Sideboard="true" Name="Cutthroat Maneuver" />
-  <Cards CatID="56078" Quantity="2" Sideboard="true" Name="Gravepurge" />
+  <Cards CatID="56078" Quantity="1" Sideboard="true" Name="Gravepurge" />
   <Cards CatID="39569" Quantity="1" Sideboard="true" Name="Phyrexian Revoker" />
   <Cards CatID="34810" Quantity="1" Sideboard="true" Name="Ravenous Trap" />
   <Cards CatID="46587" Quantity="2" Sideboard="true" Name="Dispel" />
   <Cards CatID="61661" Quantity="1" Sideboard="true" Name="Ceremonious Rejection" />
+  <Cards CatID="25489" Quantity="1" Sideboard="false" Name="Clockspinning" />
+  <Cards CatID="26620" Quantity="1" Sideboard="false" Name="Mystic Speculation" />
+  <Cards CatID="56402" Quantity="1" Sideboard="true" Name="Self-Inflicted Wound" />
 </Deck>

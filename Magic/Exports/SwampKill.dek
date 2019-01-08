@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -44,9 +45,9 @@
   <Cards CatID="23118" Quantity="4" Sideboard="false" Name="Crown of Convergence" />
   <Cards CatID="20944" Quantity="4" Sideboard="false" Name="Lantern of Insight" />
   <Cards CatID="31341" Quantity="4" Sideboard="false" Name="Skill Borrower" />
-  <Cards CatID="47801" Quantity="4" Sideboard="false" Name="Contaminated Ground" />
+  <Cards CatID="47801" Quantity="5" Sideboard="false" Name="Contaminated Ground" />
   <Cards CatID="23088" Quantity="2" Sideboard="false" Name="Copy Enchantment" />
-  <Cards CatID="49143" Quantity="8" Sideboard="false" Name="Corrupt" />
+  <Cards CatID="49143" Quantity="9" Sideboard="false" Name="Corrupt" />
   <Cards CatID="51717" Quantity="3" Sideboard="false" Name="Eidolon of Countless Battles" />
   <Cards CatID="52232" Quantity="4" Sideboard="false" Name="Eidolon of Rhetoric" />
   <Cards CatID="51661" Quantity="8" Sideboard="false" Name="Ghostblade Eidolon" />
@@ -56,4 +57,6 @@
   <Cards CatID="58675" Quantity="4" Sideboard="false" Name="Retreat to Hagra" />
   <Cards CatID="27356" Quantity="4" Sideboard="false" Name="Shimmering Wings" />
   <Cards CatID="19169" Quantity="4" Sideboard="false" Name="Trade Routes" />
+  <Cards CatID="28619" Quantity="1" Sideboard="false" Name="Nettlevine Blight" />
+  <Cards CatID="19089" Quantity="1" Sideboard="false" Name="Spreading Algae" />
 </Deck>

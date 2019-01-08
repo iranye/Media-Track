@@ -1,0 +1,14 @@
+{
+  "Name": "AltOldiesVol4",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\Live\\_Live-ShortList.m3u",
+      "TotalMegaBytes": 63
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Pearl Jam\\$Pearl Jam-ShortList.m3u",
+      "TotalMegaBytes": 381
+    }
+  ]
+}

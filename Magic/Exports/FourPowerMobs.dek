@@ -71,4 +71,6 @@
   <Cards CatID="46411" Quantity="1" Sideboard="true" Name="Dryad Militant" />
   <Cards CatID="48428" Quantity="1" Sideboard="false" Name="Aetherling" />
   <Cards CatID="55446" Quantity="2" Sideboard="false" Name="Monastery Siege" />
+  <Cards CatID="44281" Quantity="1" Sideboard="false" Name="Vexing Devil" />
+  <Cards CatID="58303" Quantity="1" Sideboard="false" Name="Oblivion Sower" />
 </Deck>

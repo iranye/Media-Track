@@ -141,4 +141,21 @@
   <Cards CatID="24177" Quantity="4" Sideboard="false" Name="Transguild Courier" />
   <Cards CatID="61617" Quantity="4" Sideboard="false" Name="Visionary Augmenter" />
   <Cards CatID="61943" Quantity="4" Sideboard="false" Name="Weaponcraft Enthusiast" />
+  <Cards CatID="67665" Quantity="1" Sideboard="false" Name="Phyrexian Scriptures" />
+  <Cards CatID="38177" Quantity="1" Sideboard="false" Name="Darksteel Sentinel" />
+  <Cards CatID="57906" Quantity="1" Sideboard="false" Name="Thopter Spy Network" />
+  <Cards CatID="30947" Quantity="1" Sideboard="false" Name="Sharding Sphinx" />
+  <Cards CatID="20788" Quantity="1" Sideboard="false" Name="Salvaging Station" />
+  <Cards CatID="30969" Quantity="1" Sideboard="false" Name="Salvage Titan" />
+  <Cards CatID="39353" Quantity="1" Sideboard="false" Name="Rusted Slasher" />
+  <Cards CatID="48914" Quantity="1" Sideboard="false" Name="Pyrite Spellbomb" />
+  <Cards CatID="20325" Quantity="1" Sideboard="false" Name="Voltaic Construct" />
+  <Cards CatID="15742" Quantity="1" Sideboard="false" Name="Phyrexian Colossus" />
+  <Cards CatID="31719" Quantity="1" Sideboard="false" Name="Ethersworn Adjudicator" />
+  <Cards CatID="30901" Quantity="1" Sideboard="false" Name="Dispeller's Capsule" />
+  <Cards CatID="61887" Quantity="1" Sideboard="false" Name="Angel of Invention" />
+  <Cards CatID="38790" Quantity="1" Sideboard="false" Name="Urza's Tower" />
+  <Cards CatID="38774" Quantity="1" Sideboard="false" Name="Urza's Mine" />
+  <Cards CatID="22781" Quantity="1" Sideboard="false" Name="Urza's Power Plant" />
+  <Cards CatID="62911" Quantity="1" Sideboard="false" Name="Paradox Engine" />
 </Deck>

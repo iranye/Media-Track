@@ -1,0 +1,38 @@
+{
+  "Name": "AltHeavyVol1_EXP",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\Audioslave\\_Audioslave-ShortList.m3u",
+      "TotalMegaBytes": 83
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Awolnation\\$Awolnation.m3u",
+      "TotalMegaBytes": 73
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Beck\\_Beck-ShortList.m3u",
+      "TotalMegaBytes": 122
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Butthole Surfers\\_ButtholeSurfers.m3u",
+      "TotalMegaBytes": 152
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Crystal Method\\$Crystal Method.m3u",
+      "TotalMegaBytes": 55
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Godsmack\\_Godsmack-ShortList.m3u",
+      "TotalMegaBytes": 35
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Nine Inch Nails\\_Nine Inch Nails-ShortList.m3u",
+      "TotalMegaBytes": 122
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Soundtrack_Spawn\\_SpawnSountrack-ShortList.m3u",
+      "TotalMegaBytes": 58
+    }
+  ]
+}

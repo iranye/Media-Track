@@ -1,0 +1,22 @@
+{
+  "Name": "ClassicRockVol3",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\JimiHendrixExperience\\$JimiHendrixExperience.m3u",
+      "TotalMegaBytes": 127
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Rolling Stones\\_RollingStones-ShortList.m3u",
+      "TotalMegaBytes": 345
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Stevie Ray Vaughan and Double Trouble\\_StevieRayVaughan_ShortList.m3u",
+      "TotalMegaBytes": 68
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Tom Petty\\_TomPetty-ShortList.m3u",
+      "TotalMegaBytes": 156
+    }
+  ]
+}

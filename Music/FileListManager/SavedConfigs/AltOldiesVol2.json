@@ -1,0 +1,34 @@
+{
+  "Name": "AltOldiesVol2",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\Floater\\$Floater.m3u",
+      "TotalMegaBytes": 35
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Iggy Pop\\$Iggy Pop-BrickByBrick.m3u",
+      "TotalMegaBytes": 75
+    },
+    {
+      "PartialPath": "Music\\MP3s\\REM\\_REM-ShortList.m3u",
+      "TotalMegaBytes": 349
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Screaming Trees\\_ScreamingTrees-ShortList.m3u",
+      "TotalMegaBytes": 102
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Stone Temple Pilots\\_StoneTemplePilots-ShortList.m3u",
+      "TotalMegaBytes": 72
+    },
+    {
+      "PartialPath": "Music\\MP3s\\TempleOfTheDog\\_TempleOfTheDog-ShortList.m3u",
+      "TotalMegaBytes": 15
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Weezer\\_Weezer-ShortList.m3u",
+      "TotalMegaBytes": 46
+    }
+  ]
+}

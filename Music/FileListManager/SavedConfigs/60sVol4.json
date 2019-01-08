@@ -1,0 +1,14 @@
+{
+  "Name": "60sVol4",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1967\\_1967-ShortList.m3u",
+      "TotalMegaBytes": 274
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1968\\_1968-ShortList.m3u",
+      "TotalMegaBytes": 263
+    }
+  ]
+}
