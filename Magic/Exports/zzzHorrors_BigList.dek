@@ -226,4 +226,5 @@
   <Cards CatID="70233" Quantity="1" Sideboard="false" Name="Unstable Mutation" />
   <Cards CatID="68639" Quantity="1" Sideboard="false" Name="Magistrate's Scepter" />
   <Cards CatID="56402" Quantity="1" Sideboard="false" Name="Self-Inflicted Wound" />
+  <Cards CatID="66599" Quantity="1" Sideboard="false" Name="Golden Demise" />
 </Deck>

@@ -2019,4 +2019,23 @@
   <Cards CatID="28619" Quantity="4" Sideboard="false" Name="Nettlevine Blight" />
   <Cards CatID="26027" Quantity="4" Sideboard="false" Name="Safe Haven" />
   <Cards CatID="39998" Quantity="2" Sideboard="false" Name="Torpor Orb" />
+  <Cards CatID="66763" Quantity="4" Sideboard="false" Name="Deadeye Brawler" />
+  <Cards CatID="47483" Quantity="5" Sideboard="false" Name="Gruul Charm" />
+  <Cards CatID="46433" Quantity="7" Sideboard="false" Name="Izzet Charm" />
+  <Cards CatID="56194" Quantity="4" Sideboard="false" Name="Hand of Silumgar" />
+  <Cards CatID="56359" Quantity="1" Sideboard="false" Name="Silumgar Spell-Eater" />
+  <Cards CatID="55952" Quantity="6" Sideboard="false" Name="Silumgar Monument" />
+  <Cards CatID="48496" Quantity="2" Sideboard="false" Name="Maze Abomination" />
+  <Cards CatID="54336" Quantity="4" Sideboard="false" Name="Mer-Ek Nightblade" />
+  <Cards CatID="45682" Quantity="1" Sideboard="false" Name="Mwonvuli Beast Tracker" />
+  <Cards CatID="50516" Quantity="4" Sideboard="false" Name="Reaper of the Wilds" />
+  <Cards CatID="60196" Quantity="5" Sideboard="false" Name="Reaper of Flight Moonsilver" />
+  <Cards CatID="46743" Quantity="6" Sideboard="false" Name="Grave Betrayal" />
+  <Cards CatID="54454" Quantity="5" Sideboard="false" Name="Deflecting Palm" />
+  <Cards CatID="60392" Quantity="5" Sideboard="false" Name="Harvest Hand" />
+  <Cards CatID="55986" Quantity="4" Sideboard="false" Name="Atarka Monument" />
+  <Cards CatID="56028" Quantity="7" Sideboard="false" Name="Dromoka Monument" />
+  <Cards CatID="55938" Quantity="5" Sideboard="false" Name="Kolaghan Monument" />
+  <Cards CatID="55936" Quantity="5" Sideboard="false" Name="Ojutai Monument" />
+  <Cards CatID="55952" Quantity="6" Sideboard="false" Name="Silumgar Monument" />
 </Deck>

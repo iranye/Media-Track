@@ -40,4 +40,6 @@
   <Cards CatID="46563" Quantity="1" Sideboard="false" Name="Rakdos, Lord of Riots" />
   <Cards CatID="36524" Quantity="1" Sideboard="false" Name="Kor Spiritdancer" />
   <Cards CatID="57712" Quantity="1" Sideboard="false" Name="Nantuko Husk" />
+  <Cards CatID="63766" Quantity="1" Sideboard="false" Name="Bontu the Glorified" />
+  <Cards CatID="60196" Quantity="1" Sideboard="false" Name="Reaper of Flight Moonsilver" />
 </Deck>

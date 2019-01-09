@@ -251,4 +251,6 @@
   <Cards CatID="46443" Quantity="1" Sideboard="false" Name="Dreadbore" />
   <Cards CatID="57454" Quantity="1" Sideboard="false" Name="Electrolyze" />
   <Cards CatID="67563" Quantity="1" Sideboard="false" Name="Curator's Ward" />
+  <Cards CatID="48496" Quantity="1" Sideboard="false" Name="Maze Abomination" />
+  <Cards CatID="54336" Quantity="1" Sideboard="false" Name="Mer-Ek Nightblade" />
 </Deck>
