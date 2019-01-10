@@ -2038,4 +2038,21 @@
   <Cards CatID="55938" Quantity="5" Sideboard="false" Name="Kolaghan Monument" />
   <Cards CatID="55936" Quantity="5" Sideboard="false" Name="Ojutai Monument" />
   <Cards CatID="55952" Quantity="6" Sideboard="false" Name="Silumgar Monument" />
+  <Cards CatID="66599" Quantity="4" Sideboard="false" Name="Golden Demise" />
+  <Cards CatID="65412" Quantity="4" Sideboard="false" Name="Kumena's Speaker" />
+  <Cards CatID="66489" Quantity="1" Sideboard="false" Name="Radiant Destiny" />
+  <Cards CatID="49587" Quantity="1" Sideboard="false" Name="Darksteel Forge" />
+  <Cards CatID="61753" Quantity="4" Sideboard="false" Name="Creeping Mold" />
+  <Cards CatID="35513" Quantity="4" Sideboard="false" Name="Khalni Garden" />
+  <Cards CatID="66599" Quantity="4" Sideboard="false" Name="Golden Demise" />
+  <Cards CatID="51691" Quantity="7" Sideboard="false" Name="Akroan Conscriptor" />
+  <Cards CatID="50388" Quantity="5" Sideboard="false" Name="Anax and Cymede" />
+  <Cards CatID="51807" Quantity="6" Sideboard="false" Name="Ashiok's Adept" />
+  <Cards CatID="50258" Quantity="6" Sideboard="false" Name="Favored Hoplite" />
+  <Cards CatID="51735" Quantity="2" Sideboard="false" Name="Hero of Leina Tower" />
+  <Cards CatID="51783" Quantity="6" Sideboard="false" Name="Meletis Astronomer" />
+  <Cards CatID="65018" Quantity="4" Sideboard="false" Name="Bellowing Aegisaur" />
+  <Cards CatID="66617" Quantity="4" Sideboard="false" Name="Ravenous Chupacabra" />
+  <Cards CatID="60222" Quantity="5" Sideboard="false" Name="Ravenous Bloodseeker" />
+  <Cards CatID="68673" Quantity="4" Sideboard="false" Name="Rupture Spire" />
 </Deck>

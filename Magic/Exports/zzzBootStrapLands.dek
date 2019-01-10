@@ -130,4 +130,5 @@
   <Cards CatID="40756" Quantity="4" Sideboard="false" Name="Gruul Turf" />
   <Cards CatID="40730" Quantity="4" Sideboard="false" Name="Golgari Rot Farm" />
   <Cards CatID="23192" Quantity="4" Sideboard="false" Name="Dimir Aqueduct" />
+  <Cards CatID="68673" Quantity="4" Sideboard="false" Name="Rupture Spire" />
 </Deck>

@@ -18,10 +18,10 @@
   <Cards CatID="47913" Quantity="1" Sideboard="false" Name="Undercity Plague" />
   <Cards CatID="65266" Quantity="1" Sideboard="false" Name="Spreading Rot" />
   <Cards CatID="50380" Quantity="1" Sideboard="false" Name="Rescue from the Underworld" />
-  <Cards CatID="42758" Quantity="1" Sideboard="false" Name="Maw of the Mire" />
+  <Cards CatID="42758" Quantity="2" Sideboard="false" Name="Maw of the Mire" />
   <Cards CatID="61132" Quantity="1" Sideboard="false" Name="Docent of Perfection" />
   <Cards CatID="26596" Quantity="1" Sideboard="false" Name="Festering March" />
-  <Cards CatID="34506" Quantity="1" Sideboard="false" Name="Desecrated Earth" />
+  <Cards CatID="34506" Quantity="2" Sideboard="false" Name="Desecrated Earth" />
   <Cards CatID="55582" Quantity="1" Sideboard="false" Name="Enhanced Awareness" />
   <Cards CatID="63091" Quantity="1" Sideboard="false" Name="Torrent of Souls" />
   <Cards CatID="34810" Quantity="1" Sideboard="false" Name="Ravenous Trap" />
@@ -62,4 +62,8 @@
   <Cards CatID="19569" Quantity="1" Sideboard="false" Name="Merchant Scroll" />
   <Cards CatID="49593" Quantity="1" Sideboard="false" Name="Quicken" />
   <Cards CatID="59513" Quantity="1" Sideboard="false" Name="Crush of Tentacles" />
+  <Cards CatID="52038" Quantity="1" Sideboard="false" Name="Spiteful Blow" />
+  <Cards CatID="65266" Quantity="1" Sideboard="false" Name="Spreading Rot" />
+  <Cards CatID="46771" Quantity="1" Sideboard="false" Name="Firemind's Foresight" />
+  <Cards CatID="67867" Quantity="1" Sideboard="false" Name="Primevals' Glorious Rebirth" />
 </Deck>
