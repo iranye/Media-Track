@@ -2,7 +2,6 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="50511" Quantity="1" Sideboard="false" Name="Agent of the Fates" />
   <Cards CatID="9199" Quantity="1" Sideboard="false" Name="Fire Whip" />
   <Cards CatID="25737" Quantity="1" Sideboard="false" Name="Stuffy Doll" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
@@ -281,9 +280,9 @@
   <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
   <Cards CatID="48688" Quantity="1" Sideboard="false" Name="Runed Stalactite" />
   <Cards CatID="34902" Quantity="1" Sideboard="false" Name="Rancor" />
-  <Cards CatID="59980" Quantity="1" Sideboard="false" Name="Sigarda, Heron's Grace" />
   <Cards CatID="61282" Quantity="1" Sideboard="false" Name="Sigarda's Aid" />
   <Cards CatID="54276" Quantity="1" Sideboard="false" Name="Abzan Battle Priest" />
   <Cards CatID="36586" Quantity="1" Sideboard="false" Name="Student of Warfare" />
   <Cards CatID="51715" Quantity="1" Sideboard="false" Name="Hero of Iroas" />
+  <Cards CatID="50510" Quantity="4" Sideboard="false" Name="Agent of the Fates" />
 </Deck>

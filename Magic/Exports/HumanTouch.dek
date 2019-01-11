@@ -1,8 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="50511" Quantity="1" Sideboard="false" Name="Agent of the Fates" />
   <Cards CatID="9199" Quantity="4" Sideboard="false" Name="Fire Whip" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
   <Cards CatID="14915" Quantity="1" Sideboard="false" Name="Island" />
@@ -45,12 +44,10 @@
   <Cards CatID="34552" Quantity="2" Sideboard="false" Name="Day of Judgment" />
   <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
   <Cards CatID="42694" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
-  <Cards CatID="46429" Quantity="1" Sideboard="false" Name="Izzet Staticaster" />
   <Cards CatID="48946" Quantity="1" Sideboard="false" Name="Eternal Witness" />
   <Cards CatID="28635" Quantity="1" Sideboard="false" Name="Skeletal Changeling" />
   <Cards CatID="54118" Quantity="1" Sideboard="false" Name="Heir of the Wilds" />
   <Cards CatID="50268" Quantity="1" Sideboard="false" Name="Temple of Silence" />
-  <Cards CatID="50350" Quantity="1" Sideboard="false" Name="Phalanx Leader" />
   <Cards CatID="34530" Quantity="1" Sideboard="false" Name="Vampire Nighthawk" />
   <Cards CatID="59944" Quantity="1" Sideboard="false" Name="Odric, Lunarch Marshal" />
   <Cards CatID="62583" Quantity="1" Sideboard="false" Name="Conviction" />
@@ -62,7 +59,6 @@
   <Cards CatID="52120" Quantity="1" Sideboard="false" Name="Mana Confluence" />
   <Cards CatID="67961" Quantity="2" Sideboard="false" Name="Woodland Cemetery" />
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
-  <Cards CatID="19737" Quantity="2" Sideboard="false" Name="Lightning Greaves" />
   <Cards CatID="54160" Quantity="1" Sideboard="false" Name="Sandsteppe Citadel" />
   <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
   <Cards CatID="31939" Quantity="2" Sideboard="false" Name="Exotic Orchard" />
@@ -82,7 +78,6 @@
   <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
   <Cards CatID="46783" Quantity="2" Sideboard="false" Name="Chromatic Lantern" />
   <Cards CatID="34826" Quantity="1" Sideboard="false" Name="Khalni Gem" />
-  <Cards CatID="19049" Quantity="1" Sideboard="false" Name="Coat of Arms" />
   <Cards CatID="68673" Quantity="1" Sideboard="false" Name="Rupture Spire" />
   <Cards CatID="21491" Quantity="1" Sideboard="false" Name="Konda's Banner" />
   <Cards CatID="65432" Quantity="1" Sideboard="false" Name="Shapers' Sanctuary" />
@@ -118,4 +113,6 @@
   <Cards CatID="25665" Quantity="1" Sideboard="true" Name="Mangara of Corondor" />
   <Cards CatID="53278" Quantity="1" Sideboard="true" Name="Tormod's Crypt" />
   <Cards CatID="43903" Quantity="1" Sideboard="true" Name="Riders of Gavony" />
+  <Cards CatID="50510" Quantity="4" Sideboard="false" Name="Agent of the Fates" />
+  <Cards CatID="59792" Quantity="1" Sideboard="false" Name="Cryptolith Rite" />
 </Deck>
