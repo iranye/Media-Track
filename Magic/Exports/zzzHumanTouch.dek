@@ -280,4 +280,10 @@
   <Cards CatID="66599" Quantity="1" Sideboard="false" Name="Golden Demise" />
   <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
   <Cards CatID="48688" Quantity="1" Sideboard="false" Name="Runed Stalactite" />
+  <Cards CatID="34902" Quantity="1" Sideboard="false" Name="Rancor" />
+  <Cards CatID="59980" Quantity="1" Sideboard="false" Name="Sigarda, Heron's Grace" />
+  <Cards CatID="61282" Quantity="1" Sideboard="false" Name="Sigarda's Aid" />
+  <Cards CatID="54276" Quantity="1" Sideboard="false" Name="Abzan Battle Priest" />
+  <Cards CatID="36586" Quantity="1" Sideboard="false" Name="Student of Warfare" />
+  <Cards CatID="51715" Quantity="1" Sideboard="false" Name="Hero of Iroas" />
 </Deck>
