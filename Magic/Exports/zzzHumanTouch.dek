@@ -4,7 +4,6 @@
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="50511" Quantity="1" Sideboard="false" Name="Agent of the Fates" />
   <Cards CatID="9199" Quantity="1" Sideboard="false" Name="Fire Whip" />
-  <Cards CatID="31077" Quantity="1" Sideboard="false" Name="Puppet Conjurer" />
   <Cards CatID="25737" Quantity="1" Sideboard="false" Name="Stuffy Doll" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
   <Cards CatID="55426" Quantity="1" Sideboard="false" Name="Hooded Assassin" />
@@ -201,7 +200,7 @@
   <Cards CatID="64012" Quantity="1" Sideboard="false" Name="Samut, Voice of Dissent" />
   <Cards CatID="60392" Quantity="1" Sideboard="false" Name="Harvest Hand" />
   <Cards CatID="38253" Quantity="1" Sideboard="false" Name="Neurok Replica" />
-  <Cards CatID="66489" Quantity="1" Sideboard="false" Name="Radiant Destiny" />
+  <Cards CatID="66489" Quantity="2" Sideboard="false" Name="Radiant Destiny" />
   <Cards CatID="34826" Quantity="1" Sideboard="false" Name="Khalni Gem" />
   <Cards CatID="47771" Quantity="1" Sideboard="false" Name="Fathom Mage" />
   <Cards CatID="24119" Quantity="1" Sideboard="true" Name="Plaxmanta" />
@@ -234,18 +233,51 @@
   <Cards CatID="50380" Quantity="1" Sideboard="false" Name="Rescue from the Underworld" />
   <Cards CatID="36714" Quantity="1" Sideboard="false" Name="Emerge Unscathed" />
   <Cards CatID="39922" Quantity="1" Sideboard="false" Name="Noxious Revival" />
-  <Cards CatID="51691" Quantity="1" Sideboard="false" Name="Akroan Conscriptor" />
+  <Cards CatID="51691" Quantity="2" Sideboard="false" Name="Akroan Conscriptor" />
   <Cards CatID="51571" Quantity="1" Sideboard="false" Name="Akroan Skyguard" />
-  <Cards CatID="50388" Quantity="1" Sideboard="false" Name="Anax and Cymede" />
+  <Cards CatID="50388" Quantity="2" Sideboard="false" Name="Anax and Cymede" />
   <Cards CatID="21491" Quantity="1" Sideboard="false" Name="Konda's Banner" />
-  <Cards CatID="51807" Quantity="1" Sideboard="false" Name="Ashiok's Adept" />
-  <Cards CatID="50258" Quantity="1" Sideboard="false" Name="Favored Hoplite" />
-  <Cards CatID="51735" Quantity="1" Sideboard="false" Name="Hero of Leina Tower" />
-  <Cards CatID="51783" Quantity="1" Sideboard="false" Name="Meletis Astronomer" />
-  <Cards CatID="65018" Quantity="1" Sideboard="false" Name="Bellowing Aegisaur" />
+  <Cards CatID="51807" Quantity="2" Sideboard="false" Name="Ashiok's Adept" />
+  <Cards CatID="50258" Quantity="2" Sideboard="false" Name="Favored Hoplite" />
+  <Cards CatID="51735" Quantity="2" Sideboard="false" Name="Hero of Leina Tower" />
+  <Cards CatID="51783" Quantity="2" Sideboard="false" Name="Meletis Astronomer" />
+  <Cards CatID="65018" Quantity="2" Sideboard="false" Name="Bellowing Aegisaur" />
   <Cards CatID="68589" Quantity="1" Sideboard="false" Name="Chromium, the Mutable" />
   <Cards CatID="59792" Quantity="1" Sideboard="false" Name="Cryptolith Rite" />
   <Cards CatID="42694" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
   <Cards CatID="27204" Quantity="1" Sideboard="false" Name="Citanul Flute" />
   <Cards CatID="34424" Quantity="1" Sideboard="false" Name="Relic Crush" />
+  <Cards CatID="66585" Quantity="1" Sideboard="false" Name="Dead Man's Chest" />
+  <Cards CatID="67657" Quantity="1" Sideboard="false" Name="Kazarov, Sengir Pureblood" />
+  <Cards CatID="20023" Quantity="1" Sideboard="false" Name="Dross Harvester" />
+  <Cards CatID="39908" Quantity="1" Sideboard="false" Name="Xenograft" />
+  <Cards CatID="29178" Quantity="1" Sideboard="false" Name="Luminescent Rain" />
+  <Cards CatID="29172" Quantity="1" Sideboard="false" Name="Distant Melody" />
+  <Cards CatID="26131" Quantity="1" Sideboard="false" Name="Conspiracy" />
+  <Cards CatID="28639" Quantity="1" Sideboard="false" Name="Avian Changeling" />
+  <Cards CatID="44029" Quantity="1" Sideboard="false" Name="Kessig Malcontents" />
+  <Cards CatID="43813" Quantity="1" Sideboard="false" Name="Gallows at Willow Hill" />
+  <Cards CatID="64112" Quantity="1" Sideboard="false" Name="Bontu's Monument" />
+  <Cards CatID="63852" Quantity="1" Sideboard="false" Name="Combat Celebrant" />
+  <Cards CatID="25435" Quantity="1" Sideboard="false" Name="Aether Web" />
+  <Cards CatID="21157" Quantity="1" Sideboard="false" Name="Serpent Skin" />
+  <Cards CatID="23915" Quantity="1" Sideboard="false" Name="Guardian's Magemark" />
+  <Cards CatID="45205" Quantity="1" Sideboard="false" Name="Xathrid Gorgon" />
+  <Cards CatID="66625" Quantity="1" Sideboard="false" Name="Tetzimoc, Primal Death" />
+  <Cards CatID="43949" Quantity="1" Sideboard="false" Name="Nightshade Peddler" />
+  <Cards CatID="28984" Quantity="1" Sideboard="false" Name="Moonglove Changeling" />
+  <Cards CatID="66589" Quantity="1" Sideboard="false" Name="Dire Fleet Poisoner" />
+  <Cards CatID="59932" Quantity="1" Sideboard="false" Name="Deathcap Cultivator" />
+  <Cards CatID="69755" Quantity="1" Sideboard="false" Name="Nightveil Predator" />
+  <Cards CatID="42828" Quantity="1" Sideboard="false" Name="Champion of the Parish" />
+  <Cards CatID="43903" Quantity="1" Sideboard="false" Name="Riders of Gavony" />
+  <Cards CatID="42822" Quantity="1" Sideboard="false" Name="Mayor of Avabruck" />
+  <Cards CatID="61476" Quantity="1" Sideboard="false" Name="Heron's Grace Champion" />
+  <Cards CatID="59980" Quantity="1" Sideboard="false" Name="Sigarda, Heron's Grace" />
+  <Cards CatID="31773" Quantity="1" Sideboard="false" Name="Pestilent Kathari" />
+  <Cards CatID="31079" Quantity="1" Sideboard="false" Name="Tidehollow Strix" />
+  <Cards CatID="69517" Quantity="1" Sideboard="false" Name="Hired Poisoner" />
+  <Cards CatID="66599" Quantity="1" Sideboard="false" Name="Golden Demise" />
+  <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
+  <Cards CatID="48688" Quantity="1" Sideboard="false" Name="Runed Stalactite" />
 </Deck>

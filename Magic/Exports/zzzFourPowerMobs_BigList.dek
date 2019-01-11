@@ -279,4 +279,12 @@
   <Cards CatID="48762" Quantity="1" Sideboard="false" Name="Woodfall Primus" />
   <Cards CatID="62911" Quantity="1" Sideboard="false" Name="Paradox Engine" />
   <Cards CatID="36616" Quantity="1" Sideboard="false" Name="Pelakka Wurm" />
+  <Cards CatID="66683" Quantity="1" Sideboard="false" Name="Silverclad Ferocidons" />
+  <Cards CatID="66753" Quantity="1" Sideboard="false" Name="Wayward Swordtooth" />
+  <Cards CatID="66741" Quantity="1" Sideboard="false" Name="Polyraptor" />
+  <Cards CatID="30016" Quantity="1" Sideboard="false" Name="Overbeing of Myth" />
+  <Cards CatID="66543" Quantity="1" Sideboard="false" Name="Nezahal, Primal Tide" />
+  <Cards CatID="69373" Quantity="1" Sideboard="false" Name="Impervious Greatwurm" />
+  <Cards CatID="66713" Quantity="1" Sideboard="false" Name="Ghalta, Primal Hunger" />
+  <Cards CatID="63852" Quantity="1" Sideboard="false" Name="Combat Celebrant" />
 </Deck>

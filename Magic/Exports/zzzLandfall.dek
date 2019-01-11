@@ -93,4 +93,7 @@
   <Cards CatID="35761" Quantity="1" Sideboard="false" Name="Vapor Snare" />
   <Cards CatID="67501" Quantity="1" Sideboard="false" Name="Fall of the Thran" />
   <Cards CatID="67877" Quantity="1" Sideboard="false" Name="Tatyova, Benthic Druid" />
+  <Cards CatID="66753" Quantity="1" Sideboard="false" Name="Wayward Swordtooth" />
+  <Cards CatID="30016" Quantity="1" Sideboard="false" Name="Overbeing of Myth" />
+  <Cards CatID="66543" Quantity="1" Sideboard="false" Name="Nezahal, Primal Tide" />
 </Deck>

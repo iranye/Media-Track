@@ -66,4 +66,7 @@
   <Cards CatID="65266" Quantity="1" Sideboard="false" Name="Spreading Rot" />
   <Cards CatID="46771" Quantity="1" Sideboard="false" Name="Firemind's Foresight" />
   <Cards CatID="67867" Quantity="1" Sideboard="false" Name="Primevals' Glorious Rebirth" />
+  <Cards CatID="68579" Quantity="1" Sideboard="false" Name="Vivien's Invocation" />
+  <Cards CatID="65144" Quantity="1" Sideboard="false" Name="Overflowing Insight" />
+  <Cards CatID="66641" Quantity="1" Sideboard="false" Name="Brass's Bounty" />
 </Deck>
