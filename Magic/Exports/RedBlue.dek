@@ -8,7 +8,7 @@
   <Cards CatID="19979" Quantity="2" Sideboard="false" Name="Fractured Loyalty" />
   <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
   <Cards CatID="50306" Quantity="2" Sideboard="false" Name="Thassa, God of the Sea" />
-  <Cards CatID="50440" Quantity="3" Sideboard="true" Name="Swan Song" />
+  <Cards CatID="50440" Quantity="1" Sideboard="true" Name="Swan Song" />
   <Cards CatID="50424" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="9411" Quantity="2" Sideboard="false" Name="Gemstone Mine" />
   <Cards CatID="67933" Quantity="3" Sideboard="false" Name="Traxos, Scourge of Kroog" />
@@ -17,8 +17,7 @@
   <Cards CatID="53284" Quantity="2" Sideboard="false" Name="Shrapnel Blast" />
   <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
   <Cards CatID="49339" Quantity="3" Sideboard="false" Name="Trading Post" />
-  <Cards CatID="35515" Quantity="1" Sideboard="false" Name="Bojuka Bog" />
-  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
+  <Cards CatID="35515" Quantity="1" Sideboard="true" Name="Bojuka Bog" />
   <Cards CatID="29479" Quantity="1" Sideboard="false" Name="Sunken Ruins" />
   <Cards CatID="35695" Quantity="4" Sideboard="false" Name="Basilisk Collar" />
   <Cards CatID="31213" Quantity="2" Sideboard="false" Name="Etherium Sculptor" />
@@ -33,25 +32,18 @@
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
   <Cards CatID="68263" Quantity="1" Sideboard="false" Name="Divination" />
   <Cards CatID="29837" Quantity="1" Sideboard="false" Name="Cemetery Puca" />
-  <Cards CatID="61597" Quantity="1" Sideboard="false" Name="Saheeli Rai" />
-  <Cards CatID="34358" Quantity="1" Sideboard="false" Name="Piranha Marsh" />
   <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
-  <Cards CatID="39770" Quantity="3" Sideboard="false" Name="Vault Skirge" />
+  <Cards CatID="39770" Quantity="2" Sideboard="false" Name="Vault Skirge" />
   <Cards CatID="49231" Quantity="2" Sideboard="false" Name="Ratchet Bomb" />
   <Cards CatID="68477" Quantity="1" Sideboard="false" Name="Smelt" />
   <Cards CatID="48992" Quantity="1" Sideboard="true" Name="Kira, Great Glass-Spinner" />
-  <Cards CatID="52094" Quantity="1" Sideboard="false" Name="Disciple of Deceit" />
-  <Cards CatID="34832" Quantity="1" Sideboard="true" Name="Expedition Map" />
   <Cards CatID="65522" Quantity="1" Sideboard="true" Name="Sorcerous Spyglass" />
   <Cards CatID="49217" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
   <Cards CatID="68661" Quantity="1" Sideboard="true" Name="Detection Tower" />
-  <Cards CatID="46499" Quantity="1" Sideboard="true" Name="Pithing Needle" />
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
-  <Cards CatID="68477" Quantity="1" Sideboard="true" Name="Smelt" />
+  <Cards CatID="68477" Quantity="2" Sideboard="true" Name="Smelt" />
   <Cards CatID="67388" Quantity="1" Sideboard="false" Name="Cascade Bluffs" />
-  <Cards CatID="26656" Quantity="1" Sideboard="false" Name="River of Tears" />
   <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
-  <Cards CatID="46657" Quantity="1" Sideboard="false" Name="Transguild Promenade" />
   <Cards CatID="61851" Quantity="1" Sideboard="false" Name="Spirebluff Canal" />
   <Cards CatID="64140" Quantity="1" Sideboard="false" Name="Canyon Slough" />
   <Cards CatID="29511" Quantity="1" Sideboard="false" Name="Graven Cairns" />
@@ -59,13 +51,9 @@
   <Cards CatID="64148" Quantity="1" Sideboard="false" Name="Fetid Pools" />
   <Cards CatID="53602" Quantity="1" Sideboard="false" Name="Ensoul Artifact" />
   <Cards CatID="55602" Quantity="1" Sideboard="false" Name="Arcbond" />
-  <Cards CatID="31939" Quantity="1" Sideboard="true" Name="Exotic Orchard" />
+  <Cards CatID="31939" Quantity="1" Sideboard="false" Name="Exotic Orchard" />
   <Cards CatID="46783" Quantity="1" Sideboard="false" Name="Chromatic Lantern" />
-  <Cards CatID="32492" Quantity="1" Sideboard="false" Name="Unscythe, Killer of Kings" />
-  <Cards CatID="19737" Quantity="2" Sideboard="false" Name="Lightning Greaves" />
   <Cards CatID="23340" Quantity="1" Sideboard="false" Name="Junktroller" />
-  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
-  <Cards CatID="20822" Quantity="1" Sideboard="true" Name="Neurok Stealthsuit" />
   <Cards CatID="38161" Quantity="1" Sideboard="false" Name="Steel Hellkite" />
   <Cards CatID="20009" Quantity="1" Sideboard="false" Name="Granite Shard" />
   <Cards CatID="20121" Quantity="1" Sideboard="false" Name="Welding Jar" />
@@ -73,20 +61,20 @@
   <Cards CatID="31077" Quantity="1" Sideboard="false" Name="Puppet Conjurer" />
   <Cards CatID="66795" Quantity="1" Sideboard="false" Name="Protean Raider" />
   <Cards CatID="23298" Quantity="1" Sideboard="false" Name="Drift of Phantasms" />
-  <Cards CatID="50156" Quantity="1" Sideboard="false" Name="Benthic Giant" />
-  <Cards CatID="31165" Quantity="1" Sideboard="false" Name="Blood Cultist" />
-  <Cards CatID="23004" Quantity="1" Sideboard="false" Name="Hunted Phantasm" />
-  <Cards CatID="63764" Quantity="1" Sideboard="false" Name="Bone Picker" />
   <Cards CatID="61765" Quantity="1" Sideboard="false" Name="Contraband Kingpin" />
   <Cards CatID="55446" Quantity="1" Sideboard="false" Name="Monastery Siege" />
   <Cards CatID="62811" Quantity="1" Sideboard="false" Name="Tezzeret's Touch" />
   <Cards CatID="53528" Quantity="1" Sideboard="false" Name="Polymorphist's Jest" />
-  <Cards CatID="68365" Quantity="1" Sideboard="false" Name="Infernal Reckoning" />
+  <Cards CatID="68365" Quantity="1" Sideboard="true" Name="Infernal Reckoning" />
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
-  <Cards CatID="23312" Quantity="1" Sideboard="false" Name="Muddle the Mixture" />
-  <Cards CatID="67859" Quantity="1" Sideboard="false" Name="Jhoira, Weatherlight Captain" />
-  <Cards CatID="51725" Quantity="1" Sideboard="false" Name="Tromokratis" />
-  <Cards CatID="62919" Quantity="1" Sideboard="false" Name="Kari Zev's Expertise" />
+  <Cards CatID="67859" Quantity="2" Sideboard="false" Name="Jhoira, Weatherlight Captain" />
   <Cards CatID="43835" Quantity="1" Sideboard="true" Name="Elgaud Shieldmate" />
   <Cards CatID="37240" Quantity="1" Sideboard="false" Name="Lightning Bolt" />
+  <Cards CatID="47685" Quantity="1" Sideboard="true" Name="Aetherize" />
+  <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
+  <Cards CatID="47813" Quantity="1" Sideboard="true" Name="Glaring Spotlight" />
+  <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="35515" Quantity="1" Sideboard="false" Name="Bojuka Bog" />
+  <Cards CatID="46743" Quantity="1" Sideboard="false" Name="Grave Betrayal" />
 </Deck>

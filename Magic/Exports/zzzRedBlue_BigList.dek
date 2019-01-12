@@ -254,4 +254,10 @@
   <Cards CatID="48496" Quantity="1" Sideboard="false" Name="Maze Abomination" />
   <Cards CatID="54336" Quantity="1" Sideboard="false" Name="Mer-Ek Nightblade" />
   <Cards CatID="67657" Quantity="1" Sideboard="false" Name="Kazarov, Sengir Pureblood" />
+  <Cards CatID="63686" Quantity="1" Sideboard="false" Name="As Foretold" />
+  <Cards CatID="46743" Quantity="1" Sideboard="false" Name="Grave Betrayal" />
+  <Cards CatID="36456" Quantity="1" Sideboard="false" Name="Eel Umbra" />
+  <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
+  <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
+  <Cards CatID="67869" Quantity="1" Sideboard="false" Name="Raff Capashen, Ship's Mage" />
 </Deck>
