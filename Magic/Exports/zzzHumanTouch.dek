@@ -232,16 +232,27 @@
   <Cards CatID="50380" Quantity="1" Sideboard="false" Name="Rescue from the Underworld" />
   <Cards CatID="36714" Quantity="1" Sideboard="false" Name="Emerge Unscathed" />
   <Cards CatID="39922" Quantity="1" Sideboard="false" Name="Noxious Revival" />
+  <Cards CatID="20187" Quantity="1" Sideboard="false" Name="Power Conduit" />
   <Cards CatID="51691" Quantity="2" Sideboard="false" Name="Akroan Conscriptor" />
+  <Cards CatID="21239" Quantity="1" Sideboard="false" Name="Kitsune Mystic" />
   <Cards CatID="51571" Quantity="1" Sideboard="false" Name="Akroan Skyguard" />
+  <Cards CatID="58116" Quantity="1" Sideboard="false" Name="Helm of the Gods" />
   <Cards CatID="50388" Quantity="2" Sideboard="false" Name="Anax and Cymede" />
+  <Cards CatID="20273" Quantity="1" Sideboard="false" Name="Sword of Kaldra" />
   <Cards CatID="21491" Quantity="1" Sideboard="false" Name="Konda's Banner" />
+  <Cards CatID="52062" Quantity="1" Sideboard="false" Name="Tethmos High Priest" />
   <Cards CatID="51807" Quantity="2" Sideboard="false" Name="Ashiok's Adept" />
+  <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" />
   <Cards CatID="50258" Quantity="2" Sideboard="false" Name="Favored Hoplite" />
+  <Cards CatID="35701" Quantity="1" Sideboard="false" Name="Guardian Zendikon" />
   <Cards CatID="51735" Quantity="2" Sideboard="false" Name="Hero of Leina Tower" />
+  <Cards CatID="50200" Quantity="1" Sideboard="false" Name="Nylea's Presence" />
   <Cards CatID="51783" Quantity="2" Sideboard="false" Name="Meletis Astronomer" />
+  <Cards CatID="46741" Quantity="1" Sideboard="false" Name="Underworld Connections" />
   <Cards CatID="65018" Quantity="2" Sideboard="false" Name="Bellowing Aegisaur" />
+  <Cards CatID="49347" Quantity="1" Sideboard="false" Name="Verdant Haven" />
   <Cards CatID="68589" Quantity="1" Sideboard="false" Name="Chromium, the Mutable" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
   <Cards CatID="59792" Quantity="1" Sideboard="false" Name="Cryptolith Rite" />
   <Cards CatID="42694" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
   <Cards CatID="27204" Quantity="1" Sideboard="false" Name="Citanul Flute" />
@@ -285,4 +296,5 @@
   <Cards CatID="36586" Quantity="1" Sideboard="false" Name="Student of Warfare" />
   <Cards CatID="51715" Quantity="1" Sideboard="false" Name="Hero of Iroas" />
   <Cards CatID="50510" Quantity="4" Sideboard="false" Name="Agent of the Fates" />
+  <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
 </Deck>
