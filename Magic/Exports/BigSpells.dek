@@ -69,4 +69,6 @@
   <Cards CatID="68579" Quantity="1" Sideboard="false" Name="Vivien's Invocation" />
   <Cards CatID="65144" Quantity="1" Sideboard="false" Name="Overflowing Insight" />
   <Cards CatID="66641" Quantity="1" Sideboard="false" Name="Brass's Bounty" />
+  <Cards CatID="56394" Quantity="1" Sideboard="false" Name="Descent of the Dragons" />
+  <Cards CatID="55622" Quantity="1" Sideboard="false" Name="Temporal Trespass" />
 </Deck>

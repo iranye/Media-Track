@@ -1404,103 +1404,21 @@ NON-CREATURES:
   TideWalkder  
 </TimeCounter>
 <Tokens>
-  Precinct Captain
-	<Madness>
-    Llanowar Mentor
-	</Madness>
-  Aether Vial
-  Angel of Jubilation (TAKE OUT: Awakening Zone, Trading Post)
-  Archangel of Tithes
-  Awakening Zone
-  Baloth Cage Trap (Sideboard)
-  Baru, Fist of Krosa
-  Beckon Apparition
-  Call of the Herd
-  Champion of Lambholt
-  Cobra Trap
-  Cogworker's Puzzleknot
-  Conclave Cavalier
-  Creakwood Liege
-  Dauntless Escort
-  Dromoka's Command
-  Doubling Season
-  Elspeth, Knight-Errant
-  Elspeth Tirel
-  Emmara, Soul of the Accord
-  Feral Incarnation
-  Garruk, Primal Hunter
-  Garruk Relentless
-  Garruk Wildspeaker
-  Gideon, Ally of Zendikar
-  Gideon, Champion of Justice
-  Godsire
-  Golden Guardian
-  Goldnight Commander
-  Hanweir Militia Captain
-  Herald of Anafenza
-  Hooded Hydra
-  Hornet Nest
-  Ichor Wellspring
-  Inexorable Blob
-  Intangible Virtue
-  Kazandu Tuskcaller
-  Khalni Garden
-  Launch the Fleet
-  Leyline of the Meek
-  Loyal Sentry
-  Luminarch Ascension
-  Mantle of Leadership
-  Mana Bloom
-  Master of the Wild Hunt
-  Miming Slime  
-  Mentor of the Meek
-  Mirrorpool
-  Mortarpod
-  Mycoloth
-  Nissa, Vastwood Seer
-  Nissa, Voice of Zendikar
-  Nuisance Engine
-  Oath of Ajani
-  Oran-Rief, the Vastwood
-  Parallel Lives
-  Prophetic Prism
-  Pulse of the Tangle
-  Raise the Alarm
-  Rancor
-  Renegade Rallier
-  Riftmarked Knight
-  Rhys the Redeemed
-  Rise of the Hobgoblins
-  Roc Egg
-  Ronom Unicorn
-  Rootborn Defenses
-  Saffi Eriksdotter
-  Second Harvest
-  Seed Spark
-  Selfless Spirit
-  Shrine of Loyal Legions
-  Sigil of the Nayan Gods
-  Skinshifter
-  Slate of Ancestry
-  Soul Foundry
-  Spawning Pit
-  Spawnwrithe
-  Spirit Bonds
-  Springjack Pasture
-  Sublime Archangel
-  Sundering Growth
-  Wolfbriar Elemental
-  Thragtusk
-  Tumble Magnet
-  Ulvenwald Mysteries
-  Unbridled Growth
-  Unruly Mob
-  Vessel of Malignity  1Black (2) 
-  Wall of Omens
-  Westvale Abbey
-  Windborn Muse
-  Wingmate Roc
-  Woolly Razorback
+  <ToBeBought>
+    Garruk Wildspeaker
+    Champion of Lambholt
+    Garruk Wildspeaker
+    Garruk, Primal Hunter
+    Mycoloth
+    Pulse of the Tangle
+    Riftmarked Knight
+    Roc Egg
+    Saffi Eriksdotter
+    Seed Spark
+    Shrine of Loyal Legions
+    Spawnwrithe
+    Sublime Archangel
+  </ToBeBought>
 </Tokens>
 <WasteNot>
   <Green>
@@ -1634,7 +1552,6 @@ NON-CREATURES:
     Welcome to the Fold  2BlueBlue (4) 
     Zephyr Scribe
   </Madness>
-  Ã†therize
   Augur of Skulls
   Black Oak of Odunos
   Brain in a Jar

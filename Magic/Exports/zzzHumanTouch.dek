@@ -254,8 +254,11 @@
   <Cards CatID="68589" Quantity="1" Sideboard="false" Name="Chromium, the Mutable" />
   <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
   <Cards CatID="59792" Quantity="1" Sideboard="false" Name="Cryptolith Rite" />
+  <Cards CatID="61308" Quantity="1" Sideboard="false" Name="Thalia, Heretic Cathar" />
   <Cards CatID="42694" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
+  <Cards CatID="63644" Quantity="1" Sideboard="false" Name="Oketra the True" />
   <Cards CatID="27204" Quantity="1" Sideboard="false" Name="Citanul Flute" />
+  <Cards CatID="59766" Quantity="1" Sideboard="false" Name="Archangel Avacyn" />
   <Cards CatID="34424" Quantity="1" Sideboard="false" Name="Relic Crush" />
   <Cards CatID="66585" Quantity="1" Sideboard="false" Name="Dead Man's Chest" />
   <Cards CatID="67657" Quantity="1" Sideboard="false" Name="Kazarov, Sengir Pureblood" />
@@ -297,4 +300,37 @@
   <Cards CatID="51715" Quantity="1" Sideboard="false" Name="Hero of Iroas" />
   <Cards CatID="50510" Quantity="4" Sideboard="false" Name="Agent of the Fates" />
   <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
+  <Cards CatID="55416" Quantity="1" Sideboard="false" Name="Frontier Siege" />
+  <Cards CatID="55412" Quantity="1" Sideboard="false" Name="Shamanic Revelation" />
+  <Cards CatID="55442" Quantity="1" Sideboard="false" Name="Warden of the First Tree" />
+  <Cards CatID="53580" Quantity="1" Sideboard="false" Name="Return to the Ranks" />
+  <Cards CatID="53532" Quantity="1" Sideboard="false" Name="Life's Legacy" />
+  <Cards CatID="53658" Quantity="1" Sideboard="false" Name="Burning Anger" />
+  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="54428" Quantity="1" Sideboard="false" Name="Duneblast" />
+  <Cards CatID="54426" Quantity="1" Sideboard="false" Name="Abzan Ascendancy" />
+  <Cards CatID="54188" Quantity="1" Sideboard="false" Name="Utter End" />
+  <Cards CatID="54104" Quantity="4" Sideboard="false" Name="Murderous Cut" />
+  <Cards CatID="54340" Quantity="1" Sideboard="false" Name="Grim Haruspex" />
+  <Cards CatID="38423" Quantity="1" Sideboard="false" Name="Asceticism" />
+  <Cards CatID="65054" Quantity="1" Sideboard="false" Name="Legion's Landing" />
+  <Cards CatID="67535" Quantity="1" Sideboard="false" Name="Shalai, Voice of Plenty" />
+  <Cards CatID="39321" Quantity="1" Sideboard="false" Name="Mortarpod" />
+  <Cards CatID="26459" Quantity="1" Sideboard="false" Name="Blood Knight" />
+  <Cards CatID="64000" Quantity="1" Sideboard="false" Name="Hapatra, Vizier of Poisons" />
+  <Cards CatID="39453" Quantity="1" Sideboard="false" Name="Mirran Crusader" />
+  <Cards CatID="49531" Quantity="1" Sideboard="false" Name="Fiendslayer Paladin" />
+  <Cards CatID="51970" Quantity="1" Sideboard="false" Name="Bassara Tower Archer" />
+  <Cards CatID="65454" Quantity="1" Sideboard="false" Name="Admiral Beckett Brass" />
+  <Cards CatID="65104" Quantity="1" Sideboard="false" Name="Arcane Adaptation" />
+  <Cards CatID="69377" Quantity="1" Sideboard="false" Name="Bounty Agent" />
+  <Cards CatID="23651" Quantity="1" Sideboard="false" Name="Orzhov Pontiff" />
+  <Cards CatID="48310" Quantity="1" Sideboard="false" Name="Sin Collector" />
+  <Cards CatID="52108" Quantity="1" Sideboard="false" Name="Underworld Coinsmith" />
+  <Cards CatID="51663" Quantity="1" Sideboard="true" Name="Revoke Existence" />
+  <Cards CatID="65290" Quantity="1" Sideboard="false" Name="Captivating Crew" />
+  <Cards CatID="25695" Quantity="1" Sideboard="false" Name="Fallen Ideal" />
+  <Cards CatID="68203" Quantity="1" Sideboard="false" Name="Lena, Selfless Champion" />
+  <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
+  <Cards CatID="53532" Quantity="1" Sideboard="false" Name="Life's Legacy" />
 </Deck>

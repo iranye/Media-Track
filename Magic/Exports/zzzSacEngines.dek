@@ -7,7 +7,6 @@
   <Cards CatID="20786" Quantity="1" Sideboard="false" Name="Blasting Station" />
   <Cards CatID="53594" Quantity="1" Sideboard="false" Name="Nissa's Expedition" />
   <Cards CatID="20469" Quantity="1" Sideboard="false" Name="Spawning Pit" />
-  <Cards CatID="59792" Quantity="1" Sideboard="false" Name="Cryptolith Rite" />
   <Cards CatID="29837" Quantity="1" Sideboard="false" Name="Cemetery Puca" />
   <Cards CatID="26053" Quantity="1" Sideboard="false" Name="Merieke Ri Berit" />
   <Cards CatID="59756" Quantity="2" Sideboard="false" Name="Angelic Purge" />
@@ -37,9 +36,8 @@
   <Cards CatID="23927" Quantity="1" Sideboard="false" Name="Martyred Rusalka" />
   <Cards CatID="51727" Quantity="1" Sideboard="false" Name="Eater of Hope" />
   <Cards CatID="67669" Quantity="1" Sideboard="false" Name="Rite of Belzenlok" />
-  <Cards CatID="46563" Quantity="1" Sideboard="false" Name="Rakdos, Lord of Riots" />
-  <Cards CatID="36524" Quantity="1" Sideboard="false" Name="Kor Spiritdancer" />
   <Cards CatID="57712" Quantity="1" Sideboard="false" Name="Nantuko Husk" />
   <Cards CatID="63766" Quantity="1" Sideboard="false" Name="Bontu the Glorified" />
   <Cards CatID="60196" Quantity="1" Sideboard="false" Name="Reaper of Flight Moonsilver" />
+  <Cards CatID="53532" Quantity="1" Sideboard="false" Name="Life's Legacy" />
 </Deck>

@@ -91,4 +91,6 @@
   <Cards CatID="29202" Quantity="1" Sideboard="false" Name="Taurean Mauler" />
   <Cards CatID="59788" Quantity="1" Sideboard="false" Name="Thalia's Lieutenant" />
   <Cards CatID="65018" Quantity="1" Sideboard="false" Name="Bellowing Aegisaur" />
+  <Cards CatID="52108" Quantity="1" Sideboard="false" Name="Underworld Coinsmith" />
+  <Cards CatID="48310" Quantity="1" Sideboard="false" Name="Sin Collector" />
 </Deck>
