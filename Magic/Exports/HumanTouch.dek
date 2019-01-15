@@ -4,7 +4,6 @@
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="9199" Quantity="4" Sideboard="false" Name="Fire Whip" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
-  <Cards CatID="14915" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="14765" Quantity="1" Sideboard="false" Name="Mountain" />
   <Cards CatID="54238" Quantity="1" Sideboard="false" Name="Forest" />
   <Cards CatID="63764" Quantity="1" Sideboard="false" Name="Bone Picker" />
@@ -28,7 +27,6 @@
   <Cards CatID="54126" Quantity="1" Sideboard="false" Name="Abzan Charm" />
   <Cards CatID="22705" Quantity="1" Sideboard="false" Name="Weathered Wayfarer" />
   <Cards CatID="63513" Quantity="1" Sideboard="false" Name="Cavern of Souls" />
-  <Cards CatID="18331" Quantity="1" Sideboard="false" Name="Doomed Necromancer" />
   <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
   <Cards CatID="34552" Quantity="2" Sideboard="false" Name="Day of Judgment" />
   <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
@@ -36,12 +34,10 @@
   <Cards CatID="42694" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
   <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
   <Cards CatID="48946" Quantity="1" Sideboard="false" Name="Eternal Witness" />
-  <Cards CatID="28635" Quantity="1" Sideboard="false" Name="Skeletal Changeling" />
   <Cards CatID="54118" Quantity="1" Sideboard="false" Name="Heir of the Wilds" />
   <Cards CatID="50268" Quantity="1" Sideboard="false" Name="Temple of Silence" />
   <Cards CatID="34530" Quantity="1" Sideboard="false" Name="Vampire Nighthawk" />
   <Cards CatID="62583" Quantity="1" Sideboard="false" Name="Conviction" />
-  <Cards CatID="65290" Quantity="1" Sideboard="false" Name="Captivating Crew" />
   <Cards CatID="26409" Quantity="1" Sideboard="false" Name="Mesa Enchantress" />
   <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
   <Cards CatID="68203" Quantity="1" Sideboard="false" Name="Lena, Selfless Champion" />
@@ -78,7 +74,6 @@
   <Cards CatID="59932" Quantity="1" Sideboard="false" Name="Deathcap Cultivator" />
   <Cards CatID="66589" Quantity="3" Sideboard="false" Name="Dire Fleet Poisoner" />
   <Cards CatID="59980" Quantity="1" Sideboard="false" Name="Sigarda, Heron's Grace" />
-  <Cards CatID="68589" Quantity="1" Sideboard="false" Name="Chromium, the Mutable" />
   <Cards CatID="45682" Quantity="1" Sideboard="false" Name="Mwonvuli Beast Tracker" />
   <Cards CatID="34902" Quantity="1" Sideboard="false" Name="Rancor" />
   <Cards CatID="44227" Quantity="2" Sideboard="true" Name="Devout Chaplain" />
@@ -99,7 +94,9 @@
   <Cards CatID="52108" Quantity="1" Sideboard="false" Name="Underworld Coinsmith" />
   <Cards CatID="51970" Quantity="1" Sideboard="false" Name="Bassara Tower Archer" />
   <Cards CatID="26459" Quantity="1" Sideboard="false" Name="Blood Knight" />
-  <Cards CatID="54340" Quantity="1" Sideboard="false" Name="Grim Haruspex" />
+  <Cards CatID="54340" Quantity="2" Sideboard="false" Name="Grim Haruspex" />
   <Cards CatID="55416" Quantity="1" Sideboard="false" Name="Frontier Siege" />
   <Cards CatID="61801" Quantity="1" Sideboard="false" Name="Panharmonicon" />
+  <Cards CatID="19049" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="50596" Quantity="2" Sideboard="false" Name="Hero's Downfall" />
 </Deck>
