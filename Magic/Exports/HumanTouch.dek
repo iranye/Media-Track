@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -11,7 +11,7 @@
   <Cards CatID="60076" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="55998" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="42358" Quantity="1" Sideboard="false" Name="Bonds of Faith" />
-  <Cards CatID="44237" Quantity="2" Sideboard="false" Name="Descendants' Path" />
+  <Cards CatID="44237" Quantity="3" Sideboard="false" Name="Descendants' Path" />
   <Cards CatID="55602" Quantity="1" Sideboard="false" Name="Arcbond" />
   <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
   <Cards CatID="63081" Quantity="1" Sideboard="false" Name="Zur the Enchanter" />
@@ -32,7 +32,6 @@
   <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
   <Cards CatID="20469" Quantity="1" Sideboard="false" Name="Spawning Pit" />
   <Cards CatID="42694" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
-  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
   <Cards CatID="48946" Quantity="1" Sideboard="false" Name="Eternal Witness" />
   <Cards CatID="54118" Quantity="1" Sideboard="false" Name="Heir of the Wilds" />
   <Cards CatID="50268" Quantity="1" Sideboard="false" Name="Temple of Silence" />
@@ -40,7 +39,6 @@
   <Cards CatID="62583" Quantity="1" Sideboard="false" Name="Conviction" />
   <Cards CatID="26409" Quantity="1" Sideboard="false" Name="Mesa Enchantress" />
   <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
-  <Cards CatID="68203" Quantity="1" Sideboard="false" Name="Lena, Selfless Champion" />
   <Cards CatID="43997" Quantity="1" Sideboard="false" Name="Lightning Prowess" />
   <Cards CatID="64156" Quantity="2" Sideboard="false" Name="Scattered Groves" />
   <Cards CatID="35679" Quantity="1" Sideboard="false" Name="Stirring Wildwood" />
@@ -55,8 +53,6 @@
   <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="9411" Quantity="2" Sideboard="false" Name="Gemstone Mine" />
   <Cards CatID="35515" Quantity="1" Sideboard="false" Name="Bojuka Bog" />
-  <Cards CatID="66775" Quantity="1" Sideboard="false" Name="Journey to Eternity" />
-  <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
   <Cards CatID="50374" Quantity="3" Sideboard="false" Name="Gift of Immortality" />
   <Cards CatID="44786" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
   <Cards CatID="26720" Quantity="1" Sideboard="false" Name="Daybreak Coronet" />
@@ -72,10 +68,28 @@
   <Cards CatID="28435" Quantity="1" Sideboard="false" Name="Cairn Wanderer" />
   <Cards CatID="61476" Quantity="1" Sideboard="false" Name="Heron's Grace Champion" />
   <Cards CatID="59932" Quantity="1" Sideboard="false" Name="Deathcap Cultivator" />
-  <Cards CatID="66589" Quantity="3" Sideboard="false" Name="Dire Fleet Poisoner" />
+  <Cards CatID="66589" Quantity="2" Sideboard="false" Name="Dire Fleet Poisoner" />
   <Cards CatID="59980" Quantity="1" Sideboard="false" Name="Sigarda, Heron's Grace" />
   <Cards CatID="45682" Quantity="1" Sideboard="false" Name="Mwonvuli Beast Tracker" />
   <Cards CatID="34902" Quantity="1" Sideboard="false" Name="Rancor" />
+  <Cards CatID="50510" Quantity="4" Sideboard="false" Name="Agent of the Fates" />
+  <Cards CatID="59792" Quantity="1" Sideboard="false" Name="Cryptolith Rite" />
+  <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" />
+  <Cards CatID="48310" Quantity="1" Sideboard="false" Name="Sin Collector" />
+  <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
+  <Cards CatID="52108" Quantity="2" Sideboard="false" Name="Underworld Coinsmith" />
+  <Cards CatID="51970" Quantity="1" Sideboard="false" Name="Bassara Tower Archer" />
+  <Cards CatID="54340" Quantity="2" Sideboard="false" Name="Grim Haruspex" />
+  <Cards CatID="19049" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="50596" Quantity="2" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="53532" Quantity="1" Sideboard="false" Name="Life's Legacy" />
+  <Cards CatID="63766" Quantity="1" Sideboard="false" Name="Bontu the Glorified" />
+  <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
+  <Cards CatID="56110" Quantity="1" Sideboard="false" Name="Ojutai Exemplars" />
+  <Cards CatID="43353" Quantity="1" Sideboard="false" Name="Thraben Doomsayer" />
+  <Cards CatID="27182" Quantity="1" Sideboard="false" Name="Nomad Mythmaker" />
+  <Cards CatID="64158" Quantity="1" Sideboard="false" Name="Sheltered Thicket" />
+  <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
   <Cards CatID="44227" Quantity="2" Sideboard="true" Name="Devout Chaplain" />
   <Cards CatID="29847" Quantity="1" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="29291" Quantity="1" Sideboard="true" Name="Vexing Shusher" />
@@ -84,19 +98,6 @@
   <Cards CatID="9465" Quantity="1" Sideboard="true" Name="Aura of Silence" />
   <Cards CatID="25665" Quantity="1" Sideboard="true" Name="Mangara of Corondor" />
   <Cards CatID="53278" Quantity="1" Sideboard="true" Name="Tormod's Crypt" />
-  <Cards CatID="50510" Quantity="4" Sideboard="false" Name="Agent of the Fates" />
-  <Cards CatID="59792" Quantity="1" Sideboard="false" Name="Cryptolith Rite" />
   <Cards CatID="51128" Quantity="2" Sideboard="true" Name="Swiftfoot Boots" />
-  <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" />
   <Cards CatID="48310" Quantity="2" Sideboard="true" Name="Sin Collector" />
-  <Cards CatID="48310" Quantity="1" Sideboard="false" Name="Sin Collector" />
-  <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
-  <Cards CatID="52108" Quantity="1" Sideboard="false" Name="Underworld Coinsmith" />
-  <Cards CatID="51970" Quantity="1" Sideboard="false" Name="Bassara Tower Archer" />
-  <Cards CatID="26459" Quantity="1" Sideboard="false" Name="Blood Knight" />
-  <Cards CatID="54340" Quantity="2" Sideboard="false" Name="Grim Haruspex" />
-  <Cards CatID="55416" Quantity="1" Sideboard="false" Name="Frontier Siege" />
-  <Cards CatID="61801" Quantity="1" Sideboard="false" Name="Panharmonicon" />
-  <Cards CatID="19049" Quantity="1" Sideboard="false" Name="Coat of Arms" />
-  <Cards CatID="50596" Quantity="2" Sideboard="false" Name="Hero's Downfall" />
 </Deck>
