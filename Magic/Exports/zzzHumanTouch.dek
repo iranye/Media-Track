@@ -346,4 +346,7 @@
   <Cards CatID="51717" Quantity="1" Sideboard="false" Name="Eidolon of Countless Battles" />
   <Cards CatID="31777" Quantity="1" Sideboard="false" Name="Sylvan Bounty" />
   <Cards CatID="49535" Quantity="1" Sideboard="false" Name="Blightcaster" />
+  <Cards CatID="47851" Quantity="1" Sideboard="false" Name="Domri Rade" />
+  <Cards CatID="53564" Quantity="1" Sideboard="false" Name="Garruk, Apex Predator" />
+  <Cards CatID="58317" Quantity="1" Sideboard="false" Name="Gideon, Ally of Zendikar" />
 </Deck>
