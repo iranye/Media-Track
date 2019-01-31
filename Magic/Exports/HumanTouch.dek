@@ -3,24 +3,21 @@
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="9199" Quantity="4" Sideboard="false" Name="Fire Whip" />
-  <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
   <Cards CatID="14765" Quantity="1" Sideboard="false" Name="Mountain" />
   <Cards CatID="54238" Quantity="1" Sideboard="false" Name="Forest" />
   <Cards CatID="63764" Quantity="1" Sideboard="false" Name="Bone Picker" />
   <Cards CatID="65554" Quantity="1" Sideboard="false" Name="Plains" />
   <Cards CatID="60076" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="55998" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
-  <Cards CatID="42358" Quantity="1" Sideboard="false" Name="Bonds of Faith" />
+  <Cards CatID="42358" Quantity="2" Sideboard="false" Name="Bonds of Faith" />
   <Cards CatID="44237" Quantity="3" Sideboard="false" Name="Descendants' Path" />
   <Cards CatID="55602" Quantity="1" Sideboard="false" Name="Arcbond" />
   <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
   <Cards CatID="54096" Quantity="1" Sideboard="false" Name="Ruthless Ripper" />
-  <Cards CatID="42292" Quantity="1" Sideboard="false" Name="Angelic Overseer" />
+  <Cards CatID="42292" Quantity="2" Sideboard="false" Name="Angelic Overseer" />
   <Cards CatID="68369" Quantity="1" Sideboard="false" Name="Isareth the Awakener" />
-  <Cards CatID="53678" Quantity="1" Sideboard="false" Name="Eternal Thirst" />
   <Cards CatID="53688" Quantity="1" Sideboard="false" Name="Heliod's Pilgrim" />
   <Cards CatID="22373" Quantity="1" Sideboard="false" Name="Soul Warden" />
-  <Cards CatID="54126" Quantity="1" Sideboard="false" Name="Abzan Charm" />
   <Cards CatID="22705" Quantity="1" Sideboard="false" Name="Weathered Wayfarer" />
   <Cards CatID="63513" Quantity="1" Sideboard="false" Name="Cavern of Souls" />
   <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
@@ -59,11 +56,8 @@
   <Cards CatID="23590" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
   <Cards CatID="44227" Quantity="1" Sideboard="false" Name="Devout Chaplain" />
   <Cards CatID="58050" Quantity="1" Sideboard="false" Name="Herald of the Pantheon" />
-  <Cards CatID="28435" Quantity="1" Sideboard="false" Name="Cairn Wanderer" />
-  <Cards CatID="61476" Quantity="1" Sideboard="false" Name="Heron's Grace Champion" />
-  <Cards CatID="66589" Quantity="2" Sideboard="false" Name="Dire Fleet Poisoner" />
+  <Cards CatID="66589" Quantity="1" Sideboard="false" Name="Dire Fleet Poisoner" />
   <Cards CatID="59980" Quantity="1" Sideboard="false" Name="Sigarda, Heron's Grace" />
-  <Cards CatID="45682" Quantity="1" Sideboard="false" Name="Mwonvuli Beast Tracker" />
   <Cards CatID="34902" Quantity="1" Sideboard="false" Name="Rancor" />
   <Cards CatID="44227" Quantity="2" Sideboard="true" Name="Devout Chaplain" />
   <Cards CatID="29847" Quantity="1" Sideboard="true" Name="Guttural Response" />
@@ -72,27 +66,30 @@
   <Cards CatID="63628" Quantity="1" Sideboard="true" Name="Forsake the Worldly" />
   <Cards CatID="9465" Quantity="1" Sideboard="true" Name="Aura of Silence" />
   <Cards CatID="25665" Quantity="1" Sideboard="true" Name="Mangara of Corondor" />
-  <Cards CatID="53278" Quantity="1" Sideboard="true" Name="Tormod's Crypt" />
   <Cards CatID="50510" Quantity="4" Sideboard="false" Name="Agent of the Fates" />
-  <Cards CatID="59792" Quantity="1" Sideboard="false" Name="Cryptolith Rite" />
   <Cards CatID="51128" Quantity="2" Sideboard="true" Name="Swiftfoot Boots" />
   <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" />
   <Cards CatID="48310" Quantity="2" Sideboard="true" Name="Sin Collector" />
   <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
   <Cards CatID="52108" Quantity="3" Sideboard="false" Name="Underworld Coinsmith" />
-  <Cards CatID="54340" Quantity="1" Sideboard="false" Name="Grim Haruspex" />
-  <Cards CatID="19049" Quantity="1" Sideboard="false" Name="Coat of Arms" />
   <Cards CatID="50596" Quantity="2" Sideboard="false" Name="Hero's Downfall" />
-  <Cards CatID="53532" Quantity="1" Sideboard="false" Name="Life's Legacy" />
   <Cards CatID="63766" Quantity="2" Sideboard="false" Name="Bontu the Glorified" />
-  <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
-  <Cards CatID="56110" Quantity="1" Sideboard="false" Name="Ojutai Exemplars" />
-  <Cards CatID="43353" Quantity="1" Sideboard="false" Name="Thraben Doomsayer" />
+  <Cards CatID="43353" Quantity="2" Sideboard="false" Name="Thraben Doomsayer" />
   <Cards CatID="27182" Quantity="1" Sideboard="false" Name="Nomad Mythmaker" />
-  <Cards CatID="39922" Quantity="1" Sideboard="false" Name="Noxious Revival" />
   <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
   <Cards CatID="34424" Quantity="1" Sideboard="true" Name="Relic Crush" />
-  <Cards CatID="53338" Quantity="1" Sideboard="false" Name="Back to Nature" />
   <Cards CatID="49535" Quantity="1" Sideboard="false" Name="Blightcaster" />
   <Cards CatID="51717" Quantity="2" Sideboard="false" Name="Eidolon of Countless Battles" />
+  <Cards CatID="38229" Quantity="1" Sideboard="false" Name="Semblance Anvil" />
+  <Cards CatID="49217" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
+  <Cards CatID="28639" Quantity="1" Sideboard="false" Name="Avian Changeling" />
+  <Cards CatID="59788" Quantity="1" Sideboard="false" Name="Thalia's Lieutenant" />
+  <Cards CatID="47765" Quantity="1" Sideboard="false" Name="High Priest of Penance" />
+  <Cards CatID="51571" Quantity="1" Sideboard="false" Name="Akroan Skyguard" />
+  <Cards CatID="36524" Quantity="1" Sideboard="false" Name="Kor Spiritdancer" />
+  <Cards CatID="49531" Quantity="1" Sideboard="false" Name="Fiendslayer Paladin" />
+  <Cards CatID="50516" Quantity="1" Sideboard="false" Name="Reaper of the Wilds" />
+  <Cards CatID="59908" Quantity="1" Sideboard="false" Name="Hanweir Militia Captain" />
+  <Cards CatID="43903" Quantity="1" Sideboard="false" Name="Riders of Gavony" />
+  <Cards CatID="51715" Quantity="1" Sideboard="false" Name="Hero of Iroas" />
 </Deck>

@@ -120,4 +120,5 @@
   <Cards CatID="68661" Quantity="1" Sideboard="true" Name="Detection Tower" />
   <Cards CatID="64142" Quantity="1" Sideboard="false" Name="Cascading Cataracts" />
   <Cards CatID="24153" Quantity="1" Sideboard="false" Name="Bronze Bombshell" />
+  <Cards CatID="62751" Quantity="1" Sideboard="false" Name="Pia's Revolution" />
 </Deck>

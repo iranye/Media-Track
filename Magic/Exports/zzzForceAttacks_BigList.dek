@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -122,4 +123,6 @@
   <Cards CatID="69471" Quantity="4" Sideboard="false" Name="Omnispell Adept" />
   <Cards CatID="30218" Quantity="4" Sideboard="false" Name="Sapling of Colfenor" />
   <Cards CatID="65446" Quantity="4" Sideboard="false" Name="Verdant Sun's Avatar" />
+  <Cards CatID="54048" Quantity="1" Sideboard="false" Name="Brave the Sands" />
+  <Cards CatID="47749" Quantity="1" Sideboard="false" Name="Merciless Eviction" />
 </Deck>

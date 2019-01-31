@@ -228,7 +228,7 @@
   <Cards CatID="26720" Quantity="1" Sideboard="false" Name="Daybreak Coronet" />
   <Cards CatID="29611" Quantity="1" Sideboard="false" Name="Beseech the Queen" />
   <Cards CatID="47837" Quantity="1" Sideboard="false" Name="Devour Flesh" />
-  <Cards CatID="55960" Quantity="1" Sideboard="false" Name="Artful Maneuver" />
+  <Cards CatID="55960" Quantity="2" Sideboard="false" Name="Artful Maneuver" />
   <Cards CatID="50380" Quantity="1" Sideboard="false" Name="Rescue from the Underworld" />
   <Cards CatID="36714" Quantity="1" Sideboard="false" Name="Emerge Unscathed" />
   <Cards CatID="39922" Quantity="1" Sideboard="false" Name="Noxious Revival" />
@@ -349,4 +349,23 @@
   <Cards CatID="47851" Quantity="1" Sideboard="false" Name="Domri Rade" />
   <Cards CatID="53564" Quantity="1" Sideboard="false" Name="Garruk, Apex Predator" />
   <Cards CatID="58317" Quantity="1" Sideboard="false" Name="Gideon, Ally of Zendikar" />
+  <Cards CatID="52260" Quantity="1" Sideboard="false" Name="Dictate of Erebos" />
+  <Cards CatID="67873" Quantity="1" Sideboard="false" Name="Shanna, Sisay's Legacy" />
+  <Cards CatID="53410" Quantity="1" Sideboard="false" Name="Roaring Primadox" />
+  <Cards CatID="25493" Quantity="1" Sideboard="false" Name="Spirit Loop" />
+  <Cards CatID="64526" Quantity="1" Sideboard="false" Name="Saving Grace" />
+  <Cards CatID="29411" Quantity="1" Sideboard="false" Name="Prison Term" />
+  <Cards CatID="61088" Quantity="1" Sideboard="false" Name="Blessed Alliance" />
+  <Cards CatID="23154" Quantity="1" Sideboard="false" Name="Lightning Helix" />
+  <Cards CatID="60619" Quantity="1" Sideboard="false" Name="Zealous Persecution" />
+  <Cards CatID="55456" Quantity="1" Sideboard="false" Name="Alesha, Who Smiles at Death" />
+  <Cards CatID="62037" Quantity="1" Sideboard="false" Name="Kambal, Consul of Allocation" />
+  <Cards CatID="52016" Quantity="1" Sideboard="false" Name="Iroas, God of Victory" />
+  <Cards CatID="52106" Quantity="1" Sideboard="false" Name="Athreos, God of Passage" />
+  <Cards CatID="47761" Quantity="1" Sideboard="false" Name="Immortal Servitude" />
+  <Cards CatID="46571" Quantity="1" Sideboard="false" Name="Ethereal Armor" />
+  <Cards CatID="61294" Quantity="1" Sideboard="false" Name="Ironclad Slayer" />
+  <Cards CatID="53474" Quantity="1" Sideboard="false" Name="Oppressive Rays" />
+  <Cards CatID="46665" Quantity="1" Sideboard="false" Name="Soul Tithe" />
+  <Cards CatID="47749" Quantity="1" Sideboard="false" Name="Merciless Eviction" />
 </Deck>

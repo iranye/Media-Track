@@ -159,4 +159,5 @@
   <Cards CatID="22781" Quantity="1" Sideboard="false" Name="Urza's Power Plant" />
   <Cards CatID="62911" Quantity="1" Sideboard="false" Name="Paradox Engine" />
   <Cards CatID="49587" Quantity="2" Sideboard="false" Name="Darksteel Forge" />
+  <Cards CatID="62751" Quantity="1" Sideboard="false" Name="Pia's Revolution" />
 </Deck>
