@@ -270,7 +270,7 @@
   <Cards CatID="28639" Quantity="1" Sideboard="false" Name="Avian Changeling" />
   <Cards CatID="44029" Quantity="1" Sideboard="false" Name="Kessig Malcontents" />
   <Cards CatID="43813" Quantity="1" Sideboard="false" Name="Gallows at Willow Hill" />
-  <Cards CatID="64112" Quantity="1" Sideboard="false" Name="Bontu's Monument" />
+  <Cards CatID="64112" Quantity="2" Sideboard="false" Name="Bontu's Monument" />
   <Cards CatID="63852" Quantity="1" Sideboard="false" Name="Combat Celebrant" />
   <Cards CatID="25435" Quantity="1" Sideboard="false" Name="Aether Web" />
   <Cards CatID="21157" Quantity="1" Sideboard="false" Name="Serpent Skin" />

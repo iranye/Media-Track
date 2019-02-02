@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="49535" Quantity="1" Sideboard="false" Name="Blightcaster" />
-  <Cards CatID="67941" Quantity="2" Sideboard="false" Name="Cabal Stronghold" />
   <Cards CatID="67563" Quantity="2" Sideboard="false" Name="Curator's Ward" />
   <Cards CatID="68621" Quantity="1" Sideboard="false" Name="Crucible of Worlds" />
   <Cards CatID="47753" Quantity="2" Sideboard="false" Name="Crypt Ghast" />
@@ -13,11 +12,9 @@
   <Cards CatID="65554" Quantity="2" Sideboard="false" Name="Plains" />
   <Cards CatID="26900" Quantity="4" Sideboard="false" Name="Korlash, Heir to Blackblade" />
   <Cards CatID="60076" Quantity="2" Sideboard="false" Name="Swamp" />
-  <Cards CatID="39718" Quantity="1" Sideboard="false" Name="Lashwrithe" />
   <Cards CatID="55998" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="26409" Quantity="1" Sideboard="false" Name="Mesa Enchantress" />
   <Cards CatID="34708" Quantity="1" Sideboard="false" Name="Mind Sludge" />
-  <Cards CatID="20271" Quantity="1" Sideboard="false" Name="Nightmare Lash" />
   <Cards CatID="20918" Quantity="1" Sideboard="false" Name="Spectral Shift" />
   <Cards CatID="53250" Quantity="4" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
   <Cards CatID="47801" Quantity="2" Sideboard="false" Name="Contaminated Ground" />
@@ -34,7 +31,7 @@
   <Cards CatID="51561" Quantity="1" Sideboard="false" Name="Temple of Enlightenment" />
   <Cards CatID="61859" Quantity="1" Sideboard="false" Name="Concealed Courtyard" />
   <Cards CatID="31939" Quantity="2" Sideboard="false" Name="Exotic Orchard" />
-  <Cards CatID="50265" Quantity="2" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="50264" Quantity="2" Sideboard="false" Name="Temple of Deceit" />
   <Cards CatID="9411" Quantity="2" Sideboard="false" Name="Gemstone Mine" />
   <Cards CatID="42294" Quantity="1" Sideboard="false" Name="Ghost Quarter" />
   <Cards CatID="44267" Quantity="1" Sideboard="false" Name="Ghostly Touch" />
@@ -46,7 +43,6 @@
   <Cards CatID="64152" Quantity="2" Sideboard="false" Name="Irrigated Farmland" />
   <Cards CatID="28741" Quantity="2" Sideboard="false" Name="Familiar's Ruse" />
   <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
-  <Cards CatID="35515" Quantity="2" Sideboard="true" Name="Bojuka Bog" />
   <Cards CatID="63618" Quantity="1" Sideboard="false" Name="Cast Out" />
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="42708" Quantity="1" Sideboard="false" Name="Cackling Counterpart" />
@@ -58,31 +54,32 @@
   <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
   <Cards CatID="46741" Quantity="1" Sideboard="false" Name="Underworld Connections" />
   <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
-  <Cards CatID="47685" Quantity="1" Sideboard="true" Name="Aetherize" />
   <Cards CatID="30867" Quantity="1" Sideboard="false" Name="Esper Charm" />
   <Cards CatID="23312" Quantity="1" Sideboard="false" Name="Muddle the Mixture" />
   <Cards CatID="32378" Quantity="1" Sideboard="false" Name="Sen Triplets" />
-  <Cards CatID="53278" Quantity="1" Sideboard="true" Name="Tormod's Crypt" />
   <Cards CatID="50408" Quantity="1" Sideboard="false" Name="Whip of Erebos" />
   <Cards CatID="35515" Quantity="2" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="51998" Quantity="1" Sideboard="false" Name="Riptide Chimera" />
   <Cards CatID="34552" Quantity="2" Sideboard="false" Name="Day of Judgment" />
   <Cards CatID="38229" Quantity="2" Sideboard="false" Name="Semblance Anvil" />
-  <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
   <Cards CatID="52108" Quantity="2" Sideboard="false" Name="Underworld Coinsmith" />
   <Cards CatID="52256" Quantity="1" Sideboard="false" Name="Aegis of the Gods" />
-  <Cards CatID="50614" Quantity="4" Sideboard="true" Name="Gainsay" />
   <Cards CatID="46483" Quantity="1" Sideboard="false" Name="Supreme Verdict" />
-  <Cards CatID="49133" Quantity="2" Sideboard="true" Name="Negate" />
   <Cards CatID="49133" Quantity="1" Sideboard="false" Name="Negate" />
-  <Cards CatID="46411" Quantity="1" Sideboard="true" Name="Dryad Militant" />
-  <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
   <Cards CatID="51717" Quantity="1" Sideboard="false" Name="Eidolon of Countless Battles" />
-  <Cards CatID="46499" Quantity="2" Sideboard="true" Name="Pithing Needle" />
   <Cards CatID="9465" Quantity="1" Sideboard="false" Name="Aura of Silence" />
   <Cards CatID="63628" Quantity="1" Sideboard="false" Name="Forsake the Worldly" />
   <Cards CatID="50164" Quantity="1" Sideboard="false" Name="Baleful Eidolon" />
   <Cards CatID="60128" Quantity="1" Sideboard="false" Name="Invocation of Saint Traft" />
   <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
   <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
+  <Cards CatID="35515" Quantity="2" Sideboard="true" Name="Bojuka Bog" />
+  <Cards CatID="47685" Quantity="1" Sideboard="true" Name="Aetherize" />
+  <Cards CatID="53278" Quantity="1" Sideboard="true" Name="Tormod's Crypt" />
+  <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
+  <Cards CatID="50614" Quantity="4" Sideboard="true" Name="Gainsay" />
+  <Cards CatID="49133" Quantity="2" Sideboard="true" Name="Negate" />
+  <Cards CatID="46411" Quantity="1" Sideboard="true" Name="Dryad Militant" />
+  <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
+  <Cards CatID="46499" Quantity="2" Sideboard="true" Name="Pithing Needle" />
 </Deck>
