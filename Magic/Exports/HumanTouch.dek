@@ -92,4 +92,8 @@
   <Cards CatID="59908" Quantity="1" Sideboard="false" Name="Hanweir Militia Captain" />
   <Cards CatID="43903" Quantity="1" Sideboard="false" Name="Riders of Gavony" />
   <Cards CatID="51715" Quantity="1" Sideboard="false" Name="Hero of Iroas" />
+  <Cards CatID="29178" Quantity="1" Sideboard="false" Name="Luminescent Rain" />
+  <Cards CatID="46497" Quantity="1" Sideboard="false" Name="Abrupt Decay" />
+  <Cards CatID="66773" Quantity="1" Sideboard="false" Name="Huatli, Radiant Champion" />
+  <Cards CatID="53564" Quantity="1" Sideboard="false" Name="Garruk, Apex Predator" />
 </Deck>

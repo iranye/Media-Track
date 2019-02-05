@@ -2,40 +2,34 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="61833" Quantity="2" Sideboard="false" Name="Island" />
   <Cards CatID="51551" Quantity="1" Sideboard="false" Name="Kiora, the Crashing Wave" />
-  <Cards CatID="19169" Quantity="2" Sideboard="false" Name="Trade Routes" />
+  <Cards CatID="19169" Quantity="3" Sideboard="false" Name="Trade Routes" />
   <Cards CatID="53698" Quantity="1" Sideboard="false" Name="Hornet Nest" />
   <Cards CatID="62091" Quantity="2" Sideboard="false" Name="Aether Hub" />
   <Cards CatID="50412" Quantity="2" Sideboard="false" Name="Bow of Nylea" />
   <Cards CatID="18965" Quantity="1" Sideboard="false" Name="Boomerang" />
+  <Cards CatID="54238" Quantity="3" Sideboard="false" Name="Forest" />
   <Cards CatID="22044" Quantity="1" Sideboard="false" Name="Oboro, Palace in the Clouds" />
+  <Cards CatID="14915" Quantity="4" Sideboard="false" Name="Island" />
   <Cards CatID="47475" Quantity="3" Sideboard="false" Name="Breeding Pool" />
-  <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
   <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
-  <Cards CatID="61829" Quantity="2" Sideboard="false" Name="Forest" />
   <Cards CatID="57650" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="51084" Quantity="1" Sideboard="false" Name="Cultivate" />
-  <Cards CatID="36492" Quantity="2" Sideboard="false" Name="Deprive" />
+  <Cards CatID="36492" Quantity="1" Sideboard="false" Name="Deprive" />
   <Cards CatID="35515" Quantity="1" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="62795" Quantity="1" Sideboard="false" Name="Rishkar, Peema Renegade" />
   <Cards CatID="51851" Quantity="3" Sideboard="false" Name="Courser of Kruphix" />
   <Cards CatID="34584" Quantity="1" Sideboard="false" Name="Living Tsunami" />
   <Cards CatID="50314" Quantity="1" Sideboard="false" Name="Nylea, God of the Hunt" />
-  <Cards CatID="61831" Quantity="1" Sideboard="false" Name="Island" />
-  <Cards CatID="60052" Quantity="1" Sideboard="false" Name="Forest" />
   <Cards CatID="58667" Quantity="4" Sideboard="false" Name="Undergrowth Champion" />
-  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="50272" Quantity="2" Sideboard="false" Name="Temple of Mystery" />
   <Cards CatID="49271" Quantity="1" Sideboard="false" Name="Scavenging Ooze" />
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="54406" Quantity="1" Sideboard="false" Name="Hardened Scales" />
-  <Cards CatID="60058" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="54482" Quantity="1" Sideboard="false" Name="Pearl Lake Ancient" />
   <Cards CatID="47485" Quantity="1" Sideboard="false" Name="Simic Charm" />
   <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="25805" Quantity="2" Sideboard="false" Name="Mwonvuli Acid-Moss" />
-  <Cards CatID="49489" Quantity="1" Sideboard="false" Name="Savage Summoning" />
   <Cards CatID="35577" Quantity="1" Sideboard="false" Name="Explore" />
   <Cards CatID="58134" Quantity="1" Sideboard="false" Name="Sword of the Animist" />
   <Cards CatID="50196" Quantity="1" Sideboard="false" Name="Nylea's Disciple" />
@@ -45,12 +39,11 @@
   <Cards CatID="50628" Quantity="1" Sideboard="false" Name="Polukranos, World Eater" />
   <Cards CatID="34468" Quantity="1" Sideboard="false" Name="Harrow" />
   <Cards CatID="47719" Quantity="1" Sideboard="false" Name="Elusive Krasis" />
-  <Cards CatID="24119" Quantity="2" Sideboard="false" Name="Plaxmanta" />
+  <Cards CatID="24119" Quantity="1" Sideboard="true" Name="Plaxmanta" />
   <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
   <Cards CatID="55546" Quantity="1" Sideboard="false" Name="Abzan Beastmaster" />
   <Cards CatID="64586" Quantity="1" Sideboard="false" Name="Tragic Lesson" />
-  <Cards CatID="24031" Quantity="1" Sideboard="false" Name="Simic Growth Chamber" />
-  <Cards CatID="27598" Quantity="1" Sideboard="false" Name="Troll Ascetic" />
+  <Cards CatID="27598" Quantity="1" Sideboard="true" Name="Troll Ascetic" />
   <Cards CatID="47547" Quantity="1" Sideboard="false" Name="Experiment One" />
   <Cards CatID="34484" Quantity="1" Sideboard="false" Name="Scute Mob" />
   <Cards CatID="46347" Quantity="1" Sideboard="false" Name="Gatecreeper Vine" />
@@ -59,12 +52,10 @@
   <Cards CatID="63071" Quantity="1" Sideboard="false" Name="Coiling Oracle" />
   <Cards CatID="55998" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="30915" Quantity="1" Sideboard="false" Name="Bant Panorama" />
-  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
   <Cards CatID="47771" Quantity="1" Sideboard="false" Name="Fathom Mage" />
   <Cards CatID="25439" Quantity="1" Sideboard="false" Name="Dream Stalker" />
   <Cards CatID="53708" Quantity="1" Sideboard="false" Name="Radiant Fountain" />
   <Cards CatID="50402" Quantity="1" Sideboard="false" Name="Arbor Colossus" />
-  <Cards CatID="58803" Quantity="1" Sideboard="false" Name="Forest" />
   <Cards CatID="35565" Quantity="1" Sideboard="false" Name="Walking Atlas" />
   <Cards CatID="48276" Quantity="1" Sideboard="false" Name="Vorel of the Hull Clade" />
   <Cards CatID="65432" Quantity="1" Sideboard="false" Name="Shapers' Sanctuary" />
@@ -73,21 +64,22 @@
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
   <Cards CatID="35515" Quantity="1" Sideboard="true" Name="Bojuka Bog" />
   <Cards CatID="56012" Quantity="2" Sideboard="true" Name="Naturalize" />
-  <Cards CatID="51084" Quantity="1" Sideboard="true" Name="Cultivate" />
   <Cards CatID="36678" Quantity="1" Sideboard="true" Name="Gravity Well" />
   <Cards CatID="24119" Quantity="1" Sideboard="true" Name="Plaxmanta" />
   <Cards CatID="53338" Quantity="2" Sideboard="true" Name="Back to Nature" />
   <Cards CatID="47485" Quantity="1" Sideboard="true" Name="Simic Charm" />
-  <Cards CatID="62027" Quantity="1" Sideboard="true" Name="Blossoming Defense" />
-  <Cards CatID="45390" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
   <Cards CatID="46411" Quantity="1" Sideboard="true" Name="Dryad Militant" />
   <Cards CatID="49463" Quantity="1" Sideboard="true" Name="Witchstalker" />
   <Cards CatID="49022" Quantity="2" Sideboard="false" Name="Search for Tomorrow" />
   <Cards CatID="66769" Quantity="1" Sideboard="false" Name="Hadana's Climb" />
   <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
-  <Cards CatID="21121" Quantity="1" Sideboard="false" Name="Meloku the Clouded Mirror" />
-  <Cards CatID="21877" Quantity="1" Sideboard="false" Name="Floodbringer" />
-  <Cards CatID="35533" Quantity="1" Sideboard="false" Name="Calcite Snapper" />
   <Cards CatID="34826" Quantity="1" Sideboard="false" Name="Khalni Gem" />
   <Cards CatID="63994" Quantity="1" Sideboard="false" Name="Bounty of the Luxa" />
+  <Cards CatID="30016" Quantity="1" Sideboard="false" Name="Overbeing of Myth" />
+  <Cards CatID="66753" Quantity="1" Sideboard="false" Name="Wayward Swordtooth" />
+  <Cards CatID="9411" Quantity="3" Sideboard="false" Name="Gemstone Mine" />
+  <Cards CatID="34424" Quantity="1" Sideboard="false" Name="Relic Crush" />
+  <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
+  <Cards CatID="24119" Quantity="1" Sideboard="false" Name="Plaxmanta" />
+  <Cards CatID="27598" Quantity="1" Sideboard="false" Name="Troll Ascetic" />
 </Deck>
