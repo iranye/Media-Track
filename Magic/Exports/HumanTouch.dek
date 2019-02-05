@@ -10,7 +10,6 @@
   <Cards CatID="60076" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="55998" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="42358" Quantity="2" Sideboard="false" Name="Bonds of Faith" />
-  <Cards CatID="44237" Quantity="3" Sideboard="false" Name="Descendants' Path" />
   <Cards CatID="55602" Quantity="1" Sideboard="false" Name="Arcbond" />
   <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
   <Cards CatID="54096" Quantity="1" Sideboard="false" Name="Ruthless Ripper" />
@@ -78,7 +77,6 @@
   <Cards CatID="27182" Quantity="1" Sideboard="false" Name="Nomad Mythmaker" />
   <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
   <Cards CatID="34424" Quantity="1" Sideboard="true" Name="Relic Crush" />
-  <Cards CatID="49535" Quantity="1" Sideboard="false" Name="Blightcaster" />
   <Cards CatID="51717" Quantity="2" Sideboard="false" Name="Eidolon of Countless Battles" />
   <Cards CatID="38229" Quantity="1" Sideboard="false" Name="Semblance Anvil" />
   <Cards CatID="49217" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
@@ -86,7 +84,6 @@
   <Cards CatID="59788" Quantity="1" Sideboard="false" Name="Thalia's Lieutenant" />
   <Cards CatID="47765" Quantity="1" Sideboard="false" Name="High Priest of Penance" />
   <Cards CatID="51571" Quantity="1" Sideboard="false" Name="Akroan Skyguard" />
-  <Cards CatID="36524" Quantity="1" Sideboard="false" Name="Kor Spiritdancer" />
   <Cards CatID="49531" Quantity="1" Sideboard="false" Name="Fiendslayer Paladin" />
   <Cards CatID="50516" Quantity="1" Sideboard="false" Name="Reaper of the Wilds" />
   <Cards CatID="59908" Quantity="1" Sideboard="false" Name="Hanweir Militia Captain" />
@@ -96,4 +93,6 @@
   <Cards CatID="46497" Quantity="1" Sideboard="false" Name="Abrupt Decay" />
   <Cards CatID="66773" Quantity="1" Sideboard="false" Name="Huatli, Radiant Champion" />
   <Cards CatID="53564" Quantity="1" Sideboard="false" Name="Garruk, Apex Predator" />
+  <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
+  <Cards CatID="52232" Quantity="1" Sideboard="true" Name="Eidolon of Rhetoric" />
 </Deck>

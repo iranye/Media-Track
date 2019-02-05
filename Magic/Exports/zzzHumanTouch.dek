@@ -372,4 +372,7 @@
   <Cards CatID="47749" Quantity="1" Sideboard="false" Name="Merciless Eviction" />
   <Cards CatID="34364" Quantity="1" Sideboard="false" Name="Kazandu Blademaster" />
   <Cards CatID="46497" Quantity="2" Sideboard="false" Name="Abrupt Decay" />
+  <Cards CatID="54136" Quantity="1" Sideboard="false" Name="Abzan Guide" />
+  <Cards CatID="67469" Quantity="1" Sideboard="false" Name="Adamant Will" />
+  <Cards CatID="48266" Quantity="1" Sideboard="false" Name="Teysa, Envoy of Ghosts" />
 </Deck>

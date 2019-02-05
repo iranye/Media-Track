@@ -2272,4 +2272,34 @@
   <Cards CatID="49245" Quantity="1" Sideboard="false" Name="Ajani, Caller of the Pride" />
   <Cards CatID="48266" Quantity="5" Sideboard="false" Name="Teysa, Envoy of Ghosts" />
   <Cards CatID="35765" Quantity="4" Sideboard="false" Name="Ruin Ghost" />
+  <Cards CatID="62679" Quantity="4" Sideboard="false" Name="Daring Demolition" />
+  <Cards CatID="65294" Quantity="4" Sideboard="false" Name="Demolish" />
+  <Cards CatID="61779" Quantity="4" Sideboard="false" Name="Demolition Stomper" />
+  <Cards CatID="47447" Quantity="4" Sideboard="false" Name="Rubblebelt Raiders" />
+  <Cards CatID="59886" Quantity="4" Sideboard="false" Name="Aberrant Researcher" />
+  <Cards CatID="68331" Quantity="5" Sideboard="false" Name="Abnormal Endurance" />
+  <Cards CatID="55584" Quantity="7" Sideboard="false" Name="Abzan Advantage" />
+  <Cards CatID="55534" Quantity="6" Sideboard="false" Name="Abzan Kin-Guard" />
+  <Cards CatID="54136" Quantity="5" Sideboard="false" Name="Abzan Guide" />
+  <Cards CatID="54272" Quantity="5" Sideboard="false" Name="Abzan Falconer" />
+  <Cards CatID="67545" Quantity="5" Sideboard="false" Name="Academy Drake" />
+  <Cards CatID="56142" Quantity="4" Sideboard="false" Name="Acid-Spewer Dragon" />
+  <Cards CatID="61579" Quantity="5" Sideboard="false" Name="Acrobatic Maneuver" />
+  <Cards CatID="53592" Quantity="1" Sideboard="false" Name="Act on Impulse" />
+  <Cards CatID="67469" Quantity="4" Sideboard="false" Name="Adamant Will" />
+  <Cards CatID="47571" Quantity="5" Sideboard="false" Name="Adaptive Snapjaw" />
+  <Cards CatID="67845" Quantity="4" Sideboard="false" Name="Adeliz, the Cinder Wind" />
+  <Cards CatID="61342" Quantity="2" Sideboard="false" Name="Advanced Stitchwing" />
+  <Cards CatID="48340" Quantity="3" Sideboard="false" Name="Advent of the Wurm" />
+  <Cards CatID="34434" Quantity="4" Sideboard="false" Name="Adventuring Gear" />
+  <Cards CatID="62835" Quantity="4" Sideboard="false" Name="Aegis Automaton" />
+  <Cards CatID="68163" Quantity="4" Sideboard="false" Name="Aegis of the Heavens" />
+  <Cards CatID="68583" Quantity="4" Sideboard="false" Name="Aerial Engineer" />
+  <Cards CatID="46355" Quantity="5" Sideboard="false" Name="Aerial Predation" />
+  <Cards CatID="67883" Quantity="4" Sideboard="false" Name="Aesthir Glider" />
+  <Cards CatID="62591" Quantity="4" Sideboard="false" Name="Aeronaut Admiral" />
+  <Cards CatID="53684" Quantity="5" Sideboard="false" Name="Aeronaut Tinkerer" />
+  <Cards CatID="61653" Quantity="5" Sideboard="false" Name="Aether Tradewinds" />
+  <Cards CatID="9381" Quantity="4" Sideboard="false" Name="Agonizing Memories" />
+  <Cards CatID="55928" Quantity="4" Sideboard="false" Name="Ainok Survivalist" />
 </Deck>
