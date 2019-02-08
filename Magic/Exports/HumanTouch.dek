@@ -53,7 +53,6 @@
   <Cards CatID="65432" Quantity="1" Sideboard="false" Name="Shapers' Sanctuary" />
   <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
   <Cards CatID="23590" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
-  <Cards CatID="44227" Quantity="1" Sideboard="false" Name="Devout Chaplain" />
   <Cards CatID="58050" Quantity="1" Sideboard="false" Name="Herald of the Pantheon" />
   <Cards CatID="66589" Quantity="1" Sideboard="false" Name="Dire Fleet Poisoner" />
   <Cards CatID="59980" Quantity="1" Sideboard="false" Name="Sigarda, Heron's Grace" />
@@ -81,13 +80,10 @@
   <Cards CatID="38229" Quantity="1" Sideboard="false" Name="Semblance Anvil" />
   <Cards CatID="49217" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
   <Cards CatID="28639" Quantity="1" Sideboard="false" Name="Avian Changeling" />
-  <Cards CatID="59788" Quantity="1" Sideboard="false" Name="Thalia's Lieutenant" />
-  <Cards CatID="47765" Quantity="1" Sideboard="false" Name="High Priest of Penance" />
   <Cards CatID="51571" Quantity="1" Sideboard="false" Name="Akroan Skyguard" />
   <Cards CatID="49531" Quantity="1" Sideboard="false" Name="Fiendslayer Paladin" />
   <Cards CatID="50516" Quantity="1" Sideboard="false" Name="Reaper of the Wilds" />
   <Cards CatID="59908" Quantity="1" Sideboard="false" Name="Hanweir Militia Captain" />
-  <Cards CatID="43903" Quantity="1" Sideboard="false" Name="Riders of Gavony" />
   <Cards CatID="51715" Quantity="1" Sideboard="false" Name="Hero of Iroas" />
   <Cards CatID="29178" Quantity="1" Sideboard="false" Name="Luminescent Rain" />
   <Cards CatID="46497" Quantity="1" Sideboard="false" Name="Abrupt Decay" />

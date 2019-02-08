@@ -206,7 +206,6 @@
   <Cards CatID="47771" Quantity="1" Sideboard="false" Name="Fathom Mage" />
   <Cards CatID="24119" Quantity="1" Sideboard="true" Name="Plaxmanta" />
   <Cards CatID="65432" Quantity="1" Sideboard="false" Name="Shapers' Sanctuary" />
-  <Cards CatID="63994" Quantity="1" Sideboard="false" Name="Bounty of the Luxa" />
   <Cards CatID="64586" Quantity="1" Sideboard="false" Name="Tragic Lesson" />
   <Cards CatID="48276" Quantity="1" Sideboard="false" Name="Vorel of the Hull Clade" />
   <Cards CatID="66769" Quantity="1" Sideboard="false" Name="Hadana's Climb" />
@@ -331,7 +330,6 @@
   <Cards CatID="52108" Quantity="1" Sideboard="false" Name="Underworld Coinsmith" />
   <Cards CatID="51663" Quantity="1" Sideboard="true" Name="Revoke Existence" />
   <Cards CatID="65290" Quantity="1" Sideboard="false" Name="Captivating Crew" />
-  <Cards CatID="25695" Quantity="1" Sideboard="false" Name="Fallen Ideal" />
   <Cards CatID="68203" Quantity="1" Sideboard="false" Name="Lena, Selfless Champion" />
   <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
   <Cards CatID="46757" Quantity="1" Sideboard="false" Name="Mana Bloom" />
@@ -375,4 +373,7 @@
   <Cards CatID="54136" Quantity="1" Sideboard="false" Name="Abzan Guide" />
   <Cards CatID="67469" Quantity="1" Sideboard="false" Name="Adamant Will" />
   <Cards CatID="48266" Quantity="1" Sideboard="false" Name="Teysa, Envoy of Ghosts" />
+  <Cards CatID="52276" Quantity="1" Sideboard="false" Name="Doomwake Giant" />
+  <Cards CatID="39539" Quantity="1" Sideboard="false" Name="Hero of Bladehold" />
+  <Cards CatID="67823" Quantity="1" Sideboard="false" Name="Song of Freyalise" />
 </Deck>
