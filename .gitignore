@@ -24,6 +24,7 @@ Thumbs.db
 *.vspscc
 [Rr]elease*/
 _ReSharper*/
+.SynologyWorkingDirectory/
 TempRec/
 *.dll
 *.exe
