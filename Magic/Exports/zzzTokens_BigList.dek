@@ -63,4 +63,74 @@
   <Cards CatID="36536" Quantity="1" Sideboard="false" Name="Khalni Hydra" />
   <Cards CatID="35699" Quantity="1" Sideboard="false" Name="Nature's Claim" />
   <Cards CatID="68203" Quantity="1" Sideboard="false" Name="Lena, Selfless Champion" />
+  <Cards CatID="23588" Quantity="1" Sideboard="false" Name="Twilight Drover" />
+  <Cards CatID="65911" Quantity="1" Sideboard="false" Name="Doomed Traveler" />
+  <Cards CatID="42744" Quantity="1" Sideboard="false" Name="Garruk Relentless" />
+  <Cards CatID="53489" Quantity="1" Sideboard="false" Name="Feral Incarnation" />
+  <Cards CatID="29535" Quantity="1" Sideboard="false" Name="Rhys the Redeemed" />
+  <Cards CatID="69619" Quantity="1" Sideboard="false" Name="Beast Whisperer" />
+  <Cards CatID="66753" Quantity="1" Sideboard="false" Name="Wayward Swordtooth" />
+  <Cards CatID="53532" Quantity="1" Sideboard="false" Name="Life's Legacy" />
+  <Cards CatID="46725" Quantity="4" Sideboard="false" Name="Precinct Captain" />
+  <Cards CatID="26634" Quantity="4" Sideboard="false" Name="Llanowar Mentor" />
+  <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
+  <Cards CatID="44031" Quantity="4" Sideboard="false" Name="Angel of Jubilation" />
+  <Cards CatID="26864" Quantity="4" Sideboard="false" Name="Baru, Fist of Krosa" />
+  <Cards CatID="16605" Quantity="3" Sideboard="false" Name="Call of the Herd" />
+  <Cards CatID="34806" Quantity="4" Sideboard="false" Name="Cobra Trap" />
+  <Cards CatID="61791" Quantity="4" Sideboard="false" Name="Cogworker's Puzzleknot" />
+  <Cards CatID="23518" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="30927" Quantity="1" Sideboard="false" Name="Elspeth, Knight-Errant" />
+  <Cards CatID="38337" Quantity="1" Sideboard="false" Name="Elspeth Tirel" />
+  <Cards CatID="58317" Quantity="1" Sideboard="false" Name="Gideon, Ally of Zendikar" />
+  <Cards CatID="47871" Quantity="1" Sideboard="false" Name="Gideon, Champion of Justice" />
+  <Cards CatID="31175" Quantity="4" Sideboard="false" Name="Godsire" />
+  <Cards CatID="66823" Quantity="4" Sideboard="false" Name="Golden Guardian" />
+  <Cards CatID="43925" Quantity="4" Sideboard="false" Name="Goldnight Commander" />
+  <Cards CatID="59908" Quantity="4" Sideboard="false" Name="Hanweir Militia Captain" />
+  <Cards CatID="54282" Quantity="4" Sideboard="false" Name="Herald of Anafenza" />
+  <Cards CatID="54410" Quantity="2" Sideboard="false" Name="Hooded Hydra" />
+  <Cards CatID="39339" Quantity="4" Sideboard="false" Name="Ichor Wellspring" />
+  <Cards CatID="60134" Quantity="5" Sideboard="false" Name="Inexorable Blob" />
+  <Cards CatID="36604" Quantity="4" Sideboard="false" Name="Kazandu Tuskcaller" />
+  <Cards CatID="35513" Quantity="4" Sideboard="false" Name="Khalni Garden" />
+  <Cards CatID="52206" Quantity="1" Sideboard="false" Name="Launch the Fleet" />
+  <Cards CatID="23933" Quantity="1" Sideboard="false" Name="Leyline of the Meek" />
+  <Cards CatID="26990" Quantity="4" Sideboard="false" Name="Loyal Sentry" />
+  <Cards CatID="34816" Quantity="4" Sideboard="false" Name="Luminarch Ascension" />
+  <Cards CatID="26243" Quantity="4" Sideboard="false" Name="Mantle of Leadership" />
+  <Cards CatID="46757" Quantity="4" Sideboard="false" Name="Mana Bloom" />
+  <Cards CatID="32833" Quantity="2" Sideboard="false" Name="Master of the Wild Hunt" />
+  <Cards CatID="47635" Quantity="4" Sideboard="false" Name="Miming Slime" />
+  <Cards CatID="59311" Quantity="2" Sideboard="false" Name="Mirrorpool" />
+  <Cards CatID="39321" Quantity="4" Sideboard="false" Name="Mortarpod" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="34626" Quantity="2" Sideboard="false" Name="Oran-Rief, the Vastwood" />
+  <Cards CatID="42790" Quantity="4" Sideboard="false" Name="Parallel Lives" />
+  <Cards CatID="61821" Quantity="5" Sideboard="false" Name="Prophetic Prism" />
+  <Cards CatID="53738" Quantity="4" Sideboard="false" Name="Raise the Alarm" />
+  <Cards CatID="34902" Quantity="1" Sideboard="false" Name="Rancor" />
+  <Cards CatID="62817" Quantity="4" Sideboard="false" Name="Renegade Rallier" />
+  <Cards CatID="24709" Quantity="4" Sideboard="false" Name="Ronom Unicorn" />
+  <Cards CatID="46303" Quantity="9" Sideboard="false" Name="Rootborn Defenses" />
+  <Cards CatID="60126" Quantity="4" Sideboard="false" Name="Second Harvest" />
+  <Cards CatID="32350" Quantity="4" Sideboard="false" Name="Sigil of the Nayan Gods" />
+  <Cards CatID="41391" Quantity="4" Sideboard="false" Name="Skinshifter" />
+  <Cards CatID="22725" Quantity="4" Sideboard="false" Name="Slate of Ancestry" />
+  <Cards CatID="20063" Quantity="4" Sideboard="false" Name="Soul Foundry" />
+  <Cards CatID="20469" Quantity="4" Sideboard="false" Name="Spawning Pit" />
+  <Cards CatID="53522" Quantity="5" Sideboard="false" Name="Spirit Bonds" />
+  <Cards CatID="30224" Quantity="4" Sideboard="false" Name="Springjack Pasture" />
+  <Cards CatID="35755" Quantity="4" Sideboard="false" Name="Wolfbriar Elemental" />
+  <Cards CatID="45582" Quantity="1" Sideboard="false" Name="Thragtusk" />
+  <Cards CatID="38319" Quantity="4" Sideboard="false" Name="Tumble Magnet" />
+  <Cards CatID="60266" Quantity="5" Sideboard="false" Name="Ulvenwald Mysteries" />
+  <Cards CatID="62777" Quantity="4" Sideboard="false" Name="Unbridled Growth" />
+  <Cards CatID="59744" Quantity="4" Sideboard="false" Name="Unruly Mob" />
+  <Cards CatID="60278" Quantity="4" Sideboard="false" Name="Vessel of Malignity" />
+  <Cards CatID="40595" Quantity="2" Sideboard="false" Name="Wall of Omens" />
+  <Cards CatID="59810" Quantity="4" Sideboard="false" Name="Westvale Abbey" />
+  <Cards CatID="27540" Quantity="2" Sideboard="false" Name="Windborn Muse" />
+  <Cards CatID="24697" Quantity="4" Sideboard="false" Name="Woolly Razorback" />
+  <Cards CatID="29483" Quantity="1" Sideboard="false" Name="Oversoul of Dusk" />
 </Deck>

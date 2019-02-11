@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53486" Quantity="2" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="53344" Quantity="1" Sideboard="false" Name="Caves of Koilos" />
+  <Cards CatID="53480" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="51563" Quantity="2" Sideboard="false" Name="Temple of Malice" />
+  <Cards CatID="53346" Quantity="1" Sideboard="false" Name="Battlefield Forge" />
+  <Cards CatID="50270" Quantity="1" Sideboard="false" Name="Temple of Triumph" />
+  <Cards CatID="55552" Quantity="3" Sideboard="false" Name="Bloodfell Caves" />
+  <Cards CatID="54166" Quantity="4" Sideboard="false" Name="Nomad Outpost" />
+  <Cards CatID="55536" Quantity="2" Sideboard="false" Name="Wind-Scarred Crag" />
+  <Cards CatID="50398" Quantity="1" Sideboard="false" Name="Unknown Shores" />
+  <Cards CatID="50248" Quantity="1" Sideboard="false" Name="Burnished Hart" />
+  <Cards CatID="54183" Quantity="1" Sideboard="false" Name="Butcher of the Horde" />
+  <Cards CatID="54182" Quantity="3" Sideboard="false" Name="Butcher of the Horde" />
+  <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
+  <Cards CatID="53688" Quantity="1" Sideboard="false" Name="Heliod's Pilgrim" />
+  <Cards CatID="55386" Quantity="1" Sideboard="false" Name="Collateral Damage" />
+  <Cards CatID="53500" Quantity="1" Sideboard="false" Name="Goblin Rabblemaster" />
+  <Cards CatID="54172" Quantity="3" Sideboard="false" Name="Bloodsoaked Champion" />
+  <Cards CatID="56188" Quantity="1" Sideboard="false" Name="Deathbringer Regent" />
+  <Cards CatID="55460" Quantity="1" Sideboard="false" Name="Sandsteppe Outcast" />
+  <Cards CatID="54288" Quantity="1" Sideboard="false" Name="Wingmate Roc" />
+  <Cards CatID="53256" Quantity="1" Sideboard="false" Name="Wall of Essence" />
+  <Cards CatID="54026" Quantity="1" Sideboard="false" Name="Act of Treason" />
+  <Cards CatID="54432" Quantity="2" Sideboard="false" Name="Crackling Doom" />
+  <Cards CatID="54170" Quantity="1" Sideboard="false" Name="End Hostilities" />
+  <Cards CatID="50374" Quantity="3" Sideboard="false" Name="Gift of Immortality" />
+  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="56082" Quantity="2" Sideboard="false" Name="Kolaghan's Command" />
+  <Cards CatID="50230" Quantity="2" Sideboard="false" Name="Magma Jet" />
+  <Cards CatID="54128" Quantity="3" Sideboard="false" Name="Mardu Charm" />
+  <Cards CatID="50170" Quantity="1" Sideboard="false" Name="Read the Bones" />
+  <Cards CatID="53522" Quantity="1" Sideboard="false" Name="Spirit Bonds" />
+  <Cards CatID="54022" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
+  <Cards CatID="54188" Quantity="1" Sideboard="false" Name="Utter End" />
+  <Cards CatID="55614" Quantity="2" Sideboard="false" Name="Soulfire Grand Master" />
+  <Cards CatID="54104" Quantity="1" Sideboard="false" Name="Murderous Cut" />
+  <Cards CatID="58523" Quantity="1" Sideboard="false" Name="Sandstone Bridge" />
+  <Cards CatID="58531" Quantity="3" Sideboard="false" Name="Shambling Vent" />
+  <Cards CatID="30983" Quantity="1" Sideboard="false" Name="Blightning" />
+  <Cards CatID="55340" Quantity="1" Sideboard="false" Name="Battle Brawler" />
+  <Cards CatID="50578" Quantity="1" Sideboard="false" Name="Anger of the Gods" />
+  <Cards CatID="56190" Quantity="1" Sideboard="false" Name="Crater Elemental" />
+  <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
+  <Cards CatID="35515" Quantity="3" Sideboard="false" Name="Bojuka Bog" />
+  <Cards CatID="36360" Quantity="1" Sideboard="false" Name="Inquisition of Kozilek" />
+  <Cards CatID="54250" Quantity="1" Sideboard="false" Name="Zurgo Helmsmasher" />
+  <Cards CatID="39447" Quantity="1" Sideboard="false" Name="Go for the Throat" />
+  <Cards CatID="60310" Quantity="2" Sideboard="false" Name="Alms of the Vein" />
+  <Cards CatID="62581" Quantity="1" Sideboard="false" Name="Alley Evasion" />
+  <Cards CatID="60070" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
+  <Cards CatID="50479" Quantity="1" Sideboard="true" Name="Gods Willing" />
+  <Cards CatID="54226" Quantity="1" Sideboard="true" Name="Swamp" />
+  <Cards CatID="54170" Quantity="1" Sideboard="true" Name="End Hostilities" />
+  <Cards CatID="54188" Quantity="2" Sideboard="true" Name="Utter End" />
+  <Cards CatID="53278" Quantity="1" Sideboard="true" Name="Tormod's Crypt" />
+  <Cards CatID="50478" Quantity="2" Sideboard="true" Name="Gods Willing" />
+  <Cards CatID="50578" Quantity="1" Sideboard="true" Name="Anger of the Gods" />
+  <Cards CatID="56190" Quantity="2" Sideboard="true" Name="Crater Elemental" />
+  <Cards CatID="46339" Quantity="1" Sideboard="true" Name="Electrickery" />
+  <Cards CatID="52042" Quantity="1" Sideboard="true" Name="Magma Spray" />
+  <Cards CatID="56264" Quantity="1" Sideboard="true" Name="Rending Volley" />
+  <Cards CatID="54430" Quantity="1" Sideboard="false" Name="Mardu Ascendancy" />
+</Deck>

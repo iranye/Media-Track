@@ -33,7 +33,7 @@
   <Cards CatID="51565" Quantity="1" Sideboard="false" Name="Temple of Plenty" />
   <Cards CatID="59792" Quantity="1" Sideboard="false" Name="Cryptolith Rite" />
   <Cards CatID="68489" Quantity="1" Sideboard="false" Name="Tormenting Voice" />
-  <Cards CatID="39726" Quantity="1" Sideboard="false" Name="Deceiver Exarch" />
+  <Cards CatID="39726" Quantity="2" Sideboard="false" Name="Deceiver Exarch" />
   <Cards CatID="28241" Quantity="1" Sideboard="false" Name="Pestermite" />
   <Cards CatID="55990" Quantity="1" Sideboard="false" Name="Secure the Wastes" />
   <Cards CatID="36526" Quantity="2" Sideboard="false" Name="Wall of Omens" />
@@ -144,4 +144,13 @@
   <Cards CatID="65194" Quantity="1" Sideboard="false" Name="Arguel's Blood Fast" />
   <Cards CatID="64876" Quantity="1" Sideboard="false" Name="Endless Sands" />
   <Cards CatID="64142" Quantity="1" Sideboard="false" Name="Cascading Cataracts" />
+  <Cards CatID="29461" Quantity="1" Sideboard="false" Name="Curse of Chains" />
+  <Cards CatID="21487" Quantity="1" Sideboard="false" Name="Aura of Dominion" />
+  <Cards CatID="39501" Quantity="1" Sideboard="false" Name="Thopter Assembly" />
+  <Cards CatID="31671" Quantity="1" Sideboard="false" Name="Kaleidostone" />
+  <Cards CatID="28735" Quantity="1" Sideboard="false" Name="Triclopean Sight" />
+  <Cards CatID="20820" Quantity="1" Sideboard="false" Name="Healer's Headdress" />
+  <Cards CatID="56362" Quantity="1" Sideboard="false" Name="Gleam of Authority" />
+  <Cards CatID="57712" Quantity="1" Sideboard="false" Name="Nantuko Husk" />
+  <Cards CatID="26121" Quantity="1" Sideboard="false" Name="Claws of Gix" />
 </Deck>

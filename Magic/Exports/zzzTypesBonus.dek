@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="42358" Quantity="1" Sideboard="false" Name="Bonds of Faith" />
+  <Cards CatID="49139" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="21491" Quantity="1" Sideboard="false" Name="Konda's Banner" />
+  <Cards CatID="29042" Quantity="1" Sideboard="false" Name="Brighthearth Banneret" />
+  <Cards CatID="29044" Quantity="1" Sideboard="false" Name="Stonybrook Banneret" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
+  <Cards CatID="63513" Quantity="1" Sideboard="false" Name="Cavern of Souls" />
+  <Cards CatID="42292" Quantity="1" Sideboard="false" Name="Angelic Overseer" />
+  <Cards CatID="44227" Quantity="1" Sideboard="true" Name="Devout Chaplain" />
+  <Cards CatID="59589" Quantity="1" Sideboard="false" Name="Stoneforge Masterwork" />
+  <Cards CatID="43829" Quantity="1" Sideboard="false" Name="Bladed Bracers" />
+  <Cards CatID="41437" Quantity="1" Sideboard="false" Name="Lord of the Unreal" />
+  <Cards CatID="26191" Quantity="1" Sideboard="false" Name="Mistform Ultimus" />
+  <Cards CatID="44237" Quantity="1" Sideboard="false" Name="Descendants' Path" />
+  <Cards CatID="41349" Quantity="1" Sideboard="false" Name="Phantasmal Dragon" />
+  <Cards CatID="29202" Quantity="1" Sideboard="false" Name="Taurean Mauler" />
+  <Cards CatID="53650" Quantity="1" Sideboard="false" Name="Obelisk of Urd" />
+  <Cards CatID="19049" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="48688" Quantity="1" Sideboard="false" Name="Runed Stalactite" />
+  <Cards CatID="65104" Quantity="1" Sideboard="false" Name="Arcane Adaptation" />
+</Deck>

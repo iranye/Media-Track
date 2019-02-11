@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="29431" Quantity="1" Sideboard="false" Name="Thoughtweft Gambit" />
+  <Cards CatID="56056" Quantity="1" Sideboard="false" Name="Profound Journey" />
+  <Cards CatID="34798" Quantity="1" Sideboard="false" Name="Needlebite Trap" />
+  <Cards CatID="31211" Quantity="1" Sideboard="false" Name="Violent Ultimatum" />
+  <Cards CatID="51819" Quantity="1" Sideboard="false" Name="Fated Return" />
+  <Cards CatID="19237" Quantity="1" Sideboard="false" Name="Obliterate" />
+  <Cards CatID="69471" Quantity="1" Sideboard="false" Name="Omnispell Adept" />
+  <Cards CatID="55652" Quantity="1" Sideboard="false" Name="Supplant Form" />
+  <Cards CatID="60296" Quantity="1" Sideboard="false" Name="Ever After" />
+  <Cards CatID="25457" Quantity="1" Sideboard="false" Name="Mindstab" />
+  <Cards CatID="47779" Quantity="1" Sideboard="false" Name="Stolen Identity" />
+  <Cards CatID="52038" Quantity="1" Sideboard="false" Name="Spiteful Blow" />
+  <Cards CatID="29611" Quantity="1" Sideboard="false" Name="Beseech the Queen" />
+  <Cards CatID="47913" Quantity="1" Sideboard="false" Name="Undercity Plague" />
+  <Cards CatID="65266" Quantity="1" Sideboard="false" Name="Spreading Rot" />
+  <Cards CatID="50380" Quantity="1" Sideboard="false" Name="Rescue from the Underworld" />
+  <Cards CatID="42758" Quantity="2" Sideboard="false" Name="Maw of the Mire" />
+  <Cards CatID="61132" Quantity="1" Sideboard="false" Name="Docent of Perfection" />
+  <Cards CatID="26596" Quantity="1" Sideboard="false" Name="Festering March" />
+  <Cards CatID="34506" Quantity="2" Sideboard="false" Name="Desecrated Earth" />
+  <Cards CatID="55582" Quantity="1" Sideboard="false" Name="Enhanced Awareness" />
+  <Cards CatID="63091" Quantity="1" Sideboard="false" Name="Torrent of Souls" />
+  <Cards CatID="34810" Quantity="1" Sideboard="false" Name="Ravenous Trap" />
+  <Cards CatID="62707" Quantity="1" Sideboard="false" Name="Yahenni's Expertise" />
+  <Cards CatID="52246" Quantity="1" Sideboard="false" Name="Eidolon of the Great Revel" />
+  <Cards CatID="29563" Quantity="1" Sideboard="false" Name="Poison the Well" />
+  <Cards CatID="29964" Quantity="1" Sideboard="false" Name="Drain the Well" />
+  <Cards CatID="61955" Quantity="1" Sideboard="false" Name="Diabolic Tutor" />
+  <Cards CatID="23422" Quantity="1" Sideboard="false" Name="Clutch of the Undercity" />
+  <Cards CatID="60226" Quantity="1" Sideboard="false" Name="Biting Rain" />
+  <Cards CatID="56104" Quantity="1" Sideboard="false" Name="Living Lore" />
+  <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
+  <Cards CatID="65510" Quantity="1" Sideboard="false" Name="Primal Amulet" />
+  <Cards CatID="31219" Quantity="1" Sideboard="false" Name="Clarion Ultimatum" />
+  <Cards CatID="30913" Quantity="1" Sideboard="false" Name="Titanic Ultimatum" />
+  <Cards CatID="13107" Quantity="1" Sideboard="false" Name="Rain of Tears" />
+  <Cards CatID="54108" Quantity="1" Sideboard="false" Name="Monastery Swiftspear" />
+  <Cards CatID="49363" Quantity="1" Sideboard="false" Name="Chandra, Pyromaster" />
+  <Cards CatID="41389" Quantity="1" Sideboard="false" Name="Chandra, the Firebrand" />
+  <Cards CatID="36450" Quantity="1" Sideboard="false" Name="Training Grounds" />
+  <Cards CatID="64760" Quantity="1" Sideboard="false" Name="Bloodwater Entity" />
+  <Cards CatID="55342" Quantity="1" Sideboard="false" Name="Shu Yun, the Silent Tempest" />
+  <Cards CatID="36330" Quantity="1" Sideboard="false" Name="Cast Through Time" />
+  <Cards CatID="24217" Quantity="1" Sideboard="false" Name="Dovescape" />
+  <Cards CatID="43179" Quantity="1" Sideboard="false" Name="Niblis of the Breath" />
+  <Cards CatID="63994" Quantity="1" Sideboard="false" Name="Bounty of the Luxa" />
+  <Cards CatID="54270" Quantity="1" Sideboard="false" Name="Seeker of the Way" />
+  <Cards CatID="24823" Quantity="1" Sideboard="false" Name="Braid of Fire" />
+  <Cards CatID="61360" Quantity="1" Sideboard="false" Name="Curious Homunculus" />
+  <Cards CatID="54436" Quantity="1" Sideboard="false" Name="Jeskai Ascendancy" />
+  <Cards CatID="54294" Quantity="1" Sideboard="false" Name="Whirlwind Adept" />
+  <Cards CatID="54446" Quantity="1" Sideboard="false" Name="Sultai Ascendancy" />
+  <Cards CatID="57720" Quantity="1" Sideboard="false" Name="Chandra's Fury" />
+  <Cards CatID="53626" Quantity="1" Sideboard="false" Name="Master of Predicaments" />
+  <Cards CatID="49429" Quantity="1" Sideboard="false" Name="Grim Return" />
+  <Cards CatID="32336" Quantity="1" Sideboard="false" Name="Brainbite" />
+  <Cards CatID="69475" Quantity="1" Sideboard="false" Name="Quasiduplicate" />
+  <Cards CatID="19569" Quantity="1" Sideboard="false" Name="Merchant Scroll" />
+  <Cards CatID="49593" Quantity="1" Sideboard="false" Name="Quicken" />
+  <Cards CatID="59513" Quantity="1" Sideboard="false" Name="Crush of Tentacles" />
+  <Cards CatID="52038" Quantity="1" Sideboard="false" Name="Spiteful Blow" />
+  <Cards CatID="65266" Quantity="1" Sideboard="false" Name="Spreading Rot" />
+  <Cards CatID="46771" Quantity="1" Sideboard="false" Name="Firemind's Foresight" />
+  <Cards CatID="67867" Quantity="1" Sideboard="false" Name="Primevals' Glorious Rebirth" />
+  <Cards CatID="68579" Quantity="1" Sideboard="false" Name="Vivien's Invocation" />
+  <Cards CatID="65144" Quantity="1" Sideboard="false" Name="Overflowing Insight" />
+  <Cards CatID="66641" Quantity="1" Sideboard="false" Name="Brass's Bounty" />
+  <Cards CatID="56394" Quantity="1" Sideboard="false" Name="Descent of the Dragons" />
+  <Cards CatID="55622" Quantity="1" Sideboard="false" Name="Temporal Trespass" />
+  <Cards CatID="67575" Quantity="1" Sideboard="false" Name="Karn's Temporal Sundering" />
+</Deck>

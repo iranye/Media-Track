@@ -96,45 +96,15 @@
   <Fetch>
     Commune with the Gods
   </Fetch>
-  <Clone>
-    Clever Impersonator
-  </Clone>
   <Control>
     Detention Spere
     Statis Snare
   </Control>
   <CountersForCreatures>
-    Armament Corps
     Blade of the Bloodchief
-    Corpsejack Menace
-    Dromoka, the Eternal
-    Ephara's Enlightenment
-    Ephara's Radiance
     Gleam of Authority
-    Rakshasa Vizier
     Retribution of the Ancients
-    Reap what is Sown
-    Sandsteppe Outcast
-  Abzan Ascendancy
-  Abzan Charm
-  Ajani Pridemate
-  Anafenza, Kin-Tree Spirit
-  Anafenza, the Foremost
-  Avatar of the Resolute
-  Bow of Nylea
-  Citadel Siege
-  Dragon Throne of Tarkir
-  Feast on the Fallen
-  Feat of Resistance
-  Forced Adaptation
-  Hardened Scales
-  High Sentinels of Arashin
-  Phalanx Leader
-  Pheres-Band Tromper
-  Solidarity of Heroes
-  Sunscorch Regent
-  Thalia's Lieutenant
-  Winding Constrictor
+    Thalia's Lieutenant
   </CountersForCreatures>
   <CounterSpell>
     Clash of Wills
@@ -345,474 +315,35 @@
   </Twiddle>
 </General>
 <Activation>
-  Aerie Worshippers
-  Angel of Condemnation
-  Aryel, Knight of Windgrace
-  Captivating Crew
-  Chainbreaker
-  Gilder Bairn
-  Hada Spy Patrol
-  Izzet Guildmage
-  Jhoira of the Ghitu
-  Kabira Vindicator
-  Kazandu Tuskcaller
-  Knight of Cliffhaven
-  Kytheon
-  Jade Mage
-  The Locust God
-  Merchant's Dockhand
-  Nirkana Cutthroat
-  Null Champion
-  Numot, the Devastator
-  Olivia Voldaren
-  River Hoopoe
-  Soul of New Phyrexia
-  Student of Warfare
-  Temur Sabertooth
-  Thistledown Liege
-  Training Grounds
-  Venerated Teacher
 </Activation>
 <Arty strat="Re-cast permanents that give artifact tokens and/or energy counters on enter battlefield (see: Fabricate)">
+  ToBuy:
   Angel of Invention
-  Atog
-  Avarice Amulet
-  Brass Squire
-  Contagion Clasp
-  Creepy Doll
-  Darklit Gargoyle
-  Darksteel Colossus
-  Decoction Module
   Dispeller's Capsule
-  Enigma Sphinx
   Epochrasite
-  Esperzoa
   Ethersworn Adjudicator
-  Genesis Chamber
-  Glaze Fiend
-  Inspiring Statuary
-  Inventor's Fair
-  Key to the City
-  Lotus Bloom
-  Master Transmuter
-  Myr Turbine
-  Memnarch
-  Mycosynth Wellspring
-  Navigator's Compass
-  Noxious Gearhulk
   Phyrexian Core
-  Platinum Emperion
   Pyrite Spellbomb
   Rusted Slasher
   Salvage Titan
   Salvaging Station
-  Scuttling Doom Engine
-  Sen Triplets
   Sharding Sphinx
-  Sharuum the Hegemon
-  Slagwurm Armor
-  Solemn Simulacrum
-  Soul of New Phyrexia
-  Skyscanner
-  Sphinx of the Steel Wind
-  Sphinx Sovereign
-  Sphinx Summoner
-  Steel Hellkite
-  Sunbeam Spellbomb
-  Tempered Steel
-  Thopter Assembly
-  Transguild Courier
-  Visionary Augmenter
-  Weaponcraft Enthusiast
 </Arty>
+<BigSpells>
+  Star of Extinction
+</BigSpells>
 <BlackRdWhClerics>
-  Athreos
   Auriok Champion
-  Cleric of the Forward Order (use w/ Mirrorweave)
-  Clockwork Hydra
-  Cloudstone Curio
-  Harm's Way
-  Stoneforge Masterwork
-  Suture Priest
 </BlackRdWhClerics>
 <BlackWhiteSac>
-  Shadow Guildmage
-  Wall of Shards
-  <Removal>
-    Angelic Purge
-    Bojuka Bog
-    Revoke Existence
-    Tragic Slip
-  </Removal>
-  <Contains>
-    Alms Beast
-    Athreos, God of Passage
-    Banisher Priest
-    Blasting Station
-    Blood Baron of Vizkopa
-    Blood-Cursed Knight
-    Boros Reckoner
-    Godless Shrine
-    Granite Shard
-    Heliod, God of the Sun
-    Immortal Servitude
-    Shambling Vent
-    Spirit Bonds
-    Strionic Resonator
-    Tidehollow Sculler
-  </Contains>
-  <Equipment>
-    Banshee's Blade
-    Brass Squire
-    Darksteel Plate
-    Gorgon's Head
-    Healer's Headdress
-    Mask of Avacyn
-    Mortarpod
-    Pathway Arrows
-    Ring of Xathrid
-    Vial of Poison
-    Viridian Longbow
-    Worldslayer
-  </EquipmentAuras>
-  <Blue>
-    Merieke Ri Berit
-    Ovinomancer
-  </Blue>
-  <Red>
-    Alesha, Who Smiles at Death
-    Boros Charm
-    Brimstone Mage
-    Dual Shot
-    Frostling
-    Iroas, God of Victory
-    Lightning Bolt
-    Lightning Helix
-    Master of Cruelties
-    Needle Drop
-    Prodigal Pyromancer
-    Spark Jolt
-    Stun Sniper
-    Taurean Mauler
-  </Red>
-  <GainLife>
-    Aerial Responder
-    Basilik Collar
-    Divinity of Pride
-    Fiendslayer Paladin
-    Loxodon Warhammer
-    Mourning Thrull
-    Scourge of the Nobilis
-    Vault Skirge
-    Whip of Erebos
-  </GainLife>
-  <Madness>  
-    Bloodhall Priest
-    Senseless Rage
-  </Madness>
-  <ReturnFromGrave>
-    Doomed Necromancer
-    Hell's Caretaker
-    Soul Stair Expedition
-  </ReturnFromGrave>
-  <Wipe>
-    Austere Command
-    Crux of Fate
-    Damnation
-    Day of Judgement
-    End Hostilities
-    Fumigate
-    Magus of the Disk
-    Merciless Eviction
-    Scourglass
-    Whipflare
-    Wrath of God
-  </Wipe>
-  <Auras>
-    Angelic Destiny
-    Angelic Gift
-    Arcane Teachings
-    Aspect of Gorgon
-    Blessing of Leeches
-    Bonds of Faith
-    Chosen by Heliod
-    Conviction
-    Curse of Exhaustion
-    Daybreak Coronet
-    Demonic Appetite
-    Detainment Spell
-    Divine Favor
-    Dragon Mantle
-    Edge of the Divinity
-    Eland Umbra
-    Ethereal Armor
-    Fallen Ideal
-    Fire Whip
-    Fractured Loyalty
-    Gift of Orzhova
-    Genju of the Fields
-    Gift of Granite
-    Gryff's Boon
-    Indestructibility
-    Indomitable Will
-    Infernal Scarring
-    Ironclad Slayer
-    Kumano's Blessing
-    Lightning Prowess
-    Lunarch Mantle
-    Mammoth Umbra
-    Mantle of Leadership
-    Mardu Runemark
-    Mutavault
-    Nimbus Wings
-    Oblivion Crown
-    Oppressive Rays
-    Orzhov Charm
-    Pariah
-    Pentarch Ward
-    Pillory of the Sleepless
-    Power of Fire
-    Predator's Gambit
-    Prison Term
-    Prophetic Ravings
-    Saving Grace
-    Senseless Rage
-    Skeletal Grimace
-    Skin Invasion
-    Soul Tithe
-    Spectra Ward
-    Spirit Loop
-    Spirit Mantle
-    Spiteful Motives
-    Stab Wound
-    Tin Street Market
-    Triclopean Sight
-    Underworld Connections
-    Visions of Brutality
-    Weight of Conscience
-  </Auras>
-  <Clerics>
-    Adaptive Automaton
-    Ajani's Sunstriker
-    Arashin Cleric
-    Archangel of Tithes
-    Auriok Champion
-    Ayli, Eternal Pilgrim
-    Banisher Priest
-    Battletide Alchemist
-    Bloodhall Priest
-    Bygone Bishop
-    Cemetery Puca
-    D'Avenant Healer
-    Devout Chaplain
-    Devout Lightcaster
-    Eight-and-a-Half-Tails
-    Geist of Saint Traft
-    Geist of the Lonely Vigil
-    Goldnight Commander
-    Grand Abolisher
-    Hanweir Militia Captain
-    Heliod's Pilgrim
-    Kor Sanctifiers
-    Leonin Arbiter
-    Leonin Abunas
-    Liliana, Heretical Healer
-    Metallic Mimic
-    Mikaeus, the Lunarch
-    Nomad Mythmaker
-    Oracle of Nectars
-    Order of the Stars
-    Orzhov Pontiff
-    Ragamuffyn
-    Resplendent Mentor
-    Sanctum Guardian
-    Selfless Spirit
-    Setessan Battle Priest
-    Shadowborn Apostle
-    Sin Collector
-    Skirsdag Flayer
-    Skirsdag High Priest
-    Skirsdag Supplicant
-    Soltari Priest
-    Soul Warden
-    Soulmender
-    Suture Priest
-    Syndic of Tithes
-    Taurean Mauler
-    Tethmos High Priest
-    Thraben Doomsayer
-    Transcendent Master
-    True Believer
-    Underworld Coinsmith
-    Vampire Envoy
-    War Priest of Thune
-    Weathered Wayfarer
-    Westvale Abbey
-    Witch Hunter
-    Withered Wretch
-    Zealous Inquisitor
-  </Clerics>
-  Acolyte's Reward
-  Alley Evasion
-  Assemble the Legion
-  Blood Artist
-  Brave the Sands
-  Carom
-  Coat with Venom
-  Collateral Damage
-  Concealed Courtyard
-  Consulate Dreadnought
-  Crossbow Infantry
-  Dance with Devils
-  Daredevil Dragster
-  Dark Dabbling
-  Deathbringer Liege
-  Decommission
-  Deft Dismissal
-  Desert
-  Dictate of Erebos
-  Dovescape
-  Dutiful Attendant
-  Eidolon of Rhetoric
-  Endbringer
-  Erebos
-  Fallen Ideal
-  Ghostly Prison
-  Hidden Dragonslayer
-  Hidden Stockpile
-  Holdout Settlement  
-  Kambal, Consul of Allocation
-  Kari Zev's Expertise
-  Kemba, Kha Regent
-  KingPin's Pet
-  Kolaghan's Command
-  Kor Sanctifiers
-  Luminarch Ascension
-  Mardu Charm
-  Martyred Rusalka
-  Meekstone
-  Mentor of the Meek
-  Mesa Enchantress
-  Michiko Konda, Truth Seeker
-  Midnight Charm
-  Mikaeus, the Lunarch
-  Mirrorweave
-  Necrobite
-  Nomad Mythmaker
-  Oracle of Nectars
-  Order of Whiteclay
-  Outrider en-Kor
-  Pia's Revolution
-  Quest for the Gravelord
-  Quicksmith Rebel
-  Raise the Alarm
-  Recover
-  Renegade's Getaway
-  Resourceful Return
-  Rise of the Hobgoblins
-  Rush of Vitality
-  Secure the Wastes
-  Semblance Anvil
-  Seraph of the Sword
-  Sigarda's Aid
-  Sorin Markov
-  Sorin, Lord of Innistrad
-  Sorin, Solemn Visitor
-  Soul of New Phyrexia
-  Soul Stair Expedition
-  Spellskite
-  Spawning Pit
+  Geist of Saint Traft
   Stony Silence
-  Touch of Moonglove
-  Transcendent Master
-  Treasury Thrull
-  True Believer
-  Umbra Mystic
-  Untethered Express
-  Volatile Rig
-  Vampire Envoy
-  Will-o'-the-Wisp
-  Zealous Persecution
-  Zur the Enchanter
 </BlackWhiteSac>
-
 <Sagas>
-  Chainer's Torment
-  Fall of the Thran
-  History of Benalia $$$
-  Phyrexian Scriptures $
-  Rite of Belzenlok
-  Song of Freyalise
-  The Antiquities War
-  The Eldest Reborn
-  The First Eruption
-  The Flame of Keld
-  The Mending of Dominaria
-  The Mirari Conjecture
-  Time of Ice
-  Triumph of Gerrard
+  History of Benalia
 </Sagas>
 <SwampKill>
-  [Sagas]:
-    Rite of Belzenlok
-  [Vehicles]
-  Ammit Eternal
-  Arcane Spyglass
-  Bident of Thassa
-  Blightcaster
-  Boon of Erebos
-  Cabal Stronghold
-  Chromium, the Mutable  
-  Curator's Ward
-  Crucible of Worlds
-  Crypt Ghast
-  Doomwake Giant
-  Esper Charm
-  Esper Panorama
-  Eternal Witness
-  Funeral Charm
-  Hammer of Purphoros
-  Haunted Plate Mail
-  Hunted Phantasm
-  Karma
-  Knight of the Reliquary
-  Korlash, Heir to Blackblade
-  Lashwrithe
   Life from the Loam
-  Mesa Enchantress
-  Mind Bend
-  Mind Sludge
-  Neurok Stealthsuit
-  Nettlevine Blight
-  Nighthaze
-  Nightmare Lash
-  Piranha Marsh
-  Pithing Needle
-  Safe Haven
-  Sen Triplets  
-  Skysovereign, Consul Flagship
-  Sol'kanar the Swamp King
-  Spectral Shift
-  Sphinx of the Steel Wind
-  Sylvan Bounty
-  Underworld Coinsmith
-  Urborg, Tomb of Yawgmoth
-  Wrexial, the Risen Deep
-  Zur the Enchanter:
-    Cartouche of Knowledge
-    Cloudform + Crown of Convergence, Lantern of Insight, Skill Borrower
-    Contaminated Ground
-    Copy Enchantment
-    Corrupt
-    Eidolon of Countless Battles
-    Eidolon of Rhetoric
-    Ghostblade Eidolon
-    Ghostly Prison
-    Gift of Immortality
-    Grim Guardian
-    Retreat to Hagra
-    Shimmering Wings
-    Trade Routes
 </SwampKill>
 
 <ColorKill>
@@ -1318,58 +849,7 @@
   Wargate
 </EmpyrialArch>
 <Enchants>
-  Aether Meltdown
-  Aetherling
-  Alley Evasion
-  Angelic Destiny
-  Arcanum Wings
-  Armament of Nyx
-  Azorius Æthermage
-  Azorius Chancery
-  Azorius Guildmage
-  Bygone Bishop
-  Centaur Omenreader
-  Cloudblazer
-  Clout of the Dominus
-  Conviction
-  Council of the Absolute
-  Court Hussar
-  Curse of Exhaustion
-  Darksteel Sentinel
-  Dawn of Hope
-  Disappearing Act
-  Dragonlord Ojutai
-  Dust Elemental
-  Eiganjo Free-Riders
-  Fieldmist Borderpost
-  Flickerform
-  Floodtide Serpent
-  Glacial Fortress
-  Grand Arbiter Augustin IV
-  Herald of the Pantheon
-  Hindering Light
-  Invocation of Saint Traft
-  Kor Spiritdancer
-  Long Road Home
-  Meddling Mage
-  Mesa Enchantress
-  Panharmonicon
-  Plumes of Peace
-  Plumeveil
-  Pongify
-  Reality Acid
-  Repel Intruders
-  Roil Spout
-  Runed Halo
-  Shaman of Spring
-  Sky Hussar
   Spell Queller
-  Sphere of Safety
-  Sphinx's Revelation
-  Stasis Snare
-  Thran Golem
-  Vapor Snare
-  Wispmare
 </Enchants>
 <FiveColor>
   Bloom Tender
@@ -1396,246 +876,11 @@
   Soul of Ravnica
 </FiveColor>
 <ForceAttacks>
-  Arguel's Blood Fast
-  Bident of Thassa
-  Bloodshed Fever
-  Contaminated Bond
-  Curse of the Nightly Hunt
-  Engulfing Slagwurm
-  Favor of the Woods
-  Find/Finality
-  Furor of the Bitten
-  Hornet Nest
-  Imaginary Threats
-  Kazuul, Tyrant of the Cliffs
-  Miren, the Moaning Well
-  Moaning Wall
-  Omnispell Adept
-  Sapling of Colfenor
-  Verdant Sun's Avatar
+
 </ForceAttacks>
 <FourPowerMobs>
-  Arc Runner
-  Bloodmad vampire
-  Chameleon Colossus
-  Glorybringer
-  Obstinate Baloth
-  Phantasmal Image
-  Thragtusk
-  Vedalken Mastermind
-  <Madness>
-  Archwing Dragon
-  Ashcloud Phoenix
-  Avacyn's Judgment
-  Avalanche Tusker
-  Avatar of Discord
-  Berzerkers' Onslaught
-  Braid of Fire
-    Chandra Ablaze
-    Chandra, Flamecaller
-    Force Away
-    Forgotten Creation
-    Gathan Raiders
-    Geralf's Masterpiece
-    Ghastly Discovery
-    Ghostly Wings
-    Grimoire of the Dead
-    Incorrigible Youths
-    Jaya Ballard, Task Mage
-    Just the Wind
-    Razormane Masticore
-    Vexing Sphinx
-  </Madness>
-  Ætherling  
-  Ancestral Statue
-  Arborback Stomper
-  Baloth Cage Trap (Sideboard)
-  Bear's Companion
-  Bloom Tender
-  Brackwater Elemental
-  Briarbridge Patrol
-  Briarhorn
-  Bristling Hydra
-  Changeling Berserker
-  Changeling Titan
-  Chronozoa
-  Cloudthresher
-  Chandra Ablaze
-  Chandra, Flamecaller
   Collected Company
-  Comnmune with the Gods
-  Crush of Tentacles
-  Cryptolith Rite
-  Disappearing Act
-  Dragon Grip
-  Eel Umbra
-  Eerie Interlude
-  Elemental Bond
-  Familiar's Ruse
-  Fanatic of Mogis
-  Felhide Spiritbinder
-  Flameshadow Conjuring
-  Followed Footsteps
-  Fool's Demise
-  Giant Solifuge
-  Golden Guardian
-  Gathan Raiders
-  Goldnight Castigator
-  Groundbreaker
-  Hellion Crucible
-  Hellkite Charger
-  Hunted Troll
-  Inexorable Blob
-  Intet, the Dreamer
-  Kessig Wolf Run
-  Lavacore Elemental
-  Living Tsunami
-  Mantis Rider
-  Mimic Vat
-  Mind Sludge
-  Mirror Mockery
-  Mold Shambler
-  Mosswort Bridge
-  Kruphix, God
-  Narnan Renegade
-  Obsidian Fireheart
-  Obstinate Baloth
-  Pack Guardian
-  Pact of the Titan
-  Penumbra Spider
-  Polukranos
-  Precinct Captain
-  Primeval Bounty
-  Progenitor Mimic
-  Pyrewild Shaman
-  Rage Nimbus
-  Raise the Alarm
-  Riparian Tiger
-  Roil Spout
-  Rumbling Slum
-  Sabertooth Outrider
-  Sagu Mauler
-  Sarkhan the Mad
-  Savage Summoning
-  Scout the Borders
-  See the Unwritten
-  Self-Assembler
-  Sheltering Word
-  Snake of the Golden Grove
-  Stratus Dancer
-  Surrak, the Hunt Caller
-  Talara's Battalion
-  Tarox Bladewing
-  Tornado Elemental
-  Triumph of the Hordes
-  Troll Ascetic
-  Unbridled Growth
-  Unsubstantiate
-  Vedalken Mastermind
-  Vengevine
-  Vexing Devil
-  Voyage's End
-  War Elemental
-  <TOSORT>
-  -- Alternate Strategy(s)
-  Arcbond  
-  Anticipate
-  Fanatic of Mogis
-  Fanatic of Xenagos
-  Genesis Hydra
-  Impact Tremors
-  Shape the Sands
-  Sight of the Scalelords
-  Talara's Battalion
-  Winds of Qal Sisma
-  Xenagos, God of Revels
-  Yasova Dragonclaw
   
-  +++:
-  SIDEBOARD:
-  Atarka's Command
-  Mistcutter Hydra
-  Neutralizing Blast
-  
-  Arcbond
-  Barrage of Boulders
-  Bear's Companion
-  Berzerkers' Onslaught
-  Bident of Thassa
-  Chord of Calling
-  Crater's Claws
-  Dragonlord Atarka
-  Dragon Whisperer
-  Fanatic of Xenagos
-  Genesis Hydra
-  Hour of Need
-  Hungering Yeti (+Flash)
-  Hydra Broodmaster
-  Icefall Regent
-  Illusory Angel
-  Mirror Mockery
-  Monastery Siege
-  Polukranos
-  Polymorphist's Jest
-  Profaner of the Dead
-  Searing Blood
-  Sedge Scorpion
-  Surrak, the Hunt Caller
-  Thunderbreak Regent
-  Archwing Dragon
-  
-  Comnmune with the Gods
-  
-  ADD 4-POWER CREATURES:
-  Alpine Grizzly
-  Ashcloud Phoenix
-  Bear's Companion
-  Benthic Giant
-  Bloodfire Enforcers
-  Boon Satyr (+Flash)  
-  Crystalline Nautilus
-  Destructor Dragon
-  Fanatic of Mogis
-  Garruk's Packleader
-  Kruphix, God
-  Meandering Towershell
-  Mercurial Pretender
-  Oracle of Bones
-  Pearl Lake Ancient (+Flash)
-  Phytotitan
-  Polis Crusher
-  Spellheart Chimer (Power=# instants and sorceries in graveyard)
-  Spirespine
-  Shaman of the Great Hunt
-  Stormbreath Dragon (1)
-  Stratus Dancer
-  Surrak Dragonclaw (+Flash) (1)
-  Temur Sabertooth +++ (0)
-  Twinflame
-  Vaultbreaker +++ (1)
-  Whirlwind Adept
-  Xenagos, God
-  Yasova Dragonclaw
-  
-  OTHER:
-  Clever Impersonator
-  Dragon Throne of Tarkir
-  Flamewake Phoenix
-  Hall of Triumph
-  Hammer of Purphoros
-  Heir of the Wilds
-  Howl of the Horde
-  Paragon of Fierce Defiance
-  Purphoros, God
-  Restock
-  Roar of Challenge
-  Sultai Flayer
-  
-  PLANESWALKERS:  
-  Ajani, Mentor of Heroes
-  Kiora, the Crashing Wave
-  Xenagos, the Reveler
-  </TOSORT>
 </FourPowerMobs>
 <FourPowerElementals>
   Ashling the Extinguisher
@@ -2095,6 +1340,7 @@ NON-CREATURES:
 <RedBlueIzzet>
   Gate to the Afterlife
   Hazoret's Monument
+  Kumano's Blessing
   Perplex
   possessed portal
   smuggler's copter
@@ -2158,102 +1404,21 @@ NON-CREATURES:
   TideWalkder  
 </TimeCounter>
 <Tokens>
-	<Madness>
-    Llanowar Mentor
-	</Madness>
-  Aether Vial
-  Angel of Jubilation (TAKE OUT: Awakening Zone, Trading Post)
-  Archangel of Tithes
-  Awakening Zone
-  Baloth Cage Trap (Sideboard)
-  Baru, Fist of Krosa
-  Beckon Apparition
-  Call of the Herd
-  Champion of Lambholt
-  Cobra Trap
-  Cogworker's Puzzleknot
-  Conclave Cavalier
-  Creakwood Liege
-  Dauntless Escort
-  Dromoka's Command
-  Doubling Season
-  Elspeth, Knight-Errant
-  Elspeth Tirel
-  Emmara, Soul of the Accord
-  Feral Incarnation
-  Garruk, Primal Hunter
-  Garruk Relentless
-  Garruk Wildspeaker
-  Gideon, Ally of Zendikar
-  Gideon, Champion of Justice
-  Godsire
-  Golden Guardian
-  Goldnight Commander
-  Hanweir Militia Captain
-  Herald of Anafenza
-  Hooded Hydra
-  Hornet Nest
-  Ichor Wellspring
-  Inexorable Blob
-  Intangible Virtue
-  Kazandu Tuskcaller
-  Khalni Garden
-  Launch the Fleet
-  Leyline of the Meek
-  Loyal Sentry
-  Luminarch Ascension
-  Mantle of Leadership
-  Mana Bloom
-  Master of the Wild Hunt
-  Miming Slime  
-  Mentor of the Meek
-  Mirrorpool
-  Mortarpod
-  Mycoloth
-  Nissa, Vastwood Seer
-  Nissa, Voice of Zendikar
-  Nuisance Engine
-  Oath of Ajani
-  Oran-Rief, the Vastwood
-  Parallel Lives
-  Prophetic Prism
-  Pulse of the Tangle
-  Raise the Alarm
-  Rancor
-  Renegade Rallier
-  Riftmarked Knight
-  Rhys the Redeemed
-  Rise of the Hobgoblins
-  Roc Egg
-  Ronom Unicorn
-  Rootborn Defenses
-  Saffi Eriksdotter
-  Second Harvest
-  Seed Spark
-  Selfless Spirit
-  Shrine of Loyal Legions
-  Sigil of the Nayan Gods
-  Skinshifter
-  Slate of Ancestry
-  Soul Foundry
-  Spawning Pit
-  Spawnwrithe
-  Spirit Bonds
-  Springjack Pasture
-  Sublime Archangel
-  Sundering Growth
-  Wolfbriar Elemental
-  Thragtusk
-  Tumble Magnet
-  Ulvenwald Mysteries
-  Unbridled Growth
-  Unruly Mob
-  Vessel of Malignity  1Black (2) 
-  Wall of Omens
-  Westvale Abbey
-  Windborn Muse
-  Wingmate Roc
-  Woolly Razorback
+  <ToBeBought>
+    Garruk Wildspeaker
+    Champion of Lambholt
+    Garruk Wildspeaker
+    Garruk, Primal Hunter
+    Mycoloth
+    Pulse of the Tangle
+    Riftmarked Knight
+    Roc Egg
+    Saffi Eriksdotter
+    Seed Spark
+    Shrine of Loyal Legions
+    Spawnwrithe
+    Sublime Archangel
+  </ToBeBought>
 </Tokens>
 <WasteNot>
   <Green>
@@ -2387,7 +1552,6 @@ NON-CREATURES:
     Welcome to the Fold  2BlueBlue (4) 
     Zephyr Scribe
   </Madness>
-  Ã†therize
   Augur of Skulls
   Black Oak of Odunos
   Brain in a Jar

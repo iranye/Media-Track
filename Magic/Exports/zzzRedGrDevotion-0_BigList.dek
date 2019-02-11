@@ -52,4 +52,7 @@
   <Cards CatID="53338" Quantity="1" Sideboard="false" Name="Back to Nature" />
   <Cards CatID="68531" Quantity="1" Sideboard="false" Name="Gigantosaurus" />
   <Cards CatID="36536" Quantity="1" Sideboard="false" Name="Khalni Hydra" />
+  <Cards CatID="56344" Quantity="1" Sideboard="false" Name="Harbinger of the Hunt" />
+  <Cards CatID="29565" Quantity="1" Sideboard="false" Name="Boartusk Liege" />
+  <Cards CatID="69619" Quantity="1" Sideboard="false" Name="Beast Whisperer" />
 </Deck>

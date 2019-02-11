@@ -56,7 +56,7 @@
   <Cards CatID="47751" Quantity="1" Sideboard="false" Name="Nightveil Specter" />
   <Cards CatID="66795" Quantity="1" Sideboard="false" Name="Protean Raider" />
   <Cards CatID="64762" Quantity="2" Sideboard="false" Name="The Locust God" />
-  <Cards CatID="41373" Quantity="1" Sideboard="false" Name="Furyborn Hellkite" />
+  <Cards CatID="41373" Quantity="2" Sideboard="false" Name="Furyborn Hellkite" />
   <Cards CatID="61765" Quantity="1" Sideboard="false" Name="Contraband Kingpin" />
   <Cards CatID="9199" Quantity="1" Sideboard="false" Name="Fire Whip" />
   <Cards CatID="45698" Quantity="1" Sideboard="false" Name="Staff of Nin" />
@@ -174,7 +174,7 @@
   <Cards CatID="39409" Quantity="1" Sideboard="false" Name="Mirran Spy" />
   <Cards CatID="61923" Quantity="1" Sideboard="false" Name="Padeem, Consul of Innovation" />
   <Cards CatID="31077" Quantity="1" Sideboard="false" Name="Puppet Conjurer" />
-  <Cards CatID="61132" Quantity="1" Sideboard="false" Name="Docent of Perfection" />
+  <Cards CatID="61132" Quantity="2" Sideboard="false" Name="Docent of Perfection" />
   <Cards CatID="66827" Quantity="1" Sideboard="false" Name="The Immortal Sun" />
   <Cards CatID="61959" Quantity="1" Sideboard="false" Name="Noxious Gearhulk" />
   <Cards CatID="65973" Quantity="1" Sideboard="false" Name="Consecrated Sphinx" />
@@ -223,4 +223,41 @@
   <Cards CatID="42346" Quantity="1" Sideboard="false" Name="Mask of Avacyn" />
   <Cards CatID="20009" Quantity="1" Sideboard="false" Name="Granite Shard" />
   <Cards CatID="20814" Quantity="1" Sideboard="false" Name="Vulshok Sorcerer" />
+  <Cards CatID="21453" Quantity="1" Sideboard="false" Name="General's Kabuto" />
+  <Cards CatID="37969" Quantity="1" Sideboard="false" Name="Perilous Myr" />
+  <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
+  <Cards CatID="63752" Quantity="1" Sideboard="false" Name="Vizier of Tumbling Sands" />
+  <Cards CatID="67915" Quantity="1" Sideboard="false" Name="Navigator's Compass" />
+  <Cards CatID="39557" Quantity="1" Sideboard="false" Name="Spine of Ish Sah" />
+  <Cards CatID="20055" Quantity="1" Sideboard="false" Name="Clockwork Dragon" />
+  <Cards CatID="22327" Quantity="1" Sideboard="false" Name="Booby Trap" />
+  <Cards CatID="20171" Quantity="1" Sideboard="false" Name="Thought Prison" />
+  <Cards CatID="38157" Quantity="1" Sideboard="false" Name="Precursor Golem" />
+  <Cards CatID="31713" Quantity="1" Sideboard="false" Name="Parasitic Strix" />
+  <Cards CatID="62747" Quantity="1" Sideboard="false" Name="Quicksmith Rebel" />
+  <Cards CatID="59351" Quantity="1" Sideboard="false" Name="Endbringer" />
+  <Cards CatID="21827" Quantity="1" Sideboard="false" Name="Ninja of the Deep Hours" />
+  <Cards CatID="21811" Quantity="1" Sideboard="false" Name="Kumano's Blessing" />
+  <Cards CatID="34698" Quantity="1" Sideboard="false" Name="Blade of the Bloodchief" />
+  <Cards CatID="20419" Quantity="1" Sideboard="false" Name="Vedalken Engineer" />
+  <Cards CatID="41483" Quantity="1" Sideboard="false" Name="Sundial of the Infinite" />
+  <Cards CatID="64628" Quantity="1" Sideboard="false" Name="Moaning Wall" />
+  <Cards CatID="23488" Quantity="1" Sideboard="false" Name="Peregrine Mask" />
+  <Cards CatID="54302" Quantity="1" Sideboard="false" Name="Dragon's Eye Savants" />
+  <Cards CatID="46565" Quantity="1" Sideboard="false" Name="Rakdos's Return" />
+  <Cards CatID="42686" Quantity="1" Sideboard="false" Name="Heartless Summoning" />
+  <Cards CatID="44281" Quantity="1" Sideboard="false" Name="Vexing Devil" />
+  <Cards CatID="36230" Quantity="1" Sideboard="false" Name="Terminate" />
+  <Cards CatID="46443" Quantity="1" Sideboard="false" Name="Dreadbore" />
+  <Cards CatID="57454" Quantity="1" Sideboard="false" Name="Electrolyze" />
+  <Cards CatID="67563" Quantity="1" Sideboard="false" Name="Curator's Ward" />
+  <Cards CatID="48496" Quantity="1" Sideboard="false" Name="Maze Abomination" />
+  <Cards CatID="54336" Quantity="1" Sideboard="false" Name="Mer-Ek Nightblade" />
+  <Cards CatID="67657" Quantity="1" Sideboard="false" Name="Kazarov, Sengir Pureblood" />
+  <Cards CatID="63686" Quantity="1" Sideboard="false" Name="As Foretold" />
+  <Cards CatID="46743" Quantity="1" Sideboard="false" Name="Grave Betrayal" />
+  <Cards CatID="36456" Quantity="1" Sideboard="false" Name="Eel Umbra" />
+  <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
+  <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
+  <Cards CatID="67869" Quantity="1" Sideboard="false" Name="Raff Capashen, Ship's Mage" />
 </Deck>

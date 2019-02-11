@@ -52,4 +52,16 @@
   <Cards CatID="50622" Quantity="1" Sideboard="false" Name="Dark Betrayal" />
   <Cards CatID="49449" Quantity="1" Sideboard="false" Name="Lifebane Zombie" />
   <Cards CatID="52214" Quantity="1" Sideboard="false" Name="Banishing Light" />
+  <Cards CatID="36656" Quantity="1" Sideboard="false" Name="Linvala, Keeper of Silence" />
+  <Cards CatID="56264" Quantity="1" Sideboard="false" Name="Rending Volley" />
+  <Cards CatID="63628" Quantity="1" Sideboard="false" Name="Forsake the Worldly" />
+  <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
+  <Cards CatID="52232" Quantity="1" Sideboard="false" Name="Eidolon of Rhetoric" />
+  <Cards CatID="48870" Quantity="1" Sideboard="false" Name="Sword of Light and Shadow" />
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="31287" Quantity="1" Sideboard="false" Name="Hindering Light" />
+  <Cards CatID="39998" Quantity="1" Sideboard="false" Name="Torpor Orb" />
+  <Cards CatID="26027" Quantity="1" Sideboard="false" Name="Safe Haven" />
+  <Cards CatID="61753" Quantity="1" Sideboard="false" Name="Creeping Mold" />
+  <Cards CatID="68179" Quantity="1" Sideboard="false" Name="Cleansing Nova" />
 </Deck>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53504" Quantity="1" Sideboard="false" Name="Ajani Steadfast" />
+  <Cards CatID="62831" Quantity="4" Sideboard="false" Name="Ajani Unyielding" />
+  <Cards CatID="42174" Quantity="1" Sideboard="false" Name="Ajani Vengeant" />
+  <Cards CatID="49245" Quantity="1" Sideboard="false" Name="Ajani, Caller of the Pride" />
+  <Cards CatID="52134" Quantity="1" Sideboard="false" Name="Ajani, Mentor of Heroes" />
+  <Cards CatID="50310" Quantity="1" Sideboard="false" Name="Ashiok, Nightmare Weaver" />
+  <Cards CatID="34756" Quantity="4" Sideboard="false" Name="Chandra Ablaze" />
+  <Cards CatID="28439" Quantity="4" Sideboard="false" Name="Chandra Nalaar" />
+  <Cards CatID="59361" Quantity="2" Sideboard="false" Name="Chandra, Flamecaller" />
+  <Cards CatID="49363" Quantity="2" Sideboard="false" Name="Chandra, Pyromaster" />
+  <Cards CatID="41389" Quantity="6" Sideboard="false" Name="Chandra, the Firebrand" />
+  <Cards CatID="61573" Quantity="1" Sideboard="false" Name="Chandra, Torch of Defiance" />
+  <Cards CatID="47851" Quantity="2" Sideboard="false" Name="Domri Rade" />
+  <Cards CatID="61575" Quantity="4" Sideboard="false" Name="Dovin Baan" />
+  <Cards CatID="38337" Quantity="1" Sideboard="false" Name="Elspeth Tirel" />
+  <Cards CatID="30927" Quantity="1" Sideboard="false" Name="Elspeth, Knight-Errant" />
+  <Cards CatID="50304" Quantity="1" Sideboard="false" Name="Elspeth, Sun's Champion" />
+  <Cards CatID="42744" Quantity="1" Sideboard="false" Name="Garruk Relentless" />
+  <Cards CatID="53564" Quantity="3" Sideboard="false" Name="Garruk, Apex Predator" />
+  <Cards CatID="49373" Quantity="6" Sideboard="false" Name="Garruk, Caller of Beasts" />
+  <Cards CatID="41273" Quantity="1" Sideboard="false" Name="Gideon Jura" />
+  <Cards CatID="58317" Quantity="1" Sideboard="false" Name="Gideon, Ally of Zendikar" />
+  <Cards CatID="47871" Quantity="1" Sideboard="false" Name="Gideon, Champion of Justice" />
+  <Cards CatID="66773" Quantity="1" Sideboard="false" Name="Huatli, Radiant Champion" />
+  <Cards CatID="65468" Quantity="1" Sideboard="false" Name="Huatli, Warrior Poet" />
+  <Cards CatID="28469" Quantity="2" Sideboard="false" Name="Jace Beleren" />
+  <Cards CatID="49253" Quantity="1" Sideboard="false" Name="Jace, Memory Adept" />
+  <Cards CatID="53570" Quantity="2" Sideboard="false" Name="Jace, the Living Guildpact" />
+  <Cards CatID="51551" Quantity="2" Sideboard="false" Name="Kiora, the Crashing Wave" />
+  <Cards CatID="49249" Quantity="2" Sideboard="false" Name="Liliana of the Dark Realms" />
+  <Cards CatID="53262" Quantity="3" Sideboard="false" Name="Liliana Vess" />
+  <Cards CatID="56076" Quantity="1" Sideboard="false" Name="Narset Transcendent" />
+  <Cards CatID="64764" Quantity="2" Sideboard="false" Name="Nicol Bolas, God-Pharaoh" />
+  <Cards CatID="31909" Quantity="1" Sideboard="false" Name="Nicol Bolas, Planeswalker" />
+  <Cards CatID="64010" Quantity="1" Sideboard="false" Name="Nissa, Steward of Elements" />
+  <Cards CatID="61589" Quantity="4" Sideboard="false" Name="Nissa, Vital Force" />
+  <Cards CatID="59335" Quantity="1" Sideboard="false" Name="Nissa, Voice of Zendikar" />
+  <Cards CatID="53568" Quantity="1" Sideboard="false" Name="Nissa, Worldwaker" />
+  <Cards CatID="58399" Quantity="1" Sideboard="false" Name="Ob Nixilis Reignited" />
+  <Cards CatID="48198" Quantity="2" Sideboard="false" Name="Ral Zarek" />
+  <Cards CatID="61597" Quantity="1" Sideboard="false" Name="Saheeli Rai" />
+  <Cards CatID="36338" Quantity="1" Sideboard="false" Name="Sarkhan the Mad" />
+  <Cards CatID="56192" Quantity="3" Sideboard="false" Name="Sarkhan Unbroken" />
+  <Cards CatID="31053" Quantity="1" Sideboard="false" Name="Sarkhan Vol" />
+  <Cards CatID="54246" Quantity="2" Sideboard="false" Name="Sarkhan, the Dragonspeaker" />
+  <Cards CatID="34758" Quantity="1" Sideboard="false" Name="Sorin Markov" />
+  <Cards CatID="43169" Quantity="1" Sideboard="false" Name="Sorin, Lord of Innistrad" />
+  <Cards CatID="54258" Quantity="3" Sideboard="false" Name="Sorin, Solemn Visitor" />
+  <Cards CatID="61262" Quantity="1" Sideboard="false" Name="Tamiyo, Field Researcher" />
+  <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
+  <Cards CatID="67447" Quantity="1" Sideboard="false" Name="Teferi, Timebender" />
+  <Cards CatID="30979" Quantity="1" Sideboard="false" Name="Tezzeret the Seeker" />
+  <Cards CatID="63023" Quantity="1" Sideboard="false" Name="Tezzeret, Master of Metal" />
+  <Cards CatID="55364" Quantity="1" Sideboard="false" Name="Ugin, the Spirit Dragon" />
+  <Cards CatID="38335" Quantity="1" Sideboard="false" Name="Venser, the Sojourner" />
+  <Cards CatID="46567" Quantity="1" Sideboard="false" Name="Vraska the Unseen" />
+  <Cards CatID="50316" Quantity="2" Sideboard="false" Name="Xenagos, the Reveler" />
+</Deck>

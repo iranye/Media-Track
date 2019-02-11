@@ -63,4 +63,8 @@
   <Cards CatID="54170" Quantity="1" Sideboard="true" Name="End Hostilities" />
   <Cards CatID="21239" Quantity="1" Sideboard="false" Name="Kitsune Mystic" />
   <Cards CatID="21653" Quantity="1" Sideboard="false" Name="Genju of the Fields" />
+  <Cards CatID="58092" Quantity="1" Sideboard="false" Name="Blood-Cursed Knight" />
+  <Cards CatID="25695" Quantity="1" Sideboard="false" Name="Fallen Ideal" />
+  <Cards CatID="35527" Quantity="1" Sideboard="false" Name="Canopy Cover" />
+  <Cards CatID="36768" Quantity="1" Sideboard="false" Name="Bear Umbra" />
 </Deck>

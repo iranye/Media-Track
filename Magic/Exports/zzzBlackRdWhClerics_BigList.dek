@@ -75,4 +75,22 @@
   <Cards CatID="26039" Quantity="1" Sideboard="true" Name="Witch Hunter" />
   <Cards CatID="29847" Quantity="1" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="43925" Quantity="1" Sideboard="false" Name="Goldnight Commander" />
+  <Cards CatID="57868" Quantity="5" Sideboard="false" Name="Cleric of the Forward Order" />
+  <Cards CatID="23486" Quantity="1" Sideboard="false" Name="Cloudstone Curio" />
+  <Cards CatID="32597" Quantity="4" Sideboard="false" Name="Harm's Way" />
+  <Cards CatID="59589" Quantity="4" Sideboard="false" Name="Stoneforge Masterwork" />
+  <Cards CatID="18331" Quantity="1" Sideboard="false" Name="Doomed Necromancer" />
+  <Cards CatID="26543" Quantity="1" Sideboard="false" Name="Dust Elemental" />
+  <Cards CatID="22755" Quantity="1" Sideboard="false" Name="Zealous Inquisitor" />
+  <Cards CatID="22705" Quantity="1" Sideboard="false" Name="Weathered Wayfarer" />
+  <Cards CatID="22411" Quantity="1" Sideboard="false" Name="Sanctum Guardian" />
+  <Cards CatID="29309" Quantity="1" Sideboard="false" Name="Resplendent Mentor" />
+  <Cards CatID="24299" Quantity="1" Sideboard="false" Name="Ragamuffyn" />
+  <Cards CatID="62565" Quantity="1" Sideboard="false" Name="Metallic Mimic" />
+  <Cards CatID="29086" Quantity="1" Sideboard="false" Name="Weight of Conscience" />
+  <Cards CatID="29202" Quantity="1" Sideboard="false" Name="Taurean Mauler" />
+  <Cards CatID="59788" Quantity="1" Sideboard="false" Name="Thalia's Lieutenant" />
+  <Cards CatID="65018" Quantity="1" Sideboard="false" Name="Bellowing Aegisaur" />
+  <Cards CatID="52108" Quantity="1" Sideboard="false" Name="Underworld Coinsmith" />
+  <Cards CatID="48310" Quantity="1" Sideboard="false" Name="Sin Collector" />
 </Deck>

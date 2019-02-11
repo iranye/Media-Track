@@ -43,7 +43,7 @@
   <Cards CatID="46411" Quantity="2" Sideboard="false" Name="Dryad Militant" />
   <Cards CatID="30166" Quantity="1" Sideboard="false" Name="Murkfiend Liege" />
   <Cards CatID="46417" Quantity="2" Sideboard="false" Name="Judge's Familiar" />
-  <Cards CatID="57876" Quantity="1" Sideboard="false" Name="Kytheon, Hero of Akros" />
+  <Cards CatID="57876" Quantity="2" Sideboard="false" Name="Kytheon, Hero of Akros" />
   <Cards CatID="29535" Quantity="1" Sideboard="false" Name="Rhys the Redeemed" />
   <Cards CatID="22373" Quantity="1" Sideboard="false" Name="Soul Warden" />
   <Cards CatID="50618" Quantity="1" Sideboard="false" Name="Prophet of Kruphix" />
@@ -82,4 +82,16 @@
   <Cards CatID="20331" Quantity="1" Sideboard="false" Name="Memnarch" />
   <Cards CatID="24823" Quantity="1" Sideboard="false" Name="Braid of Fire" />
   <Cards CatID="53732" Quantity="1" Sideboard="false" Name="Soul of Ravnica" />
+  <Cards CatID="64490" Quantity="4" Sideboard="false" Name="Angel of Condemnation" />
+  <Cards CatID="67849" Quantity="3" Sideboard="false" Name="Aryel, Knight of Windgrace" />
+  <Cards CatID="62875" Quantity="4" Sideboard="false" Name="Merchant's Dockhand" />
+  <Cards CatID="64770" Quantity="4" Sideboard="false" Name="River Hoopoe" />
+  <Cards CatID="40757" Quantity="1" Sideboard="false" Name="Azorius Guildmage" />
+  <Cards CatID="32579" Quantity="1" Sideboard="false" Name="Dimir Guildmage" />
+  <Cards CatID="30252" Quantity="1" Sideboard="false" Name="Shell Skulkin" />
+  <Cards CatID="29110" Quantity="1" Sideboard="false" Name="Sage of Fables" />
+  <Cards CatID="56344" Quantity="1" Sideboard="false" Name="Harbinger of the Hunt" />
+  <Cards CatID="69471" Quantity="1" Sideboard="false" Name="Omnispell Adept" />
+  <Cards CatID="52082" Quantity="1" Sideboard="false" Name="Swarmborn Giant" />
+  <Cards CatID="45205" Quantity="1" Sideboard="false" Name="Xathrid Gorgon" />
 </Deck>

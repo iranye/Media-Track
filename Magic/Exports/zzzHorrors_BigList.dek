@@ -77,15 +77,15 @@
   <Cards CatID="52038" Quantity="1" Sideboard="false" Name="Spiteful Blow" />
   <Cards CatID="51819" Quantity="1" Sideboard="false" Name="Fated Return" />
   <Cards CatID="34798" Quantity="1" Sideboard="false" Name="Needlebite Trap" />
-  <Cards CatID="64790" Quantity="1" Sideboard="false" Name="Consign/Oblivion" />
+  <Cards CatID="64790" Quantity="2" Sideboard="false" Name="Consign/Oblivion" />
   <Cards CatID="61915" Quantity="1" Sideboard="false" Name="Dramatic Reversal" />
   <Cards CatID="47779" Quantity="1" Sideboard="false" Name="Stolen Identity" />
-  <Cards CatID="47913" Quantity="1" Sideboard="false" Name="Undercity Plague" />
+  <Cards CatID="47913" Quantity="2" Sideboard="false" Name="Undercity Plague" />
   <Cards CatID="47663" Quantity="1" Sideboard="false" Name="Hands of Binding" />
   <Cards CatID="34448" Quantity="1" Sideboard="false" Name="Into the Roil" />
   <Cards CatID="29659" Quantity="1" Sideboard="false" Name="Mirrorweave" />
   <Cards CatID="57904" Quantity="1" Sideboard="false" Name="Send to Sleep" />
-  <Cards CatID="23574" Quantity="1" Sideboard="false" Name="Shadow of Doubt" />
+  <Cards CatID="23574" Quantity="2" Sideboard="false" Name="Shadow of Doubt" />
   <Cards CatID="61352" Quantity="1" Sideboard="false" Name="Take Inventory" />
   <Cards CatID="34676" Quantity="1" Sideboard="false" Name="Trapmaker's Snare" />
   <Cards CatID="35611" Quantity="1" Sideboard="false" Name="Treasure Hunt" />
@@ -112,7 +112,7 @@
   <Cards CatID="36330" Quantity="1" Sideboard="false" Name="Cast Through Time" />
   <Cards CatID="57984" Quantity="1" Sideboard="false" Name="Dark Dabbling" />
   <Cards CatID="23184" Quantity="1" Sideboard="false" Name="Dizzy Spell" />
-  <Cards CatID="29849" Quantity="1" Sideboard="false" Name="Dream Salvage" />
+  <Cards CatID="29849" Quantity="2" Sideboard="false" Name="Dream Salvage" />
   <Cards CatID="39742" Quantity="1" Sideboard="false" Name="Hex Parasite" />
   <Cards CatID="25791" Quantity="1" Sideboard="false" Name="Jhoira's Timebug" />
   <Cards CatID="26596" Quantity="1" Sideboard="false" Name="Festering March" />
@@ -161,7 +161,7 @@
   <Cards CatID="27504" Quantity="1" Sideboard="false" Name="Cephalid Constable" />
   <Cards CatID="26886" Quantity="1" Sideboard="false" Name="Linessa, Zephyr Mage" />
   <Cards CatID="61132" Quantity="1" Sideboard="false" Name="Docent of Perfection" />
-  <Cards CatID="63686" Quantity="1" Sideboard="false" Name="As Foretold" />
+  <Cards CatID="63686" Quantity="2" Sideboard="false" Name="As Foretold" />
   <Cards CatID="48366" Quantity="1" Sideboard="false" Name="Nivix Cyclops" />
   <Cards CatID="53528" Quantity="1" Sideboard="false" Name="Polymorphist's Jest" />
   <Cards CatID="19419" Quantity="1" Sideboard="false" Name="Temporal Adept" />
@@ -183,4 +183,55 @@
   <Cards CatID="58493" Quantity="1" Sideboard="false" Name="Roil Spout" />
   <Cards CatID="66621" Quantity="1" Sideboard="false" Name="Recover" />
   <Cards CatID="39922" Quantity="1" Sideboard="false" Name="Noxious Revival" />
+  <Cards CatID="30148" Quantity="2" Sideboard="false" Name="Inside Out" />
+  <Cards CatID="19567" Quantity="1" Sideboard="false" Name="Mind Bend" />
+  <Cards CatID="30106" Quantity="1" Sideboard="false" Name="Glamerdye" />
+  <Cards CatID="19087" Quantity="1" Sideboard="false" Name="Western Paladin" />
+  <Cards CatID="26549" Quantity="1" Sideboard="false" Name="Dash Hopes" />
+  <Cards CatID="55956" Quantity="2" Sideboard="false" Name="Foul Renewal" />
+  <Cards CatID="55652" Quantity="1" Sideboard="false" Name="Supplant Form" />
+  <Cards CatID="56064" Quantity="1" Sideboard="false" Name="Icefall Regent" />
+  <Cards CatID="60090" Quantity="1" Sideboard="false" Name="Shamble Back" />
+  <Cards CatID="38327" Quantity="1" Sideboard="false" Name="Lux Cannon" />
+  <Cards CatID="58765" Quantity="1" Sideboard="false" Name="Anticipate" />
+  <Cards CatID="57894" Quantity="1" Sideboard="false" Name="Artificer's Epiphany" />
+  <Cards CatID="67557" Quantity="1" Sideboard="false" Name="Blink of an Eye" />
+  <Cards CatID="25489" Quantity="1" Sideboard="false" Name="Clockspinning" />
+  <Cards CatID="23422" Quantity="1" Sideboard="false" Name="Clutch of the Undercity" />
+  <Cards CatID="61106" Quantity="1" Sideboard="false" Name="Convolute" />
+  <Cards CatID="56000" Quantity="1" Sideboard="false" Name="Butcher's Glee" />
+  <Cards CatID="60382" Quantity="1" Sideboard="false" Name="Grotesque Mutation" />
+  <Cards CatID="61931" Quantity="1" Sideboard="false" Name="Rush of Vitality" />
+  <Cards CatID="62659" Quantity="1" Sideboard="false" Name="Disallow" />
+  <Cards CatID="61639" Quantity="2" Sideboard="false" Name="Disappearing Act" />
+  <Cards CatID="55582" Quantity="1" Sideboard="false" Name="Enhanced Awareness" />
+  <Cards CatID="46647" Quantity="1" Sideboard="false" Name="Essence Backlash" />
+  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="42276" Quantity="1" Sideboard="false" Name="Frightful Delusion" />
+  <Cards CatID="50626" Quantity="2" Sideboard="false" Name="Griptide" />
+  <Cards CatID="54344" Quantity="1" Sideboard="false" Name="Retribution of the Ancients" />
+  <Cards CatID="39808" Quantity="1" Sideboard="false" Name="Vapor Snag" />
+  <Cards CatID="38165" Quantity="1" Sideboard="false" Name="Carnifex Demon" />
+  <Cards CatID="32482" Quantity="1" Sideboard="false" Name="Defiler of Souls" />
+  <Cards CatID="44193" Quantity="1" Sideboard="false" Name="Treacherous Pit-Dweller" />
+  <Cards CatID="64598" Quantity="1" Sideboard="false" Name="Ammit Eternal" />
+  <Cards CatID="61336" Quantity="1" Sideboard="false" Name="Niblis of Frost" />
+  <Cards CatID="26620" Quantity="1" Sideboard="false" Name="Mystic Speculation" />
+  <Cards CatID="31075" Quantity="1" Sideboard="false" Name="Gather Specimens" />
+  <Cards CatID="23701" Quantity="1" Sideboard="false" Name="Frazzle" />
+  <Cards CatID="27514" Quantity="1" Sideboard="false" Name="Discombobulate" />
+  <Cards CatID="19785" Quantity="1" Sideboard="false" Name="Disarm" />
+  <Cards CatID="43385" Quantity="1" Sideboard="false" Name="Counterlash" />
+  <Cards CatID="42708" Quantity="1" Sideboard="false" Name="Cackling Counterpart" />
+  <Cards CatID="70233" Quantity="1" Sideboard="false" Name="Unstable Mutation" />
+  <Cards CatID="68639" Quantity="1" Sideboard="false" Name="Magistrate's Scepter" />
+  <Cards CatID="56402" Quantity="1" Sideboard="false" Name="Self-Inflicted Wound" />
+  <Cards CatID="66599" Quantity="1" Sideboard="false" Name="Golden Demise" />
+  <Cards CatID="30130" Quantity="1" Sideboard="false" Name="Sturdy Hatchling" />
+  <Cards CatID="20023" Quantity="1" Sideboard="false" Name="Dross Harvester" />
+  <Cards CatID="66617" Quantity="1" Sideboard="false" Name="Ravenous Chupacabra" />
+  <Cards CatID="27204" Quantity="1" Sideboard="false" Name="Citanul Flute" />
+  <Cards CatID="61342" Quantity="1" Sideboard="false" Name="Advanced Stitchwing" />
+  <Cards CatID="61653" Quantity="1" Sideboard="false" Name="Aether Tradewinds" />
+  <Cards CatID="9381" Quantity="1" Sideboard="false" Name="Agonizing Memories" />
 </Deck>
