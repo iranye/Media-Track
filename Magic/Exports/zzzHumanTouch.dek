@@ -376,4 +376,9 @@
   <Cards CatID="52276" Quantity="1" Sideboard="false" Name="Doomwake Giant" />
   <Cards CatID="39539" Quantity="1" Sideboard="false" Name="Hero of Bladehold" />
   <Cards CatID="67823" Quantity="1" Sideboard="false" Name="Song of Freyalise" />
+  <Cards CatID="25943" Quantity="1" Sideboard="false" Name="Divine Congregation" />
+  <Cards CatID="61631" Quantity="1" Sideboard="false" Name="Fumigate" />
+  <Cards CatID="64026" Quantity="1" Sideboard="false" Name="Dusk/Dawn" />
+  <Cards CatID="47871" Quantity="1" Sideboard="false" Name="Gideon, Champion of Justice" />
+  <Cards CatID="46415" Quantity="1" Sideboard="false" Name="Selesnya Charm" />
 </Deck>

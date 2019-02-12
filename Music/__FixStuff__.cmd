@@ -16,3 +16,6 @@ md5sum "E:\Media\Music\MP3s\Frankie Valli & the Four Seasons\The Four Seasons_07
 
 PAUSE
 copy /y "E:\Media\Music\SimpleDriveMusic\0_Personal Collections\0_Samantha's music\65) the doors - greatest hits\The Doors - Riders On The Storm.mp3" "E:\Media\Music\SimpleDriveMusic\0_Compilations\Billboard Hits 1946-2004\1971\1971-099 Doors - Riders on the Storm.mp3"
+
+PAUSE
+move "E:\Media\Music\MP3s\Queen\33_Queen_08_You're My Best Friend.mp3" "E:\Media\Music\MP3s\Queen\33_Queen_05b_You're My Best Friend.mp3"

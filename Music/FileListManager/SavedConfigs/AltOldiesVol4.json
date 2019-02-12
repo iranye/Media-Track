@@ -3,12 +3,20 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
+      "PartialPath": "Music\\MP3s\\Jane's Addiction\\_JanesAddiction_ShortList.m3u",
+      "TotalMegaBytes": 140
+    },
+    {
       "PartialPath": "Music\\MP3s\\Live\\_Live-ShortList.m3u",
       "TotalMegaBytes": 63
     },
     {
       "PartialPath": "Music\\MP3s\\Pearl Jam\\$Pearl Jam-ShortList.m3u",
       "TotalMegaBytes": 381
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Porno for Pyros\\_PornoForPyros_ShortList.m3u",
+      "TotalMegaBytes": 55
     }
   ]
 }
