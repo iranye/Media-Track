@@ -86,11 +86,17 @@
   <Cards CatID="50224" Quantity="1" Sideboard="false" Name="Ordeal of Erebos" />
   <Cards CatID="50220" Quantity="1" Sideboard="false" Name="Ordeal of Thassa" />
   <Cards CatID="58777" Quantity="1" Sideboard="false" Name="Angelic Gift" />
+  <Cards CatID="57744" Quantity="1" Sideboard="false" Name="Celestial Flare" />
   <Cards CatID="54969" Quantity="1" Sideboard="false" Name="Skirsdag High Priest" />
+  <Cards CatID="20273" Quantity="1" Sideboard="false" Name="Sword of Kaldra" />
   <Cards CatID="61102" Quantity="1" Sideboard="false" Name="Selfless Spirit" />
+  <Cards CatID="61625" Quantity="1" Sideboard="false" Name="Fragmentize" />
   <Cards CatID="42292" Quantity="1" Sideboard="false" Name="Angelic Overseer" />
+  <Cards CatID="43887" Quantity="1" Sideboard="true" Name="Cloudshift" />
   <Cards CatID="50456" Quantity="1" Sideboard="false" Name="Aqueous Form" />
+  <Cards CatID="51757" Quantity="1" Sideboard="false" Name="Archetype of Courage" />
   <Cards CatID="50322" Quantity="1" Sideboard="false" Name="Chosen by Heliod" />
+  <Cards CatID="41395" Quantity="1" Sideboard="false" Name="Spirit Mantle" />
   <Cards CatID="21693" Quantity="1" Sideboard="false" Name="Blessing of Leeches" />
   <Cards CatID="68369" Quantity="1" Sideboard="false" Name="Isareth the Awakener" />
   <Cards CatID="53678" Quantity="1" Sideboard="false" Name="Eternal Thirst" />
@@ -356,7 +362,6 @@
   <Cards CatID="64526" Quantity="1" Sideboard="false" Name="Saving Grace" />
   <Cards CatID="29411" Quantity="1" Sideboard="false" Name="Prison Term" />
   <Cards CatID="61088" Quantity="1" Sideboard="false" Name="Blessed Alliance" />
-  <Cards CatID="23154" Quantity="1" Sideboard="false" Name="Lightning Helix" />
   <Cards CatID="60619" Quantity="1" Sideboard="false" Name="Zealous Persecution" />
   <Cards CatID="55456" Quantity="1" Sideboard="false" Name="Alesha, Who Smiles at Death" />
   <Cards CatID="62037" Quantity="1" Sideboard="false" Name="Kambal, Consul of Allocation" />
@@ -381,4 +386,11 @@
   <Cards CatID="64026" Quantity="1" Sideboard="false" Name="Dusk/Dawn" />
   <Cards CatID="47871" Quantity="1" Sideboard="false" Name="Gideon, Champion of Justice" />
   <Cards CatID="46415" Quantity="1" Sideboard="false" Name="Selesnya Charm" />
+  <Cards CatID="54108" Quantity="1" Sideboard="false" Name="Monastery Swiftspear" />
+  <Cards CatID="51639" Quantity="1" Sideboard="false" Name="Fall of the Hammer" />
+  <Cards CatID="54276" Quantity="1" Sideboard="false" Name="Abzan Battle Priest" />
+  <Cards CatID="20063" Quantity="1" Sideboard="false" Name="Soul Foundry" />
+  <Cards CatID="55424" Quantity="1" Sideboard="false" Name="Mardu Runemark" />
+  <Cards CatID="53990" Quantity="1" Sideboard="false" Name="Mardu Skullhunter" />
+  <Cards CatID="54172" Quantity="1" Sideboard="false" Name="Bloodsoaked Champion" />
 </Deck>
