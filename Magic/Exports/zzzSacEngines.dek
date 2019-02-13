@@ -39,4 +39,6 @@
   <Cards CatID="49287" Quantity="1" Sideboard="false" Name="Altar's Reap" />
   <Cards CatID="23935" Quantity="1" Sideboard="false" Name="Teysa, Orzhov Scion" />
   <Cards CatID="52260" Quantity="1" Sideboard="false" Name="Dictate of Erebos" />
+  <Cards CatID="36342" Quantity="1" Sideboard="false" Name="Demonic Appetite" />
+  <Cards CatID="62819" Quantity="1" Sideboard="false" Name="Hidden Stockpile" />
 </Deck>
