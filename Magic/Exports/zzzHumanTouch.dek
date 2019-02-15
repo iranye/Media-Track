@@ -429,4 +429,11 @@
   <Cards CatID="47799" Quantity="1" Sideboard="false" Name="Assemble the Legion" />
   <Cards CatID="41395" Quantity="1" Sideboard="false" Name="Spirit Mantle" />
   <Cards CatID="29086" Quantity="1" Sideboard="false" Name="Weight of Conscience" />
+  <Cards CatID="64128" Quantity="1" Sideboard="false" Name="Oketra's Monument" />
+  <Cards CatID="67881" Quantity="1" Sideboard="false" Name="Tiana, Ship's Caretaker" />
+  <Cards CatID="45564" Quantity="1" Sideboard="false" Name="Odric, Master Tactician" />
+  <Cards CatID="46443" Quantity="1" Sideboard="false" Name="Dreadbore" />
+  <Cards CatID="45538" Quantity="1" Sideboard="false" Name="Knight of Glory" />
+  <Cards CatID="67849" Quantity="1" Sideboard="false" Name="Aryel, Knight of Windgrace" />
+  <Cards CatID="38638" Quantity="1" Sideboard="false" Name="White Knight" />
 </Deck>

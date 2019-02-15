@@ -134,4 +134,7 @@
   <Cards CatID="24697" Quantity="4" Sideboard="false" Name="Woolly Razorback" />
   <Cards CatID="29483" Quantity="1" Sideboard="false" Name="Oversoul of Dusk" />
   <Cards CatID="67825" Quantity="1" Sideboard="false" Name="Spore Swarm" />
+  <Cards CatID="21777" Quantity="1" Sideboard="false" Name="Yomiji, Who Bars the Way" />
+  <Cards CatID="64128" Quantity="1" Sideboard="false" Name="Oketra's Monument" />
+  <Cards CatID="38307" Quantity="1" Sideboard="false" Name="Myr Battlesphere" />
 </Deck>
