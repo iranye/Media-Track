@@ -86,4 +86,6 @@
   <Cards CatID="62825" Quantity="1" Sideboard="false" Name="Renegade Wheelsmith" />
   <Cards CatID="62591" Quantity="1" Sideboard="false" Name="Aeronaut Admiral" />
   <Cards CatID="61981" Quantity="1" Sideboard="false" Name="Start Your Engines" />
+  <Cards CatID="67881" Quantity="1" Sideboard="false" Name="Tiana, Ship's Caretaker" />
+  <Cards CatID="21777" Quantity="1" Sideboard="false" Name="Yomiji, Who Bars the Way" />
 </Deck>
