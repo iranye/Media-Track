@@ -89,7 +89,7 @@
   <Cards CatID="64026" Quantity="1" Sideboard="false" Name="Dusk/Dawn" />
   <Cards CatID="19737" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
   <Cards CatID="42828" Quantity="1" Sideboard="false" Name="Champion of the Parish" />
-  <Cards CatID="37338" Quantity="2" Sideboard="false" Name="Serra Ascendant" />
+  <Cards CatID="37338" Quantity="1" Sideboard="false" Name="Serra Ascendant" />
   <Cards CatID="32312" Quantity="1" Sideboard="false" Name="Stun Sniper" />
   <Cards CatID="43829" Quantity="1" Sideboard="false" Name="Bladed Bracers" />
 </Deck>
