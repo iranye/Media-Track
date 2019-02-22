@@ -2334,4 +2334,19 @@
   <Cards CatID="52224" Quantity="4" Sideboard="false" Name="Starfall" />
   <Cards CatID="61981" Quantity="4" Sideboard="false" Name="Start Your Engines" />
   <Cards CatID="60014" Quantity="1" Sideboard="false" Name="Startled Awake" />
+  <Cards CatID="48306" Quantity="9" Sideboard="false" Name="Renegade Krasis" />
+  <Cards CatID="67881" Quantity="4" Sideboard="false" Name="Tiana, Ship's Caretaker" />
+  <Cards CatID="54146" Quantity="5" Sideboard="false" Name="Master the Way" />
+  <Cards CatID="56252" Quantity="5" Sideboard="false" Name="Hardened Berserker" />
+  <Cards CatID="45538" Quantity="1" Sideboard="false" Name="Knight of Glory" />
+  <Cards CatID="67511" Quantity="4" Sideboard="false" Name="Knight of Grace" />
+  <Cards CatID="45548" Quantity="1" Sideboard="false" Name="Knight of Infamy" />
+  <Cards CatID="67659" Quantity="4" Sideboard="false" Name="Knight of Malice" />
+  <Cards CatID="67513" Quantity="4" Sideboard="false" Name="Knight of New Benalia" />
+  <Cards CatID="47661" Quantity="5" Sideboard="false" Name="Knight of Obligation" />
+  <Cards CatID="66729" Quantity="5" Sideboard="false" Name="Knight of the Stampede" />
+  <Cards CatID="68197" Quantity="4" Sideboard="false" Name="Knight of the Tusk" />
+  <Cards CatID="9239" Quantity="4" Sideboard="false" Name="Benalish Knight" />
+  <Cards CatID="49565" Quantity="8" Sideboard="false" Name="Capashen Knight" />
+  <Cards CatID="65354" Quantity="4" Sideboard="false" Name="Tilonalli's Knight" />
 </Deck>
