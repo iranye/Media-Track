@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="32498" Quantity="1" Sideboard="false" Name="Gloryscale Viashino" />
+  <Cards CatID="31175" Quantity="1" Sideboard="false" Name="Godsire" />
+</Deck>

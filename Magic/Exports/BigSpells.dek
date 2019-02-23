@@ -13,10 +13,8 @@
   <Cards CatID="60296" Quantity="1" Sideboard="false" Name="Ever After" />
   <Cards CatID="25457" Quantity="1" Sideboard="false" Name="Mindstab" />
   <Cards CatID="47779" Quantity="1" Sideboard="false" Name="Stolen Identity" />
-  <Cards CatID="52038" Quantity="1" Sideboard="false" Name="Spiteful Blow" />
   <Cards CatID="29611" Quantity="1" Sideboard="false" Name="Beseech the Queen" />
   <Cards CatID="47913" Quantity="1" Sideboard="false" Name="Undercity Plague" />
-  <Cards CatID="65266" Quantity="1" Sideboard="false" Name="Spreading Rot" />
   <Cards CatID="50380" Quantity="1" Sideboard="false" Name="Rescue from the Underworld" />
   <Cards CatID="42758" Quantity="2" Sideboard="false" Name="Maw of the Mire" />
   <Cards CatID="61132" Quantity="1" Sideboard="false" Name="Docent of Perfection" />
@@ -72,4 +70,6 @@
   <Cards CatID="56394" Quantity="1" Sideboard="false" Name="Descent of the Dragons" />
   <Cards CatID="55622" Quantity="1" Sideboard="false" Name="Temporal Trespass" />
   <Cards CatID="67575" Quantity="1" Sideboard="false" Name="Karn's Temporal Sundering" />
+  <Cards CatID="19949" Quantity="1" Sideboard="false" Name="Betrayal of Flesh" />
+  <Cards CatID="53634" Quantity="1" Sideboard="false" Name="Stain the Mind" />
 </Deck>

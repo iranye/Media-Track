@@ -137,4 +137,6 @@
   <Cards CatID="21777" Quantity="1" Sideboard="false" Name="Yomiji, Who Bars the Way" />
   <Cards CatID="64128" Quantity="1" Sideboard="false" Name="Oketra's Monument" />
   <Cards CatID="38307" Quantity="1" Sideboard="false" Name="Myr Battlesphere" />
+  <Cards CatID="35553" Quantity="1" Sideboard="false" Name="Novablast Wurm" />
+  <Cards CatID="55276" Quantity="1" Sideboard="false" Name="Adarkar Valkyrie" />
 </Deck>
