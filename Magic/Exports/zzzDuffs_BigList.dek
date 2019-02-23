@@ -88,4 +88,6 @@
   <Cards CatID="61981" Quantity="1" Sideboard="false" Name="Start Your Engines" />
   <Cards CatID="67881" Quantity="1" Sideboard="false" Name="Tiana, Ship's Caretaker" />
   <Cards CatID="21777" Quantity="1" Sideboard="false" Name="Yomiji, Who Bars the Way" />
+  <Cards CatID="55276" Quantity="1" Sideboard="false" Name="Adarkar Valkyrie" />
+  <Cards CatID="71030" Quantity="1" Sideboard="false" Name="Lumbering Battlement" />
 </Deck>

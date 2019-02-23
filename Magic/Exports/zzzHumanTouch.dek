@@ -436,4 +436,7 @@
   <Cards CatID="45538" Quantity="1" Sideboard="false" Name="Knight of Glory" />
   <Cards CatID="67849" Quantity="1" Sideboard="false" Name="Aryel, Knight of Windgrace" />
   <Cards CatID="38638" Quantity="1" Sideboard="false" Name="White Knight" />
+  <Cards CatID="56318" Quantity="1" Sideboard="false" Name="Deadly Wanderings" />
+  <Cards CatID="55276" Quantity="1" Sideboard="false" Name="Adarkar Valkyrie" />
+  <Cards CatID="71030" Quantity="1" Sideboard="false" Name="Lumbering Battlement" />
 </Deck>

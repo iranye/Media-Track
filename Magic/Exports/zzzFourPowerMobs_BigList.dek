@@ -287,4 +287,7 @@
   <Cards CatID="69373" Quantity="1" Sideboard="false" Name="Impervious Greatwurm" />
   <Cards CatID="66713" Quantity="1" Sideboard="false" Name="Ghalta, Primal Hunger" />
   <Cards CatID="63852" Quantity="1" Sideboard="false" Name="Combat Celebrant" />
+  <Cards CatID="24305" Quantity="1" Sideboard="false" Name="Protean Hulk" />
+  <Cards CatID="71216" Quantity="1" Sideboard="false" Name="Mirror March" />
+  <Cards CatID="71110" Quantity="1" Sideboard="false" Name="Sphinx of Foresight" />
 </Deck>
