@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -37,7 +37,7 @@
   <Cards CatID="34536" Quantity="1" Sideboard="false" Name="Roil Elemental" />
   <Cards CatID="25439" Quantity="1" Sideboard="false" Name="Dream Stalker" />
   <Cards CatID="34584" Quantity="1" Sideboard="false" Name="Living Tsunami" />
-  <Cards CatID="35521" Quantity="1" Sideboard="false" Name="Halimar Depths" />
+  <Cards CatID="35521" Quantity="3" Sideboard="false" Name="Halimar Depths" />
   <Cards CatID="29807" Quantity="1" Sideboard="false" Name="Turn to Mist" />
   <Cards CatID="57650" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
