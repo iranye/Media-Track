@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -42,7 +42,7 @@
   <Cards CatID="57650" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
   <Cards CatID="59810" Quantity="2" Sideboard="false" Name="Westvale Abbey" />
-  <Cards CatID="29613" Quantity="2" Sideboard="false" Name="Reflecting Pool" />
+  <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
   <Cards CatID="9411" Quantity="3" Sideboard="false" Name="Gemstone Mine" />
   <Cards CatID="67959" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
   <Cards CatID="46805" Quantity="2" Sideboard="false" Name="Steam Vents" />
@@ -64,12 +64,17 @@
   <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
   <Cards CatID="37368" Quantity="1" Sideboard="false" Name="Leyline of Anticipation" />
   <Cards CatID="55446" Quantity="1" Sideboard="false" Name="Monastery Siege" />
-  <Cards CatID="47685" Quantity="2" Sideboard="true" Name="Aetherize" />
   <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
   <Cards CatID="69757" Quantity="1" Sideboard="false" Name="Niv-Mizzet, Parun" />
   <Cards CatID="21021" Quantity="1" Sideboard="false" Name="Kiki-Jiki, Mirror Breaker" />
   <Cards CatID="54022" Quantity="1" Sideboard="false" Name="Tormenting Voice" />
-  <Cards CatID="49421" Quantity="2" Sideboard="false" Name="Mindsparker" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="23845" Quantity="1" Sideboard="false" Name="Izzet Boilerworks" />
+  <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
+  <Cards CatID="49231" Quantity="2" Sideboard="false" Name="Ratchet Bomb" />
+  <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
+  <Cards CatID="28245" Quantity="2" Sideboard="false" Name="Mulldrifter" />
+  <Cards CatID="47685" Quantity="2" Sideboard="true" Name="Aetherize" />
   <Cards CatID="49139" Quantity="1" Sideboard="true" Name="Door of Destinies" />
   <Cards CatID="29291" Quantity="2" Sideboard="true" Name="Vexing Shusher" />
   <Cards CatID="49421" Quantity="2" Sideboard="true" Name="Mindsparker" />
@@ -78,11 +83,5 @@
   <Cards CatID="65522" Quantity="1" Sideboard="true" Name="Sorcerous Spyglass" />
   <Cards CatID="48870" Quantity="1" Sideboard="true" Name="Sword of Light and Shadow" />
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
-  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
-  <Cards CatID="23845" Quantity="1" Sideboard="false" Name="Izzet Boilerworks" />
-  <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
   <Cards CatID="49231" Quantity="2" Sideboard="true" Name="Ratchet Bomb" />
-  <Cards CatID="49231" Quantity="2" Sideboard="false" Name="Ratchet Bomb" />
-  <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
-  <Cards CatID="28245" Quantity="2" Sideboard="false" Name="Mulldrifter" />
 </Deck>
