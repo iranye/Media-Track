@@ -2430,4 +2430,7 @@
   <Cards CatID="55326" Quantity="4" Sideboard="false" Name="Wandering Champion" />
   <Cards CatID="56246" Quantity="4" Sideboard="false" Name="Wandering Tombshell" />
   <Cards CatID="35793" Quantity="4" Sideboard="false" Name="Cosi's Ravager" />
+  <Cards CatID="48476" Quantity="6" Sideboard="false" Name="Tithe Drinker" />
+  <Cards CatID="47817" Quantity="4" Sideboard="false" Name="Syndic of Tithes" />
+  <Cards CatID="46745" Quantity="1" Sideboard="false" Name="Ash Zealot" />
 </Deck>

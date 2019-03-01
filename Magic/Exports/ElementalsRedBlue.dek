@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -84,4 +84,5 @@
   <Cards CatID="48870" Quantity="1" Sideboard="true" Name="Sword of Light and Shadow" />
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="49231" Quantity="2" Sideboard="true" Name="Ratchet Bomb" />
+  <Cards CatID="68477" Quantity="1" Sideboard="false" Name="Smelt" />
 </Deck>
