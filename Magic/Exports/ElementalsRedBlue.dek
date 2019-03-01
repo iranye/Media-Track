@@ -85,4 +85,5 @@
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="49231" Quantity="2" Sideboard="true" Name="Ratchet Bomb" />
   <Cards CatID="68477" Quantity="1" Sideboard="false" Name="Smelt" />
+  <Cards CatID="27504" Quantity="1" Sideboard="false" Name="Cephalid Constable" />
 </Deck>

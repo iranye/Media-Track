@@ -227,4 +227,9 @@
   <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
   <Cards CatID="35793" Quantity="1" Sideboard="false" Name="Cosi's Ravager" />
   <Cards CatID="28245" Quantity="1" Sideboard="false" Name="Mulldrifter" />
+  <Cards CatID="29048" Quantity="1" Sideboard="false" Name="Reveillark" />
+  <Cards CatID="54312" Quantity="1" Sideboard="false" Name="Thousand Winds" />
+  <Cards CatID="54150" Quantity="1" Sideboard="false" Name="Icefeather Aven" />
+  <Cards CatID="27504" Quantity="1" Sideboard="false" Name="Cephalid Constable" />
+  <Cards CatID="25519" Quantity="1" Sideboard="false" Name="Riftwing Cloudskate" />
 </Deck>

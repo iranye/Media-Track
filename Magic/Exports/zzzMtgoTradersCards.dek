@@ -2433,4 +2433,10 @@
   <Cards CatID="48476" Quantity="6" Sideboard="false" Name="Tithe Drinker" />
   <Cards CatID="47817" Quantity="4" Sideboard="false" Name="Syndic of Tithes" />
   <Cards CatID="46745" Quantity="1" Sideboard="false" Name="Ash Zealot" />
+  <Cards CatID="54312" Quantity="1" Sideboard="false" Name="Thousand Winds" />
+  <Cards CatID="35669" Quantity="4" Sideboard="false" Name="Brink of Disaster" />
+  <Cards CatID="68529" Quantity="4" Sideboard="false" Name="Gift of Paradise" />
+  <Cards CatID="61216" Quantity="2" Sideboard="false" Name="Spreading Flames" />
+  <Cards CatID="46631" Quantity="6" Sideboard="false" Name="Urban Burgeoning" />
+  <Cards CatID="35721" Quantity="4" Sideboard="false" Name="Wind Zendikon" />
 </Deck>

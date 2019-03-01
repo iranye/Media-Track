@@ -261,4 +261,6 @@
   <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
   <Cards CatID="67869" Quantity="1" Sideboard="false" Name="Raff Capashen, Ship's Mage" />
   <Cards CatID="71426" Quantity="1" Sideboard="false" Name="Theater of Horrors" />
+  <Cards CatID="66585" Quantity="1" Sideboard="false" Name="Dead Man's Chest" />
+  <Cards CatID="67933" Quantity="1" Sideboard="false" Name="Traxos, Scourge of Kroog" />
 </Deck>
