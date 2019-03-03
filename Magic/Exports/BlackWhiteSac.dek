@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -278,4 +279,5 @@
   <Cards CatID="22705" Quantity="4" Sideboard="false" Name="Weathered Wayfarer" />
   <Cards CatID="29086" Quantity="4" Sideboard="false" Name="Weight of Conscience" />
   <Cards CatID="22755" Quantity="4" Sideboard="false" Name="Zealous Inquisitor" />
+  <Cards CatID="66585" Quantity="1" Sideboard="false" Name="Dead Man's Chest" />
 </Deck>

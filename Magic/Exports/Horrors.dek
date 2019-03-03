@@ -72,4 +72,5 @@
   <Cards CatID="25489" Quantity="1" Sideboard="false" Name="Clockspinning" />
   <Cards CatID="26620" Quantity="1" Sideboard="false" Name="Mystic Speculation" />
   <Cards CatID="56402" Quantity="1" Sideboard="true" Name="Self-Inflicted Wound" />
+  <Cards CatID="65492" Quantity="1" Sideboard="false" Name="Dowsing Dagger" />
 </Deck>
