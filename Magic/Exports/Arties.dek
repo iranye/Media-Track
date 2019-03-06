@@ -8,7 +8,6 @@
   <Cards CatID="63081" Quantity="3" Sideboard="false" Name="Zur the Enchanter" />
   <Cards CatID="60076" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="65554" Quantity="1" Sideboard="false" Name="Plains" />
-  <Cards CatID="54048" Quantity="1" Sideboard="false" Name="Brave the Sands" />
   <Cards CatID="14915" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="64152" Quantity="1" Sideboard="false" Name="Irrigated Farmland" />
   <Cards CatID="35515" Quantity="1" Sideboard="false" Name="Bojuka Bog" />
@@ -32,7 +31,6 @@
   <Cards CatID="61765" Quantity="1" Sideboard="false" Name="Contraband Kingpin" />
   <Cards CatID="38193" Quantity="1" Sideboard="false" Name="Grand Architect" />
   <Cards CatID="20419" Quantity="1" Sideboard="false" Name="Vedalken Engineer" />
-  <Cards CatID="20363" Quantity="1" Sideboard="false" Name="Echoing Truth" />
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="23312" Quantity="1" Sideboard="false" Name="Muddle the Mixture" />
   <Cards CatID="31939" Quantity="1" Sideboard="false" Name="Exotic Orchard" />
@@ -43,7 +41,7 @@
   <Cards CatID="64148" Quantity="1" Sideboard="false" Name="Fetid Pools" />
   <Cards CatID="68299" Quantity="1" Sideboard="false" Name="Sai, Master Thopterist" />
   <Cards CatID="61857" Quantity="1" Sideboard="false" Name="Inventors' Fair" />
-  <Cards CatID="63023" Quantity="1" Sideboard="false" Name="Tezzeret, Master of Metal" />
+  <Cards CatID="63023" Quantity="1" Sideboard="true" Name="Tezzeret, Master of Metal" />
   <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
   <Cards CatID="68263" Quantity="1" Sideboard="false" Name="Divination" />
   <Cards CatID="63153" Quantity="1" Sideboard="false" Name="Arcane Sanctum" />
@@ -55,7 +53,6 @@
   <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
   <Cards CatID="46483" Quantity="2" Sideboard="false" Name="Supreme Verdict" />
   <Cards CatID="25483" Quantity="1" Sideboard="false" Name="Calciform Pools" />
-  <Cards CatID="56076" Quantity="1" Sideboard="false" Name="Narset Transcendent" />
   <Cards CatID="54198" Quantity="1" Sideboard="false" Name="Bloodstained Mire" />
   <Cards CatID="37226" Quantity="1" Sideboard="false" Name="Drowned Catacomb" />
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
@@ -83,7 +80,6 @@
   <Cards CatID="38103" Quantity="1" Sideboard="false" Name="Tempered Steel" />
   <Cards CatID="32378" Quantity="1" Sideboard="false" Name="Sen Triplets" />
   <Cards CatID="27298" Quantity="1" Sideboard="false" Name="Pariah" />
-  <Cards CatID="19169" Quantity="1" Sideboard="false" Name="Trade Routes" />
   <Cards CatID="63628" Quantity="1" Sideboard="false" Name="Forsake the Worldly" />
   <Cards CatID="20956" Quantity="1" Sideboard="false" Name="Serum Visions" />
   <Cards CatID="49231" Quantity="1" Sideboard="false" Name="Ratchet Bomb" />
@@ -102,4 +98,7 @@
   <Cards CatID="57618" Quantity="1" Sideboard="true" Name="Negate" />
   <Cards CatID="30901" Quantity="1" Sideboard="true" Name="Dispeller's Capsule" />
   <Cards CatID="31287" Quantity="2" Sideboard="true" Name="Hindering Light" />
+  <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
+  <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
+  <Cards CatID="67447" Quantity="1" Sideboard="false" Name="Teferi, Timebender" />
 </Deck>

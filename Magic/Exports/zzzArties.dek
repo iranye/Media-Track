@@ -102,7 +102,7 @@
   <Cards CatID="63125" Quantity="1" Sideboard="false" Name="Flickerwisp" />
   <Cards CatID="40477" Quantity="1" Sideboard="false" Name="Howling Mine" />
   <Cards CatID="48802" Quantity="1" Sideboard="false" Name="Sanctum Gargoyle" />
-  <Cards CatID="39303" Quantity="1" Sideboard="false" Name="Pierce Strider" />
+  <Cards CatID="39303" Quantity="2" Sideboard="false" Name="Pierce Strider" />
   <Cards CatID="57120" Quantity="1" Sideboard="false" Name="Faerie Mechanist" />
   <Cards CatID="31713" Quantity="1" Sideboard="false" Name="Parasitic Strix" />
   <Cards CatID="31671" Quantity="1" Sideboard="false" Name="Kaleidostone" />
@@ -264,9 +264,13 @@
   <Cards CatID="61923" Quantity="1" Sideboard="false" Name="Padeem, Consul of Innovation" />
   <Cards CatID="45572" Quantity="1" Sideboard="false" Name="Nefarox, Overlord of Grixis" />
   <Cards CatID="68299" Quantity="1" Sideboard="false" Name="Sai, Master Thopterist" />
+  <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
   <Cards CatID="59417" Quantity="1" Sideboard="false" Name="Kalitas, Traitor of Ghet" />
+  <Cards CatID="65148" Quantity="1" Sideboard="false" Name="Pirate's Prize" />
   <Cards CatID="40587" Quantity="1" Sideboard="false" Name="Wrexial, the Risen Deep" />
+  <Cards CatID="66615" Quantity="1" Sideboard="false" Name="Pitiless Plunderer" />
   <Cards CatID="26269" Quantity="1" Sideboard="false" Name="Mirri the Cursed" />
+  <Cards CatID="67903" Quantity="1" Sideboard="false" Name="Icy Manipulator" />
   <Cards CatID="50306" Quantity="1" Sideboard="false" Name="Thassa, God of the Sea" />
   <Cards CatID="50310" Quantity="1" Sideboard="false" Name="Ashiok, Nightmare Weaver" />
   <Cards CatID="64604" Quantity="1" Sideboard="false" Name="Bontu's Last Reckoning" />
@@ -343,4 +347,23 @@
   <Cards CatID="51998" Quantity="1" Sideboard="false" Name="Riptide Chimera" />
   <Cards CatID="19169" Quantity="1" Sideboard="false" Name="Trade Routes" />
   <Cards CatID="37418" Quantity="1" Sideboard="false" Name="Steel Overseer" />
+  <Cards CatID="65460" Quantity="1" Sideboard="false" Name="Deadeye Plunderers" />
+  <Cards CatID="66821" Quantity="1" Sideboard="false" Name="Gleaming Barrier" />
+  <Cards CatID="71044" Quantity="1" Sideboard="false" Name="Smothering Tithe" />
+  <Cards CatID="66551" Quantity="2" Sideboard="false" Name="Sailor of Means" />
+  <Cards CatID="66807" Quantity="1" Sideboard="false" Name="Storm the Vault" />
+  <Cards CatID="61575" Quantity="1" Sideboard="false" Name="Dovin Baan" />
+  <Cards CatID="60076" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="65554" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="14915" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="20956" Quantity="1" Sideboard="false" Name="Serum Visions" />
+  <Cards CatID="58399" Quantity="1" Sideboard="false" Name="Ob Nixilis Reignited" />
+  <Cards CatID="34758" Quantity="1" Sideboard="false" Name="Sorin Markov" />
+  <Cards CatID="43169" Quantity="1" Sideboard="false" Name="Sorin, Lord of Innistrad" />
+  <Cards CatID="54258" Quantity="1" Sideboard="false" Name="Sorin, Solemn Visitor" />
+  <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
+  <Cards CatID="67447" Quantity="1" Sideboard="false" Name="Teferi, Timebender" />
+  <Cards CatID="30979" Quantity="1" Sideboard="false" Name="Tezzeret the Seeker" />
+  <Cards CatID="30252" Quantity="1" Sideboard="false" Name="Shell Skulkin" />
+  <Cards CatID="55330" Quantity="1" Sideboard="false" Name="Jeskai Barricade" />
 </Deck>
