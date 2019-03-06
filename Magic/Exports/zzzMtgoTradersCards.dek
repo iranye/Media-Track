@@ -2439,4 +2439,18 @@
   <Cards CatID="61216" Quantity="2" Sideboard="false" Name="Spreading Flames" />
   <Cards CatID="46631" Quantity="6" Sideboard="false" Name="Urban Burgeoning" />
   <Cards CatID="35721" Quantity="4" Sideboard="false" Name="Wind Zendikon" />
+  <Cards CatID="65460" Quantity="4" Sideboard="false" Name="Deadeye Plunderers" />
+  <Cards CatID="65112" Quantity="5" Sideboard="false" Name="Deadeye Quartermaster" />
+  <Cards CatID="66525" Quantity="5" Sideboard="false" Name="Deadeye Rig-Hauler" />
+  <Cards CatID="65212" Quantity="4" Sideboard="false" Name="Deadeye Tormentor" />
+  <Cards CatID="62589" Quantity="4" Sideboard="false" Name="Deadeye Harpooner" />
+  <Cards CatID="66821" Quantity="4" Sideboard="false" Name="Gleaming Barrier" />
+  <Cards CatID="66551" Quantity="5" Sideboard="false" Name="Sailor of Means" />
+  <Cards CatID="67771" Quantity="4" Sideboard="false" Name="Adventurous Impulse" />
+  <Cards CatID="49399" Quantity="11" Sideboard="false" Name="Advocate of the Beast" />
+  <Cards CatID="62769" Quantity="4" Sideboard="false" Name="Aetherstream Leopard" />
+  <Cards CatID="53542" Quantity="2" Sideboard="false" Name="Aetherspouts" />
+  <Cards CatID="52182" Quantity="1" Sideboard="false" Name="Agent of Erebos" />
+  <Cards CatID="50436" Quantity="9" Sideboard="false" Name="Agent of Horizons" />
+  <Cards CatID="66697" Quantity="4" Sideboard="false" Name="Aggressive Urge" />
 </Deck>
