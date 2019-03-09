@@ -86,7 +86,6 @@
   <Cards CatID="67933" Quantity="1" Sideboard="false" Name="Traxos, Scourge of Kroog" />
   <Cards CatID="28495" Quantity="1" Sideboard="true" Name="Austere Command" />
   <Cards CatID="39730" Quantity="1" Sideboard="true" Name="Sword of War and Peace" />
-  <Cards CatID="69381" Quantity="1" Sideboard="false" Name="Citywide Bust" />
   <Cards CatID="63628" Quantity="1" Sideboard="true" Name="Forsake the Worldly" />
   <Cards CatID="9465" Quantity="1" Sideboard="true" Name="Aura of Silence" />
   <Cards CatID="48870" Quantity="1" Sideboard="true" Name="Sword of Light and Shadow" />
@@ -101,4 +100,7 @@
   <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
   <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
   <Cards CatID="67447" Quantity="1" Sideboard="false" Name="Teferi, Timebender" />
+  <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
+  <Cards CatID="30979" Quantity="1" Sideboard="false" Name="Tezzeret the Seeker" />
+  <Cards CatID="51549" Quantity="1" Sideboard="false" Name="Ephara, God of the Polis" />
 </Deck>
