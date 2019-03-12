@@ -236,4 +236,6 @@
   <Cards CatID="9381" Quantity="1" Sideboard="false" Name="Agonizing Memories" />
   <Cards CatID="71162" Quantity="1" Sideboard="false" Name="Pestilent Spirit" />
   <Cards CatID="65492" Quantity="1" Sideboard="false" Name="Dowsing Dagger" />
+  <Cards CatID="26896" Quantity="1" Sideboard="false" Name="Nihilith" />
+  <Cards CatID="25637" Quantity="1" Sideboard="false" Name="Wheel of Fate" />
 </Deck>

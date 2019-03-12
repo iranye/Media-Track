@@ -2453,4 +2453,15 @@
   <Cards CatID="52182" Quantity="1" Sideboard="false" Name="Agent of Erebos" />
   <Cards CatID="50436" Quantity="9" Sideboard="false" Name="Agent of Horizons" />
   <Cards CatID="66697" Quantity="4" Sideboard="false" Name="Aggressive Urge" />
+  <Cards CatID="65148" Quantity="6" Sideboard="false" Name="Pirate's Prize" />
+  <Cards CatID="66671" Quantity="4" Sideboard="false" Name="Pirate's Pillage" />
+  <Cards CatID="66615" Quantity="4" Sideboard="false" Name="Pitiless Plunderer" />
+  <Cards CatID="67671" Quantity="4" Sideboard="false" Name="Settle the Score" />
+  <Cards CatID="58663" Quantity="2" Sideboard="false" Name="Emeria Shepherd" />
+  <Cards CatID="58485" Quantity="1" Sideboard="false" Name="Catacomb Sifter" />
+  <Cards CatID="58645" Quantity="1" Sideboard="false" Name="Earthen Arms" />
+  <Cards CatID="48512" Quantity="5" Sideboard="false" Name="Catch/Release" />
+  <Cards CatID="60208" Quantity="4" Sideboard="false" Name="Merciless Resolve" />
+  <Cards CatID="59918" Quantity="4" Sideboard="false" Name="Morkrut Necropod" />
+  <Cards CatID="45514" Quantity="1" Sideboard="false" Name="Murder" />
 </Deck>

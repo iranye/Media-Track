@@ -25,7 +25,7 @@
   <Cards CatID="63994" Quantity="1" Sideboard="false" Name="Bounty of the Luxa" />
   <Cards CatID="63023" Quantity="1" Sideboard="false" Name="Tezzeret, Master of Metal" />
   <Cards CatID="56364" Quantity="1" Sideboard="false" Name="Mirror Mockery" />
-  <Cards CatID="55364" Quantity="2" Sideboard="false" Name="Ugin, the Spirit Dragon" />
+  <Cards CatID="55364" Quantity="1" Sideboard="false" Name="Ugin, the Spirit Dragon" />
   <Cards CatID="53602" Quantity="1" Sideboard="false" Name="Ensoul Artifact" />
   <Cards CatID="61857" Quantity="2" Sideboard="false" Name="Inventors' Fair" />
   <Cards CatID="62889" Quantity="1" Sideboard="false" Name="Ornithopter" />
@@ -78,11 +78,7 @@
   <Cards CatID="29429" Quantity="1" Sideboard="false" Name="Painter's Servant" />
   <Cards CatID="28497" Quantity="1" Sideboard="false" Name="Mirror Entity" />
   <Cards CatID="62821" Quantity="1" Sideboard="false" Name="Maverick Thopterist" />
-  <Cards CatID="38337" Quantity="1" Sideboard="false" Name="Elspeth Tirel" />
   <Cards CatID="38335" Quantity="1" Sideboard="false" Name="Venser, the Sojourner" />
-  <Cards CatID="66773" Quantity="1" Sideboard="false" Name="Huatli, Radiant Champion" />
-  <Cards CatID="50304" Quantity="1" Sideboard="false" Name="Elspeth, Sun's Champion" />
-  <Cards CatID="59335" Quantity="1" Sideboard="false" Name="Nissa, Voice of Zendikar" />
   <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
   <Cards CatID="59583" Quantity="1" Sideboard="false" Name="Ayli, Eternal Pilgrim" />
   <Cards CatID="48218" Quantity="1" Sideboard="false" Name="Tajic, Blade of the Legion" />
@@ -102,7 +98,7 @@
   <Cards CatID="63125" Quantity="1" Sideboard="false" Name="Flickerwisp" />
   <Cards CatID="40477" Quantity="1" Sideboard="false" Name="Howling Mine" />
   <Cards CatID="48802" Quantity="1" Sideboard="false" Name="Sanctum Gargoyle" />
-  <Cards CatID="39303" Quantity="2" Sideboard="false" Name="Pierce Strider" />
+  <Cards CatID="39303" Quantity="1" Sideboard="false" Name="Pierce Strider" />
   <Cards CatID="57120" Quantity="1" Sideboard="false" Name="Faerie Mechanist" />
   <Cards CatID="31713" Quantity="1" Sideboard="false" Name="Parasitic Strix" />
   <Cards CatID="31671" Quantity="1" Sideboard="false" Name="Kaleidostone" />
@@ -136,7 +132,7 @@
   <Cards CatID="19741" Quantity="4" Sideboard="false" Name="Slagwurm Armor" />
   <Cards CatID="32474" Quantity="2" Sideboard="false" Name="Sphinx of the Steel Wind" />
   <Cards CatID="31179" Quantity="4" Sideboard="false" Name="Sphinx Sovereign" />
-  <Cards CatID="19897" Quantity="4" Sideboard="false" Name="Sunbeam Spellbomb" />
+  <Cards CatID="19897" Quantity="5" Sideboard="false" Name="Sunbeam Spellbomb" />
   <Cards CatID="38103" Quantity="4" Sideboard="false" Name="Tempered Steel" />
   <Cards CatID="24177" Quantity="4" Sideboard="false" Name="Transguild Courier" />
   <Cards CatID="61617" Quantity="4" Sideboard="false" Name="Visionary Augmenter" />
@@ -202,7 +198,7 @@
   <Cards CatID="47749" Quantity="1" Sideboard="false" Name="Merciless Eviction" />
   <Cards CatID="34552" Quantity="1" Sideboard="false" Name="Day of Judgment" />
   <Cards CatID="20187" Quantity="1" Sideboard="false" Name="Power Conduit" />
-  <Cards CatID="48916" Quantity="1" Sideboard="false" Name="Aether Spellbomb" />
+  <Cards CatID="48916" Quantity="2" Sideboard="false" Name="Aether Spellbomb" />
   <Cards CatID="57320" Quantity="1" Sideboard="false" Name="Etched Monstrosity" />
   <Cards CatID="39569" Quantity="1" Sideboard="false" Name="Phyrexian Revoker" />
   <Cards CatID="39742" Quantity="1" Sideboard="false" Name="Hex Parasite" />
@@ -262,7 +258,6 @@
   <Cards CatID="26856" Quantity="1" Sideboard="false" Name="Akroma's Memorial" />
   <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
   <Cards CatID="61923" Quantity="1" Sideboard="false" Name="Padeem, Consul of Innovation" />
-  <Cards CatID="45572" Quantity="1" Sideboard="false" Name="Nefarox, Overlord of Grixis" />
   <Cards CatID="68299" Quantity="1" Sideboard="false" Name="Sai, Master Thopterist" />
   <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
   <Cards CatID="59417" Quantity="1" Sideboard="false" Name="Kalitas, Traitor of Ghet" />
@@ -366,4 +361,9 @@
   <Cards CatID="30979" Quantity="1" Sideboard="false" Name="Tezzeret the Seeker" />
   <Cards CatID="30252" Quantity="1" Sideboard="false" Name="Shell Skulkin" />
   <Cards CatID="55330" Quantity="1" Sideboard="false" Name="Jeskai Barricade" />
+  <Cards CatID="20287" Quantity="1" Sideboard="false" Name="Thunderstaff" />
+  <Cards CatID="26846" Quantity="1" Sideboard="false" Name="Epochrasite" />
+  <Cards CatID="26608" Quantity="1" Sideboard="false" Name="Lost Auramancers" />
+  <Cards CatID="67549" Quantity="1" Sideboard="false" Name="The Antiquities War" />
+  <Cards CatID="30867" Quantity="1" Sideboard="false" Name="Esper Charm" />
 </Deck>
