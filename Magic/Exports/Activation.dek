@@ -94,4 +94,6 @@
   <Cards CatID="69471" Quantity="1" Sideboard="false" Name="Omnispell Adept" />
   <Cards CatID="52082" Quantity="1" Sideboard="false" Name="Swarmborn Giant" />
   <Cards CatID="45205" Quantity="1" Sideboard="false" Name="Xathrid Gorgon" />
+  <Cards CatID="23639" Quantity="1" Sideboard="false" Name="Gruul Guildmage" />
+  <Cards CatID="46803" Quantity="1" Sideboard="false" Name="New Prahv Guildmage" />
 </Deck>

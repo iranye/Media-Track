@@ -74,4 +74,21 @@
   <Cards CatID="53634" Quantity="1" Sideboard="false" Name="Stain the Mind" />
   <Cards CatID="31075" Quantity="1" Sideboard="false" Name="Gather Specimens" />
   <Cards CatID="25545" Quantity="1" Sideboard="false" Name="Phthisis" />
+  <Cards CatID="58599" Quantity="2" Sideboard="false" Name="Volcanic Upheaval" />
+  <Cards CatID="26515" Quantity="1" Sideboard="false" Name="Boom/Bust" />
+  <Cards CatID="26551" Quantity="1" Sideboard="false" Name="Shivan Meteor" />
+  <Cards CatID="25481" Quantity="1" Sideboard="false" Name="Plunder" />
+  <Cards CatID="26537" Quantity="1" Sideboard="false" Name="Heroes Remembered" />
+  <Cards CatID="25583" Quantity="1" Sideboard="false" Name="Curse of the Cabal" />
+  <Cards CatID="42410" Quantity="1" Sideboard="false" Name="Blasphemous Act" />
+  <Cards CatID="67671" Quantity="1" Sideboard="false" Name="Settle the Score" />
+  <Cards CatID="66615" Quantity="1" Sideboard="false" Name="Pitiless Plunderer" />
+  <Cards CatID="66671" Quantity="1" Sideboard="false" Name="Pirate's Pillage" />
+  <Cards CatID="61216" Quantity="1" Sideboard="false" Name="Spreading Flames" />
+  <Cards CatID="55276" Quantity="1" Sideboard="false" Name="Adarkar Valkyrie" />
+  <Cards CatID="53570" Quantity="1" Sideboard="false" Name="Jace, the Living Guildpact" />
+  <Cards CatID="69825" Quantity="1" Sideboard="false" Name="Connive/Concoct" />
+  <Cards CatID="20684" Quantity="1" Sideboard="false" Name="Fist of Suns" />
+  <Cards CatID="66543" Quantity="1" Sideboard="false" Name="Nezahal, Primal Tide" />
+  <Cards CatID="31671" Quantity="1" Sideboard="false" Name="Kaleidostone" />
 </Deck>

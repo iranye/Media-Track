@@ -103,4 +103,6 @@
   <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
   <Cards CatID="30979" Quantity="1" Sideboard="false" Name="Tezzeret the Seeker" />
   <Cards CatID="51549" Quantity="1" Sideboard="false" Name="Ephara, God of the Polis" />
+  <Cards CatID="61801" Quantity="2" Sideboard="false" Name="Panharmonicon" />
+  <Cards CatID="37899" Quantity="1" Sideboard="false" Name="Ethersworn Canonist" />
 </Deck>

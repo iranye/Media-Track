@@ -90,4 +90,9 @@
   <Cards CatID="21777" Quantity="1" Sideboard="false" Name="Yomiji, Who Bars the Way" />
   <Cards CatID="55276" Quantity="1" Sideboard="false" Name="Adarkar Valkyrie" />
   <Cards CatID="71030" Quantity="1" Sideboard="false" Name="Lumbering Battlement" />
+  <Cards CatID="67489" Quantity="1" Sideboard="false" Name="Danitha Capashen, Paragon" />
+  <Cards CatID="32294" Quantity="1" Sideboard="false" Name="Intimidation Bolt" />
+  <Cards CatID="67527" Quantity="1" Sideboard="false" Name="Seal Away" />
+  <Cards CatID="62589" Quantity="1" Sideboard="false" Name="Deadeye Harpooner" />
+  <Cards CatID="45590" Quantity="1" Sideboard="false" Name="Sublime Archangel" />
 </Deck>
