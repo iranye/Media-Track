@@ -99,4 +99,6 @@
   <Cards CatID="46763" Quantity="1" Sideboard="false" Name="Azor's Elocutors" />
   <Cards CatID="69913" Quantity="1" Sideboard="false" Name="Guildmages' Forum" />
   <Cards CatID="71506" Quantity="1" Sideboard="false" Name="Glass of the Guildpact" />
+  <Cards CatID="71374" Quantity="1" Sideboard="false" Name="Kaya's Wrath" />
+  <Cards CatID="71022" Quantity="1" Sideboard="false" Name="Hero of Precinct One" />
 </Deck>

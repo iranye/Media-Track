@@ -93,4 +93,7 @@
   <Cards CatID="65018" Quantity="1" Sideboard="false" Name="Bellowing Aegisaur" />
   <Cards CatID="52108" Quantity="1" Sideboard="false" Name="Underworld Coinsmith" />
   <Cards CatID="48310" Quantity="1" Sideboard="false" Name="Sin Collector" />
+  <Cards CatID="47817" Quantity="1" Sideboard="false" Name="Syndic of Tithes" />
+  <Cards CatID="71374" Quantity="1" Sideboard="false" Name="Kaya's Wrath" />
+  <Cards CatID="71424" Quantity="1" Sideboard="false" Name="Teysa Karlov" />
 </Deck>

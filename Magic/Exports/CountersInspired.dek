@@ -85,4 +85,10 @@
   <Cards CatID="58573" Quantity="1" Sideboard="false" Name="Bring to Light" />
   <Cards CatID="54779" Quantity="1" Sideboard="false" Name="Emeria, the Sky Ruin" />
   <Cards CatID="65915" Quantity="1" Sideboard="false" Name="Elesh Norn, Grand Cenobite" />
+  <Cards CatID="25449" Quantity="1" Sideboard="false" Name="Duskrider Peregrine" />
+  <Cards CatID="31757" Quantity="1" Sideboard="false" Name="Goblin Razerunners" />
+  <Cards CatID="24731" Quantity="1" Sideboard="false" Name="Earthen Goo" />
+  <Cards CatID="58555" Quantity="1" Sideboard="false" Name="Quarantine Field" />
+  <Cards CatID="58405" Quantity="1" Sideboard="false" Name="Drana, Liberator of Malakir" />
+  <Cards CatID="71148" Quantity="1" Sideboard="false" Name="Font of Agonies" />
 </Deck>

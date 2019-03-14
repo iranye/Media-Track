@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -12,4 +13,5 @@
   <Cards CatID="67579" Quantity="4" Sideboard="false" Name="The Mirari Conjecture" />
   <Cards CatID="67605" Quantity="4" Sideboard="false" Name="Time of Ice" />
   <Cards CatID="67541" Quantity="4" Sideboard="false" Name="Triumph of Gerrard" />
+  <Cards CatID="62819" Quantity="1" Sideboard="false" Name="Hidden Stockpile" />
 </Deck>

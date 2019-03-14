@@ -110,4 +110,9 @@
   <Cards CatID="29200" Quantity="1" Sideboard="false" Name="Chameleon Colossus" />
   <Cards CatID="68553" Quantity="1" Sideboard="false" Name="Reclamation Sage" />
   <Cards CatID="62823" Quantity="1" Sideboard="false" Name="Winding Constrictor" />
+  <Cards CatID="21905" Quantity="1" Sideboard="false" Name="Patron of the Moon" />
+  <Cards CatID="21473" Quantity="1" Sideboard="false" Name="Soratami Cloudskater" />
+  <Cards CatID="26598" Quantity="1" Sideboard="false" Name="Edge of Autumn" />
+  <Cards CatID="58645" Quantity="1" Sideboard="false" Name="Earthen Arms" />
+  <Cards CatID="67771" Quantity="1" Sideboard="false" Name="Adventurous Impulse" />
 </Deck>

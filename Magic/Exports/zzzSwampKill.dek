@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -114,4 +115,5 @@
   <Cards CatID="39730" Quantity="1" Sideboard="true" Name="Sword of War and Peace" />
   <Cards CatID="48870" Quantity="1" Sideboard="true" Name="Sword of Light and Shadow" />
   <Cards CatID="52132" Quantity="1" Sideboard="false" Name="Squelching Leeches" />
+  <Cards CatID="34422" Quantity="1" Sideboard="false" Name="Scythe Tiger" />
 </Deck>
