@@ -55,4 +55,6 @@
   <Cards CatID="23937" Quantity="1" Sideboard="false" Name="Caustic Rain" />
   <Cards CatID="61753" Quantity="2" Sideboard="false" Name="Creeping Mold" />
   <Cards CatID="29517" Quantity="1" Sideboard="false" Name="Deus of Calamity" />
+  <Cards CatID="46741" Quantity="1" Sideboard="false" Name="Underworld Connections" />
+  <Cards CatID="23358" Quantity="1" Sideboard="false" Name="Helldozer" />
 </Deck>

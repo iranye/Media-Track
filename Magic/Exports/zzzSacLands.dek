@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -198,4 +197,75 @@
   <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
   <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
   <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
+  <Cards CatID="24697" Quantity="1" Sideboard="false" Name="Woolly Razorback" />
+  <Cards CatID="14765" Quantity="3" Sideboard="false" Name="Mountain" />
+  <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
+  <Cards CatID="49585" Quantity="1" Sideboard="false" Name="Darksteel Ingot" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="47803" Quantity="1" Sideboard="false" Name="Stomping Ground" />
+  <Cards CatID="63093" Quantity="1" Sideboard="false" Name="Harmonize" />
+  <Cards CatID="29291" Quantity="1" Sideboard="false" Name="Vexing Shusher" />
+  <Cards CatID="46499" Quantity="1" Sideboard="true" Name="Pithing Needle" />
+  <Cards CatID="64604" Quantity="1" Sideboard="false" Name="Bontu's Last Reckoning" />
+  <Cards CatID="65522" Quantity="1" Sideboard="false" Name="Sorcerous Spyglass" />
+  <Cards CatID="55450" Quantity="1" Sideboard="false" Name="Crux of Fate" />
+  <Cards CatID="39549" Quantity="1" Sideboard="true" Name="Sword of Feast and Famine" />
+  <Cards CatID="31939" Quantity="1" Sideboard="false" Name="Exotic Orchard" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="39998" Quantity="1" Sideboard="true" Name="Torpor Orb" />
+  <Cards CatID="68477" Quantity="1" Sideboard="true" Name="Smelt" />
+  <Cards CatID="58134" Quantity="1" Sideboard="false" Name="Sword of the Animist" />
+  <Cards CatID="50428" Quantity="1" Sideboard="true" Name="Destructive Revelry" />
+  <Cards CatID="50428" Quantity="1" Sideboard="true" Name="Destructive Revelry" />
+  <Cards CatID="51851" Quantity="2" Sideboard="false" Name="Courser of Kruphix" />
+  <Cards CatID="34424" Quantity="1" Sideboard="true" Name="Relic Crush" />
+  <Cards CatID="36678" Quantity="1" Sideboard="true" Name="Gravity Well" />
+  <Cards CatID="49271" Quantity="1" Sideboard="false" Name="Scavenging Ooze" />
+  <Cards CatID="27598" Quantity="1" Sideboard="false" Name="Troll Ascetic" />
+  <Cards CatID="46567" Quantity="1" Sideboard="false" Name="Vraska the Unseen" />
+  <Cards CatID="61753" Quantity="2" Sideboard="false" Name="Creeping Mold" />
+  <Cards CatID="30140" Quantity="2" Sideboard="false" Name="Raven's Crime" />
+  <Cards CatID="47801" Quantity="2" Sideboard="false" Name="Contaminated Ground" />
+  <Cards CatID="53250" Quantity="3" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="32466" Quantity="2" Sideboard="false" Name="Firewild Borderpost" />
+  <Cards CatID="50314" Quantity="2" Sideboard="false" Name="Nylea, God of the Hunt" />
+  <Cards CatID="34424" Quantity="1" Sideboard="true" Name="Relic Crush" />
+  <Cards CatID="50266" Quantity="1" Sideboard="false" Name="Temple of Abandon" />
+  <Cards CatID="51563" Quantity="2" Sideboard="false" Name="Temple of Malice" />
+  <Cards CatID="52138" Quantity="2" Sideboard="false" Name="Eidolon of Blossoms" />
+  <Cards CatID="56374" Quantity="1" Sideboard="false" Name="Volcanic Vision" />
+  <Cards CatID="54022" Quantity="2" Sideboard="false" Name="Tormenting Voice" />
+  <Cards CatID="29517" Quantity="1" Sideboard="false" Name="Deus of Calamity" />
+  <Cards CatID="23358" Quantity="1" Sideboard="false" Name="Helldozer" />
+  <Cards CatID="25481" Quantity="1" Sideboard="false" Name="Plunder" />
+  <Cards CatID="45424" Quantity="1" Sideboard="false" Name="Primordial Hydra" />
+  <Cards CatID="39517" Quantity="1" Sideboard="false" Name="Thrun, the Last Troll" />
+  <Cards CatID="39730" Quantity="1" Sideboard="true" Name="Sword of War and Peace" />
+  <Cards CatID="62689" Quantity="1" Sideboard="false" Name="Fatal Push" />
+  <Cards CatID="25859" Quantity="1" Sideboard="false" Name="Scryb Ranger" />
+  <Cards CatID="46497" Quantity="2" Sideboard="false" Name="Abrupt Decay" />
+  <Cards CatID="29613" Quantity="2" Sideboard="false" Name="Reflecting Pool" />
+  <Cards CatID="64742" Quantity="2" Sideboard="false" Name="Ramunap Excavator" />
+  <Cards CatID="29511" Quantity="1" Sideboard="false" Name="Graven Cairns" />
+  <Cards CatID="71166" Quantity="1" Sideboard="false" Name="Priest of Forgotten Gods" />
+  <Cards CatID="64140" Quantity="1" Sideboard="false" Name="Canyon Slough" />
+  <Cards CatID="62803" Quantity="1" Sideboard="false" Name="Heroic Intervention" />
+  <Cards CatID="67961" Quantity="1" Sideboard="false" Name="Woodland Cemetery" />
+  <Cards CatID="36514" Quantity="1" Sideboard="false" Name="Sporecap Spider" />
+  <Cards CatID="37242" Quantity="1" Sideboard="false" Name="Dragonskull Summit" />
+  <Cards CatID="47447" Quantity="1" Sideboard="false" Name="Rubblebelt Raiders" />
+  <Cards CatID="51510" Quantity="1" Sideboard="false" Name="Molten Slagheap" />
+  <Cards CatID="65294" Quantity="1" Sideboard="false" Name="Demolish" />
+  <Cards CatID="45312" Quantity="1" Sideboard="false" Name="Rootbound Crag" />
+  <Cards CatID="54452" Quantity="1" Sideboard="false" Name="Rakshasa Deathdealer" />
+  <Cards CatID="54198" Quantity="2" Sideboard="false" Name="Bloodstained Mire" />
+  <Cards CatID="52116" Quantity="1" Sideboard="false" Name="Pharika, God of Affliction" />
+  <Cards CatID="49289" Quantity="1" Sideboard="false" Name="Bramblecrush" />
+  <Cards CatID="9411" Quantity="1" Sideboard="false" Name="Gemstone Mine" />
+  <Cards CatID="53532" Quantity="1" Sideboard="false" Name="Life's Legacy" />
+  <Cards CatID="47805" Quantity="1" Sideboard="false" Name="Thespian's Stage" />
+  <Cards CatID="24823" Quantity="2" Sideboard="false" Name="Braid of Fire" />
+  <Cards CatID="23518" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="29501" Quantity="1" Sideboard="false" Name="Fire-Lit Thicket" />
+  <Cards CatID="64158" Quantity="1" Sideboard="false" Name="Sheltered Thicket" />
 </Deck>
