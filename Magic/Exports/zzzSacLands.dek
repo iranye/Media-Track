@@ -268,4 +268,30 @@
   <Cards CatID="23518" Quantity="1" Sideboard="false" Name="Doubling Season" />
   <Cards CatID="29501" Quantity="1" Sideboard="false" Name="Fire-Lit Thicket" />
   <Cards CatID="64158" Quantity="1" Sideboard="false" Name="Sheltered Thicket" />
+  <Cards CatID="29869" Quantity="1" Sideboard="false" Name="Reaper King" />
+  <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
+  <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="46443" Quantity="2" Sideboard="false" Name="Dreadbore" />
+  <Cards CatID="44285" Quantity="1" Sideboard="false" Name="Champion of Lambholt" />
+  <Cards CatID="24159" Quantity="1" Sideboard="false" Name="Crypt Champion" />
+  <Cards CatID="30084" Quantity="1" Sideboard="false" Name="Twilight Mire" />
+  <Cards CatID="27120" Quantity="1" Sideboard="false" Name="Ghitu Encampment" />
+  <Cards CatID="58667" Quantity="2" Sideboard="false" Name="Undergrowth Champion" />
+  <Cards CatID="38005" Quantity="1" Sideboard="false" Name="Liege of the Tangle" />
+  <Cards CatID="50516" Quantity="1" Sideboard="false" Name="Reaper of the Wilds" />
+  <Cards CatID="37240" Quantity="2" Sideboard="false" Name="Lightning Bolt" />
+  <Cards CatID="42294" Quantity="1" Sideboard="false" Name="Ghost Quarter" />
+  <Cards CatID="36374" Quantity="1" Sideboard="false" Name="Ancient Stirrings" />
+  <Cards CatID="20467" Quantity="1" Sideboard="false" Name="Arcane Spyglass" />
+  <Cards CatID="42686" Quantity="1" Sideboard="false" Name="Heartless Summoning" />
+  <Cards CatID="38003" Quantity="1" Sideboard="false" Name="Culling Dais" />
+  <Cards CatID="62823" Quantity="1" Sideboard="false" Name="Winding Constrictor" />
+  <Cards CatID="34568" Quantity="1" Sideboard="false" Name="Eternity Vessel" />
+  <Cards CatID="66775" Quantity="1" Sideboard="false" Name="Journey to Eternity" />
+  <Cards CatID="20708" Quantity="1" Sideboard="false" Name="Gemstone Array" />
+  <Cards CatID="35681" Quantity="1" Sideboard="false" Name="Everflowing Chalice" />
+  <Cards CatID="49231" Quantity="1" Sideboard="false" Name="Ratchet Bomb" />
+  <Cards CatID="20469" Quantity="1" Sideboard="false" Name="Spawning Pit" />
+  <Cards CatID="38319" Quantity="1" Sideboard="false" Name="Tumble Magnet" />
+  <Cards CatID="47785" Quantity="1" Sideboard="false" Name="Five-Alarm Fire" />
 </Deck>

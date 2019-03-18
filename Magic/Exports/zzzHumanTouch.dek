@@ -444,4 +444,5 @@
   <Cards CatID="71022" Quantity="1" Sideboard="false" Name="Hero of Precinct One" />
   <Cards CatID="71424" Quantity="1" Sideboard="false" Name="Teysa Karlov" />
   <Cards CatID="43869" Quantity="1" Sideboard="false" Name="Angel of Glory's Rise" />
+  <Cards CatID="50212" Quantity="1" Sideboard="false" Name="Labyrinth Champion" />
 </Deck>

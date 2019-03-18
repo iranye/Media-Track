@@ -2542,4 +2542,26 @@
   <Cards CatID="36736" Quantity="4" Sideboard="false" Name="Fissure Vent" />
   <Cards CatID="36358" Quantity="4" Sideboard="false" Name="Lone Missionary" />
   <Cards CatID="58599" Quantity="4" Sideboard="false" Name="Volcanic Upheaval" />
+  <Cards CatID="62595" Quantity="4" Sideboard="false" Name="Airdrop Aeronauts" />
+  <Cards CatID="65416" Quantity="5" Sideboard="false" Name="New Horizons" />
+  <Cards CatID="52258" Quantity="1" Sideboard="false" Name="Dictate of Karametra" />
+  <Cards CatID="52254" Quantity="1" Sideboard="false" Name="Dictate of the Twin Gods" />
+  <Cards CatID="55470" Quantity="9" Sideboard="false" Name="Alesha's Vanguard" />
+  <Cards CatID="67905" Quantity="4" Sideboard="false" Name="Jhoira's Familiar" />
+  <Cards CatID="63135" Quantity="1" Sideboard="false" Name="Sprouting Thrinax" />
+  <Cards CatID="45684" Quantity="1" Sideboard="false" Name="Fungal Sprouting" />
+  <Cards CatID="52052" Quantity="7" Sideboard="false" Name="Dreadbringer Lampads" />
+  <Cards CatID="56138" Quantity="5" Sideboard="false" Name="Champion of Arashin" />
+  <Cards CatID="58100" Quantity="1" Sideboard="false" Name="Iroas's Champion" />
+  <Cards CatID="50212" Quantity="5" Sideboard="false" Name="Labyrinth Champion" />
+  <Cards CatID="54000" Quantity="6" Sideboard="false" Name="Shambling Attendants" />
+  <Cards CatID="58495" Quantity="2" Sideboard="false" Name="Void Attendant" />
+  <Cards CatID="36374" Quantity="4" Sideboard="false" Name="Ancient Stirrings" />
+  <Cards CatID="58393" Quantity="2" Sideboard="false" Name="Culling Drone" />
+  <Cards CatID="39621" Quantity="1" Sideboard="false" Name="Everflowing Chalice" />
+  <Cards CatID="58599" Quantity="4" Sideboard="false" Name="Volcanic Upheaval" />
+  <Cards CatID="49473" Quantity="1" Sideboard="false" Name="Primeval Bounty" />
+  <Cards CatID="48254" Quantity="1" Sideboard="false" Name="Gaze of Granite" />
+  <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
+  <Cards CatID="58599" Quantity="4" Sideboard="false" Name="Volcanic Upheaval" />
 </Deck>
