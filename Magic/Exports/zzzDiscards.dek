@@ -66,7 +66,4 @@
   <Cards CatID="52042" Quantity="1" Sideboard="true" Name="Magma Spray" />
   <Cards CatID="56264" Quantity="1" Sideboard="true" Name="Rending Volley" />
   <Cards CatID="54430" Quantity="1" Sideboard="false" Name="Mardu Ascendancy" />
-  <Cards CatID="42410" Quantity="1" Sideboard="false" Name="Blasphemous Act" />
-  <Cards CatID="67527" Quantity="1" Sideboard="false" Name="Seal Away" />
-  <Cards CatID="71374" Quantity="1" Sideboard="false" Name="Kaya's Wrath" />
 </Deck>
