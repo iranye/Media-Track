@@ -440,8 +440,4 @@
   <Cards CatID="55276" Quantity="1" Sideboard="false" Name="Adarkar Valkyrie" />
   <Cards CatID="71030" Quantity="1" Sideboard="false" Name="Lumbering Battlement" />
   <Cards CatID="46745" Quantity="1" Sideboard="false" Name="Ash Zealot" />
-  <Cards CatID="25617" Quantity="1" Sideboard="false" Name="Norin the Wary" />
-  <Cards CatID="71022" Quantity="1" Sideboard="false" Name="Hero of Precinct One" />
-  <Cards CatID="71424" Quantity="1" Sideboard="false" Name="Teysa Karlov" />
-  <Cards CatID="43869" Quantity="1" Sideboard="false" Name="Angel of Glory's Rise" />
 </Deck>

@@ -263,10 +263,4 @@
   <Cards CatID="71426" Quantity="1" Sideboard="false" Name="Theater of Horrors" />
   <Cards CatID="66585" Quantity="1" Sideboard="false" Name="Dead Man's Chest" />
   <Cards CatID="67933" Quantity="1" Sideboard="false" Name="Traxos, Scourge of Kroog" />
-  <Cards CatID="20153" Quantity="1" Sideboard="false" Name="Trash for Treasure" />
-  <Cards CatID="57774" Quantity="1" Sideboard="false" Name="Willbreaker" />
-  <Cards CatID="42410" Quantity="1" Sideboard="false" Name="Blasphemous Act" />
-  <Cards CatID="48512" Quantity="1" Sideboard="false" Name="Catch/Release" />
-  <Cards CatID="46745" Quantity="1" Sideboard="false" Name="Ash Zealot" />
-  <Cards CatID="71162" Quantity="1" Sideboard="false" Name="Pestilent Spirit" />
 </Deck>
