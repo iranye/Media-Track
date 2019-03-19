@@ -1,3 +1,6 @@
+Eternity Vessel
+Mystic of the Hidden Way
+Hidden Herbalists
 Scapeshift
 Shard Volley
 Stoneshaker Shaman
@@ -39,7 +42,7 @@ Leyline of the Meek
 Erebos, God of the Dead
 Magmatic Core
 Jund Charm
-Kresh the Bloodbraided *Foil*
+Kresh the Bloodbraided
 Sangrite Backlash
 Jund Sojourners
 Lavalanche

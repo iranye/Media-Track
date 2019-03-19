@@ -98,4 +98,22 @@
   <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
   <Cards CatID="56040" Quantity="1" Sideboard="false" Name="Atarka's Command" />
   <Cards CatID="19089" Quantity="1" Sideboard="false" Name="Spreading Algae" />
+  <Cards CatID="65915" Quantity="1" Sideboard="false" Name="Elesh Norn, Grand Cenobite" />
+  <Cards CatID="60128" Quantity="1" Sideboard="false" Name="Invocation of Saint Traft" />
+  <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
+  <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
+  <Cards CatID="68381" Quantity="1" Sideboard="false" Name="Murder" />
+  <Cards CatID="50912" Quantity="1" Sideboard="false" Name="Divinity of Pride" />
+  <Cards CatID="39447" Quantity="2" Sideboard="false" Name="Go for the Throat" />
+  <Cards CatID="49249" Quantity="1" Sideboard="false" Name="Liliana of the Dark Realms" />
+  <Cards CatID="56076" Quantity="1" Sideboard="false" Name="Narset Transcendent" />
+  <Cards CatID="66585" Quantity="1" Sideboard="false" Name="Dead Man's Chest" />
+  <Cards CatID="62603" Quantity="1" Sideboard="false" Name="Sram, Senior Edificer" />
+  <Cards CatID="67527" Quantity="2" Sideboard="false" Name="Seal Away" />
+  <Cards CatID="39549" Quantity="1" Sideboard="true" Name="Sword of Feast and Famine" />
+  <Cards CatID="50140" Quantity="1" Sideboard="false" Name="Hopeful Eidolon" />
+  <Cards CatID="39730" Quantity="1" Sideboard="true" Name="Sword of War and Peace" />
+  <Cards CatID="48870" Quantity="1" Sideboard="true" Name="Sword of Light and Shadow" />
+  <Cards CatID="52132" Quantity="1" Sideboard="false" Name="Squelching Leeches" />
+  <Cards CatID="34422" Quantity="1" Sideboard="false" Name="Scythe Tiger" />
 </Deck>

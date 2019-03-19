@@ -290,4 +290,8 @@
   <Cards CatID="24305" Quantity="1" Sideboard="false" Name="Protean Hulk" />
   <Cards CatID="71216" Quantity="1" Sideboard="false" Name="Mirror March" />
   <Cards CatID="71110" Quantity="1" Sideboard="false" Name="Sphinx of Foresight" />
+  <Cards CatID="58639" Quantity="1" Sideboard="false" Name="Greenwarden of Murasa" />
+  <Cards CatID="45424" Quantity="1" Sideboard="false" Name="Primordial Hydra" />
+  <Cards CatID="39517" Quantity="1" Sideboard="false" Name="Thrun, the Last Troll" />
+  <Cards CatID="44075" Quantity="1" Sideboard="false" Name="Wolfir Silverheart" />
 </Deck>

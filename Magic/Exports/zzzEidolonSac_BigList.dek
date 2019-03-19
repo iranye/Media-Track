@@ -67,4 +67,7 @@
   <Cards CatID="25695" Quantity="1" Sideboard="false" Name="Fallen Ideal" />
   <Cards CatID="35527" Quantity="1" Sideboard="false" Name="Canopy Cover" />
   <Cards CatID="36768" Quantity="1" Sideboard="false" Name="Bear Umbra" />
+  <Cards CatID="68529" Quantity="1" Sideboard="false" Name="Gift of Paradise" />
+  <Cards CatID="71374" Quantity="1" Sideboard="false" Name="Kaya's Wrath" />
+  <Cards CatID="71148" Quantity="1" Sideboard="false" Name="Font of Agonies" />
 </Deck>
