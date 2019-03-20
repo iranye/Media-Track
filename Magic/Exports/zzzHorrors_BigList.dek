@@ -245,4 +245,5 @@
   <Cards CatID="45514" Quantity="1" Sideboard="false" Name="Murder" />
   <Cards CatID="66525" Quantity="1" Sideboard="false" Name="Deadeye Rig-Hauler" />
   <Cards CatID="62689" Quantity="1" Sideboard="false" Name="Fatal Push" />
+  <Cards CatID="30036" Quantity="1" Sideboard="false" Name="Canker Abomination" />
 </Deck>

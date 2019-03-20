@@ -2564,4 +2564,70 @@
   <Cards CatID="48254" Quantity="1" Sideboard="false" Name="Gaze of Granite" />
   <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
   <Cards CatID="58599" Quantity="4" Sideboard="false" Name="Volcanic Upheaval" />
+  <Cards CatID="34568" Quantity="1" Sideboard="false" Name="Eternity Vessel" />
+  <Cards CatID="53976" Quantity="6" Sideboard="false" Name="Mystic of the Hidden Way" />
+  <Cards CatID="62763" Quantity="4" Sideboard="false" Name="Hidden Herbalists" />
+  <Cards CatID="28954" Quantity="1" Sideboard="false" Name="Scapeshift" />
+  <Cards CatID="29098" Quantity="4" Sideboard="false" Name="Shard Volley" />
+  <Cards CatID="23504" Quantity="4" Sideboard="false" Name="Stoneshaker Shaman" />
+  <Cards CatID="27158" Quantity="4" Sideboard="false" Name="Manabarbs" />
+  <Cards CatID="27586" Quantity="4" Sideboard="false" Name="March of the Machines" />
+  <Cards CatID="60004" Quantity="4" Sideboard="false" Name="The Gitrog Monster" />
+  <Cards CatID="59856" Quantity="4" Sideboard="false" Name="Seasons Past" />
+  <Cards CatID="64638" Quantity="4" Sideboard="false" Name="Torment of Hailfire" />
+  <Cards CatID="57842" Quantity="4" Sideboard="false" Name="Tragic Arrogance" />
+  <Cards CatID="44225" Quantity="4" Sideboard="false" Name="Tyrant of Discord" />
+  <Cards CatID="25569" Quantity="4" Sideboard="false" Name="Walk the Aeons" />
+  <Cards CatID="20581" Quantity="4" Sideboard="false" Name="Wand of the Elements" />
+  <Cards CatID="24751" Quantity="4" Sideboard="false" Name="Panglacial Wurm" />
+  <Cards CatID="28335" Quantity="4" Sideboard="false" Name="Wanderer's Twig" />
+  <Cards CatID="29289" Quantity="4" Sideboard="false" Name="Elsewhere Flask" />
+  <Cards CatID="37108" Quantity="4" Sideboard="false" Name="Sylvan Ranger" />
+  <Cards CatID="59563" Quantity="1" Sideboard="false" Name="World Breaker" />
+  <Cards CatID="21549" Quantity="4" Sideboard="false" Name="Soratami Rainshaper" />
+  <Cards CatID="59355" Quantity="4" Sideboard="false" Name="Mina and Denn, Wildborn" />
+  <Cards CatID="58673" Quantity="4" Sideboard="false" Name="Ondu Rising" />
+  <Cards CatID="62807" Quantity="4" Sideboard="false" Name="Aid from the Cowl" />
+  <Cards CatID="22707" Quantity="4" Sideboard="false" Name="Annex" />
+  <Cards CatID="31837" Quantity="4" Sideboard="false" Name="Corrupted Roots" />
+  <Cards CatID="21609" Quantity="4" Sideboard="false" Name="Genju of the Spires" />
+  <Cards CatID="31265" Quantity="4" Sideboard="false" Name="Lush Growth" />
+  <Cards CatID="31368" Quantity="4" Sideboard="false" Name="Lich's Mirror" />
+  <Cards CatID="32857" Quantity="4" Sideboard="false" Name="Yawning Fissure" />
+  <Cards CatID="22417" Quantity="4" Sideboard="false" Name="Wildfire" />
+  <Cards CatID="45592" Quantity="4" Sideboard="false" Name="Worldfire" />
+  <Cards CatID="69509" Quantity="4" Sideboard="false" Name="Deadly Visit" />
+  <Cards CatID="69707" Quantity="4" Sideboard="false" Name="Disinformation Campaign" />
+  <Cards CatID="69785" Quantity="4" Sideboard="false" Name="Thought Erasure" />
+  <Cards CatID="69461" Quantity="1" Sideboard="false" Name="Mission Briefing" />
+  <Cards CatID="62605" Quantity="4" Sideboard="false" Name="Call for Unity" />
+  <Cards CatID="24597" Quantity="4" Sideboard="false" Name="Magmatic Core" />
+  <Cards CatID="30863" Quantity="4" Sideboard="false" Name="Jund Charm" />
+  <Cards CatID="42250" Quantity="2" Sideboard="false" Name="Kresh the Bloodbraided" />
+  <Cards CatID="32282" Quantity="4" Sideboard="false" Name="Sangrite Backlash" />
+  <Cards CatID="32452" Quantity="4" Sideboard="false" Name="Jund Sojourners" />
+  <Cards CatID="32386" Quantity="4" Sideboard="false" Name="Lavalanche" />
+  <Cards CatID="31833" Quantity="4" Sideboard="false" Name="Scarland Thrinax" />
+  <Cards CatID="40086" Quantity="2" Sideboard="false" Name="Sheoldred, Whispering One" />
+  <Cards CatID="32406" Quantity="4" Sideboard="false" Name="Madrush Cyclops" />
+  <Cards CatID="31135" Quantity="4" Sideboard="false" Name="Carrion Thrash" />
+  <Cards CatID="32324" Quantity="4" Sideboard="false" Name="Giant Ambush Beetle" />
+  <Cards CatID="42250" Quantity="2" Sideboard="false" Name="Kresh the Bloodbraided" />
+  <Cards CatID="24745" Quantity="4" Sideboard="false" Name="Sek'Kuar, Deathkeeper" />
+  <Cards CatID="23887" Quantity="4" Sideboard="false" Name="Glint-Eye Nephilim" />
+  <Cards CatID="69369" Quantity="3" Sideboard="false" Name="Attendant of Vraska" />
+  <Cards CatID="30036" Quantity="4" Sideboard="false" Name="Canker Abomination" />
+  <Cards CatID="20105" Quantity="4" Sideboard="false" Name="Altar of Shadows" />
+  <Cards CatID="20567" Quantity="1" Sideboard="false" Name="Coretapper" />
+  <Cards CatID="39680" Quantity="4" Sideboard="false" Name="Surge Node" />
+  <Cards CatID="20493" Quantity="4" Sideboard="false" Name="Darksteel Reactor" />
+  <Cards CatID="20676" Quantity="4" Sideboard="false" Name="Energy Chamber" />
+  <Cards CatID="20027" Quantity="4" Sideboard="false" Name="Lightning Coils" />
+  <Cards CatID="24179" Quantity="4" Sideboard="false" Name="Lyzolda, the Blood Witch" />
+  <Cards CatID="20239" Quantity="4" Sideboard="false" Name="Quicksilver Fountain" />
+  <Cards CatID="20880" Quantity="4" Sideboard="false" Name="Ion Storm" />
+  <Cards CatID="43931" Quantity="4" Sideboard="false" Name="Vigilante Justice" />
+  <Cards CatID="31117" Quantity="4" Sideboard="false" Name="Vicious Shadows" />
+  <Cards CatID="28954" Quantity="1" Sideboard="false" Name="Scapeshift" />
+  <Cards CatID="58599" Quantity="4" Sideboard="false" Name="Volcanic Upheaval" />
 </Deck>
