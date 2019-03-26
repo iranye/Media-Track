@@ -398,4 +398,5 @@
   <Cards CatID="67813" Quantity="1" Sideboard="false" Name="Multani, Yavimaya's Avatar" />
   <Cards CatID="67863" Quantity="1" Sideboard="false" Name="Muldrotha, the Gravetide" />
   <Cards CatID="64000" Quantity="1" Sideboard="false" Name="Hapatra, Vizier of Poisons" />
+  <Cards CatID="53562" Quantity="1" Sideboard="false" Name="Ob Nixilis, Unshackled" />
 </Deck>

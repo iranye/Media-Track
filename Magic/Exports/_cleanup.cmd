@@ -12,10 +12,6 @@ move /y "Dragons.dek" %dip%
 move /y "ElementsTokens.dek" %dip%
 move /y "EliteIsochron.dek" %dip%
 move /y "FourPowerMobs_Arties.dek" %dip%
-move /y "Godsire.dek" %dip%
-move /y "GreenBlackApex.dek" %dip%
-move /y "GreenBlackApexFights.dek" %dip%
-move /y "GreenBlackEnchants.dek" %dip%
 move /y "Haunted.dek" %dip%
 move /y "Horrors_LivingLore.dek" %dip%
 move /y "Horrors_White.dek" %dip%

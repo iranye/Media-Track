@@ -2,7 +2,7 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="49022" Quantity="2" Sideboard="false" Name="Search for Tomorrow" />
+  <Cards CatID="49022" Quantity="1" Sideboard="false" Name="Search for Tomorrow" />
   <Cards CatID="55998" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="34468" Quantity="1" Sideboard="false" Name="Harrow" />
@@ -15,7 +15,6 @@
   <Cards CatID="50260" Quantity="2" Sideboard="false" Name="Sylvan Caryatid" />
   <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
   <Cards CatID="50412" Quantity="1" Sideboard="false" Name="Bow of Nylea" />
-  <Cards CatID="53652" Quantity="1" Sideboard="false" Name="Yisan, the Wanderer Bard" />
   <Cards CatID="51968" Quantity="2" Sideboard="false" Name="Temple of Malady" />
   <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
   <Cards CatID="38327" Quantity="1" Sideboard="false" Name="Lux Cannon" />
@@ -31,7 +30,6 @@
   <Cards CatID="49249" Quantity="1" Sideboard="false" Name="Liliana of the Dark Realms" />
   <Cards CatID="62795" Quantity="1" Sideboard="false" Name="Rishkar, Peema Renegade" />
   <Cards CatID="51084" Quantity="1" Sideboard="false" Name="Cultivate" />
-  <Cards CatID="35577" Quantity="1" Sideboard="false" Name="Explore" />
   <Cards CatID="64604" Quantity="1" Sideboard="false" Name="Bontu's Last Reckoning" />
   <Cards CatID="65522" Quantity="1" Sideboard="false" Name="Sorcerous Spyglass" />
   <Cards CatID="55450" Quantity="1" Sideboard="false" Name="Crux of Fate" />
@@ -45,7 +43,6 @@
   <Cards CatID="49271" Quantity="1" Sideboard="false" Name="Scavenging Ooze" />
   <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
   <Cards CatID="27598" Quantity="1" Sideboard="false" Name="Troll Ascetic" />
-  <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
   <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
   <Cards CatID="27627" Quantity="1" Sideboard="false" Name="Crucible of Worlds" />
   <Cards CatID="61753" Quantity="1" Sideboard="false" Name="Creeping Mold" />
@@ -103,7 +100,6 @@
   <Cards CatID="48254" Quantity="1" Sideboard="false" Name="Gaze of Granite" />
   <Cards CatID="62689" Quantity="2" Sideboard="false" Name="Fatal Push" />
   <Cards CatID="39447" Quantity="1" Sideboard="false" Name="Go for the Throat" />
-  <Cards CatID="54384" Quantity="1" Sideboard="false" Name="Naturalize" />
   <Cards CatID="53348" Quantity="1" Sideboard="false" Name="Llanowar Wastes" />
   <Cards CatID="67801" Quantity="1" Sideboard="false" Name="Llanowar Elves" />
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
@@ -125,4 +121,8 @@
   <Cards CatID="28517" Quantity="1" Sideboard="false" Name="Vivid Marsh" />
   <Cards CatID="61675" Quantity="1" Sideboard="false" Name="Aetherborn Marauder" />
   <Cards CatID="46451" Quantity="1" Sideboard="false" Name="Golgari Charm" />
+  <Cards CatID="50234" Quantity="1" Sideboard="false" Name="Ordeal of Nylea" />
+  <Cards CatID="53678" Quantity="1" Sideboard="false" Name="Eternal Thirst" />
+  <Cards CatID="50256" Quantity="1" Sideboard="false" Name="Thoughtseize" />
+  <Cards CatID="50170" Quantity="1" Sideboard="false" Name="Read the Bones" />
 </Deck>

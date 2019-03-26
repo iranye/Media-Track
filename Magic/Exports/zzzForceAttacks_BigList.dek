@@ -127,4 +127,6 @@
   <Cards CatID="47749" Quantity="1" Sideboard="false" Name="Merciless Eviction" />
   <Cards CatID="36514" Quantity="1" Sideboard="false" Name="Sporecap Spider" />
   <Cards CatID="36498" Quantity="1" Sideboard="false" Name="Stalwart Shield-Bearers" />
+  <Cards CatID="68163" Quantity="1" Sideboard="false" Name="Aegis of the Heavens" />
+  <Cards CatID="71004" Quantity="1" Sideboard="false" Name="Angelic Exaltation" />
 </Deck>

@@ -67,7 +67,7 @@
   <Cards CatID="30983" Quantity="1" Sideboard="false" Name="Blightning" />
   <Cards CatID="29847" Quantity="1" Sideboard="false" Name="Guttural Response" />
   <Cards CatID="47765" Quantity="1" Sideboard="false" Name="High Priest of Penance" />
-  <Cards CatID="50170" Quantity="1" Sideboard="false" Name="Read the Bones" />
+  <Cards CatID="50170" Quantity="2" Sideboard="false" Name="Read the Bones" />
   <Cards CatID="37240" Quantity="1" Sideboard="false" Name="Lightning Bolt" />
   <Cards CatID="48310" Quantity="1" Sideboard="false" Name="Sin Collector" />
   <Cards CatID="54026" Quantity="1" Sideboard="false" Name="Act of Treason" />
@@ -134,4 +134,8 @@
   <Cards CatID="46495" Quantity="1" Sideboard="false" Name="Corpsejack Menace" />
   <Cards CatID="29994" Quantity="1" Sideboard="false" Name="Creakwood Liege" />
   <Cards CatID="52116" Quantity="1" Sideboard="false" Name="Pharika, God of Affliction" />
+  <Cards CatID="67847" Quantity="1" Sideboard="false" Name="Arvad the Cursed" />
+  <Cards CatID="67473" Quantity="1" Sideboard="false" Name="Baird, Steward of Argive" />
+  <Cards CatID="54340" Quantity="1" Sideboard="false" Name="Grim Haruspex" />
+  <Cards CatID="54258" Quantity="1" Sideboard="false" Name="Sorin, Solemn Visitor" />
 </Deck>
