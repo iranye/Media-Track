@@ -294,4 +294,7 @@
   <Cards CatID="45424" Quantity="1" Sideboard="false" Name="Primordial Hydra" />
   <Cards CatID="39517" Quantity="1" Sideboard="false" Name="Thrun, the Last Troll" />
   <Cards CatID="44075" Quantity="1" Sideboard="false" Name="Wolfir Silverheart" />
+  <Cards CatID="69617" Quantity="1" Sideboard="false" Name="Arboretum Elemental" />
+  <Cards CatID="66683" Quantity="1" Sideboard="false" Name="Silverclad Ferocidons" />
+  <Cards CatID="68579" Quantity="1" Sideboard="false" Name="Vivien's Invocation" />
 </Deck>

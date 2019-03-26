@@ -80,7 +80,7 @@
   <Cards CatID="36384" Quantity="1" Sideboard="false" Name="Venerated Teacher" />
   <Cards CatID="29547" Quantity="1" Sideboard="false" Name="Thistledown Liege" />
   <Cards CatID="20331" Quantity="1" Sideboard="false" Name="Memnarch" />
-  <Cards CatID="24823" Quantity="1" Sideboard="false" Name="Braid of Fire" />
+  <Cards CatID="24823" Quantity="2" Sideboard="false" Name="Braid of Fire" />
   <Cards CatID="53732" Quantity="1" Sideboard="false" Name="Soul of Ravnica" />
   <Cards CatID="64490" Quantity="4" Sideboard="false" Name="Angel of Condemnation" />
   <Cards CatID="67849" Quantity="3" Sideboard="false" Name="Aryel, Knight of Windgrace" />
@@ -96,4 +96,7 @@
   <Cards CatID="45205" Quantity="1" Sideboard="false" Name="Xathrid Gorgon" />
   <Cards CatID="23639" Quantity="1" Sideboard="false" Name="Gruul Guildmage" />
   <Cards CatID="46803" Quantity="1" Sideboard="false" Name="New Prahv Guildmage" />
+  <Cards CatID="58599" Quantity="1" Sideboard="false" Name="Volcanic Upheaval" />
+  <Cards CatID="21609" Quantity="1" Sideboard="false" Name="Genju of the Spires" />
+  <Cards CatID="24597" Quantity="1" Sideboard="false" Name="Magmatic Core" />
 </Deck>

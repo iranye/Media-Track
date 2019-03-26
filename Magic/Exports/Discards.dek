@@ -63,7 +63,7 @@
   <Cards CatID="46339" Quantity="1" Sideboard="true" Name="Electrickery" />
   <Cards CatID="52042" Quantity="1" Sideboard="true" Name="Magma Spray" />
   <Cards CatID="56264" Quantity="1" Sideboard="true" Name="Rending Volley" />
-  <Cards CatID="64140" Quantity="2" Sideboard="false" Name="Canyon Slough" />
+  <Cards CatID="64140" Quantity="3" Sideboard="false" Name="Canyon Slough" />
   <Cards CatID="61855" Quantity="1" Sideboard="false" Name="Inspiring Vantage" />
   <Cards CatID="67943" Quantity="1" Sideboard="false" Name="Clifftop Retreat" />
 </Deck>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -382,4 +383,19 @@
   <Cards CatID="50386" Quantity="1" Sideboard="true" Name="Mistcutter Hydra" />
   <Cards CatID="50386" Quantity="1" Sideboard="true" Name="Mistcutter Hydra" />
   <Cards CatID="47619" Quantity="1" Sideboard="false" Name="Crocanura" />
+  <Cards CatID="39447" Quantity="1" Sideboard="false" Name="Go for the Throat" />
+  <Cards CatID="62017" Quantity="1" Sideboard="false" Name="Verdurous Gearhulk" />
+  <Cards CatID="59321" Quantity="1" Sideboard="false" Name="Crumbling Vestige" />
+  <Cards CatID="66823" Quantity="1" Sideboard="false" Name="Golden Guardian" />
+  <Cards CatID="28515" Quantity="1" Sideboard="false" Name="Vivid Grove" />
+  <Cards CatID="28517" Quantity="1" Sideboard="false" Name="Vivid Marsh" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="35699" Quantity="1" Sideboard="false" Name="Nature's Claim" />
+  <Cards CatID="67801" Quantity="1" Sideboard="false" Name="Llanowar Elves" />
+  <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
+  <Cards CatID="59255" Quantity="1" Sideboard="false" Name="Hissing Quagmire" />
+  <Cards CatID="35589" Quantity="1" Sideboard="false" Name="Tectonic Edge" />
+  <Cards CatID="67813" Quantity="1" Sideboard="false" Name="Multani, Yavimaya's Avatar" />
+  <Cards CatID="67863" Quantity="1" Sideboard="false" Name="Muldrotha, the Gravetide" />
+  <Cards CatID="64000" Quantity="1" Sideboard="false" Name="Hapatra, Vizier of Poisons" />
 </Deck>

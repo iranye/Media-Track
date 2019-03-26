@@ -133,4 +133,7 @@
   <Cards CatID="68673" Quantity="4" Sideboard="false" Name="Rupture Spire" />
   <Cards CatID="29212" Quantity="4" Sideboard="false" Name="Primal Beyond" />
   <Cards CatID="59926" Quantity="4" Sideboard="false" Name="Port Town" />
+  <Cards CatID="40497" Quantity="4" Sideboard="false" Name="Vivid Creek" />
+  <Cards CatID="28515" Quantity="4" Sideboard="false" Name="Vivid Grove" />
+  <Cards CatID="28517" Quantity="4" Sideboard="false" Name="Vivid Marsh" />
 </Deck>

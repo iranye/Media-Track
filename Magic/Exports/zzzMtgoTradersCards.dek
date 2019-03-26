@@ -2630,4 +2630,41 @@
   <Cards CatID="31117" Quantity="4" Sideboard="false" Name="Vicious Shadows" />
   <Cards CatID="28954" Quantity="1" Sideboard="false" Name="Scapeshift" />
   <Cards CatID="58599" Quantity="4" Sideboard="false" Name="Volcanic Upheaval" />
+  <Cards CatID="52164" Quantity="7" Sideboard="false" Name="Cruel Feeding" />
+  <Cards CatID="61675" Quantity="4" Sideboard="false" Name="Aetherborn Marauder" />
+  <Cards CatID="46715" Quantity="5" Sideboard="false" Name="Rakdos Ragemutt" />
+  <Cards CatID="48320" Quantity="6" Sideboard="false" Name="Awe for the Guilds" />
+  <Cards CatID="61741" Quantity="4" Sideboard="false" Name="Appetite for the Unnatural" />
+  <Cards CatID="35663" Quantity="4" Sideboard="false" Name="Quest for the Goblin Lord" />
+  <Cards CatID="34788" Quantity="4" Sideboard="false" Name="Quest for the Holy Relic" />
+  <Cards CatID="67801" Quantity="4" Sideboard="false" Name="Llanowar Elves" />
+  <Cards CatID="68485" Quantity="4" Sideboard="false" Name="Tectonic Rift" />
+  <Cards CatID="58599" Quantity="4" Sideboard="false" Name="Volcanic Upheaval" />
+  <Cards CatID="51827" Quantity="6" Sideboard="false" Name="Archetype of Aggression" />
+  <Cards CatID="59317" Quantity="1" Sideboard="false" Name="Kozilek, the Great Distortion" />
+  <Cards CatID="51687" Quantity="8" Sideboard="false" Name="Everflame Eidolon" />
+  <Cards CatID="52000" Quantity="1" Sideboard="false" Name="Armory of Iroas" />
+  <Cards CatID="50176" Quantity="6" Sideboard="false" Name="Priest of Iroas" />
+  <Cards CatID="50184" Quantity="11" Sideboard="false" Name="Spearpoint Oread" />
+  <Cards CatID="47893" Quantity="6" Sideboard="false" Name="Truefire Paladin" />
+  <Cards CatID="48440" Quantity="4" Sideboard="false" Name="Blaze Commando" />
+  <Cards CatID="47699" Quantity="1" Sideboard="false" Name="Firemane Avenger" />
+  <Cards CatID="47459" Quantity="6" Sideboard="false" Name="Sunhome Guildmage" />
+  <Cards CatID="48348" Quantity="6" Sideboard="false" Name="Boros Battleshaper" />
+  <Cards CatID="69685" Quantity="1" Sideboard="false" Name="Boros Challenger" />
+  <Cards CatID="47533" Quantity="5" Sideboard="false" Name="Boros Elite" />
+  <Cards CatID="48326" Quantity="2" Sideboard="false" Name="Boros Mastiff" />
+  <Cards CatID="66475" Quantity="4" Sideboard="false" Name="Legion Conquistador" />
+  <Cards CatID="47535" Quantity="7" Sideboard="false" Name="Frilled Oculus" />
+  <Cards CatID="66473" Quantity="4" Sideboard="false" Name="Imperial Ceratops" />
+  <Cards CatID="66667" Quantity="4" Sideboard="false" Name="Needletooth Raptor" />
+  <Cards CatID="65326" Quantity="4" Sideboard="false" Name="Raptor Hatchling" />
+  <Cards CatID="65344" Quantity="4" Sideboard="false" Name="Sun-Crowned Hunters" />
+  <Cards CatID="47553" Quantity="4" Sideboard="false" Name="Bomber Corps" />
+  <Cards CatID="59395" Quantity="1" Sideboard="false" Name="Zada's Commando" />
+  <Cards CatID="47605" Quantity="6" Sideboard="false" Name="Wojek Halberdiers" />
+  <Cards CatID="54422" Quantity="5" Sideboard="false" Name="Highspire Mantis" />
+  <Cards CatID="62775" Quantity="4" Sideboard="false" Name="Highspire Infusion" />
+  <Cards CatID="61577" Quantity="5" Sideboard="false" Name="Highspire Artisan" />
+  <Cards CatID="47583" Quantity="8" Sideboard="false" Name="Skyknight Legionnaire" />
 </Deck>
