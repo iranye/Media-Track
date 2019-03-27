@@ -399,4 +399,13 @@
   <Cards CatID="67863" Quantity="1" Sideboard="false" Name="Muldrotha, the Gravetide" />
   <Cards CatID="64000" Quantity="1" Sideboard="false" Name="Hapatra, Vizier of Poisons" />
   <Cards CatID="53562" Quantity="1" Sideboard="false" Name="Ob Nixilis, Unshackled" />
+  <Cards CatID="46451" Quantity="1" Sideboard="false" Name="Golgari Charm" />
+  <Cards CatID="50234" Quantity="1" Sideboard="false" Name="Ordeal of Nylea" />
+  <Cards CatID="53678" Quantity="1" Sideboard="false" Name="Eternal Thirst" />
+  <Cards CatID="50256" Quantity="1" Sideboard="false" Name="Thoughtseize" />
+  <Cards CatID="50170" Quantity="1" Sideboard="false" Name="Read the Bones" />
+  <Cards CatID="34542" Quantity="1" Sideboard="false" Name="Oracle of Mul Daya" />
+  <Cards CatID="44730" Quantity="1" Sideboard="false" Name="Etched Oracle" />
+  <Cards CatID="62829" Quantity="1" Sideboard="false" Name="Oath of Ajani" />
+  <Cards CatID="68171" Quantity="1" Sideboard="false" Name="Ajani's Pridemate" />
 </Deck>

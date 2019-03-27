@@ -2667,4 +2667,19 @@
   <Cards CatID="62775" Quantity="4" Sideboard="false" Name="Highspire Infusion" />
   <Cards CatID="61577" Quantity="5" Sideboard="false" Name="Highspire Artisan" />
   <Cards CatID="47583" Quantity="8" Sideboard="false" Name="Skyknight Legionnaire" />
+  <Cards CatID="67547" Quantity="9" Sideboard="false" Name="Academy Journeymage" />
+  <Cards CatID="65012" Quantity="8" Sideboard="false" Name="Adanto Vanguard" />
+  <Cards CatID="71004" Quantity="4" Sideboard="false" Name="Angelic Exaltation" />
+  <Cards CatID="68617" Quantity="8" Sideboard="false" Name="Arcane Encyclopedia" />
+  <Cards CatID="69675" Quantity="5" Sideboard="false" Name="Artful Takedown" />
+  <Cards CatID="71124" Quantity="6" Sideboard="false" Name="Bankrupt in Blood" />
+  <Cards CatID="68603" Quantity="8" Sideboard="false" Name="Poison-Tip Archer" />
+  <Cards CatID="68665" Quantity="8" Sideboard="false" Name="Foul Orchard" />
+  <Cards CatID="65444" Quantity="8" Sideboard="false" Name="Verdant Rebirth" />
+  <Cards CatID="71124" Quantity="6" Sideboard="false" Name="Bankrupt in Blood" />
+  <Cards CatID="71128" Quantity="4" Sideboard="false" Name="Bladebrand" />
+  <Cards CatID="59255" Quantity="1" Sideboard="false" Name="Hissing Quagmire" />
+  <Cards CatID="69723" Quantity="4" Sideboard="false" Name="Golgari Findbroker" />
+  <Cards CatID="52074" Quantity="2" Sideboard="false" Name="Nyx-Fleece Ram" />
+  <Cards CatID="69791" Quantity="4" Sideboard="false" Name="Truefire Captain" />
 </Deck>
