@@ -270,4 +270,6 @@
   <Cards CatID="46745" Quantity="1" Sideboard="false" Name="Ash Zealot" />
   <Cards CatID="71162" Quantity="1" Sideboard="false" Name="Pestilent Spirit" />
   <Cards CatID="71128" Quantity="1" Sideboard="false" Name="Bladebrand" />
+  <Cards CatID="71190" Quantity="1" Sideboard="false" Name="Cavalcade of Calamity" />
+  <Cards CatID="65208" Quantity="1" Sideboard="false" Name="Costly Plunder" />
 </Deck>

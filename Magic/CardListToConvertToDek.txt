@@ -59,6 +59,18 @@ Hobgoblin Dragoon
 Nobilis of War
 Oros, the Avenger
 Twilight Prophet
+Book Devourer
+Charging Tuskodon
+Circuitous Route
+Consecrate/Consume
+Cosmotronic Wave
+Costly Plunder
+Cry of the Carnarium
+Cult Guildmage
+Dagger Caster
+Direct Current
+Divest
+
 
 
 Angrath, Minotaur Pirate
@@ -76,3 +88,4 @@ Tithe Taker
 Vengeant Vampire
 Vivien of the Arkbow
 Vraska, Regal Gorgon
+Zacama, Primal Calamity

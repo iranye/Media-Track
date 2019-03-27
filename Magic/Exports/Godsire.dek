@@ -136,4 +136,6 @@
   <Cards CatID="9465" Quantity="1" Sideboard="false" Name="Aura of Silence" />
   <Cards CatID="63628" Quantity="1" Sideboard="false" Name="Forsake the Worldly" />
   <Cards CatID="53578" Quantity="1" Sideboard="false" Name="Avacyn, Guardian Angel" />
+  <Cards CatID="69685" Quantity="1" Sideboard="false" Name="Boros Challenger" />
+  <Cards CatID="71194" Quantity="1" Sideboard="false" Name="Dagger Caster" />
 </Deck>

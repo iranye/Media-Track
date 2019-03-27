@@ -56,4 +56,6 @@
   <Cards CatID="29565" Quantity="1" Sideboard="false" Name="Boartusk Liege" />
   <Cards CatID="69619" Quantity="1" Sideboard="false" Name="Beast Whisperer" />
   <Cards CatID="24305" Quantity="1" Sideboard="false" Name="Protean Hulk" />
+  <Cards CatID="71458" Quantity="1" Sideboard="false" Name="Collision/Colossus" />
+  <Cards CatID="66647" Quantity="1" Sideboard="false" Name="Charging Tuskodon" />
 </Deck>

@@ -408,4 +408,5 @@
   <Cards CatID="44730" Quantity="1" Sideboard="false" Name="Etched Oracle" />
   <Cards CatID="62829" Quantity="1" Sideboard="false" Name="Oath of Ajani" />
   <Cards CatID="68171" Quantity="1" Sideboard="false" Name="Ajani's Pridemate" />
+  <Cards CatID="69623" Quantity="1" Sideboard="false" Name="Circuitous Route" />
 </Deck>

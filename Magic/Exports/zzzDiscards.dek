@@ -69,4 +69,6 @@
   <Cards CatID="42410" Quantity="1" Sideboard="false" Name="Blasphemous Act" />
   <Cards CatID="67527" Quantity="1" Sideboard="false" Name="Seal Away" />
   <Cards CatID="71374" Quantity="1" Sideboard="false" Name="Kaya's Wrath" />
+  <Cards CatID="69563" Quantity="1" Sideboard="false" Name="Cosmotronic Wave" />
+  <Cards CatID="65208" Quantity="1" Sideboard="false" Name="Costly Plunder" />
 </Deck>

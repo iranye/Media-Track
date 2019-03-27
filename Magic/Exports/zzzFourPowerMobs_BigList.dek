@@ -297,4 +297,8 @@
   <Cards CatID="69617" Quantity="1" Sideboard="false" Name="Arboretum Elemental" />
   <Cards CatID="66683" Quantity="1" Sideboard="false" Name="Silverclad Ferocidons" />
   <Cards CatID="68579" Quantity="1" Sideboard="false" Name="Vivien's Invocation" />
+  <Cards CatID="66647" Quantity="1" Sideboard="false" Name="Charging Tuskodon" />
+  <Cards CatID="71458" Quantity="1" Sideboard="false" Name="Collision/Colossus" />
+  <Cards CatID="69563" Quantity="1" Sideboard="false" Name="Cosmotronic Wave" />
+  <Cards CatID="71194" Quantity="1" Sideboard="false" Name="Dagger Caster" />
 </Deck>

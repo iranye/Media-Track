@@ -74,4 +74,5 @@
   <Cards CatID="44227" Quantity="1" Sideboard="true" Name="Devout Chaplain" />
   <Cards CatID="26039" Quantity="1" Sideboard="true" Name="Witch Hunter" />
   <Cards CatID="29847" Quantity="1" Sideboard="true" Name="Guttural Response" />
+  <Cards CatID="66827" Quantity="1" Sideboard="false" Name="The Immortal Sun" />
 </Deck>
