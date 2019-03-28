@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -142,4 +141,8 @@
   <Cards CatID="67527" Quantity="1" Sideboard="false" Name="Seal Away" />
   <Cards CatID="61480" Quantity="1" Sideboard="false" Name="Spell Queller" />
   <Cards CatID="59926" Quantity="1" Sideboard="false" Name="Port Town" />
+  <Cards CatID="14915" Quantity="4" Sideboard="false" Name="Island" />
+  <Cards CatID="65554" Quantity="5" Sideboard="false" Name="Plains" />
+  <Cards CatID="66541" Quantity="2" Sideboard="true" Name="Negate" />
+  <Cards CatID="71336" Quantity="1" Sideboard="false" Name="Dovin's Acuity" />
 </Deck>

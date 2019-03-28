@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -409,4 +408,8 @@
   <Cards CatID="62829" Quantity="1" Sideboard="false" Name="Oath of Ajani" />
   <Cards CatID="68171" Quantity="1" Sideboard="false" Name="Ajani's Pridemate" />
   <Cards CatID="69623" Quantity="1" Sideboard="false" Name="Circuitous Route" />
+  <Cards CatID="68517" Quantity="1" Sideboard="false" Name="Dryad Greenseeker" />
+  <Cards CatID="63760" Quantity="1" Sideboard="false" Name="Baleful Ammit" />
+  <Cards CatID="66629" Quantity="1" Sideboard="false" Name="Twilight Prophet" />
+  <Cards CatID="46507" Quantity="2" Sideboard="false" Name="Overgrown Tomb" />
 </Deck>

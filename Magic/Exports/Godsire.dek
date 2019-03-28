@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -136,4 +136,12 @@
   <Cards CatID="63628" Quantity="1" Sideboard="true" Name="Forsake the Worldly" />
   <Cards CatID="69685" Quantity="1" Sideboard="false" Name="Boros Challenger" />
   <Cards CatID="71194" Quantity="1" Sideboard="false" Name="Dagger Caster" />
+  <Cards CatID="30144" Quantity="1" Sideboard="false" Name="Nobilis of War" />
+  <Cards CatID="29972" Quantity="1" Sideboard="false" Name="Hobgoblin Dragoon" />
+  <Cards CatID="69679" Quantity="1" Sideboard="false" Name="Aurelia, Exemplar of Justice" />
+  <Cards CatID="47933" Quantity="1" Sideboard="false" Name="Aurelia's Fury" />
+  <Cards CatID="23500" Quantity="1" Sideboard="false" Name="Agrus Kos, Wojek Veteran" />
+  <Cards CatID="24747" Quantity="1" Sideboard="false" Name="Tamanoa" />
+  <Cards CatID="23462" Quantity="1" Sideboard="false" Name="Sunhome Enforcer" />
+  <Cards CatID="30236" Quantity="1" Sideboard="false" Name="Spitemare" />
 </Deck>

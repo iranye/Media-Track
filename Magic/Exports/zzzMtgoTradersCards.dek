@@ -2731,4 +2731,15 @@
   <Cards CatID="71194" Quantity="4" Sideboard="false" Name="Dagger Caster" />
   <Cards CatID="69565" Quantity="4" Sideboard="false" Name="Direct Current" />
   <Cards CatID="67639" Quantity="9" Sideboard="false" Name="Divest" />
+  <Cards CatID="71376" Quantity="4" Sideboard="false" Name="Knight of the Last Breath" />
+  <Cards CatID="71032" Quantity="5" Sideboard="false" Name="Ministrant of Obligation" />
+  <Cards CatID="71144" Quantity="4" Sideboard="false" Name="Debtors' Transport" />
+  <Cards CatID="68347" Quantity="8" Sideboard="false" Name="Doomed Dissenter" />
+  <Cards CatID="68591" Quantity="8" Sideboard="false" Name="Draconic Disciple" />
+  <Cards CatID="68437" Quantity="8" Sideboard="false" Name="Dragon Egg" />
+  <Cards CatID="67643" Quantity="8" Sideboard="false" Name="Drudge Sentinel" />
+  <Cards CatID="68517" Quantity="9" Sideboard="false" Name="Dryad Greenseeker" />
+  <Cards CatID="65496" Quantity="8" Sideboard="false" Name="Dusk Legion Dreadnought" />
+  <Cards CatID="66593" Quantity="9" Sideboard="false" Name="Dusk Legion Zealot" />
+  <Cards CatID="65032" Quantity="8" Sideboard="false" Name="Encampment Keeper" />
 </Deck>

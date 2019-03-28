@@ -8,12 +8,12 @@
   <Cards CatID="67669" Quantity="1" Sideboard="false" Name="Rite of Belzenlok" />
   <Cards CatID="67629" Quantity="1" Sideboard="false" Name="Chainer's Torment" />
   <Cards CatID="55340" Quantity="1" Sideboard="false" Name="Battle Brawler" />
-  <Cards CatID="53480" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53390" Quantity="1" Sideboard="false" Name="Plains" />
   <Cards CatID="30140" Quantity="1" Sideboard="false" Name="Raven's Crime" />
+  <Cards CatID="53370" Quantity="1" Sideboard="false" Name="Mountain" />
   <Cards CatID="53688" Quantity="1" Sideboard="false" Name="Heliod's Pilgrim" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="67527" Quantity="2" Sideboard="false" Name="Seal Away" />
-  <Cards CatID="53484" Quantity="1" Sideboard="false" Name="Plains" />
   <Cards CatID="50374" Quantity="1" Sideboard="false" Name="Gift of Immortality" />
   <Cards CatID="53396" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="54188" Quantity="1" Sideboard="false" Name="Utter End" />
@@ -57,7 +57,7 @@
   <Cards CatID="71374" Quantity="1" Sideboard="false" Name="Kaya's Wrath" />
   <Cards CatID="68179" Quantity="1" Sideboard="false" Name="Cleansing Nova" />
   <Cards CatID="50578" Quantity="1" Sideboard="true" Name="Anger of the Gods" />
-  <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
+  <Cards CatID="59756" Quantity="2" Sideboard="false" Name="Angelic Purge" />
   <Cards CatID="36360" Quantity="2" Sideboard="false" Name="Inquisition of Kozilek" />
   <Cards CatID="61631" Quantity="1" Sideboard="false" Name="Fumigate" />
   <Cards CatID="54022" Quantity="1" Sideboard="false" Name="Tormenting Voice" />
@@ -143,4 +143,14 @@
   <Cards CatID="48302" Quantity="1" Sideboard="false" Name="Voice of Resurgence" />
   <Cards CatID="71464" Quantity="1" Sideboard="false" Name="Consecrate/Consume" />
   <Cards CatID="68347" Quantity="1" Sideboard="false" Name="Doomed Dissenter" />
+  <Cards CatID="71144" Quantity="1" Sideboard="false" Name="Debtors' Transport" />
+  <Cards CatID="71376" Quantity="1" Sideboard="false" Name="Knight of the Last Breath" />
+  <Cards CatID="71032" Quantity="1" Sideboard="false" Name="Ministrant of Obligation" />
+  <Cards CatID="49411" Quantity="1" Sideboard="false" Name="Dragon Egg" />
+  <Cards CatID="68341" Quantity="1" Sideboard="false" Name="Death Baron" />
+  <Cards CatID="71342" Quantity="2" Sideboard="false" Name="Final Payment" />
+  <Cards CatID="66629" Quantity="1" Sideboard="false" Name="Twilight Prophet" />
+  <Cards CatID="44105" Quantity="1" Sideboard="false" Name="Blood Artist" />
+  <Cards CatID="71344" Quantity="1" Sideboard="false" Name="Fireblade Artist" />
+  <Cards CatID="59417" Quantity="1" Sideboard="false" Name="Kalitas, Traitor of Ghet" />
 </Deck>

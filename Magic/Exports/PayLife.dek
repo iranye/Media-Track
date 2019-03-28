@@ -9,4 +9,6 @@
   <Cards CatID="65012" Quantity="5" Sideboard="false" Name="Adanto Vanguard" />
   <Cards CatID="53596" Quantity="1" Sideboard="false" Name="Cruel Sadist" />
   <Cards CatID="53726" Quantity="1" Sideboard="false" Name="First Response" />
+  <Cards CatID="15742" Quantity="1" Sideboard="false" Name="Phyrexian Colossus" />
+  <Cards CatID="52120" Quantity="1" Sideboard="false" Name="Mana Confluence" />
 </Deck>
