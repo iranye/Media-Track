@@ -15,9 +15,13 @@
   <Cards CatID="50184" Quantity="1" Sideboard="false" Name="Spearpoint Oread" />
   <Cards CatID="51769" Quantity="1" Sideboard="false" Name="Spirit of the Labyrinth" />
   <Cards CatID="48440" Quantity="1" Sideboard="false" Name="Blaze Commando" />
+  <Cards CatID="67823" Quantity="1" Sideboard="false" Name="Song of Freyalise" />
   <Cards CatID="47921" Quantity="1" Sideboard="false" Name="Boros Reckoner" />
+  <Cards CatID="67709" Quantity="1" Sideboard="false" Name="The First Eruption" />
   <Cards CatID="47477" Quantity="2" Sideboard="false" Name="Boros Charm" />
+  <Cards CatID="67711" Quantity="1" Sideboard="false" Name="The Flame of Keld" />
   <Cards CatID="47699" Quantity="1" Sideboard="false" Name="Firemane Avenger" />
+  <Cards CatID="67541" Quantity="1" Sideboard="false" Name="Triumph of Gerrard" />
   <Cards CatID="47885" Quantity="1" Sideboard="false" Name="Foundry Champion" />
   <Cards CatID="23590" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
   <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
@@ -155,4 +159,24 @@
   <Cards CatID="47805" Quantity="1" Sideboard="false" Name="Thespian's Stage" />
   <Cards CatID="21349" Quantity="1" Sideboard="false" Name="Shinka, the Bloodsoaked Keep" />
   <Cards CatID="37240" Quantity="2" Sideboard="false" Name="Lightning Bolt" />
+  <Cards CatID="67541" Quantity="1" Sideboard="false" Name="Triumph of Gerrard" />
+  <Cards CatID="65522" Quantity="1" Sideboard="false" Name="Sorcerous Spyglass" />
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="34614" Quantity="1" Sideboard="false" Name="Iona, Shield of Emeria" />
+  <Cards CatID="42410" Quantity="1" Sideboard="false" Name="Blasphemous Act" />
+  <Cards CatID="60649" Quantity="1" Sideboard="false" Name="Wrath of God" />
+  <Cards CatID="49395" Quantity="1" Sideboard="false" Name="Archangel of Thune" />
+  <Cards CatID="44031" Quantity="1" Sideboard="false" Name="Angel of Jubilation" />
+  <Cards CatID="40595" Quantity="1" Sideboard="false" Name="Wall of Omens" />
+  <Cards CatID="24697" Quantity="1" Sideboard="false" Name="Woolly Razorback" />
+  <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
+  <Cards CatID="25999" Quantity="1" Sideboard="false" Name="Arena" />
+  <Cards CatID="24709" Quantity="1" Sideboard="false" Name="Ronom Unicorn" />
+  <Cards CatID="57792" Quantity="1" Sideboard="false" Name="Archangel of Tithes" />
+  <Cards CatID="29990" Quantity="1" Sideboard="false" Name="Rise of the Hobgoblins" />
+  <Cards CatID="53578" Quantity="1" Sideboard="false" Name="Avacyn, Guardian Angel" />
+  <Cards CatID="49217" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
+  <Cards CatID="69685" Quantity="1" Sideboard="false" Name="Boros Challenger" />
+  <Cards CatID="71194" Quantity="1" Sideboard="false" Name="Dagger Caster" />
+  <Cards CatID="65468" Quantity="1" Sideboard="false" Name="Huatli, Warrior Poet" />
 </Deck>
