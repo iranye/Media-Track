@@ -60,7 +60,6 @@
   <Cards CatID="23298" Quantity="1" Sideboard="false" Name="Drift of Phantasms" />
   <Cards CatID="41389" Quantity="1" Sideboard="false" Name="Chandra, the Firebrand" />
   <Cards CatID="61765" Quantity="1" Sideboard="false" Name="Contraband Kingpin" />
-  <Cards CatID="61573" Quantity="1" Sideboard="false" Name="Chandra, Torch of Defiance" />
   <Cards CatID="55446" Quantity="1" Sideboard="false" Name="Monastery Siege" />
   <Cards CatID="58399" Quantity="1" Sideboard="false" Name="Ob Nixilis Reignited" />
   <Cards CatID="62811" Quantity="1" Sideboard="false" Name="Tezzeret's Touch" />
@@ -69,7 +68,6 @@
   <Cards CatID="68365" Quantity="1" Sideboard="true" Name="Infernal Reckoning" />
   <Cards CatID="30979" Quantity="1" Sideboard="false" Name="Tezzeret the Seeker" />
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
-  <Cards CatID="63023" Quantity="1" Sideboard="false" Name="Tezzeret, Master of Metal" />
   <Cards CatID="67859" Quantity="2" Sideboard="false" Name="Jhoira, Weatherlight Captain" />
   <Cards CatID="43835" Quantity="1" Sideboard="true" Name="Elgaud Shieldmate" />
   <Cards CatID="37240" Quantity="2" Sideboard="false" Name="Lightning Bolt" />
