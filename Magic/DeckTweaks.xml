@@ -303,33 +303,15 @@
 <Activation>
 </Activation>
 <Arty strat="Re-cast permanents that give artifact tokens and/or energy counters on enter battlefield (see: Fabricate)">
-  ToBuy:
-  Angel of Invention
-  Dispeller's Capsule
-  Epochrasite
-  Ethersworn Adjudicator
-  Phyrexian Core
-  Pyrite Spellbomb
-  Rusted Slasher
-  Salvage Titan
-  Salvaging Station
-  Sharding Sphinx
 </Arty>
 <BigSpells>
   Star of Extinction
 </BigSpells>
-<BlackRdWhClerics>
-  Auriok Champion
+<BlackRdWhClerics>  
 </BlackRdWhClerics>
 <BlackWhiteSac>
-  Geist of Saint Traft
-  Stony Silence
 </BlackWhiteSac>
-<Sagas>
-  History of Benalia
-</Sagas>
 <SwampKill>
-  Life from the Loam
 </SwampKill>
 
 <ColorKill>

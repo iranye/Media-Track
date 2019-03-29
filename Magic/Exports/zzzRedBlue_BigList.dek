@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -269,4 +268,50 @@
   <Cards CatID="48512" Quantity="1" Sideboard="false" Name="Catch/Release" />
   <Cards CatID="46745" Quantity="1" Sideboard="false" Name="Ash Zealot" />
   <Cards CatID="71162" Quantity="1" Sideboard="false" Name="Pestilent Spirit" />
+  <Cards CatID="71128" Quantity="1" Sideboard="false" Name="Bladebrand" />
+  <Cards CatID="71190" Quantity="1" Sideboard="false" Name="Cavalcade of Calamity" />
+  <Cards CatID="65208" Quantity="1" Sideboard="false" Name="Costly Plunder" />
+  <Cards CatID="48914" Quantity="1" Sideboard="false" Name="Pyrite Spellbomb" />
+  <Cards CatID="46429" Quantity="4" Sideboard="false" Name="Izzet Staticaster" />
+  <Cards CatID="50280" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="49547" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="19979" Quantity="2" Sideboard="false" Name="Fractured Loyalty" />
+  <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="50424" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="9411" Quantity="2" Sideboard="false" Name="Gemstone Mine" />
+  <Cards CatID="67959" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="53284" Quantity="2" Sideboard="false" Name="Shrapnel Blast" />
+  <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
+  <Cards CatID="35515" Quantity="1" Sideboard="true" Name="Bojuka Bog" />
+  <Cards CatID="29479" Quantity="1" Sideboard="false" Name="Sunken Ruins" />
+  <Cards CatID="35695" Quantity="4" Sideboard="false" Name="Basilisk Collar" />
+  <Cards CatID="31213" Quantity="2" Sideboard="false" Name="Etherium Sculptor" />
+  <Cards CatID="46563" Quantity="3" Sideboard="false" Name="Rakdos, Lord of Riots" />
+  <Cards CatID="21385" Quantity="1" Sideboard="false" Name="Minamo, School at Water's Edge" />
+  <Cards CatID="20956" Quantity="1" Sideboard="false" Name="Serum Visions" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="54198" Quantity="1" Sideboard="false" Name="Bloodstained Mire" />
+  <Cards CatID="68661" Quantity="1" Sideboard="true" Name="Detection Tower" />
+  <Cards CatID="37240" Quantity="1" Sideboard="false" Name="Lightning Bolt" />
+  <Cards CatID="35515" Quantity="1" Sideboard="true" Name="Bojuka Bog" />
+  <Cards CatID="62689" Quantity="2" Sideboard="false" Name="Fatal Push" />
+  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="37242" Quantity="1" Sideboard="false" Name="Dragonskull Summit" />
+  <Cards CatID="37226" Quantity="1" Sideboard="false" Name="Drowned Catacomb" />
+  <Cards CatID="46805" Quantity="1" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
+  <Cards CatID="27120" Quantity="1" Sideboard="false" Name="Ghitu Encampment" />
+  <Cards CatID="64862" Quantity="1" Sideboard="false" Name="Crypt of the Eternals" />
+  <Cards CatID="41389" Quantity="1" Sideboard="false" Name="Chandra, the Firebrand" />
+  <Cards CatID="61573" Quantity="1" Sideboard="false" Name="Chandra, Torch of Defiance" />
+  <Cards CatID="58399" Quantity="1" Sideboard="false" Name="Ob Nixilis Reignited" />
+  <Cards CatID="54246" Quantity="1" Sideboard="false" Name="Sarkhan, the Dragonspeaker" />
+  <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
+  <Cards CatID="30979" Quantity="1" Sideboard="false" Name="Tezzeret the Seeker" />
+  <Cards CatID="39998" Quantity="1" Sideboard="true" Name="Torpor Orb" />
+  <Cards CatID="50256" Quantity="1" Sideboard="true" Name="Thoughtseize" />
+  <Cards CatID="50256" Quantity="1" Sideboard="true" Name="Thoughtseize" />
+  <Cards CatID="54102" Quantity="1" Sideboard="false" Name="Despise" />
 </Deck>

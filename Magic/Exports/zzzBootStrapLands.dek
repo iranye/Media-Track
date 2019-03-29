@@ -133,4 +133,13 @@
   <Cards CatID="68673" Quantity="4" Sideboard="false" Name="Rupture Spire" />
   <Cards CatID="29212" Quantity="4" Sideboard="false" Name="Primal Beyond" />
   <Cards CatID="59926" Quantity="4" Sideboard="false" Name="Port Town" />
+  <Cards CatID="40497" Quantity="4" Sideboard="false" Name="Vivid Creek" />
+  <Cards CatID="28515" Quantity="4" Sideboard="false" Name="Vivid Grove" />
+  <Cards CatID="28517" Quantity="4" Sideboard="false" Name="Vivid Marsh" />
+  <Cards CatID="59255" Quantity="2" Sideboard="false" Name="Hissing Quagmire" />
+  <Cards CatID="46507" Quantity="2" Sideboard="false" Name="Overgrown Tomb" />
+  <Cards CatID="50936" Quantity="4" Sideboard="false" Name="Savage Lands" />
+  <Cards CatID="28523" Quantity="4" Sideboard="false" Name="Vivid Meadow" />
+  <Cards CatID="28521" Quantity="4" Sideboard="false" Name="Vivid Crag" />
+  <Cards CatID="31403" Quantity="2" Sideboard="false" Name="Treetop Village" />
 </Deck>

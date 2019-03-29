@@ -245,4 +245,9 @@
   <Cards CatID="45514" Quantity="1" Sideboard="false" Name="Murder" />
   <Cards CatID="66525" Quantity="1" Sideboard="false" Name="Deadeye Rig-Hauler" />
   <Cards CatID="62689" Quantity="1" Sideboard="false" Name="Fatal Push" />
+  <Cards CatID="30036" Quantity="1" Sideboard="false" Name="Canker Abomination" />
+  <Cards CatID="67547" Quantity="1" Sideboard="false" Name="Academy Journeymage" />
+  <Cards CatID="69675" Quantity="1" Sideboard="false" Name="Artful Takedown" />
+  <Cards CatID="71128" Quantity="1" Sideboard="false" Name="Bladebrand" />
+  <Cards CatID="67639" Quantity="1" Sideboard="false" Name="Divest" />
 </Deck>

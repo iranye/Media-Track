@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53514" Quantity="1" Sideboard="false" Name="Ulcerate" />
+  <Cards CatID="71148" Quantity="1" Sideboard="false" Name="Font of Agonies" />
+  <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
+  <Cards CatID="46741" Quantity="1" Sideboard="false" Name="Underworld Connections" />
+  <Cards CatID="65012" Quantity="5" Sideboard="false" Name="Adanto Vanguard" />
+  <Cards CatID="53596" Quantity="1" Sideboard="false" Name="Cruel Sadist" />
+  <Cards CatID="53726" Quantity="1" Sideboard="false" Name="First Response" />
+  <Cards CatID="15742" Quantity="1" Sideboard="false" Name="Phyrexian Colossus" />
+  <Cards CatID="52120" Quantity="1" Sideboard="false" Name="Mana Confluence" />
+</Deck>

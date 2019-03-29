@@ -91,4 +91,7 @@
   <Cards CatID="20684" Quantity="1" Sideboard="false" Name="Fist of Suns" />
   <Cards CatID="66543" Quantity="1" Sideboard="false" Name="Nezahal, Primal Tide" />
   <Cards CatID="31671" Quantity="1" Sideboard="false" Name="Kaleidostone" />
+  <Cards CatID="29657" Quantity="1" Sideboard="false" Name="Demigod of Revenge" />
+  <Cards CatID="56374" Quantity="1" Sideboard="false" Name="Volcanic Vision" />
+  <Cards CatID="62067" Quantity="1" Sideboard="false" Name="Key to the City" />
 </Deck>
