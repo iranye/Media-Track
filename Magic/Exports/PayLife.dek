@@ -132,4 +132,15 @@
   <Cards CatID="58555" Quantity="2" Sideboard="false" Name="Quarantine Field" />
   <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
   <Cards CatID="27204" Quantity="1" Sideboard="false" Name="Citanul Flute" />
+  <Cards CatID="46479" Quantity="1" Sideboard="false" Name="Archon of the Triumvirate" />
+  <Cards CatID="65194" Quantity="1" Sideboard="false" Name="Arguel's Blood Fast" />
+  <Cards CatID="22132" Quantity="1" Sideboard="false" Name="Blood Clock" />
+  <Cards CatID="20892" Quantity="1" Sideboard="false" Name="Bringer of the Black Dawn" />
+  <Cards CatID="26313" Quantity="1" Sideboard="false" Name="Crovax, Ascendant Hero" />
+  <Cards CatID="71342" Quantity="1" Sideboard="false" Name="Final Payment" />
+  <Cards CatID="65034" Quantity="1" Sideboard="false" Name="Glorifier of Dusk" />
+  <Cards CatID="44109" Quantity="1" Sideboard="false" Name="Killing Wave" />
+  <Cards CatID="20271" Quantity="1" Sideboard="false" Name="Nightmare Lash" />
+  <Cards CatID="54338" Quantity="1" Sideboard="false" Name="Raiders' Spoils" />
+  <Cards CatID="60312" Quantity="1" Sideboard="false" Name="Sinister Concoction" />
 </Deck>
