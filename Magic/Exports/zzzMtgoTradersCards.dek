@@ -2742,4 +2742,18 @@
   <Cards CatID="65496" Quantity="8" Sideboard="false" Name="Dusk Legion Dreadnought" />
   <Cards CatID="66593" Quantity="9" Sideboard="false" Name="Dusk Legion Zealot" />
   <Cards CatID="65032" Quantity="8" Sideboard="false" Name="Encampment Keeper" />
+  <Cards CatID="71342" Quantity="4" Sideboard="false" Name="Final Payment" />
+  <Cards CatID="71190" Quantity="5" Sideboard="false" Name="Cavalcade of Calamity" />
+  <Cards CatID="46479" Quantity="4" Sideboard="false" Name="Archon of the Triumvirate" />
+  <Cards CatID="50570" Quantity="2" Sideboard="false" Name="Ashen Rider" />
+  <Cards CatID="68593" Quantity="8" Sideboard="false" Name="Enigma Drake" />
+  <Cards CatID="53662" Quantity="1" Sideboard="false" Name="Resolute Archangel" />
+  <Cards CatID="48436" Quantity="2" Sideboard="false" Name="Maw of the Obzedat" />
+  <Cards CatID="50244" Quantity="7" Sideboard="false" Name="Sentry of the Underworld" />
+  <Cards CatID="62847" Quantity="4" Sideboard="false" Name="Filigree Crawler" />
+  <Cards CatID="46683" Quantity="4" Sideboard="false" Name="Shrieking Affliction" />
+  <Cards CatID="48300" Quantity="1" Sideboard="false" Name="Deadbridge Chant" />
+  <Cards CatID="46753" Quantity="5" Sideboard="false" Name="Deadbridge Goliath" />
+  <Cards CatID="55948" Quantity="4" Sideboard="false" Name="Encase in Ice" />
+  <Cards CatID="68271" Quantity="9" Sideboard="false" Name="Exclusion Mage" />
 </Deck>

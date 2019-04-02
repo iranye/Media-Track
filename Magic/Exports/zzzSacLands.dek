@@ -424,4 +424,5 @@
   <Cards CatID="20239" Quantity="1" Sideboard="false" Name="Quicksilver Fountain" />
   <Cards CatID="65224" Quantity="1" Sideboard="false" Name="Dire Fleet Ravager" />
   <Cards CatID="48300" Quantity="1" Sideboard="false" Name="Deadbridge Chant" />
+  <Cards CatID="46753" Quantity="1" Sideboard="false" Name="Deadbridge Goliath" />
 </Deck>
