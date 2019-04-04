@@ -250,4 +250,5 @@
   <Cards CatID="69675" Quantity="1" Sideboard="false" Name="Artful Takedown" />
   <Cards CatID="71128" Quantity="1" Sideboard="false" Name="Bladebrand" />
   <Cards CatID="67639" Quantity="1" Sideboard="false" Name="Divest" />
+  <Cards CatID="30146" Quantity="1" Sideboard="false" Name="Spitting Image" />
 </Deck>

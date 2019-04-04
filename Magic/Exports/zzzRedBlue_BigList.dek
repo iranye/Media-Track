@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -268,7 +269,7 @@
   <Cards CatID="48512" Quantity="1" Sideboard="false" Name="Catch/Release" />
   <Cards CatID="46745" Quantity="1" Sideboard="false" Name="Ash Zealot" />
   <Cards CatID="71162" Quantity="1" Sideboard="false" Name="Pestilent Spirit" />
-  <Cards CatID="71128" Quantity="1" Sideboard="false" Name="Bladebrand" />
+  <Cards CatID="71128" Quantity="2" Sideboard="false" Name="Bladebrand" />
   <Cards CatID="71190" Quantity="1" Sideboard="false" Name="Cavalcade of Calamity" />
   <Cards CatID="65208" Quantity="1" Sideboard="false" Name="Costly Plunder" />
   <Cards CatID="48914" Quantity="1" Sideboard="false" Name="Pyrite Spellbomb" />
@@ -314,4 +315,7 @@
   <Cards CatID="50256" Quantity="1" Sideboard="true" Name="Thoughtseize" />
   <Cards CatID="50256" Quantity="1" Sideboard="true" Name="Thoughtseize" />
   <Cards CatID="54102" Quantity="1" Sideboard="false" Name="Despise" />
+  <Cards CatID="71124" Quantity="1" Sideboard="false" Name="Bankrupt in Blood" />
+  <Cards CatID="68617" Quantity="1" Sideboard="false" Name="Arcane Encyclopedia" />
+  <Cards CatID="46715" Quantity="1" Sideboard="false" Name="Rakdos Ragemutt" />
 </Deck>

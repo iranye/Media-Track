@@ -5,16 +5,16 @@
   <Cards CatID="38229" Quantity="1" Sideboard="false" Name="Semblance Anvil" />
   <Cards CatID="52246" Quantity="1" Sideboard="false" Name="Eidolon of the Great Revel" />
   <Cards CatID="48218" Quantity="1" Sideboard="false" Name="Tajic, Blade of the Legion" />
-  <Cards CatID="69781" Quantity="1" Sideboard="false" Name="Tajic, Legion's Edge" />
+  <Cards CatID="69781" Quantity="2" Sideboard="false" Name="Tajic, Legion's Edge" />
   <Cards CatID="51687" Quantity="1" Sideboard="false" Name="Everflame Eidolon" />
   <Cards CatID="52016" Quantity="2" Sideboard="false" Name="Iroas, God of Victory" />
   <Cards CatID="58100" Quantity="1" Sideboard="false" Name="Iroas's Champion" />
   <Cards CatID="52074" Quantity="1" Sideboard="false" Name="Nyx-Fleece Ram" />
-  <Cards CatID="50184" Quantity="1" Sideboard="false" Name="Spearpoint Oread" />
+  <Cards CatID="50184" Quantity="2" Sideboard="false" Name="Spearpoint Oread" />
   <Cards CatID="67541" Quantity="1" Sideboard="false" Name="Triumph of Gerrard" />
   <Cards CatID="47921" Quantity="1" Sideboard="false" Name="Boros Reckoner" />
   <Cards CatID="47477" Quantity="2" Sideboard="false" Name="Boros Charm" />
-  <Cards CatID="47699" Quantity="1" Sideboard="false" Name="Firemane Avenger" />
+  <Cards CatID="47699" Quantity="2" Sideboard="false" Name="Firemane Avenger" />
   <Cards CatID="47885" Quantity="1" Sideboard="false" Name="Foundry Champion" />
   <Cards CatID="23590" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
   <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
@@ -25,7 +25,7 @@
   <Cards CatID="47743" Quantity="1" Sideboard="false" Name="Aurelia, the Warleader" />
   <Cards CatID="51757" Quantity="1" Sideboard="false" Name="Archetype of Courage" />
   <Cards CatID="50578" Quantity="2" Sideboard="false" Name="Anger of the Gods" />
-  <Cards CatID="65054" Quantity="1" Sideboard="false" Name="Legion's Landing" />
+  <Cards CatID="65054" Quantity="2" Sideboard="false" Name="Legion's Landing" />
   <Cards CatID="44786" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
   <Cards CatID="19979" Quantity="1" Sideboard="false" Name="Fractured Loyalty" />
   <Cards CatID="45698" Quantity="1" Sideboard="false" Name="Staff of Nin" />
@@ -53,9 +53,9 @@
   <Cards CatID="31309" Quantity="1" Sideboard="false" Name="Knight of the White Orchid" />
   <Cards CatID="53522" Quantity="1" Sideboard="false" Name="Spirit Bonds" />
   <Cards CatID="46745" Quantity="1" Sideboard="false" Name="Ash Zealot" />
-  <Cards CatID="47605" Quantity="1" Sideboard="false" Name="Wojek Halberdiers" />
+  <Cards CatID="47605" Quantity="2" Sideboard="false" Name="Wojek Halberdiers" />
   <Cards CatID="32312" Quantity="2" Sideboard="false" Name="Stun Sniper" />
-  <Cards CatID="54422" Quantity="1" Sideboard="false" Name="Highspire Mantis" />
+  <Cards CatID="54422" Quantity="2" Sideboard="false" Name="Highspire Mantis" />
   <Cards CatID="47583" Quantity="1" Sideboard="false" Name="Skyknight Legionnaire" />
   <Cards CatID="36586" Quantity="1" Sideboard="false" Name="Student of Warfare" />
   <Cards CatID="65522" Quantity="1" Sideboard="false" Name="Sorcerous Spyglass" />
@@ -76,7 +76,7 @@
   <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
   <Cards CatID="55456" Quantity="1" Sideboard="false" Name="Alesha, Who Smiles at Death" />
   <Cards CatID="63644" Quantity="1" Sideboard="false" Name="Oketra the True" />
-  <Cards CatID="47553" Quantity="1" Sideboard="false" Name="Bomber Corps" />
+  <Cards CatID="47553" Quantity="2" Sideboard="false" Name="Bomber Corps" />
   <Cards CatID="26365" Quantity="1" Sideboard="false" Name="Aether Membrane" />
   <Cards CatID="39822" Quantity="1" Sideboard="false" Name="Cathedral Membrane" />
   <Cards CatID="61625" Quantity="1" Sideboard="false" Name="Fragmentize" />
@@ -134,7 +134,7 @@
   <Cards CatID="29291" Quantity="1" Sideboard="true" Name="Vexing Shusher" />
   <Cards CatID="47929" Quantity="1" Sideboard="true" Name="Hellkite Tyrant" />
   <Cards CatID="63628" Quantity="1" Sideboard="true" Name="Forsake the Worldly" />
-  <Cards CatID="69685" Quantity="1" Sideboard="false" Name="Boros Challenger" />
+  <Cards CatID="69685" Quantity="2" Sideboard="false" Name="Boros Challenger" />
   <Cards CatID="71194" Quantity="1" Sideboard="false" Name="Dagger Caster" />
   <Cards CatID="30144" Quantity="1" Sideboard="false" Name="Nobilis of War" />
   <Cards CatID="29972" Quantity="1" Sideboard="false" Name="Hobgoblin Dragoon" />
@@ -144,4 +144,13 @@
   <Cards CatID="24747" Quantity="1" Sideboard="false" Name="Tamanoa" />
   <Cards CatID="23462" Quantity="1" Sideboard="false" Name="Sunhome Enforcer" />
   <Cards CatID="30236" Quantity="1" Sideboard="false" Name="Spitemare" />
+  <Cards CatID="65344" Quantity="1" Sideboard="false" Name="Sun-Crowned Hunters" />
+  <Cards CatID="47533" Quantity="1" Sideboard="false" Name="Boros Elite" />
+  <Cards CatID="48348" Quantity="1" Sideboard="false" Name="Boros Battleshaper" />
+  <Cards CatID="47459" Quantity="1" Sideboard="false" Name="Sunhome Guildmage" />
+  <Cards CatID="48440" Quantity="1" Sideboard="false" Name="Blaze Commando" />
+  <Cards CatID="47893" Quantity="1" Sideboard="false" Name="Truefire Paladin" />
+  <Cards CatID="34788" Quantity="1" Sideboard="false" Name="Quest for the Holy Relic" />
+  <Cards CatID="69779" Quantity="1" Sideboard="false" Name="Swiftblade Vindicator" />
+  <Cards CatID="54108" Quantity="1" Sideboard="false" Name="Monastery Swiftspear" />
 </Deck>

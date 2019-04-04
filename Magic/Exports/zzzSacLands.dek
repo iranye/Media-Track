@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -392,7 +393,7 @@
   <Cards CatID="35699" Quantity="1" Sideboard="false" Name="Nature's Claim" />
   <Cards CatID="67801" Quantity="1" Sideboard="false" Name="Llanowar Elves" />
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
-  <Cards CatID="59255" Quantity="1" Sideboard="false" Name="Hissing Quagmire" />
+  <Cards CatID="59255" Quantity="2" Sideboard="false" Name="Hissing Quagmire" />
   <Cards CatID="35589" Quantity="1" Sideboard="false" Name="Tectonic Edge" />
   <Cards CatID="67813" Quantity="1" Sideboard="false" Name="Multani, Yavimaya's Avatar" />
   <Cards CatID="67863" Quantity="1" Sideboard="false" Name="Muldrotha, the Gravetide" />
@@ -412,4 +413,16 @@
   <Cards CatID="63760" Quantity="1" Sideboard="false" Name="Baleful Ammit" />
   <Cards CatID="66629" Quantity="1" Sideboard="false" Name="Twilight Prophet" />
   <Cards CatID="46507" Quantity="2" Sideboard="false" Name="Overgrown Tomb" />
+  <Cards CatID="42758" Quantity="1" Sideboard="false" Name="Maw of the Mire" />
+  <Cards CatID="30112" Quantity="1" Sideboard="false" Name="Voracious Hatchling" />
+  <Cards CatID="52074" Quantity="1" Sideboard="false" Name="Nyx-Fleece Ram" />
+  <Cards CatID="69723" Quantity="1" Sideboard="false" Name="Golgari Findbroker" />
+  <Cards CatID="65444" Quantity="1" Sideboard="false" Name="Verdant Rebirth" />
+  <Cards CatID="68665" Quantity="1" Sideboard="false" Name="Foul Orchard" />
+  <Cards CatID="68603" Quantity="1" Sideboard="false" Name="Poison-Tip Archer" />
+  <Cards CatID="61577" Quantity="1" Sideboard="false" Name="Highspire Artisan" />
+  <Cards CatID="20239" Quantity="1" Sideboard="false" Name="Quicksilver Fountain" />
+  <Cards CatID="65224" Quantity="1" Sideboard="false" Name="Dire Fleet Ravager" />
+  <Cards CatID="48300" Quantity="1" Sideboard="false" Name="Deadbridge Chant" />
+  <Cards CatID="46753" Quantity="1" Sideboard="false" Name="Deadbridge Goliath" />
 </Deck>

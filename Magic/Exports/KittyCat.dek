@@ -153,4 +153,15 @@
   <Cards CatID="44105" Quantity="1" Sideboard="false" Name="Blood Artist" />
   <Cards CatID="71344" Quantity="1" Sideboard="false" Name="Fireblade Artist" />
   <Cards CatID="59417" Quantity="1" Sideboard="false" Name="Kalitas, Traitor of Ghet" />
+  <Cards CatID="48436" Quantity="2" Sideboard="false" Name="Maw of the Obzedat" />
+  <Cards CatID="24179" Quantity="1" Sideboard="false" Name="Lyzolda, the Blood Witch" />
+  <Cards CatID="23855" Quantity="1" Sideboard="false" Name="Blind Hunter" />
+  <Cards CatID="66615" Quantity="1" Sideboard="false" Name="Pitiless Plunderer" />
+  <Cards CatID="23651" Quantity="1" Sideboard="false" Name="Orzhov Pontiff" />
+  <Cards CatID="57712" Quantity="1" Sideboard="false" Name="Nantuko Husk" />
+  <Cards CatID="44229" Quantity="1" Sideboard="false" Name="Polluted Dead" />
+  <Cards CatID="24801" Quantity="1" Sideboard="false" Name="Vexing Sphinx" />
+  <Cards CatID="62847" Quantity="1" Sideboard="false" Name="Filigree Crawler" />
+  <Cards CatID="50244" Quantity="1" Sideboard="false" Name="Sentry of the Underworld" />
+  <Cards CatID="71190" Quantity="1" Sideboard="false" Name="Cavalcade of Calamity" />
 </Deck>

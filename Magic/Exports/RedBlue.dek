@@ -36,7 +36,6 @@
   <Cards CatID="49231" Quantity="2" Sideboard="false" Name="Ratchet Bomb" />
   <Cards CatID="68477" Quantity="1" Sideboard="false" Name="Smelt" />
   <Cards CatID="48992" Quantity="1" Sideboard="true" Name="Kira, Great Glass-Spinner" />
-  <Cards CatID="65522" Quantity="1" Sideboard="true" Name="Sorcerous Spyglass" />
   <Cards CatID="49217" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
   <Cards CatID="68661" Quantity="1" Sideboard="true" Name="Detection Tower" />
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
@@ -95,6 +94,6 @@
   <Cards CatID="19737" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
   <Cards CatID="67657" Quantity="1" Sideboard="false" Name="Kazarov, Sengir Pureblood" />
   <Cards CatID="25647" Quantity="1" Sideboard="false" Name="Kaervek the Merciless" />
-  <Cards CatID="50256" Quantity="1" Sideboard="true" Name="Thoughtseize" />
+  <Cards CatID="50256" Quantity="2" Sideboard="true" Name="Thoughtseize" />
   <Cards CatID="50256" Quantity="1" Sideboard="false" Name="Thoughtseize" />
 </Deck>
