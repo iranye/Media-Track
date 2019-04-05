@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
-  <Cards CatID="54234" Quantity="1" Sideboard="false" Name="Mountain" />
-  <Cards CatID="54218" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="54234" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="54218" Quantity="2" Sideboard="false" Name="Island" />
   <Cards CatID="54168" Quantity="2" Sideboard="false" Name="Frontier Bivouac" />
-  <Cards CatID="54238" Quantity="2" Sideboard="false" Name="Forest" />
+  <Cards CatID="54238" Quantity="3" Sideboard="false" Name="Forest" />
   <Cards CatID="50266" Quantity="1" Sideboard="false" Name="Temple of Abandon" />
   <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
   <Cards CatID="50272" Quantity="2" Sideboard="false" Name="Temple of Mystery" />
@@ -50,7 +50,6 @@
   <Cards CatID="61801" Quantity="1" Sideboard="false" Name="Panharmonicon" />
   <Cards CatID="26545" Quantity="1" Sideboard="false" Name="Wild Pair" />
   <Cards CatID="61853" Quantity="1" Sideboard="false" Name="Botanical Sanctum" />
-  <Cards CatID="28723" Quantity="1" Sideboard="false" Name="Changeling Titan" />
   <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
   <Cards CatID="39694" Quantity="1" Sideboard="false" Name="Whipflare" />
   <Cards CatID="46455" Quantity="1" Sideboard="false" Name="Tablet of the Guilds" />
