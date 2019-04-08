@@ -81,4 +81,5 @@
   <Cards CatID="48300" Quantity="1" Sideboard="false" Name="Deadbridge Chant" />
   <Cards CatID="47927" Quantity="1" Sideboard="false" Name="Lord of the Void" />
   <Cards CatID="36428" Quantity="2" Sideboard="false" Name="Consume the Meek" />
+  <Cards CatID="41541" Quantity="2" Sideboard="false" Name="Quicksilver Amulet" />
 </Deck>
