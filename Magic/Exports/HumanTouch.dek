@@ -3,10 +3,10 @@
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="9199" Quantity="4" Sideboard="false" Name="Fire Whip" />
-  <Cards CatID="14765" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="14765" Quantity="3" Sideboard="false" Name="Mountain" />
   <Cards CatID="63764" Quantity="1" Sideboard="false" Name="Bone Picker" />
-  <Cards CatID="65554" Quantity="2" Sideboard="false" Name="Plains" />
-  <Cards CatID="60076" Quantity="2" Sideboard="false" Name="Swamp" />
+  <Cards CatID="65554" Quantity="3" Sideboard="false" Name="Plains" />
+  <Cards CatID="60076" Quantity="3" Sideboard="false" Name="Swamp" />
   <Cards CatID="55998" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="42358" Quantity="2" Sideboard="false" Name="Bonds of Faith" />
   <Cards CatID="55602" Quantity="1" Sideboard="false" Name="Arcbond" />

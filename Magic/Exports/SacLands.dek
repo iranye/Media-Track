@@ -5,16 +5,16 @@
   <Cards CatID="55998" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="34468" Quantity="1" Sideboard="false" Name="Harrow" />
-  <Cards CatID="54238" Quantity="5" Sideboard="false" Name="Forest" />
-  <Cards CatID="60076" Quantity="4" Sideboard="false" Name="Swamp" />
+  <Cards CatID="54238" Quantity="6" Sideboard="false" Name="Forest" />
+  <Cards CatID="60076" Quantity="5" Sideboard="false" Name="Swamp" />
   <Cards CatID="67811" Quantity="1" Sideboard="false" Name="The Mending of Dominaria" />
   <Cards CatID="46347" Quantity="1" Sideboard="false" Name="Gatecreeper Vine" />
   <Cards CatID="48946" Quantity="1" Sideboard="false" Name="Eternal Witness" />
   <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
   <Cards CatID="53652" Quantity="1" Sideboard="false" Name="Yisan, the Wanderer Bard" />
-  <Cards CatID="51968" Quantity="2" Sideboard="false" Name="Temple of Malady" />
+  <Cards CatID="51968" Quantity="4" Sideboard="false" Name="Temple of Malady" />
   <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
-  <Cards CatID="65538" Quantity="1" Sideboard="false" Name="Field of Ruin" />
+  <Cards CatID="65538" Quantity="2" Sideboard="false" Name="Field of Ruin" />
   <Cards CatID="38327" Quantity="1" Sideboard="false" Name="Lux Cannon" />
   <Cards CatID="20187" Quantity="3" Sideboard="false" Name="Power Conduit" />
   <Cards CatID="68639" Quantity="1" Sideboard="false" Name="Magistrate's Scepter" />
@@ -58,7 +58,6 @@
   <Cards CatID="54406" Quantity="2" Sideboard="false" Name="Hardened Scales" />
   <Cards CatID="27256" Quantity="1" Sideboard="false" Name="Rain of Tears" />
   <Cards CatID="39730" Quantity="1" Sideboard="false" Name="Sword of War and Peace" />
-  <Cards CatID="42294" Quantity="1" Sideboard="false" Name="Ghost Quarter" />
   <Cards CatID="67961" Quantity="2" Sideboard="false" Name="Woodland Cemetery" />
   <Cards CatID="26808" Quantity="2" Sideboard="false" Name="Llanowar Reborn" />
   <Cards CatID="54198" Quantity="1" Sideboard="false" Name="Bloodstained Mire" />
