@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -27,7 +27,7 @@
   <Cards CatID="23590" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
   <Cards CatID="61859" Quantity="2" Sideboard="false" Name="Concealed Courtyard" />
   <Cards CatID="50270" Quantity="4" Sideboard="false" Name="Temple of Triumph" />
-  <Cards CatID="49135" Quantity="5" Sideboard="false" Name="Mutavault" />
+  <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
   <Cards CatID="46505" Quantity="2" Sideboard="false" Name="Blood Crypt" />
   <Cards CatID="63513" Quantity="1" Sideboard="false" Name="Cavern of Souls" />
   <Cards CatID="50398" Quantity="8" Sideboard="false" Name="Unknown Shores" />
