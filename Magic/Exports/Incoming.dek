@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -10,6 +10,7 @@
   <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
   <Cards CatID="51968" Quantity="4" Sideboard="false" Name="Temple of Malady" />
   <Cards CatID="63093" Quantity="1" Sideboard="false" Name="Harmonize" />
+  <Cards CatID="45334" Quantity="8" Sideboard="false" Name="Forest" />
   <Cards CatID="51851" Quantity="2" Sideboard="false" Name="Courser of Kruphix" />
   <Cards CatID="67645" Quantity="1" Sideboard="false" Name="The Eldest Reborn" />
   <Cards CatID="65432" Quantity="1" Sideboard="false" Name="Shapers' Sanctuary" />
@@ -26,7 +27,6 @@
   <Cards CatID="54198" Quantity="2" Sideboard="false" Name="Bloodstained Mire" />
   <Cards CatID="30084" Quantity="1" Sideboard="false" Name="Twilight Mire" />
   <Cards CatID="66775" Quantity="1" Sideboard="false" Name="Journey to Eternity" />
-  <Cards CatID="64638" Quantity="1" Sideboard="false" Name="Torment of Hailfire" />
   <Cards CatID="35699" Quantity="2" Sideboard="false" Name="Nature's Claim" />
   <Cards CatID="40086" Quantity="1" Sideboard="false" Name="Sheoldred, Whispering One" />
   <Cards CatID="48254" Quantity="2" Sideboard="false" Name="Gaze of Granite" />
@@ -44,7 +44,6 @@
   <Cards CatID="50256" Quantity="2" Sideboard="true" Name="Thoughtseize" />
   <Cards CatID="29942" Quantity="1" Sideboard="false" Name="Doomgape" />
   <Cards CatID="50260" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
-  <Cards CatID="66827" Quantity="1" Sideboard="false" Name="The Immortal Sun" />
   <Cards CatID="50256" Quantity="1" Sideboard="false" Name="Thoughtseize" />
   <Cards CatID="54102" Quantity="1" Sideboard="false" Name="Despise" />
   <Cards CatID="30218" Quantity="2" Sideboard="false" Name="Sapling of Colfenor" />

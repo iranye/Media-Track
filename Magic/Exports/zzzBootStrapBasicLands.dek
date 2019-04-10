@@ -4,8 +4,8 @@
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="60076" Quantity="6" Sideboard="false" Name="Swamp" />
   <Cards CatID="53390" Quantity="8" Sideboard="false" Name="Plains" />
-  <Cards CatID="14915" Quantity="6" Sideboard="false" Name="Island" />
-  <Cards CatID="54238" Quantity="7" Sideboard="false" Name="Forest" />
+  <Cards CatID="45334" Quantity="9" Sideboard="false" Name="Forest" />
   <Cards CatID="53370" Quantity="8" Sideboard="false" Name="Mountain" />
   <Cards CatID="55998" Quantity="7" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="53482" Quantity="10" Sideboard="false" Name="Island" />
 </Deck>
