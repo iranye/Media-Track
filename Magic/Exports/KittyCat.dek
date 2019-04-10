@@ -164,4 +164,8 @@
   <Cards CatID="62847" Quantity="1" Sideboard="false" Name="Filigree Crawler" />
   <Cards CatID="50244" Quantity="1" Sideboard="false" Name="Sentry of the Underworld" />
   <Cards CatID="71190" Quantity="1" Sideboard="false" Name="Cavalcade of Calamity" />
+  <Cards CatID="54394" Quantity="1" Sideboard="false" Name="Sultai Flayer" />
+  <Cards CatID="55542" Quantity="1" Sideboard="false" Name="Destructor Dragon" />
+  <Cards CatID="19707" Quantity="1" Sideboard="false" Name="Chimney Imp" />
+  <Cards CatID="60266" Quantity="1" Sideboard="false" Name="Ulvenwald Mysteries" />
 </Deck>
