@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -107,4 +107,7 @@
   <Cards CatID="20063" Quantity="1" Sideboard="false" Name="Soul Foundry" />
   <Cards CatID="34902" Quantity="1" Sideboard="false" Name="Rancor" />
   <Cards CatID="46739" Quantity="1" Sideboard="false" Name="Desecration Demon" />
+  <Cards CatID="66629" Quantity="1" Sideboard="false" Name="Twilight Prophet" />
+  <Cards CatID="65444" Quantity="1" Sideboard="false" Name="Verdant Rebirth" />
+  <Cards CatID="53636" Quantity="1" Sideboard="false" Name="Scuttling Doom Engine" />
 </Deck>

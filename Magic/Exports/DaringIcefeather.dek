@@ -46,7 +46,7 @@
   <Cards CatID="68661" Quantity="1" Sideboard="true" Name="Detection Tower" />
   <Cards CatID="24153" Quantity="1" Sideboard="false" Name="Bronze Bombshell" />
   <Cards CatID="61797" Quantity="2" Sideboard="false" Name="Smuggler's Copter" />
-  <Cards CatID="64152" Quantity="3" Sideboard="false" Name="Irrigated Farmland" />
+  <Cards CatID="64152" Quantity="4" Sideboard="false" Name="Irrigated Farmland" />
   <Cards CatID="32817" Quantity="2" Sideboard="false" Name="Glacial Fortress" />
   <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
   <Cards CatID="65522" Quantity="1" Sideboard="false" Name="Sorcerous Spyglass" />
@@ -69,7 +69,7 @@
   <Cards CatID="53522" Quantity="1" Sideboard="false" Name="Spirit Bonds" />
   <Cards CatID="25493" Quantity="1" Sideboard="false" Name="Spirit Loop" />
   <Cards CatID="58317" Quantity="1" Sideboard="false" Name="Gideon, Ally of Zendikar" />
-  <Cards CatID="65054" Quantity="1" Sideboard="false" Name="Legion's Landing" />
+  <Cards CatID="65054" Quantity="2" Sideboard="false" Name="Legion's Landing" />
   <Cards CatID="42684" Quantity="1" Sideboard="false" Name="Intangible Virtue" />
   <Cards CatID="22373" Quantity="2" Sideboard="false" Name="Soul Warden" />
   <Cards CatID="44786" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
@@ -94,4 +94,5 @@
   <Cards CatID="46423" Quantity="2" Sideboard="false" Name="Detention Sphere" />
   <Cards CatID="39549" Quantity="1" Sideboard="true" Name="Sword of Feast and Famine" />
   <Cards CatID="50440" Quantity="2" Sideboard="false" Name="Swan Song" />
+  <Cards CatID="39830" Quantity="1" Sideboard="false" Name="Mycosynth Wellspring" />
 </Deck>

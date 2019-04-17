@@ -2834,4 +2834,15 @@
   <Cards CatID="45594" Quantity="4" Sideboard="false" Name="Elderscale Wurm" />
   <Cards CatID="30222" Quantity="4" Sideboard="false" Name="Endless Horizons" />
   <Cards CatID="45388" Quantity="4" Sideboard="false" Name="Garruk's Packleader" />
+  <Cards CatID="45518" Quantity="1" Sideboard="false" Name="Krenko's Command" />
+  <Cards CatID="51671" Quantity="7" Sideboard="false" Name="Thassa's Rebuff" />
+  <Cards CatID="71344" Quantity="4" Sideboard="false" Name="Fireblade Artist" />
+  <Cards CatID="67875" Quantity="8" Sideboard="false" Name="Slimefoot, the Stowaway" />
+  <Cards CatID="67821" Quantity="8" Sideboard="false" Name="Saproling Migration" />
+  <Cards CatID="67843" Quantity="9" Sideboard="false" Name="Yavimaya Sapherd" />
+  <Cards CatID="67633" Quantity="9" Sideboard="false" Name="Deathbloom Thallid" />
+  <Cards CatID="67687" Quantity="8" Sideboard="false" Name="Whisper, Blood Liturgist" />
+  <Cards CatID="67677" Quantity="9" Sideboard="false" Name="Thallid Omnivore" />
+  <Cards CatID="67653" Quantity="8" Sideboard="false" Name="Fungal Infection" />
+  <Cards CatID="67685" Quantity="8" Sideboard="false" Name="Vicious Offering" />
 </Deck>
