@@ -235,4 +235,9 @@
   <Cards CatID="20063" Quantity="1" Sideboard="false" Name="Soul Foundry" />
   <Cards CatID="42790" Quantity="1" Sideboard="false" Name="Parallel Lives" />
   <Cards CatID="59792" Quantity="1" Sideboard="false" Name="Cryptolith Rite" />
+  <Cards CatID="53564" Quantity="1" Sideboard="false" Name="Garruk, Apex Predator" />
+  <Cards CatID="66775" Quantity="1" Sideboard="false" Name="Journey to Eternity" />
+  <Cards CatID="59583" Quantity="1" Sideboard="false" Name="Ayli, Eternal Pilgrim" />
+  <Cards CatID="67873" Quantity="1" Sideboard="false" Name="Shanna, Sisay's Legacy" />
+  <Cards CatID="65208" Quantity="1" Sideboard="false" Name="Costly Plunder" />
 </Deck>
