@@ -2,22 +2,16 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="67645" Quantity="1" Sideboard="false" Name="The Eldest Reborn" />
   <Cards CatID="62819" Quantity="1" Sideboard="false" Name="Hidden Stockpile" />
-  <Cards CatID="67669" Quantity="1" Sideboard="false" Name="Rite of Belzenlok" />
   <Cards CatID="53390" Quantity="2" Sideboard="false" Name="Plains" />
   <Cards CatID="60076" Quantity="2" Sideboard="false" Name="Swamp" />
   <Cards CatID="45334" Quantity="2" Sideboard="false" Name="Forest" />
-  <Cards CatID="53688" Quantity="1" Sideboard="false" Name="Heliod's Pilgrim" />
-  <Cards CatID="26660" Quantity="1" Sideboard="false" Name="Sword of the Meek" />
   <Cards CatID="67527" Quantity="2" Sideboard="false" Name="Seal Away" />
   <Cards CatID="50374" Quantity="1" Sideboard="false" Name="Gift of Immortality" />
   <Cards CatID="45220" Quantity="1" Sideboard="false" Name="Pacifism" />
   <Cards CatID="67685" Quantity="1" Sideboard="false" Name="Vicious Offering" />
-  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="52260" Quantity="1" Sideboard="false" Name="Dictate of Erebos" />
-  <Cards CatID="19737" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
   <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
   <Cards CatID="58531" Quantity="2" Sideboard="false" Name="Shambling Vent" />
   <Cards CatID="35515" Quantity="2" Sideboard="false" Name="Bojuka Bog" />
@@ -34,20 +28,13 @@
   <Cards CatID="34552" Quantity="1" Sideboard="false" Name="Day of Judgment" />
   <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
   <Cards CatID="27204" Quantity="1" Sideboard="false" Name="Citanul Flute" />
-  <Cards CatID="20469" Quantity="1" Sideboard="false" Name="Spawning Pit" />
-  <Cards CatID="66823" Quantity="2" Sideboard="false" Name="Golden Guardian" />
   <Cards CatID="65911" Quantity="1" Sideboard="false" Name="Doomed Traveler" />
-  <Cards CatID="61102" Quantity="2" Sideboard="false" Name="Selfless Spirit" />
+  <Cards CatID="61102" Quantity="1" Sideboard="false" Name="Selfless Spirit" />
   <Cards CatID="42684" Quantity="1" Sideboard="false" Name="Intangible Virtue" />
-  <Cards CatID="53522" Quantity="1" Sideboard="false" Name="Spirit Bonds" />
   <Cards CatID="23933" Quantity="1" Sideboard="false" Name="Leyline of the Meek" />
-  <Cards CatID="49381" Quantity="1" Sideboard="false" Name="Celestial Flare" />
   <Cards CatID="30052" Quantity="1" Sideboard="false" Name="Deathbringer Liege" />
-  <Cards CatID="60212" Quantity="1" Sideboard="false" Name="Bygone Bishop" />
   <Cards CatID="54969" Quantity="1" Sideboard="false" Name="Skirsdag High Priest" />
   <Cards CatID="53738" Quantity="1" Sideboard="false" Name="Raise the Alarm" />
-  <Cards CatID="22373" Quantity="1" Sideboard="false" Name="Soul Warden" />
-  <Cards CatID="60619" Quantity="1" Sideboard="false" Name="Zealous Persecution" />
   <Cards CatID="63628" Quantity="2" Sideboard="false" Name="Forsake the Worldly" />
   <Cards CatID="65054" Quantity="1" Sideboard="false" Name="Legion's Landing" />
   <Cards CatID="64026" Quantity="2" Sideboard="false" Name="Dusk/Dawn" />
@@ -55,31 +42,25 @@
   <Cards CatID="53378" Quantity="4" Sideboard="false" Name="Black Cat" />
   <Cards CatID="37448" Quantity="3" Sideboard="false" Name="Roc Egg" />
   <Cards CatID="71166" Quantity="1" Sideboard="false" Name="Priest of Forgotten Gods" />
-  <Cards CatID="69619" Quantity="1" Sideboard="false" Name="Beast Whisperer" />
   <Cards CatID="52116" Quantity="1" Sideboard="false" Name="Pharika, God of Affliction" />
   <Cards CatID="54340" Quantity="1" Sideboard="false" Name="Grim Haruspex" />
   <Cards CatID="54258" Quantity="2" Sideboard="false" Name="Sorin, Solemn Visitor" />
   <Cards CatID="71124" Quantity="1" Sideboard="false" Name="Bankrupt in Blood" />
-  <Cards CatID="48302" Quantity="2" Sideboard="false" Name="Voice of Resurgence" />
   <Cards CatID="68347" Quantity="2" Sideboard="false" Name="Doomed Dissenter" />
-  <Cards CatID="71032" Quantity="2" Sideboard="false" Name="Ministrant of Obligation" />
   <Cards CatID="71342" Quantity="2" Sideboard="false" Name="Final Payment" />
   <Cards CatID="44105" Quantity="2" Sideboard="false" Name="Blood Artist" />
-  <Cards CatID="48436" Quantity="1" Sideboard="false" Name="Maw of the Obzedat" />
   <Cards CatID="57712" Quantity="1" Sideboard="false" Name="Nantuko Husk" />
-  <Cards CatID="54394" Quantity="2" Sideboard="false" Name="Sultai Flayer" />
   <Cards CatID="45320" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
   <Cards CatID="55542" Quantity="2" Sideboard="false" Name="Destructor Dragon" />
   <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
   <Cards CatID="35679" Quantity="1" Sideboard="false" Name="Stirring Wildwood" />
   <Cards CatID="68603" Quantity="2" Sideboard="false" Name="Poison-Tip Archer" />
   <Cards CatID="67681" Quantity="1" Sideboard="false" Name="Torgaar, Famine Incarnate" />
-  <Cards CatID="50268" Quantity="1" Sideboard="false" Name="Temple of Silence" />
+  <Cards CatID="50268" Quantity="2" Sideboard="false" Name="Temple of Silence" />
   <Cards CatID="53636" Quantity="1" Sideboard="false" Name="Scuttling Doom Engine" />
   <Cards CatID="51968" Quantity="1" Sideboard="false" Name="Temple of Malady" />
   <Cards CatID="67961" Quantity="1" Sideboard="false" Name="Woodland Cemetery" />
   <Cards CatID="67947" Quantity="1" Sideboard="false" Name="Isolated Chapel" />
-  <Cards CatID="65492" Quantity="1" Sideboard="false" Name="Dowsing Dagger" />
   <Cards CatID="59241" Quantity="1" Sideboard="false" Name="Saltcrusted Steppe" />
   <Cards CatID="61797" Quantity="1" Sideboard="false" Name="Smuggler's Copter" />
   <Cards CatID="59255" Quantity="1" Sideboard="false" Name="Hissing Quagmire" />
@@ -87,21 +68,17 @@
   <Cards CatID="54202" Quantity="2" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
   <Cards CatID="65538" Quantity="1" Sideboard="false" Name="Field of Ruin" />
-  <Cards CatID="54198" Quantity="2" Sideboard="false" Name="Bloodstained Mire" />
+  <Cards CatID="54198" Quantity="1" Sideboard="false" Name="Bloodstained Mire" />
   <Cards CatID="9411" Quantity="1" Sideboard="false" Name="Gemstone Mine" />
   <Cards CatID="54160" Quantity="1" Sideboard="false" Name="Sandsteppe Citadel" />
   <Cards CatID="43485" Quantity="1" Sideboard="false" Name="Vault of the Archangel" />
-  <Cards CatID="47805" Quantity="1" Sideboard="false" Name="Thespian's Stage" />
   <Cards CatID="29495" Quantity="1" Sideboard="false" Name="Wooded Bastion" />
   <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
   <Cards CatID="23594" Quantity="1" Sideboard="false" Name="Temple Garden" />
-  <Cards CatID="27110" Quantity="1" Sideboard="false" Name="Forbidding Watchtower" />
   <Cards CatID="47453" Quantity="2" Sideboard="false" Name="Godless Shrine" />
-  <Cards CatID="51565" Quantity="1" Sideboard="false" Name="Temple of Plenty" />
-  <Cards CatID="30114" Quantity="1" Sideboard="false" Name="Fetid Heath" />
-  <Cards CatID="49339" Quantity="1" Sideboard="false" Name="Trading Post" />
+  <Cards CatID="51565" Quantity="2" Sideboard="false" Name="Temple of Plenty" />
+  <Cards CatID="30114" Quantity="2" Sideboard="false" Name="Fetid Heath" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
-  <Cards CatID="7427" Quantity="1" Sideboard="false" Name="Wall of Roots" />
   <Cards CatID="37522" Quantity="4" Sideboard="false" Name="Squadron Hawk" />
   <Cards CatID="21097" Quantity="2" Sideboard="false" Name="Sakura-Tribe Elder" />
   <Cards CatID="54426" Quantity="1" Sideboard="false" Name="Abzan Ascendancy" />
@@ -123,4 +100,7 @@
   <Cards CatID="66775" Quantity="1" Sideboard="false" Name="Journey to Eternity" />
   <Cards CatID="59583" Quantity="1" Sideboard="false" Name="Ayli, Eternal Pilgrim" />
   <Cards CatID="67873" Quantity="1" Sideboard="false" Name="Shanna, Sisay's Legacy" />
+  <Cards CatID="65208" Quantity="1" Sideboard="false" Name="Costly Plunder" />
+  <Cards CatID="62689" Quantity="1" Sideboard="false" Name="Fatal Push" />
+  <Cards CatID="50260" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
 </Deck>
