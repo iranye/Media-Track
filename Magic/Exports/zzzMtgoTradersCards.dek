@@ -2845,4 +2845,13 @@
   <Cards CatID="67677" Quantity="9" Sideboard="false" Name="Thallid Omnivore" />
   <Cards CatID="67653" Quantity="8" Sideboard="false" Name="Fungal Infection" />
   <Cards CatID="67685" Quantity="8" Sideboard="false" Name="Vicious Offering" />
+  <Cards CatID="47705" Quantity="4" Sideboard="false" Name="Purge the Profane" />
+  <Cards CatID="71388" Quantity="5" Sideboard="false" Name="Pitiless Pontiff" />
+  <Cards CatID="69809" Quantity="4" Sideboard="false" Name="Pitiless Gorgon" />
+  <Cards CatID="47569" Quantity="4" Sideboard="false" Name="Cartel Aristocrat" />
+  <Cards CatID="49267" Quantity="5" Sideboard="false" Name="Garruk's Horde" />
+  <Cards CatID="28511" Quantity="3" Sideboard="false" Name="Dauntless Dourbark" />
+  <Cards CatID="41413" Quantity="4" Sideboard="false" Name="Dungrove Elder" />
+  <Cards CatID="71202" Quantity="4" Sideboard="false" Name="Flames of the Raze-Boar" />
+  <Cards CatID="49469" Quantity="1" Sideboard="false" Name="Xathrid Necromancer" />
 </Deck>

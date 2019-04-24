@@ -6,7 +6,6 @@
   <Cards CatID="53390" Quantity="2" Sideboard="false" Name="Plains" />
   <Cards CatID="60076" Quantity="2" Sideboard="false" Name="Swamp" />
   <Cards CatID="45334" Quantity="2" Sideboard="false" Name="Forest" />
-  <Cards CatID="26660" Quantity="1" Sideboard="false" Name="Sword of the Meek" />
   <Cards CatID="67527" Quantity="2" Sideboard="false" Name="Seal Away" />
   <Cards CatID="50374" Quantity="1" Sideboard="false" Name="Gift of Immortality" />
   <Cards CatID="45220" Quantity="1" Sideboard="false" Name="Pacifism" />
@@ -37,11 +36,9 @@
   <Cards CatID="42684" Quantity="1" Sideboard="false" Name="Intangible Virtue" />
   <Cards CatID="53522" Quantity="1" Sideboard="false" Name="Spirit Bonds" />
   <Cards CatID="23933" Quantity="1" Sideboard="false" Name="Leyline of the Meek" />
-  <Cards CatID="49381" Quantity="1" Sideboard="false" Name="Celestial Flare" />
   <Cards CatID="30052" Quantity="1" Sideboard="false" Name="Deathbringer Liege" />
   <Cards CatID="54969" Quantity="1" Sideboard="false" Name="Skirsdag High Priest" />
   <Cards CatID="53738" Quantity="1" Sideboard="false" Name="Raise the Alarm" />
-  <Cards CatID="60619" Quantity="1" Sideboard="false" Name="Zealous Persecution" />
   <Cards CatID="63628" Quantity="2" Sideboard="false" Name="Forsake the Worldly" />
   <Cards CatID="65054" Quantity="1" Sideboard="false" Name="Legion's Landing" />
   <Cards CatID="64026" Quantity="2" Sideboard="false" Name="Dusk/Dawn" />
@@ -49,12 +46,10 @@
   <Cards CatID="53378" Quantity="4" Sideboard="false" Name="Black Cat" />
   <Cards CatID="37448" Quantity="3" Sideboard="false" Name="Roc Egg" />
   <Cards CatID="71166" Quantity="1" Sideboard="false" Name="Priest of Forgotten Gods" />
-  <Cards CatID="69619" Quantity="1" Sideboard="false" Name="Beast Whisperer" />
   <Cards CatID="52116" Quantity="1" Sideboard="false" Name="Pharika, God of Affliction" />
   <Cards CatID="54340" Quantity="1" Sideboard="false" Name="Grim Haruspex" />
   <Cards CatID="54258" Quantity="2" Sideboard="false" Name="Sorin, Solemn Visitor" />
   <Cards CatID="71124" Quantity="1" Sideboard="false" Name="Bankrupt in Blood" />
-  <Cards CatID="48302" Quantity="2" Sideboard="false" Name="Voice of Resurgence" />
   <Cards CatID="68347" Quantity="2" Sideboard="false" Name="Doomed Dissenter" />
   <Cards CatID="71032" Quantity="2" Sideboard="false" Name="Ministrant of Obligation" />
   <Cards CatID="71342" Quantity="2" Sideboard="false" Name="Final Payment" />
@@ -118,4 +113,12 @@
   <Cards CatID="65208" Quantity="1" Sideboard="false" Name="Costly Plunder" />
   <Cards CatID="39830" Quantity="1" Sideboard="false" Name="Mycosynth Wellspring" />
   <Cards CatID="62689" Quantity="1" Sideboard="false" Name="Fatal Push" />
+  <Cards CatID="51853" Quantity="1" Sideboard="false" Name="Scourge of Skola Vale" />
+  <Cards CatID="67669" Quantity="1" Sideboard="false" Name="Rite of Belzenlok" />
+  <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
+  <Cards CatID="63766" Quantity="1" Sideboard="false" Name="Bontu the Glorified" />
+  <Cards CatID="47569" Quantity="1" Sideboard="false" Name="Cartel Aristocrat" />
+  <Cards CatID="49469" Quantity="1" Sideboard="false" Name="Xathrid Necromancer" />
+  <Cards CatID="28493" Quantity="1" Sideboard="false" Name="Profane Command" />
+  <Cards CatID="66791" Quantity="1" Sideboard="false" Name="Profane Procession" />
 </Deck>

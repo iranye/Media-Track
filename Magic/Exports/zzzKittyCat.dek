@@ -240,4 +240,13 @@
   <Cards CatID="59583" Quantity="1" Sideboard="false" Name="Ayli, Eternal Pilgrim" />
   <Cards CatID="67873" Quantity="1" Sideboard="false" Name="Shanna, Sisay's Legacy" />
   <Cards CatID="65208" Quantity="1" Sideboard="false" Name="Costly Plunder" />
+  <Cards CatID="39830" Quantity="1" Sideboard="false" Name="Mycosynth Wellspring" />
+  <Cards CatID="62689" Quantity="1" Sideboard="false" Name="Fatal Push" />
+  <Cards CatID="51853" Quantity="1" Sideboard="false" Name="Scourge of Skola Vale" />
+  <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
+  <Cards CatID="63766" Quantity="1" Sideboard="false" Name="Bontu the Glorified" />
+  <Cards CatID="47569" Quantity="1" Sideboard="false" Name="Cartel Aristocrat" />
+  <Cards CatID="49469" Quantity="1" Sideboard="false" Name="Xathrid Necromancer" />
+  <Cards CatID="28493" Quantity="1" Sideboard="false" Name="Profane Command" />
+  <Cards CatID="66791" Quantity="1" Sideboard="false" Name="Profane Procession" />
 </Deck>

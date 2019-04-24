@@ -187,4 +187,6 @@
   <Cards CatID="46347" Quantity="1" Sideboard="false" Name="Gatecreeper Vine" />
   <Cards CatID="20063" Quantity="1" Sideboard="false" Name="Soul Foundry" />
   <Cards CatID="34902" Quantity="1" Sideboard="false" Name="Rancor" />
+  <Cards CatID="46739" Quantity="1" Sideboard="false" Name="Desecration Demon" />
+  <Cards CatID="66629" Quantity="1" Sideboard="false" Name="Twilight Prophet" />
 </Deck>
