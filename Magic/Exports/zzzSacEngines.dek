@@ -47,4 +47,8 @@
   <Cards CatID="71124" Quantity="2" Sideboard="false" Name="Bankrupt in Blood" />
   <Cards CatID="48436" Quantity="1" Sideboard="false" Name="Maw of the Obzedat" />
   <Cards CatID="71342" Quantity="1" Sideboard="false" Name="Final Payment" />
+  <Cards CatID="71388" Quantity="1" Sideboard="false" Name="Pitiless Pontiff" />
+  <Cards CatID="68603" Quantity="1" Sideboard="false" Name="Poison-Tip Archer" />
+  <Cards CatID="47569" Quantity="1" Sideboard="false" Name="Cartel Aristocrat" />
+  <Cards CatID="63315" Quantity="1" Sideboard="false" Name="Falkenrath Aristocrat" />
 </Deck>

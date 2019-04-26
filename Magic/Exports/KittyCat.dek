@@ -28,6 +28,7 @@
   <Cards CatID="34552" Quantity="1" Sideboard="false" Name="Day of Judgment" />
   <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
   <Cards CatID="27204" Quantity="1" Sideboard="false" Name="Citanul Flute" />
+  <Cards CatID="20469" Quantity="1" Sideboard="false" Name="Spawning Pit" />
   <Cards CatID="65911" Quantity="1" Sideboard="false" Name="Doomed Traveler" />
   <Cards CatID="61102" Quantity="1" Sideboard="false" Name="Selfless Spirit" />
   <Cards CatID="42684" Quantity="1" Sideboard="false" Name="Intangible Virtue" />
@@ -78,6 +79,7 @@
   <Cards CatID="47453" Quantity="2" Sideboard="false" Name="Godless Shrine" />
   <Cards CatID="51565" Quantity="2" Sideboard="false" Name="Temple of Plenty" />
   <Cards CatID="30114" Quantity="2" Sideboard="false" Name="Fetid Heath" />
+  <Cards CatID="49339" Quantity="1" Sideboard="false" Name="Trading Post" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
   <Cards CatID="37522" Quantity="4" Sideboard="false" Name="Squadron Hawk" />
   <Cards CatID="21097" Quantity="2" Sideboard="false" Name="Sakura-Tribe Elder" />
@@ -101,6 +103,15 @@
   <Cards CatID="59583" Quantity="1" Sideboard="false" Name="Ayli, Eternal Pilgrim" />
   <Cards CatID="67873" Quantity="1" Sideboard="false" Name="Shanna, Sisay's Legacy" />
   <Cards CatID="65208" Quantity="1" Sideboard="false" Name="Costly Plunder" />
+  <Cards CatID="39830" Quantity="1" Sideboard="false" Name="Mycosynth Wellspring" />
   <Cards CatID="62689" Quantity="1" Sideboard="false" Name="Fatal Push" />
-  <Cards CatID="50260" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
+  <Cards CatID="51853" Quantity="1" Sideboard="false" Name="Scourge of Skola Vale" />
+  <Cards CatID="67669" Quantity="1" Sideboard="false" Name="Rite of Belzenlok" />
+  <Cards CatID="36474" Quantity="1" Sideboard="false" Name="Awakening Zone" />
+  <Cards CatID="63766" Quantity="1" Sideboard="false" Name="Bontu the Glorified" />
+  <Cards CatID="47569" Quantity="1" Sideboard="false" Name="Cartel Aristocrat" />
+  <Cards CatID="49469" Quantity="1" Sideboard="false" Name="Xathrid Necromancer" />
+  <Cards CatID="28493" Quantity="1" Sideboard="false" Name="Profane Command" />
+  <Cards CatID="66791" Quantity="1" Sideboard="false" Name="Profane Procession" />
+  <Cards CatID="25493" Quantity="1" Sideboard="false" Name="Spirit Loop" />
 </Deck>
