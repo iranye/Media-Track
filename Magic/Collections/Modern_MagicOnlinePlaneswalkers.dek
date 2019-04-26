@@ -7,6 +7,7 @@
   <Cards CatID="42174" Quantity="1" Sideboard="false" Name="Ajani Vengeant" />
   <Cards CatID="49245" Quantity="1" Sideboard="false" Name="Ajani, Caller of the Pride" />
   <Cards CatID="52134" Quantity="1" Sideboard="false" Name="Ajani, Mentor of Heroes" />
+  <Cards CatID="71974" Quantity="1" Sideboard="false" Name="Ajani, the Greathearted" />
   <Cards CatID="50310" Quantity="1" Sideboard="false" Name="Ashiok, Nightmare Weaver" />
   <Cards CatID="34756" Quantity="4" Sideboard="false" Name="Chandra Ablaze" />
   <Cards CatID="28439" Quantity="4" Sideboard="false" Name="Chandra Nalaar" />
@@ -24,16 +25,18 @@
   <Cards CatID="49373" Quantity="6" Sideboard="false" Name="Garruk, Caller of Beasts" />
   <Cards CatID="41371" Quantity="1" Sideboard="false" Name="Garruk, Primal Hunter" />
   <Cards CatID="41273" Quantity="1" Sideboard="false" Name="Gideon Jura" />
+  <Cards CatID="63630" Quantity="1" Sideboard="false" Name="Gideon of the Trials" />
   <Cards CatID="58317" Quantity="1" Sideboard="false" Name="Gideon, Ally of Zendikar" />
   <Cards CatID="47871" Quantity="1" Sideboard="false" Name="Gideon, Champion of Justice" />
   <Cards CatID="66773" Quantity="1" Sideboard="false" Name="Huatli, Radiant Champion" />
-  <Cards CatID="65468" Quantity="1" Sideboard="false" Name="Huatli, Warrior Poet" />
+  <Cards CatID="65468" Quantity="4" Sideboard="false" Name="Huatli, Warrior Poet" />
   <Cards CatID="28469" Quantity="2" Sideboard="false" Name="Jace Beleren" />
   <Cards CatID="49253" Quantity="1" Sideboard="false" Name="Jace, Memory Adept" />
   <Cards CatID="53570" Quantity="2" Sideboard="false" Name="Jace, the Living Guildpact" />
   <Cards CatID="51551" Quantity="2" Sideboard="false" Name="Kiora, the Crashing Wave" />
   <Cards CatID="49249" Quantity="2" Sideboard="false" Name="Liliana of the Dark Realms" />
   <Cards CatID="53262" Quantity="3" Sideboard="false" Name="Liliana Vess" />
+  <Cards CatID="68373" Quantity="1" Sideboard="false" Name="Liliana, Untouched by Death" />
   <Cards CatID="56076" Quantity="1" Sideboard="false" Name="Narset Transcendent" />
   <Cards CatID="64764" Quantity="2" Sideboard="false" Name="Nicol Bolas, God-Pharaoh" />
   <Cards CatID="31909" Quantity="1" Sideboard="false" Name="Nicol Bolas, Planeswalker" />
@@ -58,6 +61,7 @@
   <Cards CatID="63023" Quantity="1" Sideboard="false" Name="Tezzeret, Master of Metal" />
   <Cards CatID="55364" Quantity="1" Sideboard="false" Name="Ugin, the Spirit Dragon" />
   <Cards CatID="38335" Quantity="1" Sideboard="false" Name="Venser, the Sojourner" />
-  <Cards CatID="46567" Quantity="1" Sideboard="false" Name="Vraska the Unseen" />
+  <Cards CatID="46567" Quantity="3" Sideboard="false" Name="Vraska the Unseen" />
+  <Cards CatID="65484" Quantity="4" Sideboard="false" Name="Vraska, Relic Seeker" />
   <Cards CatID="50316" Quantity="2" Sideboard="false" Name="Xenagos, the Reveler" />
 </Deck>

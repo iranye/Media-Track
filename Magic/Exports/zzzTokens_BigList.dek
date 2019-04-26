@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -142,4 +141,16 @@
   <Cards CatID="67527" Quantity="1" Sideboard="false" Name="Seal Away" />
   <Cards CatID="66697" Quantity="1" Sideboard="false" Name="Aggressive Urge" />
   <Cards CatID="71004" Quantity="1" Sideboard="false" Name="Angelic Exaltation" />
+  <Cards CatID="48302" Quantity="4" Sideboard="false" Name="Voice of Resurgence" />
+  <Cards CatID="49345" Quantity="4" Sideboard="false" Name="Plains" />
+  <Cards CatID="51565" Quantity="4" Sideboard="false" Name="Temple of Plenty" />
+  <Cards CatID="46707" Quantity="4" Sideboard="false" Name="Call of the Conclave" />
+  <Cards CatID="54238" Quantity="4" Sideboard="false" Name="Forest" />
+  <Cards CatID="46787" Quantity="1" Sideboard="false" Name="Grove of the Guardian" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="54202" Quantity="2" Sideboard="false" Name="Windswept Heath" />
+  <Cards CatID="53316" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="63513" Quantity="1" Sideboard="false" Name="Cavern of Souls" />
+  <Cards CatID="64156" Quantity="2" Sideboard="false" Name="Scattered Groves" />
 </Deck>

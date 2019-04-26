@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -101,4 +100,10 @@
   <Cards CatID="71506" Quantity="1" Sideboard="false" Name="Glass of the Guildpact" />
   <Cards CatID="71374" Quantity="1" Sideboard="false" Name="Kaya's Wrath" />
   <Cards CatID="71022" Quantity="1" Sideboard="false" Name="Hero of Precinct One" />
+  <Cards CatID="37368" Quantity="1" Sideboard="false" Name="Leyline of Anticipation" />
+  <Cards CatID="54048" Quantity="1" Sideboard="false" Name="Brave the Sands" />
+  <Cards CatID="25493" Quantity="1" Sideboard="false" Name="Spirit Loop" />
+  <Cards CatID="63628" Quantity="2" Sideboard="true" Name="Forsake the Worldly" />
+  <Cards CatID="64152" Quantity="1" Sideboard="false" Name="Irrigated Farmland" />
+  <Cards CatID="59756" Quantity="2" Sideboard="false" Name="Angelic Purge" />
 </Deck>

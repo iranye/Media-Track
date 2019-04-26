@@ -7,7 +7,7 @@
   <Cards CatID="14915" Quantity="4" Sideboard="false" Name="Island" />
   <Cards CatID="53390" Quantity="4" Sideboard="false" Name="Plains" />
   <Cards CatID="59609" Quantity="2" Sideboard="false" Name="Holdout Settlement" />
-  <Cards CatID="64892" Quantity="2" Sideboard="false" Name="Survivors' Encampment" />
+  <Cards CatID="64892" Quantity="3" Sideboard="false" Name="Survivors' Encampment" />
   <Cards CatID="21385" Quantity="1" Sideboard="false" Name="Minamo, School at Water's Edge" />
   <Cards CatID="54202" Quantity="2" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="20363" Quantity="1" Sideboard="false" Name="Echoing Truth" />
@@ -36,7 +36,6 @@
   <Cards CatID="26207" Quantity="1" Sideboard="false" Name="Aven Riftwatcher" />
   <Cards CatID="24157" Quantity="1" Sideboard="false" Name="Grand Arbiter Augustin IV" />
   <Cards CatID="63644" Quantity="1" Sideboard="false" Name="Oketra the True" />
-  <Cards CatID="67473" Quantity="1" Sideboard="false" Name="Baird, Steward of Argive" />
   <Cards CatID="37522" Quantity="4" Sideboard="false" Name="Squadron Hawk" />
   <Cards CatID="62061" Quantity="1" Sideboard="false" Name="Consulate Skygate" />
   <Cards CatID="28245" Quantity="1" Sideboard="false" Name="Mulldrifter" />

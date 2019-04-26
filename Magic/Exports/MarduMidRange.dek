@@ -2,17 +2,12 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="53346" Quantity="2" Sideboard="false" Name="Battlefield Forge" />
-  <Cards CatID="54166" Quantity="4" Sideboard="false" Name="Nomad Outpost" />
+  <Cards CatID="54166" Quantity="2" Sideboard="false" Name="Nomad Outpost" />
   <Cards CatID="55914" Quantity="2" Sideboard="false" Name="Haven of the Spirit Dragon" />
   <Cards CatID="54246" Quantity="2" Sideboard="false" Name="Sarkhan, the Dragonspeaker" />
-  <Cards CatID="57756" Quantity="1" Sideboard="false" Name="Plains" />
-  <Cards CatID="57626" Quantity="1" Sideboard="false" Name="Plains" />
-  <Cards CatID="58154" Quantity="1" Sideboard="false" Name="Mountain" />
-  <Cards CatID="58144" Quantity="1" Sideboard="false" Name="Mountain" />
-  <Cards CatID="55526" Quantity="1" Sideboard="false" Name="Scoured Barrens" />
-  <Cards CatID="58835" Quantity="1" Sideboard="false" Name="Swamp" />
-  <Cards CatID="55536" Quantity="2" Sideboard="false" Name="Wind-Scarred Crag" />
+  <Cards CatID="49237" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53390" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="49305" Quantity="1" Sideboard="false" Name="Mountain" />
   <Cards CatID="56296" Quantity="4" Sideboard="false" Name="Thunderbreak Regent" />
   <Cards CatID="55614" Quantity="2" Sideboard="false" Name="Soulfire Grand Master" />
   <Cards CatID="54270" Quantity="4" Sideboard="false" Name="Seeker of the Way" />
@@ -30,7 +25,7 @@
   <Cards CatID="55904" Quantity="1" Sideboard="false" Name="Foul-Tongue Invocation" />
   <Cards CatID="58399" Quantity="1" Sideboard="false" Name="Ob Nixilis Reignited" />
   <Cards CatID="58042" Quantity="1" Sideboard="false" Name="Abbot of Keral Keep" />
-  <Cards CatID="58531" Quantity="2" Sideboard="false" Name="Shambling Vent" />
+  <Cards CatID="58531" Quantity="3" Sideboard="false" Name="Shambling Vent" />
   <Cards CatID="54198" Quantity="2" Sideboard="false" Name="Bloodstained Mire" />
   <Cards CatID="58697" Quantity="4" Sideboard="false" Name="Smoldering Marsh" />
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
@@ -49,5 +44,10 @@
   <Cards CatID="55450" Quantity="1" Sideboard="false" Name="Crux of Fate" />
   <Cards CatID="68459" Quantity="1" Sideboard="false" Name="Lathliss, Dragon Queen" />
   <Cards CatID="68431" Quantity="1" Sideboard="false" Name="Demanding Dragon" />
-  <Cards CatID="68601" Quantity="1" Sideboard="false" Name="Palladia-Mors, the Ruiner" />
+  <Cards CatID="30114" Quantity="1" Sideboard="false" Name="Fetid Heath" />
+  <Cards CatID="51563" Quantity="2" Sideboard="false" Name="Temple of Malice" />
+  <Cards CatID="47453" Quantity="2" Sideboard="false" Name="Godless Shrine" />
+  <Cards CatID="23590" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
+  <Cards CatID="61859" Quantity="1" Sideboard="false" Name="Concealed Courtyard" />
+  <Cards CatID="50270" Quantity="1" Sideboard="false" Name="Temple of Triumph" />
 </Deck>
