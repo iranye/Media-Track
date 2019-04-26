@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="61889" Quantity="3" Sideboard="false" Name="Aerial Responder" />
   <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
-  <Cards CatID="37240" Quantity="2" Sideboard="true" Name="Lightning Bolt" />
   <Cards CatID="61625" Quantity="1" Sideboard="false" Name="Fragmentize" />
   <Cards CatID="61781" Quantity="1" Sideboard="false" Name="Aradara Express" />
   <Cards CatID="50230" Quantity="1" Sideboard="false" Name="Magma Jet" />
@@ -55,17 +54,12 @@
   <Cards CatID="50578" Quantity="1" Sideboard="false" Name="Anger of the Gods" />
   <Cards CatID="67939" Quantity="1" Sideboard="false" Name="Weatherlight" />
   <Cards CatID="61795" Quantity="1" Sideboard="false" Name="Skysovereign, Consul Flagship" />
-  <Cards CatID="58527" Quantity="3" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="58527" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="53346" Quantity="1" Sideboard="false" Name="Battlefield Forge" />
   <Cards CatID="57744" Quantity="1" Sideboard="false" Name="Celestial Flare" />
   <Cards CatID="67887" Quantity="1" Sideboard="false" Name="Blackblade Reforged" />
   <Cards CatID="67943" Quantity="4" Sideboard="false" Name="Clifftop Retreat" />
   <Cards CatID="62905" Quantity="1" Sideboard="false" Name="Peacewalker Colossus" />
-  <Cards CatID="56324" Quantity="2" Sideboard="true" Name="Pacifism" />
-  <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
-  <Cards CatID="50324" Quantity="2" Sideboard="true" Name="Last Breath" />
-  <Cards CatID="34552" Quantity="1" Sideboard="true" Name="Day of Judgment" />
-  <Cards CatID="29847" Quantity="1" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="39886" Quantity="1" Sideboard="false" Name="Puresteel Paladin" />
   <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
   <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
@@ -74,10 +68,16 @@
   <Cards CatID="54198" Quantity="2" Sideboard="false" Name="Bloodstained Mire" />
   <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="59756" Quantity="2" Sideboard="false" Name="Angelic Purge" />
-  <Cards CatID="65522" Quantity="2" Sideboard="true" Name="Sorcerous Spyglass" />
+  <Cards CatID="63628" Quantity="2" Sideboard="false" Name="Forsake the Worldly" />
+  <Cards CatID="37240" Quantity="1" Sideboard="false" Name="Lightning Bolt" />
+  <Cards CatID="37240" Quantity="2" Sideboard="true" Name="Lightning Bolt" />
+  <Cards CatID="56324" Quantity="2" Sideboard="true" Name="Pacifism" />
+  <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
+  <Cards CatID="50324" Quantity="2" Sideboard="true" Name="Last Breath" />
+  <Cards CatID="34552" Quantity="1" Sideboard="true" Name="Day of Judgment" />
+  <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
+  <Cards CatID="65522" Quantity="1" Sideboard="true" Name="Sorcerous Spyglass" />
   <Cards CatID="48870" Quantity="1" Sideboard="true" Name="Sword of Light and Shadow" />
   <Cards CatID="63628" Quantity="2" Sideboard="true" Name="Forsake the Worldly" />
-  <Cards CatID="63628" Quantity="2" Sideboard="false" Name="Forsake the Worldly" />
   <Cards CatID="35695" Quantity="1" Sideboard="true" Name="Basilisk Collar" />
-  <Cards CatID="37240" Quantity="1" Sideboard="false" Name="Lightning Bolt" />
 </Deck>
