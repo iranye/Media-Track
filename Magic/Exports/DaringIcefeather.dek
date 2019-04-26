@@ -4,10 +4,10 @@
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="53316" Quantity="2" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="59810" Quantity="2" Sideboard="false" Name="Westvale Abbey" />
-  <Cards CatID="14915" Quantity="4" Sideboard="false" Name="Island" />
-  <Cards CatID="53390" Quantity="4" Sideboard="false" Name="Plains" />
+  <Cards CatID="14915" Quantity="6" Sideboard="false" Name="Island" />
+  <Cards CatID="53390" Quantity="6" Sideboard="false" Name="Plains" />
   <Cards CatID="59609" Quantity="2" Sideboard="false" Name="Holdout Settlement" />
-  <Cards CatID="64892" Quantity="2" Sideboard="false" Name="Survivors' Encampment" />
+  <Cards CatID="64892" Quantity="3" Sideboard="false" Name="Survivors' Encampment" />
   <Cards CatID="21385" Quantity="1" Sideboard="false" Name="Minamo, School at Water's Edge" />
   <Cards CatID="54202" Quantity="2" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="20363" Quantity="1" Sideboard="false" Name="Echoing Truth" />
@@ -50,7 +50,7 @@
   <Cards CatID="32817" Quantity="2" Sideboard="false" Name="Glacial Fortress" />
   <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
   <Cards CatID="65522" Quantity="1" Sideboard="false" Name="Sorcerous Spyglass" />
-  <Cards CatID="51561" Quantity="2" Sideboard="false" Name="Temple of Enlightenment" />
+  <Cards CatID="51561" Quantity="4" Sideboard="false" Name="Temple of Enlightenment" />
   <Cards CatID="46499" Quantity="2" Sideboard="true" Name="Pithing Needle" />
   <Cards CatID="53278" Quantity="1" Sideboard="true" Name="Tormod's Crypt" />
   <Cards CatID="32276" Quantity="2" Sideboard="true" Name="Meddling Mage" />
@@ -69,7 +69,7 @@
   <Cards CatID="53522" Quantity="1" Sideboard="false" Name="Spirit Bonds" />
   <Cards CatID="25493" Quantity="1" Sideboard="false" Name="Spirit Loop" />
   <Cards CatID="58317" Quantity="1" Sideboard="false" Name="Gideon, Ally of Zendikar" />
-  <Cards CatID="65054" Quantity="2" Sideboard="false" Name="Legion's Landing" />
+  <Cards CatID="65054" Quantity="1" Sideboard="false" Name="Legion's Landing" />
   <Cards CatID="42684" Quantity="1" Sideboard="false" Name="Intangible Virtue" />
   <Cards CatID="22373" Quantity="2" Sideboard="false" Name="Soul Warden" />
   <Cards CatID="44786" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
@@ -79,7 +79,7 @@
   <Cards CatID="52178" Quantity="1" Sideboard="false" Name="Thassa's Ire" />
   <Cards CatID="46503" Quantity="4" Sideboard="false" Name="Hallowed Fountain" />
   <Cards CatID="30224" Quantity="1" Sideboard="false" Name="Springjack Pasture" />
-  <Cards CatID="25483" Quantity="1" Sideboard="false" Name="Calciform Pools" />
+  <Cards CatID="25483" Quantity="2" Sideboard="false" Name="Calciform Pools" />
   <Cards CatID="51998" Quantity="2" Sideboard="false" Name="Riptide Chimera" />
   <Cards CatID="47887" Quantity="1" Sideboard="false" Name="Simic Manipulator" />
   <Cards CatID="51549" Quantity="1" Sideboard="false" Name="Ephara, God of the Polis" />
@@ -95,4 +95,5 @@
   <Cards CatID="39549" Quantity="1" Sideboard="true" Name="Sword of Feast and Famine" />
   <Cards CatID="50440" Quantity="2" Sideboard="false" Name="Swan Song" />
   <Cards CatID="39830" Quantity="1" Sideboard="false" Name="Mycosynth Wellspring" />
+  <Cards CatID="24065" Quantity="1" Sideboard="false" Name="Sky Hussar" />
 </Deck>
