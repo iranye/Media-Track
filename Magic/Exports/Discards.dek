@@ -66,4 +66,5 @@
   <Cards CatID="64140" Quantity="3" Sideboard="false" Name="Canyon Slough" />
   <Cards CatID="61855" Quantity="1" Sideboard="false" Name="Inspiring Vantage" />
   <Cards CatID="67943" Quantity="1" Sideboard="false" Name="Clifftop Retreat" />
+  <Cards CatID="24133" Quantity="1" Sideboard="false" Name="Infernal Tutor" />
 </Deck>

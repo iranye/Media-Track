@@ -2854,4 +2854,10 @@
   <Cards CatID="41413" Quantity="4" Sideboard="false" Name="Dungrove Elder" />
   <Cards CatID="71202" Quantity="4" Sideboard="false" Name="Flames of the Raze-Boar" />
   <Cards CatID="49469" Quantity="1" Sideboard="false" Name="Xathrid Necromancer" />
+  <Cards CatID="61751" Quantity="5" Sideboard="false" Name="Attune with Aether" />
+  <Cards CatID="71364" Quantity="4" Sideboard="false" Name="High Alert" />
+  <Cards CatID="53728" Quantity="6" Sideboard="false" Name="Research Assistant" />
+  <Cards CatID="55922" Quantity="6" Sideboard="false" Name="Student of Ojutai" />
+  <Cards CatID="58150" Quantity="2" Sideboard="false" Name="Foundry of the Consuls" />
+  <Cards CatID="67949" Quantity="8" Sideboard="false" Name="Memorial to Folly" />
 </Deck>

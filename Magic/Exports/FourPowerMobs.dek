@@ -72,4 +72,6 @@
   <Cards CatID="29291" Quantity="2" Sideboard="true" Name="Vexing Shusher" />
   <Cards CatID="50578" Quantity="1" Sideboard="true" Name="Anger of the Gods" />
   <Cards CatID="46411" Quantity="1" Sideboard="true" Name="Dryad Militant" />
+  <Cards CatID="58577" Quantity="1" Sideboard="false" Name="Plated Crusher" />
+  <Cards CatID="49267" Quantity="1" Sideboard="false" Name="Garruk's Horde" />
 </Deck>

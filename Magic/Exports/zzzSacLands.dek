@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -39,8 +38,6 @@
   <Cards CatID="25691" Quantity="1" Sideboard="false" Name="Lotus Bloom" />
   <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
   <Cards CatID="41573" Quantity="1" Sideboard="false" Name="Smallpox" />
-  <Cards CatID="54242" Quantity="2" Sideboard="false" Name="Forest" />
-  <Cards CatID="53484" Quantity="3" Sideboard="false" Name="Plains" />
   <Cards CatID="50260" Quantity="4" Sideboard="false" Name="Sylvan Caryatid" />
   <Cards CatID="51709" Quantity="2" Sideboard="false" Name="Kiora's Follower" />
   <Cards CatID="51871" Quantity="2" Sideboard="false" Name="Springleaf Drum" />
@@ -58,7 +55,6 @@
   <Cards CatID="54126" Quantity="4" Sideboard="false" Name="Abzan Charm" />
   <Cards CatID="51649" Quantity="1" Sideboard="false" Name="Pheres-Band Tromper" />
   <Cards CatID="47527" Quantity="1" Sideboard="false" Name="Burning-Tree Emissary" />
-  <Cards CatID="53486" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="50514" Quantity="1" Sideboard="false" Name="Triad of Fates" />
   <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
   <Cards CatID="50412" Quantity="1" Sideboard="false" Name="Bow of Nylea" />
@@ -78,7 +74,6 @@
   <Cards CatID="51845" Quantity="1" Sideboard="true" Name="Archetype of Endurance" />
   <Cards CatID="54456" Quantity="1" Sideboard="true" Name="Cranial Archive" />
   <Cards CatID="53338" Quantity="1" Sideboard="true" Name="Back to Nature" />
-  <Cards CatID="53486" Quantity="1" Sideboard="false" Name="Swamp" />
   <Cards CatID="51805" Quantity="2" Sideboard="true" Name="Black Oak of Odunos" />
   <Cards CatID="54384" Quantity="3" Sideboard="false" Name="Naturalize" />
   <Cards CatID="38327" Quantity="1" Sideboard="false" Name="Lux Cannon" />
@@ -211,7 +206,6 @@
   <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
   <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
   <Cards CatID="24697" Quantity="1" Sideboard="false" Name="Woolly Razorback" />
-  <Cards CatID="14765" Quantity="3" Sideboard="false" Name="Mountain" />
   <Cards CatID="20547" Quantity="1" Sideboard="false" Name="Aether Vial" />
   <Cards CatID="49585" Quantity="1" Sideboard="false" Name="Darksteel Ingot" />
   <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
@@ -425,4 +419,7 @@
   <Cards CatID="65224" Quantity="1" Sideboard="false" Name="Dire Fleet Ravager" />
   <Cards CatID="48300" Quantity="1" Sideboard="false" Name="Deadbridge Chant" />
   <Cards CatID="46753" Quantity="1" Sideboard="false" Name="Deadbridge Goliath" />
+  <Cards CatID="54238" Quantity="6" Sideboard="false" Name="Forest" />
+  <Cards CatID="60076" Quantity="5" Sideboard="false" Name="Swamp" />
+  <Cards CatID="71980" Quantity="1" Sideboard="false" Name="Casualties of War" />
 </Deck>

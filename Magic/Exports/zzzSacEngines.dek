@@ -51,4 +51,9 @@
   <Cards CatID="68603" Quantity="1" Sideboard="false" Name="Poison-Tip Archer" />
   <Cards CatID="47569" Quantity="1" Sideboard="false" Name="Cartel Aristocrat" />
   <Cards CatID="63315" Quantity="1" Sideboard="false" Name="Falkenrath Aristocrat" />
+  <Cards CatID="22210" Quantity="1" Sideboard="false" Name="Miren, the Moaning Well" />
+  <Cards CatID="39804" Quantity="1" Sideboard="false" Name="Phyrexia's Core" />
+  <Cards CatID="43487" Quantity="1" Sideboard="false" Name="Grim Backwoods" />
+  <Cards CatID="10263" Quantity="1" Sideboard="false" Name="Shard Phoenix" />
+  <Cards CatID="32891" Quantity="1" Sideboard="false" Name="Magma Phoenix" />
 </Deck>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -250,4 +251,5 @@
   <Cards CatID="28493" Quantity="1" Sideboard="false" Name="Profane Command" />
   <Cards CatID="66791" Quantity="1" Sideboard="false" Name="Profane Procession" />
   <Cards CatID="25493" Quantity="1" Sideboard="false" Name="Spirit Loop" />
+  <Cards CatID="32891" Quantity="1" Sideboard="false" Name="Magma Phoenix" />
 </Deck>

@@ -83,4 +83,7 @@
   <Cards CatID="66629" Quantity="1" Sideboard="false" Name="Twilight Prophet" />
   <Cards CatID="46347" Quantity="2" Sideboard="false" Name="Gatecreeper Vine" />
   <Cards CatID="51992" Quantity="1" Sideboard="false" Name="Extinguish All Hope" />
+  <Cards CatID="28415" Quantity="1" Sideboard="false" Name="Deathrender" />
+  <Cards CatID="67298" Quantity="1" Sideboard="false" Name="Utopia Sprawl" />
+  <Cards CatID="19095" Quantity="1" Sideboard="false" Name="Fertile Ground" />
 </Deck>

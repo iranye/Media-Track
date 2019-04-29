@@ -62,4 +62,6 @@
   <Cards CatID="54126" Quantity="1" Sideboard="true" Name="Abzan Charm" />
   <Cards CatID="54170" Quantity="1" Sideboard="true" Name="End Hostilities" />
   <Cards CatID="21239" Quantity="1" Sideboard="false" Name="Kitsune Mystic" />
+  <Cards CatID="19095" Quantity="1" Sideboard="false" Name="Fertile Ground" />
+  <Cards CatID="67298" Quantity="1" Sideboard="false" Name="Utopia Sprawl" />
 </Deck>

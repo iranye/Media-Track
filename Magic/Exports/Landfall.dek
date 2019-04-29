@@ -81,4 +81,5 @@
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="24119" Quantity="1" Sideboard="false" Name="Plaxmanta" />
   <Cards CatID="27598" Quantity="1" Sideboard="false" Name="Troll Ascetic" />
+  <Cards CatID="66737" Quantity="1" Sideboard="false" Name="Path of Discovery" />
 </Deck>

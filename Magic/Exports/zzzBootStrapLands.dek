@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -142,4 +142,5 @@
   <Cards CatID="28523" Quantity="4" Sideboard="false" Name="Vivid Meadow" />
   <Cards CatID="28521" Quantity="4" Sideboard="false" Name="Vivid Crag" />
   <Cards CatID="31403" Quantity="2" Sideboard="false" Name="Treetop Village" />
+  <Cards CatID="58150" Quantity="2" Sideboard="false" Name="Foundry of the Consuls" />
 </Deck>
