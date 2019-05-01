@@ -18,7 +18,7 @@
   <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
   <Cards CatID="32817" Quantity="2" Sideboard="false" Name="Glacial Fortress" />
   <Cards CatID="24157" Quantity="2" Sideboard="false" Name="Grand Arbiter Augustin IV" />
-  <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
+  <Cards CatID="46503" Quantity="2" Sideboard="false" Name="Hallowed Fountain" />
   <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
   <Cards CatID="55944" Quantity="1" Sideboard="false" Name="Hidden Dragonslayer" />
   <Cards CatID="50140" Quantity="2" Sideboard="false" Name="Hopeful Eidolon" />
@@ -33,7 +33,7 @@
   <Cards CatID="46483" Quantity="2" Sideboard="false" Name="Supreme Verdict" />
   <Cards CatID="46455" Quantity="2" Sideboard="false" Name="Tablet of the Guilds" />
   <Cards CatID="51561" Quantity="4" Sideboard="false" Name="Temple of Enlightenment" />
-  <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
+  <Cards CatID="54202" Quantity="2" Sideboard="false" Name="Windswept Heath" />
   <Cards CatID="63686" Quantity="2" Sideboard="false" Name="As Foretold" />
   <Cards CatID="9465" Quantity="2" Sideboard="true" Name="Aura of Silence" />
   <Cards CatID="29561" Quantity="1" Sideboard="false" Name="Greater Auramancy" />
@@ -41,7 +41,7 @@
   <Cards CatID="56076" Quantity="1" Sideboard="false" Name="Narset Transcendent" />
   <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
   <Cards CatID="26818" Quantity="1" Sideboard="false" Name="Nimbus Maze" />
-  <Cards CatID="64152" Quantity="2" Sideboard="false" Name="Irrigated Farmland" />
+  <Cards CatID="64152" Quantity="4" Sideboard="false" Name="Irrigated Farmland" />
   <Cards CatID="38229" Quantity="1" Sideboard="false" Name="Semblance Anvil" />
   <Cards CatID="51771" Quantity="1" Sideboard="false" Name="Plea for Guidance" />
   <Cards CatID="50404" Quantity="1" Sideboard="false" Name="Spear of Heliod" />

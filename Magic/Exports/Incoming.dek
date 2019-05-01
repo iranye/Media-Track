@@ -11,7 +11,6 @@
   <Cards CatID="49237" Quantity="7" Sideboard="false" Name="Swamp" />
   <Cards CatID="63093" Quantity="1" Sideboard="false" Name="Harmonize" />
   <Cards CatID="51851" Quantity="3" Sideboard="false" Name="Courser of Kruphix" />
-  <Cards CatID="67645" Quantity="1" Sideboard="false" Name="The Eldest Reborn" />
   <Cards CatID="65432" Quantity="1" Sideboard="false" Name="Shapers' Sanctuary" />
   <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
   <Cards CatID="50314" Quantity="1" Sideboard="false" Name="Nylea, God of the Hunt" />
@@ -40,7 +39,6 @@
   <Cards CatID="26421" Quantity="1" Sideboard="false" Name="Extirpate" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
   <Cards CatID="50256" Quantity="2" Sideboard="true" Name="Thoughtseize" />
-  <Cards CatID="29942" Quantity="1" Sideboard="false" Name="Doomgape" />
   <Cards CatID="50256" Quantity="1" Sideboard="false" Name="Thoughtseize" />
   <Cards CatID="54102" Quantity="1" Sideboard="false" Name="Despise" />
   <Cards CatID="30218" Quantity="1" Sideboard="false" Name="Sapling of Colfenor" />
@@ -70,7 +68,6 @@
   <Cards CatID="32887" Quantity="1" Sideboard="true" Name="Kalonian Behemoth" />
   <Cards CatID="53410" Quantity="1" Sideboard="false" Name="Roaring Primadox" />
   <Cards CatID="20806" Quantity="1" Sideboard="true" Name="Tornado Elemental" />
-  <Cards CatID="51018" Quantity="1" Sideboard="false" Name="Acidic Slime" />
   <Cards CatID="66713" Quantity="1" Sideboard="false" Name="Ghalta, Primal Hunger" />
   <Cards CatID="65538" Quantity="2" Sideboard="false" Name="Field of Ruin" />
   <Cards CatID="35589" Quantity="1" Sideboard="false" Name="Tectonic Edge" />
