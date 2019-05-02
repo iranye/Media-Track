@@ -20,18 +20,15 @@
   <Cards CatID="62803" Quantity="1" Sideboard="false" Name="Heroic Intervention" />
   <Cards CatID="52116" Quantity="1" Sideboard="false" Name="Pharika, God of Affliction" />
   <Cards CatID="9411" Quantity="2" Sideboard="false" Name="Gemstone Mine" />
-  <Cards CatID="39730" Quantity="1" Sideboard="false" Name="Sword of War and Peace" />
   <Cards CatID="54198" Quantity="2" Sideboard="false" Name="Bloodstained Mire" />
   <Cards CatID="30084" Quantity="2" Sideboard="false" Name="Twilight Mire" />
   <Cards CatID="66775" Quantity="1" Sideboard="false" Name="Journey to Eternity" />
   <Cards CatID="35699" Quantity="2" Sideboard="false" Name="Nature's Claim" />
-  <Cards CatID="40086" Quantity="1" Sideboard="false" Name="Sheoldred, Whispering One" />
   <Cards CatID="48254" Quantity="2" Sideboard="false" Name="Gaze of Granite" />
   <Cards CatID="62689" Quantity="1" Sideboard="false" Name="Fatal Push" />
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="53332" Quantity="2" Sideboard="true" Name="Plummet" />
   <Cards CatID="46499" Quantity="1" Sideboard="true" Name="Pithing Needle" />
-  <Cards CatID="39549" Quantity="1" Sideboard="true" Name="Sword of Feast and Famine" />
   <Cards CatID="34424" Quantity="2" Sideboard="true" Name="Relic Crush" />
   <Cards CatID="49231" Quantity="1" Sideboard="true" Name="Ratchet Bomb" />
   <Cards CatID="46507" Quantity="2" Sideboard="false" Name="Overgrown Tomb" />
@@ -41,8 +38,6 @@
   <Cards CatID="50256" Quantity="2" Sideboard="true" Name="Thoughtseize" />
   <Cards CatID="50256" Quantity="1" Sideboard="false" Name="Thoughtseize" />
   <Cards CatID="54102" Quantity="1" Sideboard="false" Name="Despise" />
-  <Cards CatID="30218" Quantity="1" Sideboard="false" Name="Sapling of Colfenor" />
-  <Cards CatID="50516" Quantity="1" Sideboard="false" Name="Reaper of the Wilds" />
   <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
   <Cards CatID="50408" Quantity="2" Sideboard="false" Name="Whip of Erebos" />
   <Cards CatID="46781" Quantity="1" Sideboard="false" Name="Jarad's Orders" />
@@ -56,26 +51,21 @@
   <Cards CatID="46455" Quantity="2" Sideboard="false" Name="Tablet of the Guilds" />
   <Cards CatID="48870" Quantity="1" Sideboard="true" Name="Sword of Light and Shadow" />
   <Cards CatID="53564" Quantity="1" Sideboard="false" Name="Garruk, Apex Predator" />
-  <Cards CatID="31809" Quantity="1" Sideboard="false" Name="Thornling" />
-  <Cards CatID="50402" Quantity="1" Sideboard="false" Name="Arbor Colossus" />
+  <Cards CatID="50402" Quantity="1" Sideboard="true" Name="Arbor Colossus" />
   <Cards CatID="46411" Quantity="1" Sideboard="true" Name="Dryad Militant" />
-  <Cards CatID="53262" Quantity="1" Sideboard="false" Name="Liliana Vess" />
   <Cards CatID="68553" Quantity="1" Sideboard="false" Name="Reclamation Sage" />
   <Cards CatID="55364" Quantity="1" Sideboard="false" Name="Ugin, the Spirit Dragon" />
   <Cards CatID="37478" Quantity="1" Sideboard="false" Name="Obstinate Baloth" />
   <Cards CatID="45388" Quantity="4" Sideboard="false" Name="Garruk's Packleader" />
   <Cards CatID="52084" Quantity="1" Sideboard="false" Name="Nyx Weaver" />
-  <Cards CatID="32887" Quantity="1" Sideboard="true" Name="Kalonian Behemoth" />
   <Cards CatID="53410" Quantity="1" Sideboard="false" Name="Roaring Primadox" />
   <Cards CatID="20806" Quantity="1" Sideboard="true" Name="Tornado Elemental" />
-  <Cards CatID="66713" Quantity="1" Sideboard="false" Name="Ghalta, Primal Hunger" />
   <Cards CatID="65538" Quantity="2" Sideboard="false" Name="Field of Ruin" />
   <Cards CatID="35589" Quantity="1" Sideboard="false" Name="Tectonic Edge" />
   <Cards CatID="67961" Quantity="2" Sideboard="false" Name="Woodland Cemetery" />
   <Cards CatID="42660" Quantity="2" Sideboard="false" Name="Woodland Cemetery" />
   <Cards CatID="65376" Quantity="1" Sideboard="false" Name="Carnage Tyrant" />
   <Cards CatID="66617" Quantity="2" Sideboard="false" Name="Ravenous Chupacabra" />
-  <Cards CatID="38161" Quantity="2" Sideboard="false" Name="Steel Hellkite" />
   <Cards CatID="23436" Quantity="2" Sideboard="false" Name="Carven Caryatid" />
   <Cards CatID="66629" Quantity="1" Sideboard="false" Name="Twilight Prophet" />
   <Cards CatID="46347" Quantity="2" Sideboard="false" Name="Gatecreeper Vine" />
@@ -83,4 +73,5 @@
   <Cards CatID="28415" Quantity="1" Sideboard="false" Name="Deathrender" />
   <Cards CatID="67298" Quantity="1" Sideboard="false" Name="Utopia Sprawl" />
   <Cards CatID="19095" Quantity="1" Sideboard="false" Name="Fertile Ground" />
+  <Cards CatID="39730" Quantity="1" Sideboard="true" Name="Sword of War and Peace" />
 </Deck>
