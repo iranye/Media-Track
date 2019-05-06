@@ -21,7 +21,6 @@
   <Cards CatID="66775" Quantity="1" Sideboard="false" Name="Journey to Eternity" />
   <Cards CatID="35699" Quantity="2" Sideboard="false" Name="Nature's Claim" />
   <Cards CatID="48254" Quantity="2" Sideboard="false" Name="Gaze of Granite" />
-  <Cards CatID="62689" Quantity="2" Sideboard="false" Name="Fatal Push" />
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="53332" Quantity="2" Sideboard="true" Name="Plummet" />
   <Cards CatID="46499" Quantity="1" Sideboard="true" Name="Pithing Needle" />
@@ -38,7 +37,6 @@
   <Cards CatID="50408" Quantity="2" Sideboard="false" Name="Whip of Erebos" />
   <Cards CatID="46781" Quantity="1" Sideboard="false" Name="Jarad's Orders" />
   <Cards CatID="47927" Quantity="1" Sideboard="false" Name="Lord of the Void" />
-  <Cards CatID="36428" Quantity="2" Sideboard="false" Name="Consume the Meek" />
   <Cards CatID="38229" Quantity="1" Sideboard="false" Name="Semblance Anvil" />
   <Cards CatID="61801" Quantity="2" Sideboard="false" Name="Panharmonicon" />
   <Cards CatID="46455" Quantity="2" Sideboard="false" Name="Tablet of the Guilds" />
@@ -80,4 +78,5 @@
   <Cards CatID="39517" Quantity="1" Sideboard="false" Name="Thrun, the Last Troll" />
   <Cards CatID="56146" Quantity="1" Sideboard="false" Name="Surrak, the Hunt Caller" />
   <Cards CatID="68533" Quantity="1" Sideboard="false" Name="Goreclaw, Terror of Qal Sisma" />
+  <Cards CatID="52276" Quantity="1" Sideboard="false" Name="Doomwake Giant" />
 </Deck>
