@@ -10,14 +10,10 @@
   <Cards CatID="49303" Quantity="7" Sideboard="false" Name="Forest" />
   <Cards CatID="49237" Quantity="7" Sideboard="false" Name="Swamp" />
   <Cards CatID="63093" Quantity="1" Sideboard="false" Name="Harmonize" />
-  <Cards CatID="51851" Quantity="3" Sideboard="false" Name="Courser of Kruphix" />
   <Cards CatID="65432" Quantity="1" Sideboard="false" Name="Shapers' Sanctuary" />
   <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
-  <Cards CatID="50314" Quantity="1" Sideboard="false" Name="Nylea, God of the Hunt" />
   <Cards CatID="35515" Quantity="4" Sideboard="false" Name="Bojuka Bog" />
-  <Cards CatID="39517" Quantity="1" Sideboard="false" Name="Thrun, the Last Troll" />
   <Cards CatID="46497" Quantity="2" Sideboard="false" Name="Abrupt Decay" />
-  <Cards CatID="62803" Quantity="1" Sideboard="false" Name="Heroic Intervention" />
   <Cards CatID="52116" Quantity="1" Sideboard="false" Name="Pharika, God of Affliction" />
   <Cards CatID="9411" Quantity="2" Sideboard="false" Name="Gemstone Mine" />
   <Cards CatID="54198" Quantity="2" Sideboard="false" Name="Bloodstained Mire" />
@@ -25,7 +21,7 @@
   <Cards CatID="66775" Quantity="1" Sideboard="false" Name="Journey to Eternity" />
   <Cards CatID="35699" Quantity="2" Sideboard="false" Name="Nature's Claim" />
   <Cards CatID="48254" Quantity="2" Sideboard="false" Name="Gaze of Granite" />
-  <Cards CatID="62689" Quantity="1" Sideboard="false" Name="Fatal Push" />
+  <Cards CatID="62689" Quantity="2" Sideboard="false" Name="Fatal Push" />
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
   <Cards CatID="53332" Quantity="2" Sideboard="true" Name="Plummet" />
   <Cards CatID="46499" Quantity="1" Sideboard="true" Name="Pithing Needle" />
@@ -43,11 +39,8 @@
   <Cards CatID="46781" Quantity="1" Sideboard="false" Name="Jarad's Orders" />
   <Cards CatID="47927" Quantity="1" Sideboard="false" Name="Lord of the Void" />
   <Cards CatID="36428" Quantity="2" Sideboard="false" Name="Consume the Meek" />
-  <Cards CatID="66779" Quantity="1" Sideboard="false" Name="Jungle Creeper" />
-  <Cards CatID="52276" Quantity="4" Sideboard="false" Name="Doomwake Giant" />
   <Cards CatID="38229" Quantity="1" Sideboard="false" Name="Semblance Anvil" />
   <Cards CatID="61801" Quantity="2" Sideboard="false" Name="Panharmonicon" />
-  <Cards CatID="62897" Quantity="1" Sideboard="false" Name="Lifecrafter's Bestiary" />
   <Cards CatID="46455" Quantity="2" Sideboard="false" Name="Tablet of the Guilds" />
   <Cards CatID="48870" Quantity="1" Sideboard="true" Name="Sword of Light and Shadow" />
   <Cards CatID="53564" Quantity="1" Sideboard="false" Name="Garruk, Apex Predator" />
@@ -56,22 +49,35 @@
   <Cards CatID="68553" Quantity="1" Sideboard="false" Name="Reclamation Sage" />
   <Cards CatID="55364" Quantity="1" Sideboard="false" Name="Ugin, the Spirit Dragon" />
   <Cards CatID="37478" Quantity="1" Sideboard="false" Name="Obstinate Baloth" />
-  <Cards CatID="45388" Quantity="4" Sideboard="false" Name="Garruk's Packleader" />
-  <Cards CatID="52084" Quantity="1" Sideboard="false" Name="Nyx Weaver" />
+  <Cards CatID="45388" Quantity="3" Sideboard="false" Name="Garruk's Packleader" />
   <Cards CatID="53410" Quantity="1" Sideboard="false" Name="Roaring Primadox" />
   <Cards CatID="20806" Quantity="1" Sideboard="true" Name="Tornado Elemental" />
   <Cards CatID="65538" Quantity="2" Sideboard="false" Name="Field of Ruin" />
   <Cards CatID="35589" Quantity="1" Sideboard="false" Name="Tectonic Edge" />
   <Cards CatID="67961" Quantity="2" Sideboard="false" Name="Woodland Cemetery" />
   <Cards CatID="42660" Quantity="2" Sideboard="false" Name="Woodland Cemetery" />
-  <Cards CatID="65376" Quantity="1" Sideboard="false" Name="Carnage Tyrant" />
   <Cards CatID="66617" Quantity="2" Sideboard="false" Name="Ravenous Chupacabra" />
   <Cards CatID="23436" Quantity="2" Sideboard="false" Name="Carven Caryatid" />
-  <Cards CatID="66629" Quantity="1" Sideboard="false" Name="Twilight Prophet" />
   <Cards CatID="46347" Quantity="2" Sideboard="false" Name="Gatecreeper Vine" />
-  <Cards CatID="51992" Quantity="1" Sideboard="false" Name="Extinguish All Hope" />
-  <Cards CatID="28415" Quantity="1" Sideboard="false" Name="Deathrender" />
   <Cards CatID="67298" Quantity="1" Sideboard="false" Name="Utopia Sprawl" />
   <Cards CatID="19095" Quantity="1" Sideboard="false" Name="Fertile Ground" />
   <Cards CatID="39730" Quantity="1" Sideboard="true" Name="Sword of War and Peace" />
+  <Cards CatID="61959" Quantity="1" Sideboard="false" Name="Noxious Gearhulk" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="62017" Quantity="1" Sideboard="false" Name="Verdurous Gearhulk" />
+  <Cards CatID="70053" Quantity="1" Sideboard="false" Name="Platinum Emperion" />
+  <Cards CatID="57630" Quantity="1" Sideboard="false" Name="Elvish Visionary" />
+  <Cards CatID="55632" Quantity="1" Sideboard="false" Name="Temur Sabertooth" />
+  <Cards CatID="45582" Quantity="1" Sideboard="false" Name="Thragtusk" />
+  <Cards CatID="69619" Quantity="1" Sideboard="false" Name="Beast Whisperer" />
+  <Cards CatID="70033" Quantity="1" Sideboard="false" Name="Vengevine" />
+  <Cards CatID="36616" Quantity="1" Sideboard="false" Name="Pelakka Wurm" />
+  <Cards CatID="66753" Quantity="1" Sideboard="false" Name="Wayward Swordtooth" />
+  <Cards CatID="58639" Quantity="1" Sideboard="false" Name="Greenwarden of Murasa" />
+  <Cards CatID="54460" Quantity="1" Sideboard="false" Name="Dragon Throne of Tarkir" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="66713" Quantity="1" Sideboard="false" Name="Ghalta, Primal Hunger" />
+  <Cards CatID="39517" Quantity="1" Sideboard="false" Name="Thrun, the Last Troll" />
+  <Cards CatID="56146" Quantity="1" Sideboard="false" Name="Surrak, the Hunt Caller" />
+  <Cards CatID="68533" Quantity="1" Sideboard="false" Name="Goreclaw, Terror of Qal Sisma" />
 </Deck>

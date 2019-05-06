@@ -189,4 +189,13 @@
   <Cards CatID="34902" Quantity="1" Sideboard="false" Name="Rancor" />
   <Cards CatID="46739" Quantity="1" Sideboard="false" Name="Desecration Demon" />
   <Cards CatID="66629" Quantity="1" Sideboard="false" Name="Twilight Prophet" />
+  <Cards CatID="53564" Quantity="1" Sideboard="false" Name="Garruk, Apex Predator" />
+  <Cards CatID="55364" Quantity="1" Sideboard="false" Name="Ugin, the Spirit Dragon" />
+  <Cards CatID="51992" Quantity="1" Sideboard="false" Name="Extinguish All Hope" />
+  <Cards CatID="67298" Quantity="1" Sideboard="false" Name="Utopia Sprawl" />
+  <Cards CatID="19095" Quantity="1" Sideboard="false" Name="Fertile Ground" />
+  <Cards CatID="62017" Quantity="1" Sideboard="false" Name="Verdurous Gearhulk" />
+  <Cards CatID="66753" Quantity="1" Sideboard="false" Name="Wayward Swordtooth" />
+  <Cards CatID="54460" Quantity="1" Sideboard="false" Name="Dragon Throne of Tarkir" />
+  <Cards CatID="56146" Quantity="1" Sideboard="false" Name="Surrak, the Hunt Caller" />
 </Deck>

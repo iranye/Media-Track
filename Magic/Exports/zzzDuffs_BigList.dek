@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -96,4 +95,19 @@
   <Cards CatID="62589" Quantity="1" Sideboard="false" Name="Deadeye Harpooner" />
   <Cards CatID="45590" Quantity="1" Sideboard="false" Name="Sublime Archangel" />
   <Cards CatID="65496" Quantity="1" Sideboard="false" Name="Dusk Legion Dreadnought" />
+  <Cards CatID="49305" Quantity="3" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53390" Quantity="5" Sideboard="false" Name="Plains" />
+  <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
+  <Cards CatID="65538" Quantity="1" Sideboard="false" Name="Field of Ruin" />
+  <Cards CatID="61855" Quantity="1" Sideboard="false" Name="Inspiring Vantage" />
+  <Cards CatID="54198" Quantity="2" Sideboard="false" Name="Bloodstained Mire" />
+  <Cards CatID="54202" Quantity="1" Sideboard="false" Name="Windswept Heath" />
+  <Cards CatID="59756" Quantity="2" Sideboard="false" Name="Angelic Purge" />
+  <Cards CatID="63628" Quantity="2" Sideboard="false" Name="Forsake the Worldly" />
+  <Cards CatID="65522" Quantity="1" Sideboard="true" Name="Sorcerous Spyglass" />
+  <Cards CatID="48870" Quantity="1" Sideboard="true" Name="Sword of Light and Shadow" />
+  <Cards CatID="63628" Quantity="2" Sideboard="false" Name="Forsake the Worldly" />
+  <Cards CatID="35695" Quantity="1" Sideboard="true" Name="Basilisk Collar" />
+  <Cards CatID="31839" Quantity="2" Sideboard="true" Name="Celestial Purge" />
+  <Cards CatID="31839" Quantity="2" Sideboard="true" Name="Celestial Purge" />
 </Deck>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -71,7 +71,6 @@
   <Cards CatID="63628" Quantity="2" Sideboard="false" Name="Forsake the Worldly" />
   <Cards CatID="37240" Quantity="1" Sideboard="false" Name="Lightning Bolt" />
   <Cards CatID="37240" Quantity="2" Sideboard="true" Name="Lightning Bolt" />
-  <Cards CatID="56324" Quantity="2" Sideboard="true" Name="Pacifism" />
   <Cards CatID="51128" Quantity="1" Sideboard="true" Name="Swiftfoot Boots" />
   <Cards CatID="50324" Quantity="2" Sideboard="true" Name="Last Breath" />
   <Cards CatID="34552" Quantity="1" Sideboard="true" Name="Day of Judgment" />
@@ -80,4 +79,6 @@
   <Cards CatID="48870" Quantity="1" Sideboard="true" Name="Sword of Light and Shadow" />
   <Cards CatID="63628" Quantity="2" Sideboard="true" Name="Forsake the Worldly" />
   <Cards CatID="35695" Quantity="1" Sideboard="true" Name="Basilisk Collar" />
+  <Cards CatID="31839" Quantity="2" Sideboard="true" Name="Celestial Purge" />
+  <Cards CatID="31839" Quantity="1" Sideboard="false" Name="Celestial Purge" />
 </Deck>
