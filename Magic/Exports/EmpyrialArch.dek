@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -10,7 +10,6 @@
   <Cards CatID="53294" Quantity="1" Sideboard="false" Name="Divination" />
   <Cards CatID="14915" Quantity="2" Sideboard="false" Name="Island" />
   <Cards CatID="49303" Quantity="4" Sideboard="false" Name="Forest" />
-  <Cards CatID="24065" Quantity="1" Sideboard="false" Name="Sky Hussar" />
   <Cards CatID="67945" Quantity="1" Sideboard="false" Name="Hinterland Harbor" />
   <Cards CatID="30260" Quantity="2" Sideboard="false" Name="Bloom Tender" />
   <Cards CatID="32817" Quantity="2" Sideboard="false" Name="Glacial Fortress" />
@@ -26,7 +25,6 @@
   <Cards CatID="31173" Quantity="3" Sideboard="false" Name="Empyrial Archangel" />
   <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
   <Cards CatID="36592" Quantity="2" Sideboard="false" Name="Guard Gomazoa" />
-  <Cards CatID="36450" Quantity="3" Sideboard="false" Name="Training Grounds" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
   <Cards CatID="23054" Quantity="1" Sideboard="false" Name="Birds of Paradise" />
   <Cards CatID="46483" Quantity="2" Sideboard="false" Name="Supreme Verdict" />
@@ -50,48 +48,37 @@
   <Cards CatID="32328" Quantity="3" Sideboard="false" Name="Wall of Denial" />
   <Cards CatID="32374" Quantity="1" Sideboard="false" Name="Jenara, Asura of War" />
   <Cards CatID="46347" Quantity="1" Sideboard="false" Name="Gatecreeper Vine" />
-  <Cards CatID="40757" Quantity="2" Sideboard="false" Name="Azorius Guildmage" />
   <Cards CatID="24119" Quantity="1" Sideboard="false" Name="Plaxmanta" />
-  <Cards CatID="67493" Quantity="1" Sideboard="false" Name="Dauntless Bodyguard" />
   <Cards CatID="29665" Quantity="1" Sideboard="false" Name="Plumeveil" />
   <Cards CatID="61308" Quantity="1" Sideboard="false" Name="Thalia, Heretic Cathar" />
   <Cards CatID="63157" Quantity="3" Sideboard="false" Name="Stoic Angel" />
   <Cards CatID="48894" Quantity="1" Sideboard="false" Name="Manamorphose" />
-  <Cards CatID="63147" Quantity="1" Sideboard="false" Name="Rhox War Monk" />
+  <Cards CatID="63147" Quantity="2" Sideboard="false" Name="Rhox War Monk" />
   <Cards CatID="61262" Quantity="1" Sideboard="false" Name="Tamiyo, Field Researcher" />
   <Cards CatID="30136" Quantity="1" Sideboard="false" Name="Flooded Grove" />
-  <Cards CatID="59587" Quantity="1" Sideboard="false" Name="Reflector Mage" />
+  <Cards CatID="59587" Quantity="2" Sideboard="false" Name="Reflector Mage" />
   <Cards CatID="63507" Quantity="1" Sideboard="false" Name="Ranger of Eos" />
   <Cards CatID="48362" Quantity="1" Sideboard="false" Name="Plasm Capture" />
   <Cards CatID="50262" Quantity="1" Sideboard="false" Name="Fleecemane Lion" />
   <Cards CatID="63994" Quantity="1" Sideboard="false" Name="Bounty of the Luxa" />
   <Cards CatID="50261" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
   <Cards CatID="63145" Quantity="2" Sideboard="false" Name="Seaside Citadel" />
-  <Cards CatID="63720" Quantity="1" Sideboard="false" Name="Kefnet the Mindful" />
   <Cards CatID="63644" Quantity="1" Sideboard="false" Name="Oketra the True" />
   <Cards CatID="32285" Quantity="2" Sideboard="false" Name="Qasali Pridemage" />
+  <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
+  <Cards CatID="69913" Quantity="2" Sideboard="false" Name="Guildmages' Forum" />
+  <Cards CatID="25493" Quantity="1" Sideboard="false" Name="Spirit Loop" />
+  <Cards CatID="64152" Quantity="1" Sideboard="false" Name="Irrigated Farmland" />
+  <Cards CatID="59756" Quantity="2" Sideboard="false" Name="Angelic Purge" />
+  <Cards CatID="34816" Quantity="1" Sideboard="false" Name="Luminarch Ascension" />
   <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
   <Cards CatID="46733" Quantity="1" Sideboard="true" Name="Cyclonic Rift" />
-  <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
   <Cards CatID="50614" Quantity="2" Sideboard="true" Name="Gainsay" />
   <Cards CatID="51663" Quantity="2" Sideboard="true" Name="Revoke Existence" />
   <Cards CatID="44786" Quantity="1" Sideboard="true" Name="Ghostly Prison" />
   <Cards CatID="60811" Quantity="2" Sideboard="true" Name="Trygon Predator" />
   <Cards CatID="49217" Quantity="1" Sideboard="true" Name="Elixir of Immortality" />
-  <Cards CatID="24177" Quantity="1" Sideboard="false" Name="Transguild Courier" />
   <Cards CatID="19737" Quantity="1" Sideboard="true" Name="Lightning Greaves" />
-  <Cards CatID="69913" Quantity="2" Sideboard="false" Name="Guildmages' Forum" />
-  <Cards CatID="37368" Quantity="1" Sideboard="false" Name="Leyline of Anticipation" />
-  <Cards CatID="54048" Quantity="1" Sideboard="false" Name="Brave the Sands" />
-  <Cards CatID="25493" Quantity="1" Sideboard="false" Name="Spirit Loop" />
   <Cards CatID="63628" Quantity="2" Sideboard="true" Name="Forsake the Worldly" />
-  <Cards CatID="64152" Quantity="1" Sideboard="false" Name="Irrigated Farmland" />
-  <Cards CatID="59756" Quantity="2" Sideboard="false" Name="Angelic Purge" />
-  <Cards CatID="46763" Quantity="1" Sideboard="false" Name="Azor's Elocutors" />
-  <Cards CatID="34816" Quantity="1" Sideboard="false" Name="Luminarch Ascension" />
-  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
-  <Cards CatID="48870" Quantity="1" Sideboard="false" Name="Sword of Light and Shadow" />
-  <Cards CatID="39730" Quantity="1" Sideboard="false" Name="Sword of War and Peace" />
   <Cards CatID="29847" Quantity="2" Sideboard="true" Name="Guttural Response" />
-  <Cards CatID="49541" Quantity="1" Sideboard="false" Name="Seraph of the Sword" />
 </Deck>
