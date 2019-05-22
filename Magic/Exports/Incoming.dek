@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -76,4 +76,7 @@
   <Cards CatID="46411" Quantity="1" Sideboard="true" Name="Dryad Militant" />
   <Cards CatID="20806" Quantity="1" Sideboard="true" Name="Tornado Elemental" />
   <Cards CatID="39730" Quantity="1" Sideboard="true" Name="Sword of War and Peace" />
+  <Cards CatID="56222" Quantity="1" Sideboard="false" Name="Ambuscade Shaman" />
+  <Cards CatID="59585" Quantity="1" Sideboard="false" Name="Baloth Null" />
+  <Cards CatID="52278" Quantity="1" Sideboard="false" Name="Brain Maggot" />
 </Deck>

@@ -252,4 +252,6 @@
   <Cards CatID="66791" Quantity="1" Sideboard="false" Name="Profane Procession" />
   <Cards CatID="25493" Quantity="1" Sideboard="false" Name="Spirit Loop" />
   <Cards CatID="32891" Quantity="1" Sideboard="false" Name="Magma Phoenix" />
+  <Cards CatID="61667" Quantity="1" Sideboard="false" Name="Demon of Dark Schemes" />
+  <Cards CatID="50168" Quantity="1" Sideboard="false" Name="Loathsome Catoblepas" />
 </Deck>

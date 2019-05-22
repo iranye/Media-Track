@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -165,7 +166,7 @@
   <Cards CatID="46801" Quantity="1" Sideboard="false" Name="Jarad, Golgari Lich Lord" />
   <Cards CatID="25387" Quantity="1" Sideboard="false" Name="Mana Skimmer" />
   <Cards CatID="65376" Quantity="1" Sideboard="false" Name="Carnage Tyrant" />
-  <Cards CatID="45594" Quantity="1" Sideboard="false" Name="Elderscale Wurm" />
+  <Cards CatID="45594" Quantity="2" Sideboard="false" Name="Elderscale Wurm" />
   <Cards CatID="39792" Quantity="1" Sideboard="false" Name="Vorinclex, Voice of Hunger" />
   <Cards CatID="35629" Quantity="1" Sideboard="false" Name="Terastodon" />
   <Cards CatID="27332" Quantity="1" Sideboard="false" Name="Ascendant Evincar" />
@@ -199,4 +200,22 @@
   <Cards CatID="54460" Quantity="1" Sideboard="false" Name="Dragon Throne of Tarkir" />
   <Cards CatID="56146" Quantity="1" Sideboard="false" Name="Surrak, the Hunt Caller" />
   <Cards CatID="55546" Quantity="1" Sideboard="false" Name="Abzan Beastmaster" />
+  <Cards CatID="28547" Quantity="1" Sideboard="false" Name="Briarhorn" />
+  <Cards CatID="48308" Quantity="1" Sideboard="false" Name="Bronzebeak Moa" />
+  <Cards CatID="47527" Quantity="1" Sideboard="false" Name="Burning-Tree Emissary" />
+  <Cards CatID="71132" Quantity="1" Sideboard="false" Name="Carrion Imp" />
+  <Cards CatID="20387" Quantity="1" Sideboard="false" Name="Chittering Rats" />
+  <Cards CatID="61667" Quantity="1" Sideboard="false" Name="Demon of Dark Schemes" />
+  <Cards CatID="68343" Quantity="1" Sideboard="false" Name="Demon of Catastrophes" />
+  <Cards CatID="40527" Quantity="1" Sideboard="false" Name="Desecrator Hag" />
+  <Cards CatID="61685" Quantity="1" Sideboard="false" Name="Dukhara Scavenger" />
+  <Cards CatID="68353" Quantity="1" Sideboard="false" Name="Fell Specter" />
+  <Cards CatID="34520" Quantity="1" Sideboard="false" Name="Gatekeeper of Malakir" />
+  <Cards CatID="43211" Quantity="1" Sideboard="false" Name="Geralf's Messenger" />
+  <Cards CatID="52200" Quantity="1" Sideboard="false" Name="Goldenhide Ox" />
+  <Cards CatID="52212" Quantity="1" Sideboard="false" Name="Gnarled Scarhide" />
+  <Cards CatID="52036" Quantity="1" Sideboard="false" Name="Grim Guardian" />
+  <Cards CatID="52108" Quantity="1" Sideboard="false" Name="Underworld Coinsmith" />
+  <Cards CatID="52182" Quantity="1" Sideboard="false" Name="Agent of Erebos" />
+  <Cards CatID="32537" Quantity="1" Sideboard="false" Name="Shriekmaw" />
 </Deck>
