@@ -9,8 +9,8 @@
   <Cards CatID="14915" Quantity="4" Sideboard="false" Name="Island" />
   <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
   <Cards CatID="60076" Quantity="5" Sideboard="false" Name="Swamp" />
-  <Cards CatID="50264" Quantity="2" Sideboard="false" Name="Temple of Deceit" />
-  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="50264" Quantity="3" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="47471" Quantity="3" Sideboard="false" Name="Watery Grave" />
   <Cards CatID="59868" Quantity="4" Sideboard="false" Name="Thing in the Ice" />
   <Cards CatID="23384" Quantity="4" Sideboard="false" Name="Hunted Horror" />
   <Cards CatID="34792" Quantity="2" Sideboard="false" Name="Whiplash Trap" />
@@ -36,12 +36,12 @@
   <Cards CatID="50256" Quantity="1" Sideboard="false" Name="Thoughtseize" />
   <Cards CatID="39569" Quantity="1" Sideboard="false" Name="Phyrexian Revoker" />
   <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
-  <Cards CatID="64148" Quantity="2" Sideboard="false" Name="Fetid Pools" />
+  <Cards CatID="64148" Quantity="4" Sideboard="false" Name="Fetid Pools" />
   <Cards CatID="61360" Quantity="1" Sideboard="false" Name="Curious Homunculus" />
   <Cards CatID="39742" Quantity="2" Sideboard="false" Name="Hex Parasite" />
   <Cards CatID="63686" Quantity="1" Sideboard="false" Name="As Foretold" />
   <Cards CatID="49135" Quantity="1" Sideboard="false" Name="Mutavault" />
-  <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
+  <Cards CatID="41477" Quantity="2" Sideboard="false" Name="Buried Ruin" />
   <Cards CatID="20187" Quantity="2" Sideboard="false" Name="Power Conduit" />
   <Cards CatID="57320" Quantity="1" Sideboard="false" Name="Etched Monstrosity" />
   <Cards CatID="61917" Quantity="1" Sideboard="false" Name="Torrential Gearhulk" />
@@ -73,5 +73,5 @@
   <Cards CatID="26620" Quantity="1" Sideboard="false" Name="Mystic Speculation" />
   <Cards CatID="56402" Quantity="1" Sideboard="true" Name="Self-Inflicted Wound" />
   <Cards CatID="65492" Quantity="1" Sideboard="false" Name="Dowsing Dagger" />
-  <Cards CatID="72042" Quantity="3" Sideboard="false" Name="Soul Diviner" />
+  <Cards CatID="72042" Quantity="2" Sideboard="false" Name="Soul Diviner" />
 </Deck>
