@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -268,4 +269,6 @@
   <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
   <Cards CatID="61661" Quantity="1" Sideboard="true" Name="Ceremonious Rejection" />
   <Cards CatID="72042" Quantity="3" Sideboard="false" Name="Soul Diviner" />
+  <Cards CatID="20493" Quantity="1" Sideboard="false" Name="Darksteel Reactor" />
+  <Cards CatID="35529" Quantity="1" Sideboard="false" Name="Twitch" />
 </Deck>

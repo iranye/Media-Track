@@ -4,5 +4,27 @@
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="23004" Quantity="1" Sideboard="false" Name="Hunted Phantasm" />
   <Cards CatID="23384" Quantity="1" Sideboard="false" Name="Hunted Horror" />
-  <Cards CatID="39998" Quantity="1" Sideboard="false" Name="Torpor Orb" />
+  <Cards CatID="39998" Quantity="2" Sideboard="false" Name="Torpor Orb" />
+  <Cards CatID="27204" Quantity="1" Sideboard="false" Name="Citanul Flute" />
+  <Cards CatID="35503" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" />
+  <Cards CatID="60346" Quantity="4" Sideboard="false" Name="Pale Rider of Trostad" />
+  <Cards CatID="49231" Quantity="4" Sideboard="false" Name="Ratchet Bomb" />
+  <Cards CatID="20007" Quantity="1" Sideboard="false" Name="Crystal Shard" />
+  <Cards CatID="20063" Quantity="4" Sideboard="false" Name="Soul Foundry" />
+  <Cards CatID="27596" Quantity="1" Sideboard="false" Name="Loxodon Warhammer" />
+  <Cards CatID="54460" Quantity="1" Sideboard="false" Name="Dragon Throne of Tarkir" />
+  <Cards CatID="55546" Quantity="1" Sideboard="false" Name="Abzan Beastmaster" />
+  <Cards CatID="59790" Quantity="1" Sideboard="false" Name="Rattlechains" />
+  <Cards CatID="44193" Quantity="4" Sideboard="false" Name="Treacherous Pit-Dweller" />
+  <Cards CatID="23988" Quantity="4" Sideboard="false" Name="Avatar of Discord" />
+  <Cards CatID="46563" Quantity="1" Sideboard="false" Name="Rakdos, Lord of Riots" />
+  <Cards CatID="63760" Quantity="4" Sideboard="false" Name="Baleful Ammit" />
+  <Cards CatID="36570" Quantity="1" Sideboard="false" Name="Dormant Gomazoa" />
+  <Cards CatID="27226" Quantity="4" Sideboard="false" Name="Hidden Horror" />
+  <Cards CatID="53342" Quantity="2" Sideboard="false" Name="Necrogen Scudder" />
+  <Cards CatID="7657" Quantity="4" Sideboard="false" Name="Ovinomancer" />
+  <Cards CatID="67871" Quantity="1" Sideboard="false" Name="Rona, Disciple of Gix" />
+  <Cards CatID="54100" Quantity="1" Sideboard="false" Name="Bellowing Saddlebrute" />
+  <Cards CatID="24159" Quantity="1" Sideboard="false" Name="Crypt Champion" />
 </Deck>

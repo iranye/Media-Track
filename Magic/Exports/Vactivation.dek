@@ -128,4 +128,8 @@
   <Cards CatID="67933" Quantity="1" Sideboard="false" Name="Traxos, Scourge of Kroog" />
   <Cards CatID="26856" Quantity="1" Sideboard="false" Name="Akroma's Memorial" />
   <Cards CatID="66827" Quantity="1" Sideboard="false" Name="The Immortal Sun" />
+  <Cards CatID="54460" Quantity="1" Sideboard="false" Name="Dragon Throne of Tarkir" />
+  <Cards CatID="22994" Quantity="1" Sideboard="false" Name="Plague Boiler" />
+  <Cards CatID="67871" Quantity="1" Sideboard="false" Name="Rona, Disciple of Gix" />
+  <Cards CatID="59305" Quantity="1" Sideboard="false" Name="Void Grafter" />
 </Deck>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -254,4 +253,14 @@
   <Cards CatID="32891" Quantity="1" Sideboard="false" Name="Magma Phoenix" />
   <Cards CatID="61667" Quantity="1" Sideboard="false" Name="Demon of Dark Schemes" />
   <Cards CatID="50168" Quantity="1" Sideboard="false" Name="Loathsome Catoblepas" />
+  <Cards CatID="28415" Quantity="1" Sideboard="false" Name="Deathrender" />
+  <Cards CatID="58150" Quantity="1" Sideboard="false" Name="Foundry of the Consuls" />
+  <Cards CatID="67949" Quantity="2" Sideboard="false" Name="Memorial to Folly" />
+  <Cards CatID="22210" Quantity="1" Sideboard="false" Name="Miren, the Moaning Well" />
+  <Cards CatID="71986" Quantity="1" Sideboard="false" Name="Despark" />
+  <Cards CatID="43487" Quantity="1" Sideboard="false" Name="Grim Backwoods" />
+  <Cards CatID="24133" Quantity="1" Sideboard="false" Name="Infernal Tutor" />
+  <Cards CatID="22861" Quantity="1" Sideboard="false" Name="Grave Pact" />
+  <Cards CatID="66747" Quantity="1" Sideboard="false" Name="Tendershoot Dryad" />
+  <Cards CatID="60164" Quantity="1" Sideboard="false" Name="Macabre Waltz" />
 </Deck>

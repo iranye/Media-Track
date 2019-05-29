@@ -99,4 +99,5 @@
   <Cards CatID="24801" Quantity="1" Sideboard="false" Name="Vexing Sphinx" />
   <Cards CatID="45586" Quantity="1" Sideboard="false" Name="Boundless Realms" />
   <Cards CatID="20710" Quantity="1" Sideboard="false" Name="Razormane Masticore" />
+  <Cards CatID="20411" Quantity="1" Sideboard="false" Name="Panoptic Mirror" />
 </Deck>
