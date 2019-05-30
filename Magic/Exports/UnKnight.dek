@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="37336" Quantity="4" Sideboard="false" Name="Knight Exemplar" />
+  <Cards CatID="36478" Quantity="4" Sideboard="false" Name="Arrogant Bloodlord" />
+  <Cards CatID="67847" Quantity="4" Sideboard="false" Name="Arvad the Cursed" />
+  <Cards CatID="67849" Quantity="4" Sideboard="false" Name="Aryel, Knight of Windgrace" />
+  <Cards CatID="9239" Quantity="4" Sideboard="false" Name="Benalish Knight" />
+  <Cards CatID="67477" Quantity="4" Sideboard="false" Name="Benalish Marshal" />
+  <Cards CatID="67489" Quantity="4" Sideboard="false" Name="Danitha Capashen, Paragon" />
+  <Cards CatID="67493" Quantity="4" Sideboard="false" Name="Dauntless Bodyguard" />
+  <Cards CatID="19087" Quantity="1" Sideboard="false" Name="Western Paladin" />
+  <Cards CatID="49531" Quantity="2" Sideboard="false" Name="Fiendslayer Paladin" />
+  <Cards CatID="31309" Quantity="2" Sideboard="false" Name="Knight of the White Orchid" />
+  <Cards CatID="36586" Quantity="1" Sideboard="false" Name="Student of Warfare" />
+  <Cards CatID="39539" Quantity="1" Sideboard="false" Name="Hero of Bladehold" />
+</Deck>

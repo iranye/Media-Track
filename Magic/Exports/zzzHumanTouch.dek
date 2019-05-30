@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
@@ -446,4 +445,21 @@
   <Cards CatID="43869" Quantity="1" Sideboard="false" Name="Angel of Glory's Rise" />
   <Cards CatID="50212" Quantity="1" Sideboard="false" Name="Labyrinth Champion" />
   <Cards CatID="61484" Quantity="1" Sideboard="false" Name="Cryptolith Fragment" />
+  <Cards CatID="50268" Quantity="2" Sideboard="false" Name="Temple of Silence" />
+  <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" />
+  <Cards CatID="31939" Quantity="1" Sideboard="false" Name="Exotic Orchard" />
+  <Cards CatID="47453" Quantity="2" Sideboard="false" Name="Godless Shrine" />
+  <Cards CatID="63628" Quantity="1" Sideboard="false" Name="Forsake the Worldly" />
+  <Cards CatID="9411" Quantity="2" Sideboard="false" Name="Gemstone Mine" />
+  <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
+  <Cards CatID="68673" Quantity="1" Sideboard="false" Name="Rupture Spire" />
+  <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
+  <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
+  <Cards CatID="63628" Quantity="1" Sideboard="false" Name="Forsake the Worldly" />
+  <Cards CatID="51128" Quantity="2" Sideboard="true" Name="Swiftfoot Boots" />
+  <Cards CatID="58531" Quantity="1" Sideboard="false" Name="Shambling Vent" />
+  <Cards CatID="49217" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
+  <Cards CatID="67489" Quantity="2" Sideboard="false" Name="Danitha Capashen, Paragon" />
+  <Cards CatID="61086" Quantity="2" Sideboard="false" Name="Lone Rider" />
+  <Cards CatID="35695" Quantity="1" Sideboard="false" Name="Basilisk Collar" />
 </Deck>
