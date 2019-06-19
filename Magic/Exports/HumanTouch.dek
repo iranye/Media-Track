@@ -29,7 +29,7 @@
   <Cards CatID="35515" Quantity="1" Sideboard="false" Name="Bojuka Bog" />
   <Cards CatID="52256" Quantity="1" Sideboard="true" Name="Aegis of the Gods" />
   <Cards CatID="44786" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
-  <Cards CatID="29613" Quantity="2" Sideboard="false" Name="Reflecting Pool" />
+  <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
   <Cards CatID="68673" Quantity="1" Sideboard="false" Name="Rupture Spire" />
   <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
   <Cards CatID="23590" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
@@ -73,7 +73,7 @@
   <Cards CatID="36462" Quantity="1" Sideboard="false" Name="Soul's Attendant" />
   <Cards CatID="64026" Quantity="1" Sideboard="false" Name="Dusk/Dawn" />
   <Cards CatID="19737" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
-  <Cards CatID="42828" Quantity="2" Sideboard="false" Name="Champion of the Parish" />
+  <Cards CatID="42828" Quantity="1" Sideboard="false" Name="Champion of the Parish" />
   <Cards CatID="37338" Quantity="1" Sideboard="false" Name="Serra Ascendant" />
   <Cards CatID="55456" Quantity="1" Sideboard="false" Name="Alesha, Who Smiles at Death" />
   <Cards CatID="25617" Quantity="1" Sideboard="false" Name="Norin the Wary" />
