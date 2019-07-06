@@ -59,7 +59,6 @@
   <Cards CatID="50265" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
   <Cards CatID="58623" Quantity="1" Sideboard="false" Name="Prairie Stream" />
   <Cards CatID="47805" Quantity="1" Sideboard="false" Name="Thespian's Stage" />
-  <Cards CatID="35709" Quantity="2" Sideboard="false" Name="Lodestone Golem" />
   <Cards CatID="57894" Quantity="1" Sideboard="false" Name="Artificer's Epiphany" />
   <Cards CatID="29493" Quantity="1" Sideboard="false" Name="Mystic Gate" />
   <Cards CatID="48808" Quantity="1" Sideboard="false" Name="Tidehollow Sculler" />
@@ -99,10 +98,8 @@
   <Cards CatID="31287" Quantity="2" Sideboard="true" Name="Hindering Light" />
   <Cards CatID="47685" Quantity="1" Sideboard="false" Name="Aetherize" />
   <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
-  <Cards CatID="67447" Quantity="1" Sideboard="false" Name="Teferi, Timebender" />
   <Cards CatID="59756" Quantity="1" Sideboard="false" Name="Angelic Purge" />
   <Cards CatID="30979" Quantity="1" Sideboard="false" Name="Tezzeret the Seeker" />
-  <Cards CatID="51549" Quantity="1" Sideboard="false" Name="Ephara, God of the Polis" />
   <Cards CatID="61801" Quantity="2" Sideboard="false" Name="Panharmonicon" />
   <Cards CatID="37899" Quantity="1" Sideboard="false" Name="Ethersworn Canonist" />
   <Cards CatID="39545" Quantity="1" Sideboard="false" Name="Mirrorworks" />
