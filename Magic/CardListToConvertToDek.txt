@@ -2,6 +2,7 @@ Twitch
 Necrogen Scudder
 Rona, Disciple of Gix
 Bellowing Saddlebrute
+Boar Umbra
 
 
 Angrath, Minotaur Pirate
