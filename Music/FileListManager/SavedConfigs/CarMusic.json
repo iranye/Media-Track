@@ -1,0 +1,66 @@
+{
+  "Name": "CarMusic",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\B-52s\\_B52s.m3u",
+      "TotalMegaBytes": 69
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Beastie Boys\\_BeastieBoys-ShortList.m3u",
+      "TotalMegaBytes": 130
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Beck\\_Beck-ShortShortList.m3u",
+      "TotalMegaBytes": 60
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Black Crowes\\_BlackCrowesShakeMM.m3u",
+      "TotalMegaBytes": 18
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Black Keys\\$Black Keys-Brothers.m3u",
+      "TotalMegaBytes": 77
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Blues\\_BuddyGuy.m3u",
+      "TotalMegaBytes": 87
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Collective Soul\\_CollectiveSoul.m3u",
+      "TotalMegaBytes": 66
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Cure\\_Cure-ShortList.m3u",
+      "TotalMegaBytes": 104
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Dee Dee Bridgewater\\_DeeDeeBridgewater-ShortList.m3u",
+      "TotalMegaBytes": 78
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Foster the People\\_FosterThePeople.m3u",
+      "TotalMegaBytes": 53
+    },
+    {
+      "PartialPath": "Music\\MP3s\\GretaVanFleet\\_GretaVanFleet-ShortList.m3u",
+      "TotalMegaBytes": 108
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Lady Gaga\\_LadyGaga.m3u",
+      "TotalMegaBytes": 118
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Norah Jones\\$Norah Jones.m3u",
+      "TotalMegaBytes": 62
+    },
+    {
+      "PartialPath": "Music\\MP3s\\REM\\_REM-ShortList.m3u",
+      "TotalMegaBytes": 349
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Rush\\_Rush-ShortList.m3u",
+      "TotalMegaBytes": 271
+    }
+  ]
+}
