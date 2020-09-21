@@ -1,0 +1,14 @@
+{
+  "Name": "ClassicRockVol9",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\JethroTull\\_JethroTull-ShortList.m3u",
+      "TotalMegaBytes": 310
+    },
+    {
+      "PartialPath": "Music\\MP3s\\VanHalen\\_VanHalen-ShortList.m3u",
+      "TotalMegaBytes": 210
+    }
+  ]
+}

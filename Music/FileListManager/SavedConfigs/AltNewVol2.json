@@ -1,0 +1,34 @@
+{
+  "Name": "AltNewVol2",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\AimeeMann\\AimeeMann_ShortList.m3u",
+      "TotalMegaBytes": 131
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Black Keys\\$Black Keys-Brothers.m3u",
+      "TotalMegaBytes": 77
+    },
+    {
+      "PartialPath": "Music\\MP3s\\David Gray\\_DavidGray-ShortList.m3u",
+      "TotalMegaBytes": 75
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Dee Dee Bridgewater\\_DeeDeeBridgewater-ShortList.m3u",
+      "TotalMegaBytes": 78
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Elvis Costello & the Attractions\\_ElvisCostello-ShortList.m3u",
+      "TotalMegaBytes": 60
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Foster the People\\_FosterThePeople.m3u",
+      "TotalMegaBytes": 111
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Kings of Leon\\_KingsOfLeon-ShortList.m3u",
+      "TotalMegaBytes": 160
+    }
+  ]
+}

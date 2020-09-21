@@ -4,7 +4,7 @@
   "M3uFiles": [
     {
       "PartialPath": "Music\\MP3s\\Allman Brothers Band\\_AllmanBros.m3u",
-      "TotalMegaBytes": 99
+      "TotalMegaBytes": 109
     },
     {
       "PartialPath": "Music\\MP3s\\Billy Idol\\_BillyIdol-ShortList.m3u",
@@ -25,10 +25,6 @@
     {
       "PartialPath": "Music\\MP3s\\Creedence Clearwater Revival\\_CCR-ShortList.m3u",
       "TotalMegaBytes": 94
-    },
-    {
-      "PartialPath": "Music\\MP3s\\Jethro Tull\\_JethroTull.m3u",
-      "TotalMegaBytes": 33
     },
     {
       "PartialPath": "Music\\MP3s\\John Cougar Mellencamp\\_JohnCougarMellencamp-ShortList.m3u",

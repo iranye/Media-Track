@@ -1,0 +1,14 @@
+{
+  "Name": "AltHeavyVol2_EXP",
+  "CopyDirectories": true,
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\MP3s\\Beastie Boys\\_BeastieBoys-ShortList.m3u",
+      "TotalMegaBytes": 0
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Gorillaz\\_Gorillaz-ShortList.m3u",
+      "TotalMegaBytes": 0
+    }
+  ]
+}

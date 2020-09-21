@@ -3,6 +3,10 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
+      "PartialPath": "Music\\MP3s\\_IcloudFree\\_IcloudFree.m3u",
+      "TotalMegaBytes": 189
+    },
+    {
       "PartialPath": "Music\\MP3s\\Floater\\$Floater.m3u",
       "TotalMegaBytes": 35
     },
@@ -20,7 +24,7 @@
     },
     {
       "PartialPath": "Music\\MP3s\\Stone Temple Pilots\\_StoneTemplePilots-ShortList.m3u",
-      "TotalMegaBytes": 72
+      "TotalMegaBytes": 68
     },
     {
       "PartialPath": "Music\\MP3s\\TempleOfTheDog\\_TempleOfTheDog-ShortList.m3u",
