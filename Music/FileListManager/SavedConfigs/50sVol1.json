@@ -1,5 +1,18 @@
 {
   "Name": "50sVol1",
   "CopyDirectories": true,
-  "M3uFiles": []
+  "M3uFiles": [
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1950\\_1950.m3u",
+      "TotalMegaBytes": 77
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1957\\_1957-ShortList.m3u",
+      "TotalMegaBytes": 97
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1958\\_1958-ShortList.m3u",
+      "TotalMegaBytes": 126
+    }
+  ]
 }
