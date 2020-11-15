@@ -3,8 +3,32 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1950\\_1950.m3u",
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1950\\_1950-ShortList.m3u",
       "TotalMegaBytes": 77
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1951\\_1951-ShortList.m3u",
+      "TotalMegaBytes": 76
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1952\\_1952-ShortList.m3u",
+      "TotalMegaBytes": 79
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1953\\_1953-ShortList.m3u",
+      "TotalMegaBytes": 80
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1954\\_1954-ShortList.m3u",
+      "TotalMegaBytes": 87
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1955\\_1955-ShortList.m3u",
+      "TotalMegaBytes": 90
+    },
+    {
+      "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1956\\_1956-ShortList.m3u",
+      "TotalMegaBytes": 0
     },
     {
       "PartialPath": "Music\\SimpleDriveMusic\\0_Compilations\\Billboard Hits 1946-2004\\1957\\_1957-ShortList.m3u",
