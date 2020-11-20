@@ -3,12 +3,12 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
-      "PartialPath": "Music\\MP3s\\Black Sabbath\\_BlackSabbath-ShortList.m3u",
-      "TotalMegaBytes": 45
+      "PartialPath": "Music\\MP3s\\Aerosmith\\_Aerosmith-ShortList.m3u",
+      "TotalMegaBytes": 35
     },
     {
-      "PartialPath": "Music\\MP3s\\Blues\\_Blues.m3u",
-      "TotalMegaBytes": 230
+      "PartialPath": "Music\\MP3s\\Black Sabbath\\_BlackSabbath-ShortList.m3u",
+      "TotalMegaBytes": 45
     },
     {
       "PartialPath": "Music\\MP3s\\Bob Marley & The Wailers\\_BobMarley-ShortList.m3u",
@@ -27,8 +27,16 @@
       "TotalMegaBytes": 217
     },
     {
+      "PartialPath": "Music\\MP3s\\Eurythmics\\Eurythmics-ShortList.m3u",
+      "TotalMegaBytes": 0
+    },
+    {
       "PartialPath": "Music\\MP3s\\Foghat\\_Foghat-ShortList.m3u",
       "TotalMegaBytes": 23
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Steve Miller Band\\_SteveMillerBand_ShortList.m3u",
+      "TotalMegaBytes": 50
     }
   ]
 }
