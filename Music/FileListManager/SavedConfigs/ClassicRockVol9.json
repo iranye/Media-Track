@@ -3,6 +3,18 @@
   "CopyDirectories": true,
   "M3uFiles": [
     {
+      "PartialPath": "Music\\MP3s\\AprilWine\\_AprilWine-ShortList.m3u",
+      "TotalMegaBytes": 8
+    },
+    {
+      "PartialPath": "Music\\MP3s\\David Bowie\\_DavidBowie-ShortList.m3u",
+      "TotalMegaBytes": 104
+    },
+    {
+      "PartialPath": "Music\\MP3s\\Green Jelly\\_GreenJelly-ShortList.m3u",
+      "TotalMegaBytes": 58
+    },
+    {
       "PartialPath": "Music\\MP3s\\JethroTull\\_JethroTull-ShortList.m3u",
       "TotalMegaBytes": 310
     },
